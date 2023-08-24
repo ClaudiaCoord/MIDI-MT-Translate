@@ -47,10 +47,6 @@ msgstr ""
 msgid "Вы&ход"
 msgstr ""
 
-#: MENU.IDR_MIXER_CTRL_MENU.POPUP.CAPTION
-msgid "MIXPANELMENU"
-msgstr ""
-
 #: MENU.IDR_MIXER_CTRL_MENU.MIXPANELMENU.POPUP.CAPTION
 msgid "Расположение.."
 msgstr ""
@@ -137,10 +133,6 @@ msgstr ""
 msgid "&Закрыть"
 msgstr ""
 
-#: MENU.IDR_LV_MENU.POPUP.CAPTION
-msgid "LV MENU"
-msgstr ""
-
 #: MENU.IDR_LV_MENU.MENUITEM.IDM_LV_NEW
 msgid "Новая запись"
 msgstr ""
@@ -198,10 +190,6 @@ msgstr ""
 msgid "Читать MIDI код.."
 msgstr ""
 
-#: MENU.IDR_COL3_TYPE_MENU.POPUP.CAPTION
-msgid "COL3 TYPE MENU"
-msgstr ""
-
 #: MENU.IDR_COL3_TYPE_MENU.COL3_TYPE_MENU.POPUP.CAPTION
 msgid "Регуляторы .."
 msgstr ""
@@ -243,16 +231,8 @@ msgstr ""
 msgid "Кнопка переключать, с индикацией"
 msgstr ""
 
-#: MENU.IDR_COL4_ALL_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 ALL APPENDED TARGET MENU"
-msgstr ""
-
 #: MENU.IDR_COL4_ALL_TARGET_MENU.MENUITEM.IDR_COL5_MENU_REPLACE_FIELD1
 msgid "Регулятороы .."
-msgstr ""
-
-#: MENU.IDR_COL4_BTN_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 BTN TARGET MENU"
 msgstr ""
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
@@ -628,10 +608,6 @@ msgstr ""
 msgid "вкл/выкл 27"
 msgstr ""
 
-#: MENU.IDR_COL4_SLIDER_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 SLIDER TARGET MENU"
-msgstr ""
-
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.MENUITEM.IDM_COL4_JOG
 msgid "Энкодер (покадровый просмотр)"
 msgstr ""
@@ -766,10 +742,6 @@ msgstr ""
 msgid "уровень 18"
 msgstr ""
 
-#: MENU.IDR_COL5_SLIDER_MIX_MENU.POPUP.CAPTION
-msgid "COL4 SLIDER MIXER MENU"
-msgstr ""
-
 #: MENU.IDR_COL5_SLIDER_MIX_MENU.MENUITEM.IDM_COL4_JOG
 msgid "Энкодер (JOG)"
 msgstr ""
@@ -844,22 +816,6 @@ msgstr ""
 
 #: MENU.IDR_COL5_SLIDER_MIX_MENU.COL4_SLIDER_MIXER_MENU.MENUITEM.IDM_COL4_XP9
 msgid "канал 18"
-msgstr ""
-
-#: MENU.IDR_COL5_BTN_MIX_MENU.POPUP.CAPTION
-msgid "COL5 BTN MIXER MENU"
-msgstr ""
-
-#: MENU.IDR_COL5_BTN_MMKEY_MENU.POPUP.CAPTION
-msgid "COL5 BTN MMKEY MENU"
-msgstr ""
-
-#: MENU.IDR_COL5_SLIDER_SM_MENU.POPUP.CAPTION
-msgid "COL5 SLIDER SMART HOUSE MENU"
-msgstr ""
-
-#: MENU.IDR_COL5_BTN_SM_MENU.POPUP.CAPTION
-msgid "COL5 BTN SMART HOUSE MENU"
 msgstr ""
 
 #: DIALOGEX.IDD_FORMABOUT.PUSHBUTTON.IDC_OK2
@@ -963,11 +919,6 @@ msgstr ""
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_INFO_VMDRV_CHECK
 msgid "Драйвер:"
-msgstr ""
-
-#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_INFO_VMDRV_VER
-#: STRINGTABLE.IDS_ERRORID_NONE
-msgid "-"
 msgstr ""
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_JOGFILTER_CONFIG

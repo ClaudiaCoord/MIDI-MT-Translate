@@ -1707,15 +1707,15 @@ msgstr "Dieser Fehler ist nicht definiert"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_WRITE_ACCESS
 msgid "Доступ на запись к файлу конфигурации запрещен, \"{0}\""
-msgstr "Schreibzugriff auf Konfigurationsdatei verweigert, \{0}\"
+msgstr "Schreibzugriff auf Konfigurationsdatei verweigert, „{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_READ_ACCESS
 msgid "Файл конфигурации отсутствует или доступ запрещен, \"{0}\""
-msgstr "Konfigurationsdatei fehlt oder Zugriff verweigert, \{0}\"
+msgstr "Konfigurationsdatei fehlt oder Zugriff verweigert, „{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_EMPTY
 msgid "Файл конфигурации пуст, \"{0}\""
-msgstr "Die Konfigurationsdatei ist leer, \{0}\"
+msgstr "Die Konfigurationsdatei ist leer, „{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_NO_DEVICE
 msgid "Имя MIDI-устройства не задано в конфигурации."
@@ -1779,11 +1779,11 @@ msgstr "Die Liste der Audiositzungen ist leer!"
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONDISCONNECTED
 msgid "Отключение аудиосессии, причина=\"{0}\""
-msgstr "Audiositzung deaktivieren, Grund=\{0}\"
+msgstr "Audiositzung deaktivieren, Grund=„{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONCREATED
 msgid "Создана аудиосессия, имя=\"{0}\""
-msgstr "Audiositzung erstellt, Name=\{0}\"
+msgstr "Audiositzung erstellt, Name=„{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_ITEM_SC_AE
 msgid "Аудиосеанс \"{0}\" – неправильное состояние регистрации \"{1}\": {2}/{3}"
@@ -1915,7 +1915,7 @@ msgstr "Vom MQTT-Server getrennt:"
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_NOT_CA_CERT
 msgid "Файл сертификата CA не существует, путь = \"{0}\""
-msgstr "CA-Zertifikatdatei existiert nicht, Pfad = \{0}\"
+msgstr "CA-Zertifikatdatei existiert nicht, Pfad = „{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_START
 msgid "Служба управления Умным домом запущена."

@@ -1707,15 +1707,15 @@ msgstr "Cette erreur n'est pas définie"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_WRITE_ACCESS
 msgid "Доступ на запись к файлу конфигурации запрещен, \"{0}\""
-msgstr "Accès en écriture au fichier de configuration refusé, \{0}\"
+msgstr "Accès en écriture au fichier de configuration refusé, \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_READ_ACCESS
 msgid "Файл конфигурации отсутствует или доступ запрещен, \"{0}\""
-msgstr "Fichier de configuration manquant ou accès refusé, \{0}\"
+msgstr "Fichier de configuration manquant ou accès refusé, \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_EMPTY
 msgid "Файл конфигурации пуст, \"{0}\""
-msgstr "Le fichier de configuration est vide, \{0}\"
+msgstr "Le fichier de configuration est vide, \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_NO_DEVICE
 msgid "Имя MIDI-устройства не задано в конфигурации."
@@ -1779,15 +1779,15 @@ msgstr "La liste des sessions audio est vide !"
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONDISCONNECTED
 msgid "Отключение аудиосессии, причина=\"{0}\""
-msgstr "Désactiver la session audio, motif =\{0}\"
+msgstr "Désactiver la session audio, motif =\"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONCREATED
 msgid "Создана аудиосессия, имя=\"{0}\""
-msgstr "Session audio créée, nom=\{0}\"
+msgstr "Session audio créée, nom=\"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_ITEM_SC_AE
 msgid "Аудиосеанс \"{0}\" – неправильное состояние регистрации \"{1}\": {2}/{3}"
-msgstr "Session audio \{0}\ – État d'enregistrement incorrect \{1}\ : {2}/{3}"
+msgstr "Session audio \"{0}\" – État d'enregistrement incorrect \"{1}\" : {2}/{3}"
 
 #: STRINGTABLE.IDS_ERRORID_CBVALUE_BAD_SELECT
 msgid "Устанавливаемое значение из обратного вызова - неверный селектор."
@@ -1915,7 +1915,7 @@ msgstr "Déconnecté du serveur MQTT :"
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_NOT_CA_CERT
 msgid "Файл сертификата CA не существует, путь = \"{0}\""
-msgstr "Le fichier de certificat CA n'existe pas, chemin = \{0}\"
+msgstr "Le fichier de certificat CA n'existe pas, chemin = \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_START
 msgid "Служба управления Умным домом запущена."

@@ -1,4 +1,4 @@
-[![gitlocalized ](https://gitlocalize.com/repo/8873/whole_project/badge.svg)](https://gitlocalize.com/repo/8873/whole_project?utm_source=badge)
+[![gitlocalized ](https://gitlocalize.com/repo/8873/whole_project/badge.svg)](https://gitlocalize.com/repo/8873)
 
 # MIDI-MT-Translate
 
