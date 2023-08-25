@@ -47,10 +47,6 @@ msgstr "停止"
 msgid "Вы&ход"
 msgstr "出口"
 
-#: MENU.IDR_MIXER_CTRL_MENU.POPUP.CAPTION
-msgid "MIXPANELMENU"
-msgstr "ミックスパネルメニュー"
-
 #: MENU.IDR_MIXER_CTRL_MENU.MIXPANELMENU.POPUP.CAPTION
 msgid "Расположение.."
 msgstr "位置.."
@@ -137,10 +133,6 @@ msgstr "位置を記憶"
 msgid "&Закрыть"
 msgstr "＆近い"
 
-#: MENU.IDR_LV_MENU.POPUP.CAPTION
-msgid "LV MENU"
-msgstr "LVメニュー"
-
 #: MENU.IDR_LV_MENU.MENUITEM.IDM_LV_NEW
 msgid "Новая запись"
 msgstr "新規エントリー"
@@ -198,10 +190,6 @@ msgstr "未割り当て"
 msgid "Читать MIDI код.."
 msgstr "MIDIコードを読み取ってください。"
 
-#: MENU.IDR_COL3_TYPE_MENU.POPUP.CAPTION
-msgid "COL3 TYPE MENU"
-msgstr "COL3タイプメニュー"
-
 #: MENU.IDR_COL3_TYPE_MENU.COL3_TYPE_MENU.POPUP.CAPTION
 msgid "Регуляторы .."
 msgstr "レギュレーター.."
@@ -243,17 +231,9 @@ msgstr "ボタン"
 msgid "Кнопка переключать, с индикацией"
 msgstr "切替ボタン、表示付"
 
-#: MENU.IDR_COL4_ALL_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 ALL APPENDED TARGET MENU"
-msgstr "COL4 すべての追加ターゲット メニュー"
-
 #: MENU.IDR_COL4_ALL_TARGET_MENU.MENUITEM.IDR_COL5_MENU_REPLACE_FIELD1
 msgid "Регулятороы .."
 msgstr "レギュレーター.."
-
-#: MENU.IDR_COL4_BTN_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 BTN TARGET MENU"
-msgstr "COL4 BTN ターゲットメニュー"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.COL4_SLIDER_TARGET_MENU.POPUP.CAPTION
@@ -628,10 +608,6 @@ msgstr "オン/オフ 26"
 msgid "вкл/выкл 27"
 msgstr "オン/オフ 27"
 
-#: MENU.IDR_COL4_SLIDER_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 SLIDER TARGET MENU"
-msgstr "COL4 スライダー ターゲット メニュー"
-
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.MENUITEM.IDM_COL4_JOG
 msgid "Энкодер (покадровый просмотр)"
 msgstr "エンコーダ (フレームごと)"
@@ -766,10 +742,6 @@ msgstr "レベル17"
 msgid "уровень 18"
 msgstr "レベル18"
 
-#: MENU.IDR_COL5_SLIDER_MIX_MENU.POPUP.CAPTION
-msgid "COL4 SLIDER MIXER MENU"
-msgstr "COL4 スライダーミキサーメニュー"
-
 #: MENU.IDR_COL5_SLIDER_MIX_MENU.MENUITEM.IDM_COL4_JOG
 msgid "Энкодер (JOG)"
 msgstr "エンコーダ(JOG)"
@@ -845,22 +817,6 @@ msgstr "チャンネル17"
 #: MENU.IDR_COL5_SLIDER_MIX_MENU.COL4_SLIDER_MIXER_MENU.MENUITEM.IDM_COL4_XP9
 msgid "канал 18"
 msgstr "チャンネル18"
-
-#: MENU.IDR_COL5_BTN_MIX_MENU.POPUP.CAPTION
-msgid "COL5 BTN MIXER MENU"
-msgstr "COL5 BTN ミキサーメニュー"
-
-#: MENU.IDR_COL5_BTN_MMKEY_MENU.POPUP.CAPTION
-msgid "COL5 BTN MMKEY MENU"
-msgstr "COL5 BTN MMKEY メニュー"
-
-#: MENU.IDR_COL5_SLIDER_SM_MENU.POPUP.CAPTION
-msgid "COL5 SLIDER SMART HOUSE MENU"
-msgstr "COL5スライダー スマートハウスメニュー"
-
-#: MENU.IDR_COL5_BTN_SM_MENU.POPUP.CAPTION
-msgid "COL5 BTN SMART HOUSE MENU"
-msgstr "COL5 BTN スマートハウスメニュー"
 
 #: DIALOGEX.IDD_FORMABOUT.PUSHBUTTON.IDC_OK2
 #: DIALOGEX.IDD_FORMSTART.PUSHBUTTON.IDC_GO_URL
@@ -964,11 +920,6 @@ msgstr "MIDI設定"
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_INFO_VMDRV_CHECK
 msgid "Драйвер:"
 msgstr "運転者："
-
-#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_INFO_VMDRV_VER
-#: STRINGTABLE.IDS_ERRORID_NONE
-msgid "-"
-msgstr "-"
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_JOGFILTER_CONFIG
 msgid "JOG фильтр сцены"
