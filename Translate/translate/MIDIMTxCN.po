@@ -47,10 +47,6 @@ msgstr "停止"
 msgid "Вы&ход"
 msgstr "出口"
 
-#: MENU.IDR_MIXER_CTRL_MENU.POPUP.CAPTION
-msgid "MIXPANELMENU"
-msgstr "混合面板菜单"
-
 #: MENU.IDR_MIXER_CTRL_MENU.MIXPANELMENU.POPUP.CAPTION
 msgid "Расположение.."
 msgstr "地点.."
@@ -137,10 +133,6 @@ msgstr "记住位置"
 msgid "&Закрыть"
 msgstr "＆关闭"
 
-#: MENU.IDR_LV_MENU.POPUP.CAPTION
-msgid "LV MENU"
-msgstr "LV菜单"
-
 #: MENU.IDR_LV_MENU.MENUITEM.IDM_LV_NEW
 msgid "Новая запись"
 msgstr "新条目"
@@ -198,10 +190,6 @@ msgstr "未分配"
 msgid "Читать MIDI код.."
 msgstr "读取 MIDI 代码.."
 
-#: MENU.IDR_COL3_TYPE_MENU.POPUP.CAPTION
-msgid "COL3 TYPE MENU"
-msgstr "COL3 类型菜单"
-
 #: MENU.IDR_COL3_TYPE_MENU.COL3_TYPE_MENU.POPUP.CAPTION
 msgid "Регуляторы .."
 msgstr "监管机构.."
@@ -243,17 +231,9 @@ msgstr "按钮"
 msgid "Кнопка переключать, с индикацией"
 msgstr "开关按钮，带指示"
 
-#: MENU.IDR_COL4_ALL_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 ALL APPENDED TARGET MENU"
-msgstr "COL4 所有附加目标菜单"
-
 #: MENU.IDR_COL4_ALL_TARGET_MENU.MENUITEM.IDR_COL5_MENU_REPLACE_FIELD1
 msgid "Регулятороы .."
 msgstr "监管机构.."
-
-#: MENU.IDR_COL4_BTN_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 BTN TARGET MENU"
-msgstr "COL4 BTN 目标菜单"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.COL4_SLIDER_TARGET_MENU.POPUP.CAPTION
@@ -628,10 +608,6 @@ msgstr "开/关 26"
 msgid "вкл/выкл 27"
 msgstr "开/关 27"
 
-#: MENU.IDR_COL4_SLIDER_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 SLIDER TARGET MENU"
-msgstr "COL4 滑块目标菜单"
-
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.MENUITEM.IDM_COL4_JOG
 msgid "Энкодер (покадровый просмотр)"
 msgstr "编码器（逐帧）"
@@ -766,10 +742,6 @@ msgstr "17级"
 msgid "уровень 18"
 msgstr "18级"
 
-#: MENU.IDR_COL5_SLIDER_MIX_MENU.POPUP.CAPTION
-msgid "COL4 SLIDER MIXER MENU"
-msgstr "COL4 滑块混合器菜单"
-
 #: MENU.IDR_COL5_SLIDER_MIX_MENU.MENUITEM.IDM_COL4_JOG
 msgid "Энкодер (JOG)"
 msgstr "编码器（点动）"
@@ -845,22 +817,6 @@ msgstr "17频道"
 #: MENU.IDR_COL5_SLIDER_MIX_MENU.COL4_SLIDER_MIXER_MENU.MENUITEM.IDM_COL4_XP9
 msgid "канал 18"
 msgstr "18频道"
-
-#: MENU.IDR_COL5_BTN_MIX_MENU.POPUP.CAPTION
-msgid "COL5 BTN MIXER MENU"
-msgstr "COL5 BTN 混音器菜单"
-
-#: MENU.IDR_COL5_BTN_MMKEY_MENU.POPUP.CAPTION
-msgid "COL5 BTN MMKEY MENU"
-msgstr "COL5 BTN MMKEY 菜单"
-
-#: MENU.IDR_COL5_SLIDER_SM_MENU.POPUP.CAPTION
-msgid "COL5 SLIDER SMART HOUSE MENU"
-msgstr "COL5 滑块智能屋菜单"
-
-#: MENU.IDR_COL5_BTN_SM_MENU.POPUP.CAPTION
-msgid "COL5 BTN SMART HOUSE MENU"
-msgstr "COL5 BTN 智能屋菜单"
 
 #: DIALOGEX.IDD_FORMABOUT.PUSHBUTTON.IDC_OK2
 #: DIALOGEX.IDD_FORMSTART.PUSHBUTTON.IDC_GO_URL
@@ -964,11 +920,6 @@ msgstr "MIDI 设置"
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_INFO_VMDRV_CHECK
 msgid "Драйвер:"
 msgstr "司机："
-
-#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_INFO_VMDRV_VER
-#: STRINGTABLE.IDS_ERRORID_NONE
-msgid "-"
-msgstr "-"
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_JOGFILTER_CONFIG
 msgid "JOG фильтр сцены"
@@ -1707,15 +1658,15 @@ msgstr "这个错误没有定义"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_WRITE_ACCESS
 msgid "Доступ на запись к файлу конфигурации запрещен, \"{0}\""
-msgstr "对配置文件的写入访问被拒绝，\{0}\"
+msgstr "对配置文件的写入访问被拒绝， \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_READ_ACCESS
 msgid "Файл конфигурации отсутствует или доступ запрещен, \"{0}\""
-msgstr "配置文件丢失或访问被拒绝，\{0}\"
+msgstr "配置文件丢失或访问被拒绝， \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_EMPTY
 msgid "Файл конфигурации пуст, \"{0}\""
-msgstr "配置文件为空，\{0}\"
+msgstr "配置文件为空， \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_NO_DEVICE
 msgid "Имя MIDI-устройства не задано в конфигурации."
@@ -1779,15 +1730,15 @@ msgstr "音频会话列表为空！"
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONDISCONNECTED
 msgid "Отключение аудиосессии, причина=\"{0}\""
-msgstr "禁用音频会话，原因=\{0}\"
+msgstr "禁用音频会话，原因= \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONCREATED
 msgid "Создана аудиосессия, имя=\"{0}\""
-msgstr "已创建音频会话，名称=\{0}\"
+msgstr "已创建音频会话，名称= \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_ITEM_SC_AE
 msgid "Аудиосеанс \"{0}\" – неправильное состояние регистрации \"{1}\": {2}/{3}"
-msgstr "音频会话 \{0}\ - 错误注册状态 \{1}\：{2}/{3}"
+msgstr "音频会话  \"{0}\" - 错误注册状态  \"{1}\"：{2}/{3}"
 
 #: STRINGTABLE.IDS_ERRORID_CBVALUE_BAD_SELECT
 msgid "Устанавливаемое значение из обратного вызова - неверный селектор."
@@ -1915,7 +1866,7 @@ msgstr "与 MQTT 服务器断开连接："
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_NOT_CA_CERT
 msgid "Файл сертификата CA не существует, путь = \"{0}\""
-msgstr "CA 证书文件不存在，路径 = \{0}\"
+msgstr "CA 证书文件不存在，路径 = \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_START
 msgid "Служба управления Умным домом запущена."
