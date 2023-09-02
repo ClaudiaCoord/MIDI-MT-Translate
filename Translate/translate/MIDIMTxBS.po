@@ -1658,15 +1658,15 @@ msgstr "Ova greška nije definirana"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_WRITE_ACCESS
 msgid "Доступ на запись к файлу конфигурации запрещен, \"{0}\""
-msgstr "Pristup pisanju u konfiguracijski fajl je odbijen, \{0}\"
+msgstr "Pristup pisanju u konfiguracijski fajl je odbijen, \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_READ_ACCESS
 msgid "Файл конфигурации отсутствует или доступ запрещен, \"{0}\""
-msgstr "Nedostaje konfiguracijski fajl ili pristup odbijen, \{0}\"
+msgstr "Nedostaje konfiguracijski fajl ili pristup odbijen, \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_EMPTY
 msgid "Файл конфигурации пуст, \"{0}\""
-msgstr "Konfiguracijski fajl je prazan, \{0}\"
+msgstr "Konfiguracijski fajl je prazan, \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_NO_DEVICE
 msgid "Имя MIDI-устройства не задано в конфигурации."
@@ -1730,15 +1730,15 @@ msgstr "Lista audio sesija je prazna!"
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONDISCONNECTED
 msgid "Отключение аудиосессии, причина=\"{0}\""
-msgstr "Onemogući audio sesiju, razlog=\{0}\"
+msgstr "Onemogući audio sesiju, razlog=\"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONCREATED
 msgid "Создана аудиосессия, имя=\"{0}\""
-msgstr "Audio sesija kreirana, naziv=\{0}\"
+msgstr "Audio sesija kreirana, naziv=\"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_ITEM_SC_AE
 msgid "Аудиосеанс \"{0}\" – неправильное состояние регистрации \"{1}\": {2}/{3}"
-msgstr "Audio sesija \{0}\ - loš status registracije \{1}\: {2}/{3}"
+msgstr "Audio sesija \"{0}\" - loš status registracije \"{1}\": {2}/{3}"
 
 #: STRINGTABLE.IDS_ERRORID_CBVALUE_BAD_SELECT
 msgid "Устанавливаемое значение из обратного вызова - неверный селектор."
@@ -1866,7 +1866,7 @@ msgstr "Prekinuta sa MQTT serverom:"
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_NOT_CA_CERT
 msgid "Файл сертификата CA не существует, путь = \"{0}\""
-msgstr "Datoteka CA certifikata ne postoji, putanja = \{0}\"
+msgstr "Datoteka CA certifikata ne postoji, putanja = \"{0}\""
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_START
 msgid "Служба управления Умным домом запущена."
