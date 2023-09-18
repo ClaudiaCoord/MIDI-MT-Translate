@@ -3,7 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-08 10:29+0300\n"
+=======
+"POT-Creation-Date: 2023-09-18 14:29+0300\n"
+>>>>>>> localsrc
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -357,4 +361,3 @@ msgstr "Տեսակավորում ըստ նվազման և MIDI նպատակակ�
 #: STRINGTABLE.IDS_RB_LV_SORTDOWN_TARGETLONGT
 msgid "Сортировка по убыванию и MIDI назначению 2."
 msgstr "Տեսակավորում ըստ նվազման և MIDI նպատակակետի 2."
-
