@@ -3,7 +3,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-08 10:29+0300\n"
+=======
+"POT-Creation-Date: 2023-09-18 14:29+0300\n"
+>>>>>>> localsrc
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -168,7 +172,7 @@ msgstr "Multimédiás gombok"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Állítsa be a csoportot "Multimédia gombokként""
+msgstr "Állítsa be a csoportot Multimédia gombokként"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
@@ -180,7 +184,7 @@ msgstr "Audio keverő"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERT
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Csoport beállítása "Audio Mixer"-ként"
+msgstr "Csoport beállítása Audio Mixer-ként"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERD
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
@@ -357,4 +361,3 @@ msgstr "Rendezés csökkenő sorrend és MIDI-cél szerint 1."
 #: STRINGTABLE.IDS_RB_LV_SORTDOWN_TARGETLONGT
 msgid "Сортировка по убыванию и MIDI назначению 2."
 msgstr "Rendezés csökkenő sorrend és MIDI cél szerint 2."
-
