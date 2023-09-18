@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-24 07:42+0300\n"
+"POT-Creation-Date: 2023-09-18 21:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,10 +46,6 @@ msgstr "Stoppen"
 #: MENU.IDR_TRAY_MENU.MENUITEM.IDM_EXIT STRINGTABLE.IDS_EXIT
 msgid "Вы&ход"
 msgstr "Ausfahrt"
-
-#: MENU.IDR_MIXER_CTRL_MENU.POPUP.CAPTION
-msgid "MIXPANELMENU"
-msgstr "MIXPANELMENÜ"
 
 #: MENU.IDR_MIXER_CTRL_MENU.MIXPANELMENU.POPUP.CAPTION
 msgid "Расположение.."
@@ -137,10 +133,6 @@ msgstr "Position merken"
 msgid "&Закрыть"
 msgstr "&Schließen"
 
-#: MENU.IDR_LV_MENU.POPUP.CAPTION
-msgid "LV MENU"
-msgstr "LV-Menü"
-
 #: MENU.IDR_LV_MENU.MENUITEM.IDM_LV_NEW
 msgid "Новая запись"
 msgstr "Neuer Eintrag"
@@ -198,10 +190,6 @@ msgstr "Nicht zugewiesen"
 msgid "Читать MIDI код.."
 msgstr "MIDI-Code lesen."
 
-#: MENU.IDR_COL3_TYPE_MENU.POPUP.CAPTION
-msgid "COL3 TYPE MENU"
-msgstr "COL3-TYP-MENÜ"
-
 #: MENU.IDR_COL3_TYPE_MENU.COL3_TYPE_MENU.POPUP.CAPTION
 msgid "Регуляторы .."
 msgstr "Regulierungsbehörden .."
@@ -243,17 +231,9 @@ msgstr "Taste"
 msgid "Кнопка переключать, с индикацией"
 msgstr "Schaltknopf, mit Anzeige"
 
-#: MENU.IDR_COL4_ALL_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 ALL APPENDED TARGET MENU"
-msgstr "COL4 ALLES ANGEHÄNGTES ZIELMENÜ"
-
 #: MENU.IDR_COL4_ALL_TARGET_MENU.MENUITEM.IDR_COL5_MENU_REPLACE_FIELD1
 msgid "Регулятороы .."
 msgstr "Regulierungsbehörden .."
-
-#: MENU.IDR_COL4_BTN_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 BTN TARGET MENU"
-msgstr "COL4 BTN-ZIELMENÜ"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.COL4_SLIDER_TARGET_MENU.POPUP.CAPTION
@@ -271,8 +251,8 @@ msgstr "Solo (Meister)"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC_...POPUP.CAPTION
 #: MENU.IDR_COL5_BTN_MIX_MENU.COL5_BTN_MIXER_MENU.POPUP.CAPTION
-msgid "Mute .."
-msgstr "Stumm.."
+msgid "Без звука .."
+msgstr "Lautlos.."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC_...MENUITEM.IDM_COL4_B21
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC_...MENUITEM.IDM_COL4_B11
@@ -347,7 +327,7 @@ msgid "канал 9"
 msgstr "Kanal 9"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC_...POPUP.CAPTION
-msgid "Solo .."
+msgid "Соло .."
 msgstr "Solo.."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
@@ -628,10 +608,6 @@ msgstr "ein/aus 26"
 msgid "вкл/выкл 27"
 msgstr "ein/aus 27"
 
-#: MENU.IDR_COL4_SLIDER_TARGET_MENU.POPUP.CAPTION
-msgid "COL4 SLIDER TARGET MENU"
-msgstr "COL4 SLIDER ZIELMENÜ"
-
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.MENUITEM.IDM_COL4_JOG
 msgid "Энкодер (покадровый просмотр)"
 msgstr "Encoder (Frame für Frame)"
@@ -766,10 +742,6 @@ msgstr "Stufe 17"
 msgid "уровень 18"
 msgstr "Stufe 18"
 
-#: MENU.IDR_COL5_SLIDER_MIX_MENU.POPUP.CAPTION
-msgid "COL4 SLIDER MIXER MENU"
-msgstr "COL4 SLIDER MIXER-MENÜ"
-
 #: MENU.IDR_COL5_SLIDER_MIX_MENU.MENUITEM.IDM_COL4_JOG
 msgid "Энкодер (JOG)"
 msgstr "Encoder (JOG)"
@@ -846,22 +818,6 @@ msgstr "Kanal 17"
 msgid "канал 18"
 msgstr "Kanal 18"
 
-#: MENU.IDR_COL5_BTN_MIX_MENU.POPUP.CAPTION
-msgid "COL5 BTN MIXER MENU"
-msgstr "COL5 BTN MIXER-MENÜ"
-
-#: MENU.IDR_COL5_BTN_MMKEY_MENU.POPUP.CAPTION
-msgid "COL5 BTN MMKEY MENU"
-msgstr "COL5 BTN MMKEY MENU"
-
-#: MENU.IDR_COL5_SLIDER_SM_MENU.POPUP.CAPTION
-msgid "COL5 SLIDER SMART HOUSE MENU"
-msgstr "COL5 SLIDER SMART HOUSE-MENÜ"
-
-#: MENU.IDR_COL5_BTN_SM_MENU.POPUP.CAPTION
-msgid "COL5 BTN SMART HOUSE MENU"
-msgstr "COL5 BTN SMART HOUSE-MENÜ"
-
 #: DIALOGEX.IDD_FORMABOUT.PUSHBUTTON.IDC_OK2
 #: DIALOGEX.IDD_FORMSTART.PUSHBUTTON.IDC_GO_URL
 msgid "Обновления"
@@ -908,26 +864,13 @@ msgstr "Aufbau"
 msgid "MIDI контролы"
 msgstr "MIDI-Steuerung"
 
-#: DIALOGEX.IDD_FORMSTART.LTEXT.IDC_INFO_CTRLCOUNT
-#: DIALOGEX.IDD_FORMSETUP.CTEXT.IDC_SETUP_COUNT
-msgid "0"
-msgstr "0"
-
 #: DIALOGEX.IDD_FORMSTART.LTEXT.IDC_STATIC
 msgid "Интервал между нажатиями"
 msgstr "Intervall zwischen Klicks"
 
-#: DIALOGEX.IDD_FORMSTART.LTEXT.IDC_SLIDER_VAL1
-msgid "50"
-msgstr "50"
-
 #: DIALOGEX.IDD_FORMSTART.LTEXT.IDC_STATIC
 msgid "Интервал как долгое нажатие"
 msgstr "Intervall so lange drücken"
-
-#: DIALOGEX.IDD_FORMSTART.LTEXT.IDC_SLIDER_VAL2
-msgid "500"
-msgstr "500"
 
 #: DIALOGEX.IDD_FORMSTART.GROUPBOX.IDC_STATIC
 msgid "Запуск"
@@ -964,11 +907,6 @@ msgstr "MIDI-Einstellungen"
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_INFO_VMDRV_CHECK
 msgid "Драйвер:"
 msgstr "Treiber:"
-
-#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_INFO_VMDRV_VER
-#: STRINGTABLE.IDS_ERRORID_NONE
-msgid "-"
-msgstr "-"
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_JOGFILTER_CONFIG
 msgid "JOG фильтр сцены"
@@ -1106,14 +1044,6 @@ msgid "Настройка MIDI контролов"
 msgstr "MIDI-Steuerung einrichten"
 
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
-msgid "MIDI"
-msgstr "MIDI"
-
-#: DIALOGEX.IDD_FORMSETUP.PUSHBUTTON.IDC_SETUP_CODE
-msgid "&Читать MIDI код"
-msgstr "&MIDI-Code lesen"
-
-#: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
 msgid "Информация"
 msgstr "Information"
 
@@ -1140,14 +1070,6 @@ msgstr "Zweck (langer Klick):"
 #: DIALOGEX.IDD_FORMSETUP.LTEXT.IDC_STATIC
 msgid "Регулируемые микшером приложения:"
 msgstr "Mischerverstellbare Anwendungen:"
-
-#: DIALOGEX.IDD_FORMSETUP.PUSHBUTTON.IDC_DIALOG_SAVE
-msgid "&Сохранить"
-msgstr "&Speichern"
-
-#: DIALOGEX.IDD_FORMSETUP.PUSHBUTTON.IDC_DIALOG_EXPORT
-msgid "&Экспорт"
-msgstr "&Export"
 
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
 msgid "Подсказки"
@@ -1217,22 +1139,6 @@ msgstr "Konfiguration aus Datei geladen"
 msgid "Конфигурация создана заново и требует заполнения"
 msgstr "Die Konfiguration wird neu erstellt und muss ausgefüllt werden"
 
-#: STRINGTABLE.IDS_URL_WIKI
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/wiki/RU"
-msgstr "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/wiki/RU"
-
-#: STRINGTABLE.IDS_URL_GIT
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases"
-msgstr "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases"
-
-#: STRINGTABLE.IDS_URL_WEB
-msgid "https://claudiacoord.github.io/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/"
-msgstr "https://claudiacoord.github.io/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/"
-
-#: STRINGTABLE.IDS_URL_ESETUP
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases/download/1.0.1.1/EasyControl.zip"
-msgstr "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases/download/1.0.1.1/EasyControl.zip"
-
 #: STRINGTABLE.IDS_START_EXT_FILTER
 msgid "MIDI-MT Конфигурация"
 msgstr "MIDI-MT-Konfiguration"
@@ -1240,10 +1146,6 @@ msgstr "MIDI-MT-Konfiguration"
 #: STRINGTABLE.IDS_CONFIG_EXE_FILTER
 msgid "Исполняемые файлы"
 msgstr "Ausführbare Dateien"
-
-#: STRINGTABLE.IDC_MIDIMT
-msgid "MIDIMT"
-msgstr "MIDIMT"
 
 #: STRINGTABLE.IDS_INFO1
 msgid "MIDI транслятор не запущен."
@@ -1344,6 +1246,14 @@ msgstr "Die ausgewählte Konfiguration unterstützt keinen automatischen Start."
 #: STRINGTABLE.IDS_DLG_MSG12
 msgid "Пожалуйста, перед запуском монитора, запустите MIDI бридж из меню, вызвав 'Старт'."
 msgstr "Bitte starten Sie vor dem Starten des Monitors die MIDI-Bridge aus dem Menü, indem Sie „Start“ aufrufen."
+
+#: STRINGTABLE.IDS_DLG_MSG13
+msgid "При запуске был указан файл конфигурации: '{0}'. Установить его как конфигурацию для последующих запусков?"
+msgstr "Beim Start wurde die Konfigurationsdatei angegeben: „{0}“. Als Konfiguration für nachfolgende Läufe festlegen?"
+
+#: STRINGTABLE.IDS_DLG_MSG14
+msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
+msgstr "Beim Öffnen des Editors wurde die Konfigurationsdatei angegeben: „{0}“. Unter demselben Namen speichern?"
 
 #: STRINGTABLE.IDM_COL4_MAV
 msgid "громкость звука (основной)"
@@ -1693,29 +1603,25 @@ msgstr "nur Fehler"
 msgid "все сообщения"
 msgstr "alle Nachrichten"
 
-#: STRINGTABLE.IDS_ERRORID_OK
-msgid "OK"
-msgstr "OK"
-
 #: STRINGTABLE.IDS_ERRORID_EMPTY
-msgid "<тут пусто>"
-msgstr "<hier leer>"
+msgid "(тут пусто)"
+msgstr "(hier ist es leer)"
 
 #: STRINGTABLE.IDS_ERRORID_UNDEFINED
 msgid "Эта ошибка не определена"
 msgstr "Dieser Fehler ist nicht definiert"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_WRITE_ACCESS
-msgid "Доступ на запись к файлу конфигурации запрещен, \"{0}\""
-msgstr "Schreibzugriff auf Konfigurationsdatei verweigert, „{0}“"
+msgid "Доступ на запись к файлу конфигурации запрещен, '{0}'"
+msgstr "Der Schreibzugriff auf die Konfigurationsdatei wurde verweigert, „{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_READ_ACCESS
-msgid "Файл конфигурации отсутствует или доступ запрещен, \"{0}\""
+msgid "Файл конфигурации отсутствует или доступ запрещен, '{0}'"
 msgstr "Konfigurationsdatei fehlt oder Zugriff verweigert, „{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_EMPTY
-msgid "Файл конфигурации пуст, \"{0}\""
-msgstr "Die Konfigurationsdatei ist leer, „{0}“"
+msgid "Файл конфигурации пуст, '{0}'"
+msgstr "Die Konfigurationsdatei ist leer, „{0}“."
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_NO_DEVICE
 msgid "Имя MIDI-устройства не задано в конфигурации."
@@ -1778,16 +1684,16 @@ msgid "Список аудиосессий пуст!"
 msgstr "Die Liste der Audiositzungen ist leer!"
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONDISCONNECTED
-msgid "Отключение аудиосессии, причина=\"{0}\""
-msgstr "Audiositzung deaktivieren, Grund=„{0}“"
+msgid "Отключение аудиосессии, причина='{0}'"
+msgstr "Audiositzung wird deaktiviert, Grund = „{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONCREATED
-msgid "Создана аудиосессия, имя=\"{0}\""
-msgstr "Audiositzung erstellt, Name=„{0}“"
+msgid "Создана аудиосессия, имя='{0}'"
+msgstr "Audiositzung erstellt, Name='{0}'"
 
 #: STRINGTABLE.IDS_ERRORID_ITEM_SC_AE
-msgid "Аудиосеанс \"{0}\" – неправильное состояние регистрации \"{1}\": {2}/{3}"
-msgstr "Audiositzung „{0}“ – ungültiger Registrierungsstatus „{1}“: {2}/{3}"
+msgid "Аудиосеанс '{0}' – неправильное состояние регистрации '{1}': {2}/{3}"
+msgstr "Audiositzung „{0}“ – Ungültiger Registrierungsstatus „{1}“: {2}/{3}"
 
 #: STRINGTABLE.IDS_ERRORID_CBVALUE_BAD_SELECT
 msgid "Устанавливаемое значение из обратного вызова - неверный селектор."
@@ -1839,7 +1745,7 @@ msgstr "MIDI-Gerät kann nicht geöffnet werden, kann nicht fortfahren, ID = {0}
 
 #: STRINGTABLE.IDS_ERRORID_START_MIDI_DEVICE
 msgid "Не удается запустить MIDI-устройство, продолжение невозможно, id = {0}/{1}"
-msgstr "MIDI-Gerät konnte nicht gestartet werden, kann nicht fortfahren, ID = {0}/{1}"
+msgstr "MIDI-Gerät kann nicht gestartet werden, kann nicht fortfahren, ID = {0}/{1}"
 
 #: STRINGTABLE.IDS_ERRORID_DEVICE_NOT_CONNECT
 msgid "Устройство не подключено, abort, id = {0}/{1}"
@@ -1863,7 +1769,7 @@ msgstr "Gerät {0} bereit (System)"
 
 #: STRINGTABLE.IDS_ERRORID_NOT_DEVICE_NAME
 msgid "Не задано имя для активного устройства, продолжение невозможно, id = {0}/{1}"
-msgstr "Name des aktiven Geräts nicht festgelegt, kann nicht fortfahren, ID = {0}/{1}"
+msgstr "Der Name für das aktive Gerät ist nicht angegeben, Fortsetzung ist nicht möglich, ID = {0}/{1}"
 
 #: STRINGTABLE.IDS_ERRORID_NOT_CONFIG_PROXY
 msgid "Не заданы прокси-порты в конфигурации, MIDI-прокси отключено."
@@ -1914,7 +1820,7 @@ msgid "Отключено от сервера MQTT:"
 msgstr "Vom MQTT-Server getrennt:"
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_NOT_CA_CERT
-msgid "Файл сертификата CA не существует, путь = \"{0}\""
+msgid "Файл сертификата CA не существует, путь = '{0}'"
 msgstr "CA-Zertifikatdatei existiert nicht, Pfad = „{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_START
