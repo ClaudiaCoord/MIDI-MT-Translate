@@ -3,11 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-<<<<<<< HEAD
-"POT-Creation-Date: 2023-08-08 10:29+0300\n"
-=======
 "POT-Creation-Date: 2023-09-18 14:29+0300\n"
->>>>>>> localsrc
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,7 +55,7 @@ msgid "Панель быстрого доступа"
 msgstr "სწრაფი წვდომის ინსტრუმენტთა პანელი"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
-msgid "&Сохранить "
+msgid "&Сохранить"
 msgstr "&Გადარჩენა"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
@@ -83,7 +79,7 @@ msgid "Экспортировать отредактированную конф�
 msgstr "რედაქტირებული კონფიგურაციის ექსპორტი ახალ ფაილში."
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
-msgid "&Импорт "
+msgid "&Импорт"
 msgstr "&იმპორტი"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
@@ -95,7 +91,7 @@ msgid "Импортировать конфигурацию из файла."
 msgstr "კონფიგურაციის იმპორტი ფაილიდან."
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
-msgid "&Выход "
+msgid "&Выход"
 msgstr "&გამოსვლა"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT

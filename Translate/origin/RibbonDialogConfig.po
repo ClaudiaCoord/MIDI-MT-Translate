@@ -1,4 +1,3 @@
-#. extracted from RibbonDialogConfig.rc
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -59,7 +58,7 @@ msgid "Панель быстрого доступа"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
-msgid "&Сохранить "
+msgid "&Сохранить"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
@@ -83,7 +82,7 @@ msgid "Экспортировать отредактированную конф�
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
-msgid "&Импорт "
+msgid "&Импорт"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
@@ -95,7 +94,7 @@ msgid "Импортировать конфигурацию из файла."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
-msgid "&Выход "
+msgid "&Выход"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT
