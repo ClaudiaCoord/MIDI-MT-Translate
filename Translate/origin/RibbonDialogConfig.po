@@ -15,345 +15,346 @@ msgstr ""
 "X-Merge-On: location\n"
 
 #: STRINGTABLE.IDS_RB_DIALOG_LAST_OPENL
-msgid "Last edited:"
-msgstr "Последние файлы:"
+msgid "Последние файлы:"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_TABHOMEL
-msgid "Editing"
-msgstr "Редактирование"
+msgid "Редактирование"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITMAINL
-msgid "edit MIDI key"
-msgstr "редактировать MIDI ключ"
+msgid "редактировать MIDI ключ"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITSETL
-msgid "set MIDI key as.."
-msgstr "установить MIDI ключ как..."
+msgid "установить MIDI ключ как..."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITOPTL
-msgid "editor options"
-msgstr "параметры редактора"
+msgid "параметры редактора"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_PANEL_FILTERL
-msgid "filter selection"
-msgstr "выбор фильтра"
+msgid "выбор фильтра"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_MENUL
-msgid "&Menu"
-msgstr "&Меню"
+msgid "&Меню"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_MENUT
-msgid "Application Menu"
-msgstr "Меню приложения"
+msgid "Меню приложения"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_PANEL_QATL
-msgid "&Quick Access"
-msgstr "&Быстрый доступ"
+msgid "&Быстрый доступ"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_PANEL_QATT
-msgid "Quick Access Toolbar"
-msgstr "Панель быстрого доступа"
+msgid "Панель быстрого доступа"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
-msgid "&Save"
-msgstr "&Сохранить "
+msgid "&Сохранить "
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
-msgid "Save (Alt+S)"
-msgstr "Сохранить и применить"
+msgid "Сохранить и применить"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVED
-msgid "Save to loaded file and update current configuration"
-msgstr "Сохранить в загруженный ранее файл и обновить текущую конфигурацию."
+msgid "Сохранить в загруженный ранее файл и обновить текущую конфигурацию."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXPORTL
-msgid "&Export"
-msgstr "&Экспорт"
+msgid "&Экспорт"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXPORTT
-msgid "Export (Alt+E)"
-msgstr "Экспорт в новый файл"
+msgid "Экспорт в новый файл"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXPORTD
-msgid "Export edited configuration to file"
-msgstr "Экспортировать отредактированную конфигурацию в новый файл."
+msgid "Экспортировать отредактированную конфигурацию в новый файл."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
-msgid "&Import"
-msgstr "&Импорт "
+msgid "&Импорт "
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
-msgid "Import (Alt+I)"
-msgstr "Импорт из файла"
+msgid "Импорт из файла"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTD
-msgid "Import configuration from file"
-msgstr "Импортировать конфигурацию из файла."
+msgid "Импортировать конфигурацию из файла."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
-msgid "E&xit"
-msgstr "&Выход "
+msgid "&Выход "
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT
-msgid "Exit (Alt+X)"
-msgstr "Выход из редактора"
+msgid "Выход из редактора"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITD
-msgid "Exiting the MIDI key configuration editor"
-msgstr "Выход из редактора конфигурации MIDI ключей, если изменения не сохранены, они будут утеряны."
+msgid "Выход из редактора конфигурации MIDI ключей, если изменения не сохранены, они будут утеряны."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_NEWL
-msgid "&New MIDI key"
-msgstr "&Новый MIDI ключ"
+msgid "&Новый MIDI ключ"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_NEWT
-msgid "New MIDI key (Alt+N)"
-msgstr "Новый MIDI ключ"
+msgid "Новый MIDI ключ"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_NEWD
-msgid "Create a new MIDI key"
-msgstr "Создание нового MIDI ключа."
+msgid "Создание нового MIDI ключа."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_COPYL
-msgid "&Copy"
-msgstr "&Копировать"
+msgid "&Копировать"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_COPYT
-msgid "Copy MIDI key (Alt+C)"
-msgstr "Копировать MIDI ключ"
+msgid "Копировать MIDI ключ"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_COPYD
-msgid "Copy the selected MIDI key entry"
-msgstr "Скопировать выбранную запись MIDI ключа."
+msgid "Скопировать выбранную запись MIDI ключа."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_PASTEL
-msgid "&Insert"
-msgstr "&Вставить"
+msgid "&Вставить"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_PASTET
-msgid "Insert entry (Alt+V)"
-msgstr "Вставить ключ"
+msgid "Вставить ключ"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_PASTED
-msgid "Paste the copied MIDI key entry"
-msgstr "Вставить скопированный MIDI ключ."
+msgid "Вставить скопированный MIDI ключ."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_DELETEL
-msgid "&Delete"
-msgstr "&Удалить"
+msgid "&Удалить"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_DELETET
-msgid "Delete entry (Alt+D)"
-msgstr "Удалить ключ"
+msgid "Удалить ключ"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_DELETED
-msgid "Delete the selected MIDI key entry"
-msgstr "Удалить выбранную запись MIDI ключа."
+msgid "Удалить выбранную запись MIDI ключа."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MQTTL
-msgid "Smart House"
-msgstr "Умный дом"
+msgid "Умный дом"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MQTTT
-msgid "Set group as 'Smart Home' (Alt+H)"
-msgstr "Установить группу как «Умный дом»."
+msgid "Установить группу как «Умный дом»."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MQTTD
-msgid "Control belongs to the Smart Home group"
-msgstr "Назначить выбранный MIDI ключ к группе «Умный дом»."
+msgid "Назначить выбранный MIDI ключ к группе «Умный дом»."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYL
-msgid "Multimedia buttons"
-msgstr "Мультимедиа кнопки"
+msgid "Мультимедиа кнопки"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
-msgid "Set group as multimedia buttons (Alt+K)"
-msgstr "Установить группу как «Мультимедиа кнопки»"
+msgid "Установить группу как «Мультимедиа кнопки»"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
-msgid "Control belongs to the group of multimedia buttons"
-msgstr "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
+msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERL
-msgid "Audio mixer"
-msgstr "Аудио микшер"
+msgid "Аудио микшер"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERT
-msgid "Set group as audio mixer (Alt+A)"
-msgstr "Установить группу как «Аудио микшер»"
+msgid "Установить группу как «Аудио микшер»"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERD
-msgid "Control belongs to the audio mixer group"
-msgstr "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
+msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODEL
-msgid "Read MIDI code"
-msgstr "Читать MIDI код"
+msgid "Читать MIDI код"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODET
-msgid "Read MIDI code (Alt+R)"
-msgstr "Чтение MIDI кода"
+msgid "Чтение MIDI кода"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODED
-msgid "Read MIDI code from the control surface"
-msgstr "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
+msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODEL
-msgid "Digital input only"
-msgstr "Только цифровой ввод"
+msgid "Только цифровой ввод"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODET
-msgid "Use digital input only (Alt+M)"
-msgstr "Использовать только цифровой ввод"
+msgid "Использовать только цифровой ввод"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODED
-msgid "Do not use value selection menu, use digital input only"
-msgstr "Не использовать меню выбора значений, использовать только цифровой ввод."
+msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSL
-msgid "MIDI control surface"
-msgstr "MIDI панель управления"
+msgid "MIDI панель управления"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYST
-msgid "Recommended MIDI control surface layout (Alt+K)"
-msgstr "Рекомендуемые настройки ключей"
+msgid "Рекомендуемые настройки ключей"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSD
-msgid "Recommended MIDI control surface setting compatible with Adobe Premiere Pro contro"
-msgstr "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
+msgid "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYL
-msgid "Key"
-msgstr "Ключ"
+msgid "Ключ"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYT
-msgid "Filter by MIDI key (Alt+K)"
-msgstr "Фильтровать по MIDI ключу"
+msgid "Фильтровать по MIDI ключу"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYD
-msgid "Show only MIDI key matches"
-msgstr "Показывать только совпадения MIDI ключей."
+msgid "Показывать только совпадения MIDI ключей."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENEL
-msgid "Scene"
-msgstr "Сцена"
+msgid "Сцена"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENET
-msgid "Filter by MIDI scene (Alt+K)"
-msgstr "Фильтровать по MIDI сцене"
+msgid "Фильтровать по MIDI сцене"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENED
-msgid "Show only MIDI scene matches"
-msgstr "Показывать только совпадения MIDI сцены."
+msgid "Показывать только совпадения MIDI сцены."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETL
-msgid "Target 1"
-msgstr "Назначение 1"
+msgid "Назначение 1"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETT
-msgid "Filter by target 1 (Alt+T)"
-msgstr "Фильтровать по назначению 1"
+msgid "Фильтровать по назначению 1"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
-msgid "Show only matches by target assignment"
-msgstr "Показывать только совпадения по целевому назначению."
+msgid "Показывать только совпадения по целевому назначению."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGL
-msgid "Target 2"
-msgstr "Назначение 2"
+msgid "Назначение 2"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
-msgid "Filter by target 2 (Alt+T)"
-msgstr "Фильтровать по назначению 2"
+msgid "Фильтровать по назначению 2"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
-msgid "Show only matches by long target assignment"
-msgstr "Показывать только совпадения по целевому назначению."
+msgid "Показывать только совпадения по целевому назначению."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
-msgid "Clear filter"
-msgstr "Очистить фильтр"
+msgid "Очистить фильтр"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEART
-msgid "Clear filter (Alt+C)"
-msgstr "Очистка фильтров"
+msgid "Очистка фильтров"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARD
-msgid "Clear filter - show all items"
-msgstr "Полная очистка фильтров, будут показаны все записи."
+msgid "Полная очистка фильтров, будут показаны все записи."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SETL
-msgid "Set filter"
-msgstr "Установить фильтр"
+msgid "Установить фильтр"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SETT
-msgid "Set filter (Alt+U)"
-msgstr "Установка фильтра"
+msgid "Установка фильтра"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SETD
-msgid "Set filter - show all invalid elements"
-msgstr "Установка фильтра показывает все недействительные элементы."
+msgid "Установка фильтра показывает все недействительные элементы."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_ENTERL
-msgid "Apply filter"
-msgstr "Применить фильтр"
+msgid "Применить фильтр"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_ENTERT
-msgid "Apply filter (Alt+E)"
-msgstr "Применение фильтра"
+msgid "Применение фильтра"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_ENTERD
-msgid "Apply filter - show selected items"
-msgstr "Применение фильтра показывает выбранные элементы."
+msgid "Применение фильтра показывает выбранные элементы."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_EXT_MODEL
-msgid "Show sorting"
-msgstr "Показать сортировку"
+msgid "Показать сортировку"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_KEYL
-msgid "by key"
-msgstr "по ключу"
+msgid "по ключу"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_KEYT
-msgid "Sort by ascending and MIDI key (Alt+s1)"
-msgstr "Сортировка по возрастанию и MIDI ключу."
+msgid "Сортировка по возрастанию и MIDI ключу."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_SCENEL
-msgid "by scene"
-msgstr "по сцене"
+msgid "по сцене"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_SCENET
-msgid "Sort by ascending and MIDI scene (Alt+s2)"
-msgstr "Сортировка по возрастанию и MIDI сцене."
+msgid "Сортировка по возрастанию и MIDI сцене."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETL
-msgid "by target 1"
-msgstr "по назначению 1"
+msgid "по назначению 1"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETT
-msgid "Sort by ascending and MIDI target 1 (Alt+s3)"
-msgstr "Сортировка по возрастанию и MIDI назначению 1."
+msgid "Сортировка по возрастанию и MIDI назначению 1."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETLONGL
-msgid "by target 2"
-msgstr "по назначению 2"
+msgid "по назначению 2"
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETLONGT
-msgid "Sort by ascending and MIDI target 2 (Alt+s4)"
-msgstr "Сортировка по возрастанию и MIDI назначению 2."
+msgid "Сортировка по возрастанию и MIDI назначению 2."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTDOWN_KEYT
-msgid "Sort by descending and MIDI key (Alt+s5)"
-msgstr "Сортировка по убыванию и MIDI ключу."
+msgid "Сортировка по убыванию и MIDI ключу."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTDOWN_SCENET
-msgid "Sort by descending and MIDI scene (Alt+s6)"
-msgstr "Сортировка по убыванию и MIDI сцене."
+msgid "Сортировка по убыванию и MIDI сцене."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTDOWN_TARGETT
-msgid "Sort by descending and MIDI target 1 (Alt+s7)"
-msgstr "Сортировка по убыванию и MIDI назначению 1."
+msgid "Сортировка по убыванию и MIDI назначению 1."
+msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_SORTDOWN_TARGETLONGT
-msgid "Sort by descending and MIDI target 2 (Alt+s8)"
-msgstr "Сортировка по убыванию и MIDI назначению 2."
+msgid "Сортировка по убыванию и MIDI назначению 2."
+msgstr ""
+
