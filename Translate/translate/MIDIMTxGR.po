@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-24 07:42+0300\n"
+"POT-Creation-Date: 2023-09-18 21:35+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -251,8 +251,8 @@ msgstr "სოლო (ოსტატი)"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC_...POPUP.CAPTION
 #: MENU.IDR_COL5_BTN_MIX_MENU.COL5_BTN_MIXER_MENU.POPUP.CAPTION
-msgid "Mute .."
-msgstr "მდუმარე.."
+msgid "Без звука .."
+msgstr "უხმოდ.."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC_...MENUITEM.IDM_COL4_B21
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC_...MENUITEM.IDM_COL4_B11
@@ -327,7 +327,7 @@ msgid "канал 9"
 msgstr "არხი 9"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC_...POPUP.CAPTION
-msgid "Solo .."
+msgid "Соло .."
 msgstr "სოლო.."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
@@ -392,7 +392,7 @@ msgstr "სკრაბინგი"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
 msgid "Функции 'Premiere Pro' .."
-msgstr ""Premiere Pro" მახასიათებლები .."
+msgstr "Premiere Pro მახასიათებლები .."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%27Premiere_Pro%27_...POPUP.CAPTION
 msgid "Функции стандартной кнопки .."
@@ -440,11 +440,11 @@ msgstr "ფუნქცია 8"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%27Premiere_Pro%27_...POPUP.CAPTION
 msgid "Функции кнопки 'в одно касание' .."
-msgstr ""ერთი შეხებით" ღილაკის ფუნქციები.."
+msgstr "ერთი შეხებით ღილაკის ფუნქციები.."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
 msgid "Кнопки в системе 'Умный дом' .."
-msgstr "ღილაკები "ჭკვიანი სახლის" სისტემაში.."
+msgstr "ღილაკები ჭკვიანი სახლის სისტემაში.."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.MENUITEM.IDM_COL4_B11
 #: MENU.IDR_COL5_BTN_SM_MENU.MENUITEM.IDM_COL4_B11
@@ -632,7 +632,7 @@ msgstr "Ბალანსი .."
 
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.COL4_SLIDER_TARGET_MENU.POPUP.CAPTION
 msgid "Регуляторы в системе 'Умный дом' .."
-msgstr "რეგულატორები "ჭკვიანი სახლის" სისტემაში.."
+msgstr "რეგულატორები ჭკვიანი სახლის სისტემაში.."
 
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.COL4_SLIDER_TARGET_MENU.MENUITEM.IDM_COL4_AV1
 #: MENU.IDR_COL5_SLIDER_SM_MENU.MENUITEM.IDM_COL4_AV1
@@ -864,26 +864,13 @@ msgstr "კონფიგურაცია"
 msgid "MIDI контролы"
 msgstr "MIDI კონტროლი"
 
-#: DIALOGEX.IDD_FORMSTART.LTEXT.IDC_INFO_CTRLCOUNT
-#: DIALOGEX.IDD_FORMSETUP.CTEXT.IDC_SETUP_COUNT
-msgid "0"
-msgstr "0"
-
 #: DIALOGEX.IDD_FORMSTART.LTEXT.IDC_STATIC
 msgid "Интервал между нажатиями"
 msgstr "ინტერვალი დაწკაპუნებებს შორის"
 
-#: DIALOGEX.IDD_FORMSTART.LTEXT.IDC_SLIDER_VAL1
-msgid "50"
-msgstr "50"
-
 #: DIALOGEX.IDD_FORMSTART.LTEXT.IDC_STATIC
 msgid "Интервал как долгое нажатие"
 msgstr "ინტერვალი ხანგრძლივი დაჭერით"
-
-#: DIALOGEX.IDD_FORMSTART.LTEXT.IDC_SLIDER_VAL2
-msgid "500"
-msgstr "500"
 
 #: DIALOGEX.IDD_FORMSTART.GROUPBOX.IDC_STATIC
 msgid "Запуск"
@@ -1042,7 +1029,7 @@ msgstr "ბრძანების მონიტორი"
 
 #: DIALOGEX.IDD_FORMMONITOR.LTEXT.IDC_STATIC
 msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
-msgstr "MIDI ბრძანების მონიტორი დაგეხმარებათ განსაზღვროთ როგორ არის დაყენებული კონტროლერი. ტესტირების დასაწყებად დააჭირეთ ღილაკს "დაწყება". თქვენს კონტროლერზე სხვადასხვა კონტროლის გამოყენებით, თქვენ მიიღებთ შეტყობინებებს სცენის, ნომრისა და მიმდინარე მნიშვნელობის შესახებ."
+msgstr "MIDI ბრძანების მონიტორი დაგეხმარებათ განსაზღვროთ როგორ არის დაყენებული კონტროლერი. ტესტირების დასაწყებად დააჭირეთ ღილაკს დაწყება. თქვენს კონტროლერზე სხვადასხვა კონტროლის გამოყენებით, თქვენ მიიღებთ შეტყობინებებს სცენის, ნომრისა და მიმდინარე მნიშვნელობის შესახებ."
 
 #: DIALOGEX.IDD_FORMMONITOR.PUSHBUTTON.IDC_MONITOR_CLEAR
 msgid "Очи&стить"
@@ -1055,14 +1042,6 @@ msgstr "MIDI კონტროლის პარამეტრი"
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
 msgid "Настройка MIDI контролов"
 msgstr "MIDI კონტროლის დაყენება"
-
-#: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
-msgid "MIDI"
-msgstr "MIDI"
-
-#: DIALOGEX.IDD_FORMSETUP.PUSHBUTTON.IDC_SETUP_CODE
-msgid "&Читать MIDI код"
-msgstr "და წაიკითხეთ MIDI კოდი"
 
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
 msgid "Информация"
@@ -1091,14 +1070,6 @@ msgstr "მიზანი (ხანგრძლივი დაწკაპუ
 #: DIALOGEX.IDD_FORMSETUP.LTEXT.IDC_STATIC
 msgid "Регулируемые микшером приложения:"
 msgstr "მიქსერით რეგულირებადი აპლიკაციები:"
-
-#: DIALOGEX.IDD_FORMSETUP.PUSHBUTTON.IDC_DIALOG_SAVE
-msgid "&Сохранить"
-msgstr "&Გადარჩენა"
-
-#: DIALOGEX.IDD_FORMSETUP.PUSHBUTTON.IDC_DIALOG_EXPORT
-msgid "&Экспорт"
-msgstr "&ექსპორტი"
 
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
 msgid "Подсказки"
@@ -1168,22 +1139,6 @@ msgstr "კონფიგურაცია ჩატვირთულია �
 msgid "Конфигурация создана заново и требует заполнения"
 msgstr "კონფიგურაცია ახლად შექმნილია და საჭიროებს შევსებას"
 
-#: STRINGTABLE.IDS_URL_WIKI
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/wiki/RU"
-msgstr "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/wiki/RU"
-
-#: STRINGTABLE.IDS_URL_GIT
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases"
-msgstr "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases"
-
-#: STRINGTABLE.IDS_URL_WEB
-msgid "https://claudiacoord.github.io/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/"
-msgstr "https://claudiacoord.github.io/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/"
-
-#: STRINGTABLE.IDS_URL_ESETUP
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases/download/1.0.1.1/EasyControl.zip"
-msgstr "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases/download/1.0.1.1/EasyControl.zip"
-
 #: STRINGTABLE.IDS_START_EXT_FILTER
 msgid "MIDI-MT Конфигурация"
 msgstr "MIDI-MT კონფიგურაცია"
@@ -1191,10 +1146,6 @@ msgstr "MIDI-MT კონფიგურაცია"
 #: STRINGTABLE.IDS_CONFIG_EXE_FILTER
 msgid "Исполняемые файлы"
 msgstr "შესრულებადი ფაილები"
-
-#: STRINGTABLE.IDC_MIDIMT
-msgid "MIDIMT"
-msgstr "MIDIMT"
 
 #: STRINGTABLE.IDS_INFO1
 msgid "MIDI транслятор не запущен."
@@ -1295,6 +1246,14 @@ msgstr "არჩეულ კონფიგურაციას არ აქ
 #: STRINGTABLE.IDS_DLG_MSG12
 msgid "Пожалуйста, перед запуском монитора, запустите MIDI бридж из меню, вызвав 'Старт'."
 msgstr "გთხოვთ, მონიტორის ჩართვამდე, მენიუდან გაუშვით MIDI bridge „დაწყების“ დარეკვით."
+
+#: STRINGTABLE.IDS_DLG_MSG13
+msgid "При запуске был указан файл конфигурации: '{0}'. Установить его как конфигурацию для последующих запусков?"
+msgstr "გაშვებისას კონფიგურაციის ფაილი იყო მითითებული: „{0}“. დააყენოთ ის, როგორც კონფიგურაცია შემდგომი გაშვებებისთვის?"
+
+#: STRINGTABLE.IDS_DLG_MSG14
+msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
+msgstr "რედაქტორის გახსნისას მითითებული იყო კონფიგურაციის ფაილი: „{0}“. შეინახოთ იგივე სახელით?"
 
 #: STRINGTABLE.IDM_COL4_MAV
 msgid "громкость звука (основной)"
@@ -1644,29 +1603,25 @@ msgstr "მხოლოდ შეცდომები"
 msgid "все сообщения"
 msgstr "ყველა შეტყობინება"
 
-#: STRINGTABLE.IDS_ERRORID_OK
-msgid "OK"
-msgstr "კარგი"
-
 #: STRINGTABLE.IDS_ERRORID_EMPTY
-msgid "<тут пусто>"
-msgstr "<აქ ცარიელია>"
+msgid "(тут пусто)"
+msgstr "(აქ ცარიელია)"
 
 #: STRINGTABLE.IDS_ERRORID_UNDEFINED
 msgid "Эта ошибка не определена"
 msgstr "ეს შეცდომა არ არის განსაზღვრული"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_WRITE_ACCESS
-msgid "Доступ на запись к файлу конфигурации запрещен, \"{0}\""
-msgstr "კონფიგურაციის ფაილზე წვდომის ჩაწერა უარყოფილია, \"{0}\""
+msgid "Доступ на запись к файлу конфигурации запрещен, '{0}'"
+msgstr "კონფიგურაციის ფაილზე ჩაწერის წვდომა აკრძალულია, „{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_READ_ACCESS
-msgid "Файл конфигурации отсутствует или доступ запрещен, \"{0}\""
-msgstr "კონფიგურაციის ფაილი აკლია ან წვდომა აკრძალულია, \"{0}\""
+msgid "Файл конфигурации отсутствует или доступ запрещен, '{0}'"
+msgstr "კონფიგურაციის ფაილი აკლია ან წვდომა აკრძალულია, „{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_EMPTY
-msgid "Файл конфигурации пуст, \"{0}\""
-msgstr "კონფიგურაციის ფაილი ცარიელია, \"{0}\""
+msgid "Файл конфигурации пуст, '{0}'"
+msgstr "კონფიგურაციის ფაილი ცარიელია, „{0}“"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_NO_DEVICE
 msgid "Имя MIDI-устройства не задано в конфигурации."
@@ -1729,16 +1684,16 @@ msgid "Список аудиосессий пуст!"
 msgstr "აუდიო სესიების სია ცარიელია!"
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONDISCONNECTED
-msgid "Отключение аудиосессии, причина=\"{0}\""
-msgstr "აუდიო სესიის გამორთვა, მიზეზი=\"{0}\""
+msgid "Отключение аудиосессии, причина='{0}'"
+msgstr "აუდიო სესიის გამორთვა, reason='{0}'"
 
 #: STRINGTABLE.IDS_ERRORID_SESSIONCREATED
-msgid "Создана аудиосессия, имя=\"{0}\""
-msgstr "შეიქმნა აუდიო სესია, სახელი=\"{0}\""
+msgid "Создана аудиосессия, имя='{0}'"
+msgstr "შეიქმნა აუდიო სესია, სახელი='{0}'"
 
 #: STRINGTABLE.IDS_ERRORID_ITEM_SC_AE
-msgid "Аудиосеанс \"{0}\" – неправильное состояние регистрации \"{1}\": {2}/{3}"
-msgstr "აუდიო სესია \"{0}\" - ცუდი რეგისტრაციის სტატუსი \"{1}\": {2}/{3}"
+msgid "Аудиосеанс '{0}' – неправильное состояние регистрации '{1}': {2}/{3}"
+msgstr "აუდიო სესია „{0}“ - რეგისტრაციის არასწორი მდგომარეობა „{1}“: {2}/{3}"
 
 #: STRINGTABLE.IDS_ERRORID_CBVALUE_BAD_SELECT
 msgid "Устанавливаемое значение из обратного вызова - неверный селектор."
@@ -1865,8 +1820,8 @@ msgid "Отключено от сервера MQTT:"
 msgstr "გათიშულია MQTT სერვერთან:"
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_NOT_CA_CERT
-msgid "Файл сертификата CA не существует, путь = \"{0}\""
-msgstr "CA სერტიფიკატის ფაილი არ არსებობს, გზა = \"{0}\""
+msgid "Файл сертификата CA не существует, путь = '{0}'"
+msgstr "CA სერტიფიკატის ფაილი არ არსებობს, გზა = '{0}'"
 
 #: STRINGTABLE.IDS_ERRORID_MQTT_START
 msgid "Служба управления Умным домом запущена."
