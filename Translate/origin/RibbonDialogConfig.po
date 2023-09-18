@@ -1,0 +1,359 @@
+#. extracted from RibbonDialogConfig.rc
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-18 14:29+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate Toolkit 3.10.0\n"
+"X-Merge-On: location\n"
+
+#: STRINGTABLE.IDS_RB_DIALOG_LAST_OPENL
+msgid "Last edited:"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_TABHOMEL
+msgid "Editing"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_PANEL_EDITMAINL
+msgid "edit MIDI key"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_PANEL_EDITSETL
+msgid "set MIDI key as.."
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_PANEL_EDITOPTL
+msgid "editor options"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_PANEL_FILTERL
+msgid "filter selection"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_MENUL
+msgid "&Menu"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_MENUT
+msgid "Application Menu"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_PANEL_QATL
+msgid "&Quick Access"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_PANEL_QATT
+msgid "Quick Access Toolbar"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_SAVEL
+msgid "&Save"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_SAVET
+msgid "Save (Alt+S)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_SAVED
+msgid "Save to loaded file and update current configuration"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXPORTL
+msgid "&Export"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXPORTT
+msgid "Export (Alt+E)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXPORTD
+msgid "Export edited configuration to file"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
+msgid "&Import"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
+msgid "Import (Alt+I)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_IMPORTD
+msgid "Import configuration from file"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXITL
+msgid "E&xit"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXITT
+msgid "Exit (Alt+X)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXITD
+msgid "Exiting the MIDI key configuration editor"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_NEWL
+msgid "&New MIDI key"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_NEWT
+msgid "New MIDI key (Alt+N)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_NEWD
+msgid "Create a new MIDI key"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_COPYL
+msgid "&Copy"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_COPYT
+msgid "Copy MIDI key (Alt+C)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_COPYD
+msgid "Copy the selected MIDI key entry"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_PASTEL
+msgid "&Insert"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_PASTET
+msgid "Insert entry (Alt+V)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_PASTED
+msgid "Paste the copied MIDI key entry"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_DELETEL
+msgid "&Delete"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_DELETET
+msgid "Delete entry (Alt+D)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_DELETED
+msgid "Delete the selected MIDI key entry"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SET_MQTTL
+msgid "Smart House"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SET_MQTTT
+msgid "Set group as 'Smart Home' (Alt+H)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SET_MQTTD
+msgid "Control belongs to the Smart Home group"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SET_MMKEYL
+msgid "Multimedia buttons"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
+msgid "Set group as multimedia buttons (Alt+K)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
+msgid "Control belongs to the group of multimedia buttons"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SET_MIXERL
+msgid "Audio mixer"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SET_MIXERT
+msgid "Set group as audio mixer (Alt+A)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SET_MIXERD
+msgid "Control belongs to the audio mixer group"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODEL
+msgid "Read MIDI code"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODET
+msgid "Read MIDI code (Alt+R)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODED
+msgid "Read MIDI code from the control surface"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODEL
+msgid "Digital input only"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODET
+msgid "Use digital input only (Alt+M)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODED
+msgid "Do not use value selection menu, use digital input only"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSL
+msgid "MIDI control surface"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYST
+msgid "Recommended MIDI control surface layout (Alt+K)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSD
+msgid "Recommended MIDI control surface setting compatible with Adobe Premiere Pro contro"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_KEYL
+msgid "Key"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_KEYT
+msgid "Filter by MIDI key (Alt+K)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_KEYD
+msgid "Show only MIDI key matches"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SCENEL
+msgid "Scene"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SCENET
+msgid "Filter by MIDI scene (Alt+K)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SCENED
+msgid "Show only MIDI scene matches"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETL
+msgid "Target 1"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETT
+msgid "Filter by target 1 (Alt+T)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
+msgid "Show only matches by target assignment"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGL
+msgid "Target 2"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
+msgid "Filter by target 2 (Alt+T)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
+msgid "Show only matches by long target assignment"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
+msgid "Clear filter"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_CLEART
+msgid "Clear filter (Alt+C)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_CLEARD
+msgid "Clear filter - show all items"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SETL
+msgid "Set filter"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SETT
+msgid "Set filter (Alt+U)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SETD
+msgid "Set filter - show all invalid elements"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERL
+msgid "Apply filter"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERT
+msgid "Apply filter (Alt+E)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERD
+msgid "Apply filter - show selected items"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_EXT_MODEL
+msgid "Show sorting"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_KEYL
+msgid "by key"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_KEYT
+msgid "Sort by ascending and MIDI key (Alt+s1)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_SCENEL
+msgid "by scene"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_SCENET
+msgid "Sort by ascending and MIDI scene (Alt+s2)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETL
+msgid "by target 1"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETT
+msgid "Sort by ascending and MIDI target 1 (Alt+s3)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETLONGL
+msgid "by target 2"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETLONGT
+msgid "Sort by ascending and MIDI target 2 (Alt+s4)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTDOWN_KEYT
+msgid "Sort by descending and MIDI key (Alt+s5)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTDOWN_SCENET
+msgid "Sort by descending and MIDI scene (Alt+s6)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTDOWN_TARGETT
+msgid "Sort by descending and MIDI target 1 (Alt+s7)"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_SORTDOWN_TARGETLONGT
+msgid "Sort by descending and MIDI target 2 (Alt+s8)"
+msgstr ""
