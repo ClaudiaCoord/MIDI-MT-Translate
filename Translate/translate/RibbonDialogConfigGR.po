@@ -1,0 +1,364 @@
+#. extracted from RibbonDialogConfig.rc
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-19 23:25+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate Toolkit 3.10.0\n"
+"X-Merge-On: location\n"
+
+#: STRINGTABLE.IDS_RB_DIALOG_LAST_OPENL
+msgid "Последние файлы:"
+msgstr "უახლესი ფაილები:"
+
+#: STRINGTABLE.IDS_RB_TABHOMEL
+msgid "Редактирование"
+msgstr "რედაქტირება"
+
+#: STRINGTABLE.IDS_RB_TABFILTERL
+msgid "Фильтры"
+msgstr "ფილტრები"
+
+#: STRINGTABLE.IDS_RB_PANEL_EDITMAINL
+msgid "редактировать MIDI ключ"
+msgstr "MIDI კლავიშის რედაქტირება"
+
+#: STRINGTABLE.IDS_RB_PANEL_EDITSETL
+msgid "установить MIDI ключ как..."
+msgstr "დააყენეთ MIDI გასაღები როგორც..."
+
+#: STRINGTABLE.IDS_RB_PANEL_EDITOPTL
+msgid "параметры редактора"
+msgstr "რედაქტორის პარამეტრები"
+
+#: STRINGTABLE.IDS_RB_PANEL_FILTERL
+msgid "выбор фильтра"
+msgstr "ფილტრის შერჩევა"
+
+#: STRINGTABLE.IDS_RB_PANEL_SORTL
+msgid "сортировка"
+msgstr "დახარისხება"
+
+#: STRINGTABLE.IDS_RB_MENUL
+msgid "&Меню"
+msgstr "&მენიუ"
+
+#: STRINGTABLE.IDS_RB_MENUT
+msgid "Меню приложения"
+msgstr "განაცხადის მენიუ"
+
+#: STRINGTABLE.IDS_RB_PANEL_QATL
+msgid "&Быстрый доступ"
+msgstr "&სწრაფი წვდომა"
+
+#: STRINGTABLE.IDS_RB_PANEL_QATT
+msgid "Панель быстрого доступа"
+msgstr "სწრაფი წვდომის ინსტრუმენტთა პანელი"
+
+#: STRINGTABLE.IDS_RB_DIALOG_SAVEL
+msgid "&Сохранить             "
+msgstr "&Გადარჩენა"
+
+#: STRINGTABLE.IDS_RB_DIALOG_SAVET
+msgid "Сохранить и применить"
+msgstr "შეინახეთ და მიმართეთ"
+
+#: STRINGTABLE.IDS_RB_DIALOG_SAVED
+msgid "Сохранить в загруженный ранее файл и обновить текущую конфигурацию."
+msgstr "შეინახეთ ადრე გადმოწერილ ფაილში და განაახლეთ მიმდინარე კონფიგურაცია."
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXPORTL
+msgid "&Экспорт"
+msgstr "&ექსპორტი"
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXPORTT
+msgid "Экспорт в новый файл"
+msgstr "ექსპორტი ახალ ფაილში"
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXPORTD
+msgid "Экспортировать отредактированную конфигурацию в новый файл."
+msgstr "რედაქტირებული კონფიგურაციის ექსპორტი ახალ ფაილში."
+
+#: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
+msgid "&Импорт                "
+msgstr "&იმპორტი"
+
+#: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
+msgid "Импорт из файла"
+msgstr "იმპორტი ფაილიდან"
+
+#: STRINGTABLE.IDS_RB_DIALOG_IMPORTD
+msgid "Импортировать конфигурацию из файла."
+msgstr "კონფიგურაციის იმპორტი ფაილიდან."
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXITL
+msgid "&Выход         "
+msgstr "&გამოსვლა"
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXITT
+msgid "Выход из редактора"
+msgstr "რედაქტორის გასვლა"
+
+#: STRINGTABLE.IDS_RB_DIALOG_EXITD
+msgid "Выход из редактора конфигурации MIDI ключей, если изменения не сохранены, они будут утеряны."
+msgstr "გამოდის MIDI გასაღების კონფიგურაციის რედაქტორიდან; თუ ცვლილებები არ შეინახება, ისინი დაიკარგება."
+
+#: STRINGTABLE.IDS_RB_LV_NEWL
+msgid "&Новый MIDI ключ"
+msgstr "&ახალი MIDI გასაღები"
+
+#: STRINGTABLE.IDS_RB_LV_NEWT
+msgid "Новый MIDI ключ"
+msgstr "ახალი MIDI გასაღები"
+
+#: STRINGTABLE.IDS_RB_LV_NEWD
+msgid "Создание нового MIDI ключа."
+msgstr "ახალი MIDI გასაღების შექმნა."
+
+#: STRINGTABLE.IDS_RB_LV_COPYL
+msgid "&Копировать"
+msgstr "&კოპირება"
+
+#: STRINGTABLE.IDS_RB_LV_COPYT
+msgid "Копировать MIDI ключ"
+msgstr "დააკოპირეთ MIDI გასაღები"
+
+#: STRINGTABLE.IDS_RB_LV_COPYD
+msgid "Скопировать выбранную запись MIDI ключа."
+msgstr "დააკოპირეთ არჩეული MIDI გასაღების ჩანაწერი."
+
+#: STRINGTABLE.IDS_RB_LV_PASTEL
+msgid "&Вставить"
+msgstr "&ჩასმა"
+
+#: STRINGTABLE.IDS_RB_LV_PASTET
+msgid "Вставить ключ"
+msgstr "ჩასვით გასაღები"
+
+#: STRINGTABLE.IDS_RB_LV_PASTED
+msgid "Вставить скопированный MIDI ключ."
+msgstr "ჩასვით კოპირებული MIDI გასაღები."
+
+#: STRINGTABLE.IDS_RB_LV_DELETEL
+msgid "&Удалить"
+msgstr "&წაშლა"
+
+#: STRINGTABLE.IDS_RB_LV_DELETET
+msgid "Удалить ключ"
+msgstr "გასაღების წაშლა"
+
+#: STRINGTABLE.IDS_RB_LV_DELETED
+msgid "Удалить выбранную запись MIDI ключа."
+msgstr "წაშალეთ არჩეული MIDI გასაღების ჩანაწერი."
+
+#: STRINGTABLE.IDS_RB_LV_SET_MQTTL
+msgid "Умный дом"
+msgstr "Ჭკვიანი სახლი"
+
+#: STRINGTABLE.IDS_RB_LV_SET_MQTTT
+msgid "Установить группу как «Умный дом»."
+msgstr "დააყენეთ ჯგუფი, როგორც ჭკვიანი სახლი."
+
+#: STRINGTABLE.IDS_RB_LV_SET_MQTTD
+msgid "Назначить выбранный MIDI ключ к группе «Умный дом»."
+msgstr "მიანიჭეთ არჩეული MIDI გასაღები „ჭკვიანი სახლის“ ჯგუფს."
+
+#: STRINGTABLE.IDS_RB_LV_SET_MMKEYL
+msgid "Мультимедиа кнопки"
+msgstr "მულტიმედიური ღილაკები"
+
+#: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
+msgid "Установить группу как «Мультимедиа кнопки»"
+msgstr "დააყენეთ ჯგუფი, როგორც მულტიმედია ღილაკები"
+
+#: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
+msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
+msgstr "მიანიჭეთ არჩეული MIDI გასაღები მულტიმედიური ღილაკების ჯგუფს."
+
+#: STRINGTABLE.IDS_RB_LV_SET_MIXERL
+msgid "Аудио микшер"
+msgstr "აუდიო მიქსერი"
+
+#: STRINGTABLE.IDS_RB_LV_SET_MIXERT
+msgid "Установить группу как «Аудио микшер»"
+msgstr "ჯგუფის დაყენება აუდიო მიქსერად"
+
+#: STRINGTABLE.IDS_RB_LV_SET_MIXERD
+msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
+msgstr "მიანიჭეთ არჩეული MIDI კლავიში „აუდიო მიქსერი“ ჯგუფს."
+
+#: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODEL
+msgid "Читать MIDI код"
+msgstr "წაიკითხეთ MIDI კოდი"
+
+#: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODET
+msgid "Чтение MIDI кода"
+msgstr "MIDI კოდის კითხვა"
+
+#: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODED
+msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
+msgstr "წაიკითხეთ MIDI კოდი საკონტროლო ზედაპირიდან ან MIDI კლავიატურიდან."
+
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODEL
+msgid "Только цифровой ввод"
+msgstr "მხოლოდ ციფრული შეყვანა"
+
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODET
+msgid "Использовать только цифровой ввод"
+msgstr "გამოიყენეთ მხოლოდ ციფრული შეყვანა"
+
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODED
+msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
+msgstr "არ გამოიყენოთ მნიშვნელობის შერჩევის მენიუ, გამოიყენეთ მხოლოდ ციფრული შეყვანა."
+
+#: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSL
+msgid "MIDI панель управления"
+msgstr "MIDI მართვის პანელი"
+
+#: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYST
+msgid "Рекомендуемые настройки ключей"
+msgstr "რეკომენდებული საკვანძო პარამეტრები"
+
+#: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSD
+msgid "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
+msgstr "რეკომენდებული MIDI მართვის პანელის პარამეტრები თავსებადი Adobe Premiere Pro კონტროლთან."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_KEYL
+msgid "Ключ"
+msgstr "Გასაღები"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_KEYT
+msgid "Фильтровать по MIDI ключу"
+msgstr "გაფილტვრა MIDI გასაღებით"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_KEYD
+msgid "Показывать только совпадения MIDI ключей."
+msgstr "აჩვენეთ მხოლოდ MIDI კლავიშების შესატყვისები."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SCENEL
+msgid "Сцена"
+msgstr "სცენა"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SCENET
+msgid "Фильтровать по MIDI сцене"
+msgstr "გაფილტვრა MIDI სცენის მიხედვით"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SCENED
+msgid "Показывать только совпадения MIDI сцены."
+msgstr "მხოლოდ MIDI სცენის შესატყვისების ჩვენება."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETL
+msgid "Назначение 1"
+msgstr "მიზანი 1"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETT
+msgid "Фильтровать по назначению 1"
+msgstr "გაფილტვრა დანიშნულების 1-ის მიხედვით"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
+msgid "Показывать только совпадения по целевому назначению."
+msgstr "მხოლოდ შესატყვისების ჩვენება დანიშნულებისამებრ."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGL
+msgid "Назначение 2"
+msgstr "მიზანი 2"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
+msgid "Фильтровать по назначению 2"
+msgstr "გაფილტვრა დანიშნულების 2-ის მიხედვით"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
+msgid "Очистить фильтр"
+msgstr "ფილტრის გასუფთავება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_CLEART
+msgid "Очистка фильтров"
+msgstr "დასუფთავების ფილტრები"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_CLEARD
+msgid "Полная очистка фильтров, будут показаны все записи."
+msgstr "სრულად გაწმინდეთ ფილტრები, ნაჩვენები იქნება ყველა ჩანაწერი."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SETL
+msgid "Установить фильтр"
+msgstr "ფილტრის დაყენება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SETT
+msgid "Установка фильтра"
+msgstr "ფილტრის დაყენება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_SETD
+msgid "Установка фильтра показывает все недействительные элементы."
+msgstr "ფილტრის დაყენება აჩვენებს ყველა არასწორ ელემენტს."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERL
+msgid "Применить фильтр"
+msgstr "ფილტრის გამოყენება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERT
+msgid "Применение фильтра"
+msgstr "ფილტრის გამოყენება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERD
+msgid "Применение фильтра показывает выбранные элементы."
+msgstr "ფილტრის გამოყენება აჩვენებს არჩეულ ელემენტებს."
+
+#: STRINGTABLE.IDS_RB_LV_EXT_MODEL
+msgid "Показать сортировку"
+msgstr "დალაგების ჩვენება"
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_KEYL
+msgid "по ключу"
+msgstr "გასაღებით"
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_KEYT
+msgid "Сортировка по возрастанию и MIDI ключу."
+msgstr "დალაგება აღმავალი და MIDI კლავიშების მიხედვით."
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_SCENEL
+msgid "по сцене"
+msgstr "სცენის გარშემო"
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_SCENET
+msgid "Сортировка по возрастанию и MIDI сцене."
+msgstr "დახარისხება აღმავალი და MIDI სცენის მიხედვით."
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETL
+msgid "по назначению 1"
+msgstr "დანიშვნით 1"
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETT
+msgid "Сортировка по возрастанию и MIDI назначению 1."
+msgstr "დალაგება აღმავალი და MIDI დანიშნულების მიხედვით 1."
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETLONGL
+msgid "по назначению 2"
+msgstr "დანიშვნით 2"
+
+#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETLONGT
+msgid "Сортировка по возрастанию и MIDI назначению 2."
+msgstr "დალაგება აღმავალი და MIDI დანიშნულების მიხედვით 2."
+
+#: STRINGTABLE.IDS_RB_LV_SORTDOWN_KEYT
+msgid "Сортировка по убыванию и MIDI ключу."
+msgstr "დახარისხება დაღმავალი და MIDI კლავიშების მიხედვით."
+
+#: STRINGTABLE.IDS_RB_LV_SORTDOWN_SCENET
+msgid "Сортировка по убыванию и MIDI сцене."
+msgstr "დახარისხება კლებადობით და MIDI სცენით."
+
+#: STRINGTABLE.IDS_RB_LV_SORTDOWN_TARGETT
+msgid "Сортировка по убыванию и MIDI назначению 1."
+msgstr "დახარისხება კლებადობით და MIDI დანიშნულებით 1."
+
+#: STRINGTABLE.IDS_RB_LV_SORTDOWN_TARGETLONGT
+msgid "Сортировка по убыванию и MIDI назначению 2."
+msgstr "დახარისხება კლებადობით და MIDI დანიშნულებით 2."
