@@ -255,6 +255,7 @@ msgid "Фильтровать по назначению 1"
 msgstr "Филтрирајте према одредишту 1"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
 msgid "Показывать только совпадения по целевому назначению."
 msgstr "Прикажи само шибице према намени."
 
@@ -265,10 +266,6 @@ msgstr "Сврха 2"
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
 msgid "Фильтровать по назначению 2"
 msgstr "Филтрирајте према одредишту 2"
-
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
-msgid "Показывать только совпадения по целевому назначению."
-msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
 msgid "Очистить фильтр"

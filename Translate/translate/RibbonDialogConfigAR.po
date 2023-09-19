@@ -255,6 +255,7 @@ msgid "Фильтровать по назначению 1"
 msgstr "Զտել ըստ նպատակակետ 1-ի"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
 msgid "Показывать только совпадения по целевому назначению."
 msgstr "Ցուցադրել միայն համընկնումներ ըստ նախատեսված նպատակի:"
 
@@ -265,10 +266,6 @@ msgstr "Նպատակ 2"
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
 msgid "Фильтровать по назначению 2"
 msgstr "Զտել ըստ նպատակակետ 2-ի"
-
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
-msgid "Показывать только совпадения по целевому назначению."
-msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
 msgid "Очистить фильтр"

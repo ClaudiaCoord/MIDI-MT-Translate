@@ -258,6 +258,7 @@ msgid "Фильтровать по назначению 1"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
 msgid "Показывать только совпадения по целевому назначению."
 msgstr ""
 
@@ -267,10 +268,6 @@ msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
 msgid "Фильтровать по назначению 2"
-msgstr ""
-
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
-msgid "Показывать только совпадения по целевому назначению."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
