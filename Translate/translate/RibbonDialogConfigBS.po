@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-08 10:29+0300\n"
+"POT-Creation-Date: 2023-09-19 23:25+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,6 +22,10 @@ msgstr "Najnoviji fajlovi:"
 msgid "Редактирование"
 msgstr "Uređivanje"
 
+#: STRINGTABLE.IDS_RB_TABFILTERL
+msgid "Фильтры"
+msgstr "Filteri"
+
 #: STRINGTABLE.IDS_RB_PANEL_EDITMAINL
 msgid "редактировать MIDI ключ"
 msgstr "uredi MIDI ključ"
@@ -37,6 +41,10 @@ msgstr "opcije urednika"
 #: STRINGTABLE.IDS_RB_PANEL_FILTERL
 msgid "выбор фильтра"
 msgstr "izbor filtera"
+
+#: STRINGTABLE.IDS_RB_PANEL_SORTL
+msgid "сортировка"
+msgstr "sortiranje"
 
 #: STRINGTABLE.IDS_RB_MENUL
 msgid "&Меню"
@@ -55,7 +63,7 @@ msgid "Панель быстрого доступа"
 msgstr "Traka sa alatkama za brzi pristup"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
-msgid "&Сохранить"
+msgid "&Сохранить             "
 msgstr "&Sačuvaj"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
@@ -79,7 +87,7 @@ msgid "Экспортировать отредактированную конф�
 msgstr "Izvezite uređenu konfiguraciju u novu datoteku."
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
-msgid "&Импорт"
+msgid "&Импорт                "
 msgstr "&Uvoz"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
@@ -91,7 +99,7 @@ msgid "Импортировать конфигурацию из файла."
 msgstr "Uvezite konfiguraciju iz datoteke."
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
-msgid "&Выход"
+msgid "&Выход         "
 msgstr "&Izlaz"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT
@@ -198,15 +206,15 @@ msgstr "Čitanje MIDI koda"
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
 msgstr "Pročitajte MIDI kod sa kontrolne površine ili MIDI tastature."
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODEL
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODEL
 msgid "Только цифровой ввод"
 msgstr "Samo digitalni ulaz"
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODET
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODET
 msgid "Использовать только цифровой ввод"
 msgstr "Koristite samo digitalni ulaz"
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODED
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODED
 msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
 msgstr "Nemojte koristiti meni za odabir vrijednosti, koristite samo digitalni ulaz."
 
