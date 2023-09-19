@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-19 19:57+0300\n"
+"POT-Creation-Date: 2023-09-19 20:09+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,6 +42,10 @@ msgstr ""
 msgid "выбор фильтра"
 msgstr ""
 
+#: STRINGTABLE.IDS_RB_PANEL_SORTL
+msgid "сортировка"
+msgstr ""
+
 #: STRINGTABLE.IDS_RB_MENUL
 msgid "&Меню"
 msgstr ""
@@ -59,7 +63,7 @@ msgid "Панель быстрого доступа"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
-msgid "&Сохранить"
+msgid "&Сохранить             "
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
@@ -83,7 +87,7 @@ msgid "Экспортировать отредактированную конф�
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
-msgid "&Импорт"
+msgid "&Импорт                "
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
@@ -95,7 +99,7 @@ msgid "Импортировать конфигурацию из файла."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
-msgid "&Выход"
+msgid "&Выход         "
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT
