@@ -1617,7 +1617,7 @@ msgstr "Prístup na zápis do konfiguračného súboru je odmietnutý, '{0}'"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_READ_ACCESS
 msgid "Файл конфигурации отсутствует или доступ запрещен, '{0}'"
-msgstr ""
+msgstr "Konfiguračný súbor chýba alebo bol prístup odmietnutý, '{0}'"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_EMPTY
 msgid "Файл конфигурации пуст, '{0}'"
