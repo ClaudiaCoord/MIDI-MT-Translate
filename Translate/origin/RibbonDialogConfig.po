@@ -1,12 +1,9 @@
+#. extracted from RibbonDialogConfig.rc
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-<<<<<<< HEAD
-"POT-Creation-Date: 2023-08-08 10:29+0300\n"
-=======
-"POT-Creation-Date: 2023-09-18 14:29+0300\n"
->>>>>>> localsrc
+"POT-Creation-Date: 2023-09-19 19:57+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,6 +20,10 @@ msgstr ""
 
 #: STRINGTABLE.IDS_RB_TABHOMEL
 msgid "Редактирование"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_TABFILTERL
+msgid "Фильтры"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITMAINL
