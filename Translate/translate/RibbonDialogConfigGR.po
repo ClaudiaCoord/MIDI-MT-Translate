@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-18 14:29+0300\n"
+"POT-Creation-Date: 2023-09-19 23:25+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,6 +22,10 @@ msgstr "უახლესი ფაილები:"
 msgid "Редактирование"
 msgstr "რედაქტირება"
 
+#: STRINGTABLE.IDS_RB_TABFILTERL
+msgid "Фильтры"
+msgstr "ფილტრები"
+
 #: STRINGTABLE.IDS_RB_PANEL_EDITMAINL
 msgid "редактировать MIDI ключ"
 msgstr "MIDI კლავიშის რედაქტირება"
@@ -37,6 +41,10 @@ msgstr "რედაქტორის პარამეტრები"
 #: STRINGTABLE.IDS_RB_PANEL_FILTERL
 msgid "выбор фильтра"
 msgstr "ფილტრის შერჩევა"
+
+#: STRINGTABLE.IDS_RB_PANEL_SORTL
+msgid "сортировка"
+msgstr "დახარისხება"
 
 #: STRINGTABLE.IDS_RB_MENUL
 msgid "&Меню"
@@ -55,7 +63,7 @@ msgid "Панель быстрого доступа"
 msgstr "სწრაფი წვდომის ინსტრუმენტთა პანელი"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
-msgid "&Сохранить"
+msgid "&Сохранить             "
 msgstr "&Გადარჩენა"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
@@ -79,7 +87,7 @@ msgid "Экспортировать отредактированную конф�
 msgstr "რედაქტირებული კონფიგურაციის ექსპორტი ახალ ფაილში."
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
-msgid "&Импорт"
+msgid "&Импорт                "
 msgstr "&იმპორტი"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
@@ -91,7 +99,7 @@ msgid "Импортировать конфигурацию из файла."
 msgstr "კონფიგურაციის იმპორტი ფაილიდან."
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
-msgid "&Выход"
+msgid "&Выход         "
 msgstr "&გამოსვლა"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT
@@ -198,15 +206,15 @@ msgstr "MIDI კოდის კითხვა"
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
 msgstr "წაიკითხეთ MIDI კოდი საკონტროლო ზედაპირიდან ან MIDI კლავიატურიდან."
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODEL
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODEL
 msgid "Только цифровой ввод"
 msgstr "მხოლოდ ციფრული შეყვანა"
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODET
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODET
 msgid "Использовать только цифровой ввод"
 msgstr "გამოიყენეთ მხოლოდ ციფრული შეყვანა"
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODED
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODED
 msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
 msgstr "არ გამოიყენოთ მნიშვნელობის შერჩევის მენიუ, გამოიყენეთ მხოლოდ ციფრული შეყვანა."
 
