@@ -3,7 +3,7 @@ setlocal
 set MIDIMT_LANG_DIR=S:\__BuildSource\__SVN__\EasyControl-Mackie\EasyControl-Mackie-src\src\Languages
 git checkout localsrc
 git merge main
-git commit -m "auto update"
+git commit -m "autoupdate"
 
 :END
 endlocal
