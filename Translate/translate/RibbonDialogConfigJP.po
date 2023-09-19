@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-18 14:29+0300\n"
+"POT-Creation-Date: 2023-09-19 23:25+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,6 +22,10 @@ msgstr "最新のファイル:"
 msgid "Редактирование"
 msgstr "編集"
 
+#: STRINGTABLE.IDS_RB_TABFILTERL
+msgid "Фильтры"
+msgstr "フィルター"
+
 #: STRINGTABLE.IDS_RB_PANEL_EDITMAINL
 msgid "редактировать MIDI ключ"
 msgstr "MIDIキーを編集する"
@@ -37,6 +41,10 @@ msgstr "エディターのオプション"
 #: STRINGTABLE.IDS_RB_PANEL_FILTERL
 msgid "выбор фильтра"
 msgstr "フィルターの選択"
+
+#: STRINGTABLE.IDS_RB_PANEL_SORTL
+msgid "сортировка"
+msgstr "並べ替え"
 
 #: STRINGTABLE.IDS_RB_MENUL
 msgid "&Меню"
@@ -55,7 +63,7 @@ msgid "Панель быстрого доступа"
 msgstr "クイックアクセスツールバー"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
-msgid "&Сохранить"
+msgid "&Сохранить             "
 msgstr "＆保存"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
@@ -79,7 +87,7 @@ msgid "Экспортировать отредактированную конф�
 msgstr "編集した構成を新しいファイルにエクスポートします。"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
-msgid "&Импорт"
+msgid "&Импорт                "
 msgstr "＆輸入"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
@@ -91,7 +99,7 @@ msgid "Импортировать конфигурацию из файла."
 msgstr "ファイルから構成をインポートします。"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
-msgid "&Выход"
+msgid "&Выход         "
 msgstr "＆出口"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT
@@ -198,15 +206,15 @@ msgstr "MIDIコードの読み込み"
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
 msgstr "コントロール サーフェスまたは MIDI キーボードから MIDI コードを読み取ります。"
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODEL
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODEL
 msgid "Только цифровой ввод"
 msgstr "デジタル入力のみ"
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODET
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODET
 msgid "Использовать только цифровой ввод"
 msgstr "デジタル入力のみを使用する"
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODE_CODED
+#: STRINGTABLE.IDS_RB_LV_EDIT_MODED
 msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
 msgstr "値選択メニューは使用せず、デジタル入力のみを使用してください。"
 
