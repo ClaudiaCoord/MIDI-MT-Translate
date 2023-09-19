@@ -24,7 +24,7 @@ msgstr "Рэдагаванне"
 
 #: STRINGTABLE.IDS_RB_TABFILTERL
 msgid "Фильтры"
-msgstr ""
+msgstr "Фільтры"
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITMAINL
 msgid "редактировать MIDI ключ"
@@ -44,7 +44,7 @@ msgstr "выбар фільтра"
 
 #: STRINGTABLE.IDS_RB_PANEL_SORTL
 msgid "сортировка"
-msgstr ""
+msgstr "сартаванне"
 
 #: STRINGTABLE.IDS_RB_MENUL
 msgid "&Меню"
@@ -64,7 +64,7 @@ msgstr "Панэль хуткага доступу"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
 msgid "&Сохранить             "
-msgstr ""
+msgstr "&Захаваць"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
 msgid "Сохранить и применить"
@@ -88,7 +88,7 @@ msgstr "Экспартаваць адрэдагаваную канфігурац
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
 msgid "&Импорт                "
-msgstr ""
+msgstr "&Імпарт"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
 msgid "Импорт из файла"
@@ -100,7 +100,7 @@ msgstr "Імпартаваць канфігурацыю з файла."
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
 msgid "&Выход         "
-msgstr ""
+msgstr "&Выхад"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT
 msgid "Выход из редактора"
