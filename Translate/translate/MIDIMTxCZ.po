@@ -1613,7 +1613,7 @@ msgstr "Tato chyba není definována"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_WRITE_ACCESS
 msgid "Доступ на запись к файлу конфигурации запрещен, '{0}'"
-msgstr "Přístup pro zápis do konfiguračního souboru '{0}' je odepřen"
+msgstr "Přístup pro zápis do konfiguračního souboru je odepřen, '{0}'"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_READ_ACCESS
 msgid "Файл конфигурации отсутствует или доступ запрещен, '{0}'"
