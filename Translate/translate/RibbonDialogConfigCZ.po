@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-19 23:25+0300\n"
+"POT-Creation-Date: 2023-09-22 19:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,8 +39,8 @@ msgid "параметры редактора"
 msgstr "možnosti editoru"
 
 #: STRINGTABLE.IDS_RB_PANEL_FILTERL
-msgid "выбор фильтра"
-msgstr "výběr filtru"
+msgid "выбор фильтров просмотра"
+msgstr "výběr zobrazovacích filtrů"
 
 #: STRINGTABLE.IDS_RB_PANEL_SORTL
 msgid "сортировка"
@@ -230,6 +230,10 @@ msgstr "Doporučená nastavení klíče"
 msgid "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
 msgstr "Doporučená nastavení ovládacího panelu MIDI kompatibilní s ovládáním Adobe Premiere Pro."
 
+#: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
+msgid "Встроенные фильтры"
+msgstr "Vestavěné filtry"
+
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYL
 msgid "Ключ"
 msgstr "Klíč"
@@ -276,8 +280,8 @@ msgid "Фильтровать по назначению 2"
 msgstr "Filtrovat podle cíle 2"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
-msgid "Очистить фильтр"
-msgstr "Vymazat filtr"
+msgid "Очистить фильтры"
+msgstr "Vymazat filtry"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEART
 msgid "Очистка фильтров"
@@ -299,17 +303,117 @@ msgstr "Instalace filtru"
 msgid "Установка фильтра показывает все недействительные элементы."
 msgstr "Nastavení filtru zobrazí všechny neplatné položky."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERL
+#: STRINGTABLE.IDS_RB_LV_FILTER_ONL
 msgid "Применить фильтр"
 msgstr "Použít filtr"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERT
+#: STRINGTABLE.IDS_RB_LV_FILTER_ONT
 msgid "Применение фильтра"
 msgstr "Použití filtru"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERD
+#: STRINGTABLE.IDS_RB_LV_FILTER_OND
 msgid "Применение фильтра показывает выбранные элементы."
 msgstr "Použitím filtru se zobrazí vybrané položky."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFL
+msgid "Отменить фильтр"
+msgstr "Zrušit filtr"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFT
+msgid "Отмена фильтра"
+msgstr "Zrušit filtr"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFD
+msgid "Отмена фильтра покажет все элементы."
+msgstr "Zrušením filtru se zobrazí všechny položky."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
+msgid "Показать «Мультимедиа кнопки»"
+msgstr "Zobrazit "Multimediální tlačítka""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
+msgid "Фильтровать по группе «Мультимедиа кнопки»"
+msgstr "Filtrujte podle skupiny „Multimediální tlačítka“."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
+msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
+msgstr "Použitím filtru se zobrazí členové skupiny Multimediální tlačítka."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
+msgid "Показать «Аудио микшер»"
+msgstr "Zobrazit "Audio Mixer""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
+msgid "Фильтровать по группе «Аудио микшер»"
+msgstr "Filtrujte podle skupiny „Audio Mixer“."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
+msgid "Применение фильтра покажет членов группы «Аудио микшер»."
+msgstr "Použitím filtru se zobrazí členové skupiny Audio Mixer."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
+msgid "Показать «Умный дом»."
+msgstr "Zobrazit Smart Home."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
+msgid "Фильтровать по группе «Умный дом»"
+msgstr "Filtrujte podle skupiny „Inteligentní domov“."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
+msgid "Применение фильтра покажет членов группы «Умный дом»."
+msgstr "Použitím filtru se zobrazí členové skupiny Smart Home."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
+msgid "Тип фильтра"
+msgstr "Typ filtru"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNT
+msgid "Установка типа применяемых фильтров"
+msgstr "Nastavení typu filtrů, které se mají použít"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
+msgid "Типы применяемых фильтров имеют два логических состояния: 'И','ИЛИ'."
+msgstr "Typy použitých filtrů mají dva logické stavy: 'A', 'NEBO'."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
+msgid "Выбор типа фильтрации"
+msgstr "Výběr typu filtru"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORL
+msgid "Показывать любые совпадения"
+msgstr "Zobrazit všechny zápasy"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORT
+msgid "Показывать записи с любым совпадением"
+msgstr "Zobrazit záznamy s jakoukoli shodou"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
+msgid "Фильтр имеет состояние логического 'И' и показывает любые совпадения."
+msgstr "Filtr má logický stav „AND“ a zobrazuje všechny shody."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
+msgid "Показывать только полные совпадения"
+msgstr "Zobrazit pouze kompletní shody"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDT
+msgid "Показывать записи только с полным совпадением"
+msgstr "Zobrazit pouze záznamy s přesnou shodou"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
+msgid "Фильтр имеет состояние логического 'ИЛИ' и показывает только полные совпадения."
+msgstr "Filtr má logický stav „NEBO“ a zobrazuje pouze úplné shody."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
+msgid "Авто отправка данных в фильтре"
+msgstr "Automatické odesílání dat ve filtru"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
+msgid "Авто отправка вводимых значений фильтра"
+msgstr "Automatické odesílání zadaných hodnot filtru"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
+msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
+msgstr "Automaticky odesílá vstupní hodnoty ve vestavěném filtru."
 
 #: STRINGTABLE.IDS_RB_LV_EXT_MODEL
 msgid "Показать сортировку"
