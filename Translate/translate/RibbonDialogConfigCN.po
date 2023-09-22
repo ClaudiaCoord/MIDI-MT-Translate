@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-19 23:25+0300\n"
+"POT-Creation-Date: 2023-09-22 19:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,8 +39,8 @@ msgid "параметры редактора"
 msgstr "编辑器选项"
 
 #: STRINGTABLE.IDS_RB_PANEL_FILTERL
-msgid "выбор фильтра"
-msgstr "过滤器选择"
+msgid "выбор фильтров просмотра"
+msgstr "选择观看滤镜"
 
 #: STRINGTABLE.IDS_RB_PANEL_SORTL
 msgid "сортировка"
@@ -230,6 +230,10 @@ msgstr "推荐按键设置"
 msgid "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
 msgstr "推荐与 Adob​​e Premiere Pro 控制兼容的 MIDI 控制面板设置。"
 
+#: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
+msgid "Встроенные фильтры"
+msgstr "内置过滤器"
+
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYL
 msgid "Ключ"
 msgstr "钥匙"
@@ -276,7 +280,7 @@ msgid "Фильтровать по назначению 2"
 msgstr "按目的地过滤 2"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
-msgid "Очистить фильтр"
+msgid "Очистить фильтры"
 msgstr "清除过滤器"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEART
@@ -299,17 +303,117 @@ msgstr "过滤器安装"
 msgid "Установка фильтра показывает все недействительные элементы."
 msgstr "设置过滤器会显示所有无效项目。"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERL
+#: STRINGTABLE.IDS_RB_LV_FILTER_ONL
 msgid "Применить фильтр"
 msgstr "应用过滤器"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERT
+#: STRINGTABLE.IDS_RB_LV_FILTER_ONT
 msgid "Применение фильтра"
 msgstr "应用过滤器"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERD
+#: STRINGTABLE.IDS_RB_LV_FILTER_OND
 msgid "Применение фильтра показывает выбранные элементы."
 msgstr "应用过滤器会显示所选项目。"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFL
+msgid "Отменить фильтр"
+msgstr "取消筛选"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFT
+msgid "Отмена фильтра"
+msgstr "取消筛选"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFD
+msgid "Отмена фильтра покажет все элементы."
+msgstr "取消过滤器将显示所有项目。"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
+msgid "Показать «Мультимедиа кнопки»"
+msgstr "显示“多媒体按钮”"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
+msgid "Фильтровать по группе «Мультимедиа кнопки»"
+msgstr "按“多媒体按钮”组过滤"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
+msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
+msgstr "应用过滤器将显示多媒体按钮组的成员。"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
+msgid "Показать «Аудио микшер»"
+msgstr "显示“音频混合器”"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
+msgid "Фильтровать по группе «Аудио микшер»"
+msgstr "按“音频混合器”组过滤"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
+msgid "Применение фильтра покажет членов группы «Аудио микшер»."
+msgstr "应用过滤器将显示音频混合器组的成员。"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
+msgid "Показать «Умный дом»."
+msgstr "展示智能家居。"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
+msgid "Фильтровать по группе «Умный дом»"
+msgstr "按“智能家居”组过滤"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
+msgid "Применение фильтра покажет членов группы «Умный дом»."
+msgstr "应用过滤器将显示智能家居组的成员。"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
+msgid "Тип фильтра"
+msgstr "过滤器类型"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNT
+msgid "Установка типа применяемых фильтров"
+msgstr "设置要应用的过滤器类型"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
+msgid "Типы применяемых фильтров имеют два логических состояния: 'И','ИЛИ'."
+msgstr "应用的过滤器的类型有两种逻辑状态：“AND”、“OR”。"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
+msgid "Выбор типа фильтрации"
+msgstr "选择过滤器类型"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORL
+msgid "Показывать любые совпадения"
+msgstr "显示任何匹配项"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORT
+msgid "Показывать записи с любым совпадением"
+msgstr "显示任何匹配的条目"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
+msgid "Фильтр имеет состояние логического 'И' и показывает любые совпадения."
+msgstr "该过滤器具有逻辑“AND”状态并显示所有匹配项。"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
+msgid "Показывать только полные совпадения"
+msgstr "仅显示完整的匹配项"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDT
+msgid "Показывать записи только с полным совпадением"
+msgstr "仅显示完全匹配的记录"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
+msgid "Фильтр имеет состояние логического 'ИЛИ' и показывает только полные совпадения."
+msgstr "该过滤器具有逻辑“OR”状态，并且仅显示完全匹配。"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
+msgid "Авто отправка данных в фильтре"
+msgstr "自动发送过滤器中的数据"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
+msgid "Авто отправка вводимых значений фильтра"
+msgstr "自动发送输入的过滤器值"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
+msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
+msgstr "自动提交内置过滤器中的输入值。"
 
 #: STRINGTABLE.IDS_RB_LV_EXT_MODEL
 msgid "Показать сортировку"
