@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-19 23:25+0300\n"
+"POT-Creation-Date: 2023-09-22 19:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,8 +39,8 @@ msgid "параметры редактора"
 msgstr "szerkesztő opciók"
 
 #: STRINGTABLE.IDS_RB_PANEL_FILTERL
-msgid "выбор фильтра"
-msgstr "szűrő kiválasztása"
+msgid "выбор фильтров просмотра"
+msgstr "megtekintési szűrők kiválasztása"
 
 #: STRINGTABLE.IDS_RB_PANEL_SORTL
 msgid "сортировка"
@@ -230,6 +230,10 @@ msgstr "Javasolt kulcsbeállítások"
 msgid "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
 msgstr "Az Adobe Premiere Pro vezérléssel kompatibilis MIDI vezérlőpult javasolt beállításai."
 
+#: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
+msgid "Встроенные фильтры"
+msgstr "Beépített szűrők"
+
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYL
 msgid "Ключ"
 msgstr "Kulcs"
@@ -276,8 +280,8 @@ msgid "Фильтровать по назначению 2"
 msgstr "Szűrés cél szerint 2"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
-msgid "Очистить фильтр"
-msgstr "Tiszta szűrő"
+msgid "Очистить фильтры"
+msgstr "Tiszta szűrők"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEART
 msgid "Очистка фильтров"
@@ -299,17 +303,117 @@ msgstr "Szűrő beszerelése"
 msgid "Установка фильтра показывает все недействительные элементы."
 msgstr "A szűrő beállítása minden érvénytelen elemet megjelenít."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERL
+#: STRINGTABLE.IDS_RB_LV_FILTER_ONL
 msgid "Применить фильтр"
 msgstr "Szűrő alkalmazása"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERT
+#: STRINGTABLE.IDS_RB_LV_FILTER_ONT
 msgid "Применение фильтра"
 msgstr "Szűrő alkalmazása"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERD
+#: STRINGTABLE.IDS_RB_LV_FILTER_OND
 msgid "Применение фильтра показывает выбранные элементы."
 msgstr "A szűrő alkalmazása megjeleníti a kiválasztott elemeket."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFL
+msgid "Отменить фильтр"
+msgstr "Szűrő törlése"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFT
+msgid "Отмена фильтра"
+msgstr "Szűrő törlése"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFD
+msgid "Отмена фильтра покажет все элементы."
+msgstr "A szűrő törlésével az összes elem megjelenik."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
+msgid "Показать «Мультимедиа кнопки»"
+msgstr ""Multimédiás gombok" megjelenítése"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
+msgid "Фильтровать по группе «Мультимедиа кнопки»"
+msgstr "Szűrés a „Multimédia gombok” csoport szerint"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
+msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
+msgstr "A szűrő alkalmazása megjeleníti a Multimédia gombok csoport tagjait."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
+msgid "Показать «Аудио микшер»"
+msgstr "Az "Audio Mixer" műsora"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
+msgid "Фильтровать по группе «Аудио микшер»"
+msgstr "Szűrés „Audio Mixer” csoport szerint"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
+msgid "Применение фильтра покажет членов группы «Аудио микшер»."
+msgstr "A szűrő alkalmazása megjeleníti az Audio Mixer csoport tagjait."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
+msgid "Показать «Умный дом»."
+msgstr "Intelligens otthon megjelenítése."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
+msgid "Фильтровать по группе «Умный дом»"
+msgstr "Szűrés „Intelligens otthon” csoport szerint"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
+msgid "Применение фильтра покажет членов группы «Умный дом»."
+msgstr "A szűrő alkalmazása megjeleníti az Okos Otthon csoport tagjait."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
+msgid "Тип фильтра"
+msgstr "Szűrő típusa"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNT
+msgid "Установка типа применяемых фильтров"
+msgstr "Az alkalmazandó szűrők típusának beállítása"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
+msgid "Типы применяемых фильтров имеют два логических состояния: 'И','ИЛИ'."
+msgstr "Az alkalmazott szűrőtípusoknak két logikai állapota van: „ÉS”, „VAGY”."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
+msgid "Выбор типа фильтрации"
+msgstr "Szűrőtípus kiválasztása"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORL
+msgid "Показывать любые совпадения"
+msgstr "Bármely találat megjelenítése"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORT
+msgid "Показывать записи с любым совпадением"
+msgstr "Bejegyzések megjelenítése bármilyen egyezéssel"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
+msgid "Фильтр имеет состояние логического 'И' и показывает любые совпадения."
+msgstr "A szűrő logikai „ÉS” állapotú, és minden egyezést megjelenít."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
+msgid "Показывать только полные совпадения"
+msgstr "Csak a teljes egyezések megjelenítése"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDT
+msgid "Показывать записи только с полным совпадением"
+msgstr "Csak a pontos egyezéseket tartalmazó rekordok megjelenítése"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
+msgid "Фильтр имеет состояние логического 'ИЛИ' и показывает только полные совпадения."
+msgstr "A szűrő logikai „VAGY” állapotú, és csak a teljes egyezéseket mutatja."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
+msgid "Авто отправка данных в фильтре"
+msgstr "Automatikus adatküldés a szűrőben"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
+msgid "Авто отправка вводимых значений фильтра"
+msgstr "A beírt szűrőértékek automatikus küldése"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
+msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
+msgstr "Automatikusan elküldi a bemeneti értékeket egy beépített szűrőben."
 
 #: STRINGTABLE.IDS_RB_LV_EXT_MODEL
 msgid "Показать сортировку"
