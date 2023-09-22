@@ -413,7 +413,7 @@ msgstr "Automatic sending of entered filter values"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
-msgstr "Automatically submits input values ​​in a built-in filter."
+msgstr "Automatically submits input values to a built-in filter."
 
 #: STRINGTABLE.IDS_RB_LV_EXT_MODEL
 msgid "Показать сортировку"
