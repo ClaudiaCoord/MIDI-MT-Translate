@@ -329,7 +329,7 @@ msgstr "Canceling the filter will show all items."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Show "Multimedia Buttons""
+msgstr "Show Multimedia Buttons"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
@@ -341,7 +341,7 @@ msgstr "Applying a filter will show the members of the Multimedia Buttons group.
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
 msgid "Показать «Аудио микшер»"
-msgstr "Show "Audio Mixer""
+msgstr "Show Audio Mixer"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
 msgid "Фильтровать по группе «Аудио микшер»"
