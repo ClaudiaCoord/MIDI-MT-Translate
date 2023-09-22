@@ -40,7 +40,7 @@ msgstr "Editor-Optionen"
 
 #: STRINGTABLE.IDS_RB_PANEL_FILTERL
 msgid "выбор фильтров просмотра"
-msgstr ""
+msgstr "Auswahl an Anzeigefiltern"
 
 #: STRINGTABLE.IDS_RB_PANEL_SORTL
 msgid "сортировка"
@@ -232,7 +232,7 @@ msgstr "Empfohlene MIDI-Bedienfeldeinstellungen, die mit der Adobe Premiere Pro-
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
 msgid "Встроенные фильтры"
-msgstr ""
+msgstr "Eingebaute Filter"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYL
 msgid "Ключ"
@@ -281,7 +281,7 @@ msgstr "Nach Ziel filtern 2"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
 msgid "Очистить фильтры"
-msgstr ""
+msgstr "Filter löschen"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEART
 msgid "Очистка фильтров"
@@ -317,103 +317,103 @@ msgstr "Durch Anwenden eines Filters werden die ausgewählten Elemente angezeigt
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_OFFL
 msgid "Отменить фильтр"
-msgstr ""
+msgstr "Filter aufheben"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_OFFT
 msgid "Отмена фильтра"
-msgstr ""
+msgstr "Filter aufheben"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_OFFD
 msgid "Отмена фильтра покажет все элементы."
-msgstr ""
+msgstr "Wenn Sie den Filter aufheben, werden alle Artikel angezeigt."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
 msgid "Показать «Мультимедиа кнопки»"
-msgstr ""
+msgstr "„Multimedia-Buttons“ anzeigen"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr ""
+msgstr "Filtern Sie nach der Gruppe „Multimedia-Schaltflächen“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
-msgstr ""
+msgstr "Durch Anwenden eines Filters werden die Mitglieder der Gruppe „Multimedia-Schaltflächen“ angezeigt."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
 msgid "Показать «Аудио микшер»"
-msgstr ""
+msgstr "„Audiomixer“ anzeigen"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
 msgid "Фильтровать по группе «Аудио микшер»"
-msgstr ""
+msgstr "Filtern Sie nach der Gruppe „Audiomixer“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
-msgstr ""
+msgstr "Durch Anwenden eines Filters werden die Mitglieder der Audio-Mixer-Gruppe angezeigt."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
 msgid "Показать «Умный дом»."
-msgstr ""
+msgstr "Smart Home anzeigen."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
-msgstr ""
+msgstr "Filtern Sie nach der Gruppe „Smart Home“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr ""
+msgstr "Durch Anwenden eines Filters werden die Mitglieder der Smart Home-Gruppe angezeigt."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
 msgid "Тип фильтра"
-msgstr ""
+msgstr "Filter Typ"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNT
 msgid "Установка типа применяемых фильтров"
-msgstr ""
+msgstr "Festlegen der Art der anzuwendenden Filter"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
 msgid "Типы применяемых фильтров имеют два логических состояния: 'И','ИЛИ'."
-msgstr ""
+msgstr "Die angewendeten Filtertypen haben zwei logische Zustände: „AND“, „OR“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
 msgid "Выбор типа фильтрации"
-msgstr ""
+msgstr "Auswählen eines Filtertyps"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORL
 msgid "Показывать любые совпадения"
-msgstr ""
+msgstr "Alle Übereinstimmungen anzeigen"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORT
 msgid "Показывать записи с любым совпадением"
-msgstr ""
+msgstr "Einträge mit beliebiger Übereinstimmung anzeigen"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
 msgid "Фильтр имеет состояние логического 'И' и показывает любые совпадения."
-msgstr ""
+msgstr "Der Filter hat einen logischen „AND“-Zustand und zeigt alle Übereinstimmungen an."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
-msgstr ""
+msgstr "Nur vollständige Übereinstimmungen anzeigen"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDT
 msgid "Показывать записи только с полным совпадением"
-msgstr ""
+msgstr "Nur Datensätze mit exakten Übereinstimmungen anzeigen"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
 msgid "Фильтр имеет состояние логического 'ИЛИ' и показывает только полные совпадения."
-msgstr ""
+msgstr "Der Filter hat einen logischen „ODER“-Status und zeigt nur vollständige Übereinstimmungen an."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"
-msgstr ""
+msgstr "Automatisches Senden von Daten im Filter"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
 msgid "Авто отправка вводимых значений фильтра"
-msgstr ""
+msgstr "Automatisches Versenden der eingegebenen Filterwerte"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
-msgstr ""
+msgstr "Übermittelt Eingabewerte automatisch an einen integrierten Filter."
 
 #: STRINGTABLE.IDS_RB_LV_EXT_MODEL
 msgid "Показать сортировку"
