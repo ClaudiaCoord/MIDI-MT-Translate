@@ -1253,7 +1253,7 @@ msgstr "Prilikom pokretanja, konfiguracijski fajl je specificiran: '{0}'. Postav
 
 #: STRINGTABLE.IDS_DLG_MSG14
 msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
-msgstr "Prilikom otvaranja uređivača naveden je konfiguracijski fajl: '{0}'. Sačuvati ga pod istim imenom?"
+msgstr "Prilikom otvaranja editora naveden je konfiguracijski fajl: '{0}'. Sačuvati ga pod istim imenom?"
 
 #: STRINGTABLE.IDM_COL4_MAV
 msgid "громкость звука (основной)"
