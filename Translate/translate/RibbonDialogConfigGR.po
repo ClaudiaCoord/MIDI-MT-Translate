@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-19 23:25+0300\n"
+"POT-Creation-Date: 2023-09-22 19:41+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,8 +39,8 @@ msgid "параметры редактора"
 msgstr "რედაქტორის პარამეტრები"
 
 #: STRINGTABLE.IDS_RB_PANEL_FILTERL
-msgid "выбор фильтра"
-msgstr "ფილტრის შერჩევა"
+msgid "выбор фильтров просмотра"
+msgstr "სანახავი ფილტრების შერჩევა"
 
 #: STRINGTABLE.IDS_RB_PANEL_SORTL
 msgid "сортировка"
@@ -230,6 +230,10 @@ msgstr "რეკომენდებული საკვანძო პა�
 msgid "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
 msgstr "რეკომენდებული MIDI მართვის პანელის პარამეტრები თავსებადი Adobe Premiere Pro კონტროლთან."
 
+#: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
+msgid "Встроенные фильтры"
+msgstr "ჩამონტაჟებული ფილტრები"
+
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYL
 msgid "Ключ"
 msgstr "Გასაღები"
@@ -276,8 +280,8 @@ msgid "Фильтровать по назначению 2"
 msgstr "გაფილტვრა დანიშნულების 2-ის მიხედვით"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
-msgid "Очистить фильтр"
-msgstr "ფილტრის გასუფთავება"
+msgid "Очистить фильтры"
+msgstr "ფილტრების გასუფთავება"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEART
 msgid "Очистка фильтров"
@@ -299,17 +303,117 @@ msgstr "ფილტრის დაყენება"
 msgid "Установка фильтра показывает все недействительные элементы."
 msgstr "ფილტრის დაყენება აჩვენებს ყველა არასწორ ელემენტს."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERL
+#: STRINGTABLE.IDS_RB_LV_FILTER_ONL
 msgid "Применить фильтр"
 msgstr "ფილტრის გამოყენება"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERT
+#: STRINGTABLE.IDS_RB_LV_FILTER_ONT
 msgid "Применение фильтра"
 msgstr "ფილტრის გამოყენება"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ENTERD
+#: STRINGTABLE.IDS_RB_LV_FILTER_OND
 msgid "Применение фильтра показывает выбранные элементы."
 msgstr "ფილტრის გამოყენება აჩვენებს არჩეულ ელემენტებს."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFL
+msgid "Отменить фильтр"
+msgstr "ფილტრის გაუქმება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFT
+msgid "Отмена фильтра"
+msgstr "ფილტრის გაუქმება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_OFFD
+msgid "Отмена фильтра покажет все элементы."
+msgstr "ფილტრის გაუქმებით გამოჩნდება ყველა ელემენტი."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
+msgid "Показать «Мультимедиа кнопки»"
+msgstr ""მულტიმედიური ღილაკების" ჩვენება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
+msgid "Фильтровать по группе «Мультимедиа кнопки»"
+msgstr "გაფილტვრა "მულტიმედია ღილაკების" ჯგუფის მიხედვით"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
+msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
+msgstr "ფილტრის გამოყენებისას გამოჩნდება Multimedia Buttons ჯგუფის წევრები."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
+msgid "Показать «Аудио микшер»"
+msgstr ""აუდიო მიქსერის" ჩვენება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
+msgid "Фильтровать по группе «Аудио микшер»"
+msgstr "ფილტრი "აუდიო მიქსერის" ჯგუფის მიხედვით"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
+msgid "Применение фильтра покажет членов группы «Аудио микшер»."
+msgstr "ფილტრის გამოყენებისას გამოჩნდება აუდიო მიქსერის ჯგუფის წევრები."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
+msgid "Показать «Умный дом»."
+msgstr "ჭკვიანი სახლის ჩვენება."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
+msgid "Фильтровать по группе «Умный дом»"
+msgstr "გაფილტვრა „ჭკვიანი სახლის“ ჯგუფის მიხედვით"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
+msgid "Применение фильтра покажет членов группы «Умный дом»."
+msgstr "ფილტრის გამოყენებისას გამოჩნდება Smart Home ჯგუფის წევრები."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
+msgid "Тип фильтра"
+msgstr "ფილტრის ტიპი"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNT
+msgid "Установка типа применяемых фильтров"
+msgstr "გამოსაყენებელი ფილტრების ტიპის დაყენება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
+msgid "Типы применяемых фильтров имеют два логических состояния: 'И','ИЛИ'."
+msgstr "გამოყენებული ფილტრების ტიპებს აქვთ ორი ლოგიკური მდგომარეობა: "AND", "OR"."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
+msgid "Выбор типа фильтрации"
+msgstr "ფილტრის ტიპის შერჩევა"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORL
+msgid "Показывать любые совпадения"
+msgstr "ნებისმიერი მატჩის ჩვენება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORT
+msgid "Показывать записи с любым совпадением"
+msgstr "აჩვენეთ ჩანაწერები ნებისმიერი მატჩით"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
+msgid "Фильтр имеет состояние логического 'И' и показывает любые совпадения."
+msgstr "ფილტრს აქვს ლოგიკური „AND“ მდგომარეობა და აჩვენებს ნებისმიერ შესატყვისს."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
+msgid "Показывать только полные совпадения"
+msgstr "მხოლოდ სრული შესატყვისების ჩვენება"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDT
+msgid "Показывать записи только с полным совпадением"
+msgstr "აჩვენეთ ჩანაწერები მხოლოდ ზუსტი შესატყვისებით"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
+msgid "Фильтр имеет состояние логического 'ИЛИ' и показывает только полные совпадения."
+msgstr "ფილტრს აქვს ლოგიკური „OR“ მდგომარეობა და აჩვენებს მხოლოდ სრულ შესაბამისობას."
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
+msgid "Авто отправка данных в фильтре"
+msgstr "ფილტრში მონაცემების ავტომატური გაგზავნა"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
+msgid "Авто отправка вводимых значений фильтра"
+msgstr "შეყვანილი ფილტრის მნიშვნელობების ავტომატური გაგზავნა"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
+msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
+msgstr "ავტომატურად წარუდგენს შეყვანის მნიშვნელობებს ჩაშენებულ ფილტრში."
 
 #: STRINGTABLE.IDS_RB_LV_EXT_MODEL
 msgid "Показать сортировку"
