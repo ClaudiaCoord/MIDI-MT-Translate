@@ -40,7 +40,7 @@ msgstr "opcije urednika"
 
 #: STRINGTABLE.IDS_RB_PANEL_FILTERL
 msgid "выбор фильтров просмотра"
-msgstr ""
+msgstr "izbor filtera za gledanje"
 
 #: STRINGTABLE.IDS_RB_PANEL_SORTL
 msgid "сортировка"
@@ -232,7 +232,7 @@ msgstr "Preporučene postavke MIDI kontrolne table kompatibilne sa Adobe Premier
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
 msgid "Встроенные фильтры"
-msgstr ""
+msgstr "Ugrađeni filteri"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYL
 msgid "Ключ"
@@ -281,7 +281,7 @@ msgstr "Filtrirajte prema odredištu 2"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
 msgid "Очистить фильтры"
-msgstr ""
+msgstr "Obriši filtere"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEART
 msgid "Очистка фильтров"
@@ -317,103 +317,103 @@ msgstr "Primjena filtera prikazuje odabrane stavke."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_OFFL
 msgid "Отменить фильтр"
-msgstr ""
+msgstr "Otkaži filter"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_OFFT
 msgid "Отмена фильтра"
-msgstr ""
+msgstr "Otkaži filter"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_OFFD
 msgid "Отмена фильтра покажет все элементы."
-msgstr ""
+msgstr "Otkazivanjem filtera će se prikazati sve stavke."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
 msgid "Показать «Мультимедиа кнопки»"
-msgstr ""
+msgstr "Prikaži "Multimedijalna dugmad""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr ""
+msgstr "Filtrirajte prema grupi „Multimedijalna dugmad“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
-msgstr ""
+msgstr "Primjena filtera će prikazati članove grupe Multimedijalna dugmad."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
 msgid "Показать «Аудио микшер»"
-msgstr ""
+msgstr "Emisija "Audio mikser""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
 msgid "Фильтровать по группе «Аудио микшер»"
-msgstr ""
+msgstr "Filtrirajte prema grupi „Audio mikser“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
-msgstr ""
+msgstr "Primjena filtera će prikazati članove grupe Audio Mixer."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
 msgid "Показать «Умный дом»."
-msgstr ""
+msgstr "Prikaži pametni dom."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
-msgstr ""
+msgstr "Filtrirajte prema grupi „Pametna kuća“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr ""
+msgstr "Primjena filtera će prikazati članove grupe Smart Home."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
 msgid "Тип фильтра"
-msgstr ""
+msgstr "Vrsta filtera"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNT
 msgid "Установка типа применяемых фильтров"
-msgstr ""
+msgstr "Postavljanje vrste filtera za primjenu"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
 msgid "Типы применяемых фильтров имеют два логических состояния: 'И','ИЛИ'."
-msgstr ""
+msgstr "Tipovi primijenjenih filtera imaju dva logička stanja: 'AND', 'OR'."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
 msgid "Выбор типа фильтрации"
-msgstr ""
+msgstr "Odabir tipa filtera"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORL
 msgid "Показывать любые совпадения"
-msgstr ""
+msgstr "Prikaži bilo koje utakmice"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORT
 msgid "Показывать записи с любым совпадением"
-msgstr ""
+msgstr "Prikaži unose sa bilo kojim podudaranjem"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
 msgid "Фильтр имеет состояние логического 'И' и показывает любые совпадения."
-msgstr ""
+msgstr "Filter ima logičko 'AND' stanje i prikazuje sva podudaranja."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
-msgstr ""
+msgstr "Prikaži samo kompletna podudaranja"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDT
 msgid "Показывать записи только с полным совпадением"
-msgstr ""
+msgstr "Prikaži samo zapise sa tačnim podudaranjem"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
 msgid "Фильтр имеет состояние логического 'ИЛИ' и показывает только полные совпадения."
-msgstr ""
+msgstr "Filter ima logičko 'ILI' stanje i prikazuje samo potpuna podudaranja."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"
-msgstr ""
+msgstr "Automatsko slanje podataka u filter"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
 msgid "Авто отправка вводимых значений фильтра"
-msgstr ""
+msgstr "Automatsko slanje unesenih vrijednosti filtera"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
-msgstr ""
+msgstr "Automatski šalje ulazne vrijednosti u ugrađeni filter."
 
 #: STRINGTABLE.IDS_RB_LV_EXT_MODEL
 msgid "Показать сортировку"
