@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-22 19:41+0300\n"
+"POT-Creation-Date: 2023-09-23 13:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgid "редактировать MIDI ключ"
 msgstr "MIDIキーを編集する"
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITSETL
-msgid "установить MIDI ключ как..."
+msgid "установить MIDI ключ как.."
 msgstr "MIDI キーを次のように設定します..."
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITOPTL
@@ -63,7 +63,7 @@ msgid "Панель быстрого доступа"
 msgstr "クイックアクセスツールバー"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
-msgid "&Сохранить             "
+msgid "&Сохранить"
 msgstr "＆保存"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
@@ -87,7 +87,7 @@ msgid "Экспортировать отредактированную конф�
 msgstr "編集した構成を新しいファイルにエクスポートします。"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
-msgid "&Импорт                "
+msgid "&Импорт"
 msgstr "＆輸入"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
@@ -99,7 +99,7 @@ msgid "Импортировать конфигурацию из файла."
 msgstr "ファイルから構成をインポートします。"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
-msgid "&Выход         "
+msgid "&Выход"
 msgstr "＆出口"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT
@@ -199,8 +199,8 @@ msgid "Читать MIDI код"
 msgstr "MIDIコードを読み取る"
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODET
-msgid "Чтение MIDI кода"
-msgstr "MIDIコードの読み込み"
+msgid "Прочесть MIDI код контрола"
+msgstr "MIDIコントロールコードを読み取る"
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODED
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
@@ -223,11 +223,11 @@ msgid "MIDI панель управления"
 msgstr "MIDIコントロールパネル"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYST
-msgid "Рекомендуемые настройки ключей"
-msgstr "推奨されるキー設定"
+msgid "Рекомендуемые настройки"
+msgstr "推奨設定"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSD
-msgid "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
+msgid "Рекомендуемые настройки панели управления MIDI, совместимые с элементами управления Adobe Premiere Pro."
 msgstr "Adobe Premiere Pro コントロールと互換性のある推奨 MIDI コントロール パネル設定。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
@@ -243,8 +243,8 @@ msgid "Фильтровать по MIDI ключу"
 msgstr "MIDIキーによるフィルター"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYD
-msgid "Показывать только совпадения MIDI ключей."
-msgstr "一致する MIDI キーのみを表示します。"
+msgid "Показывать только совпадения в группе MIDI ключей."
+msgstr "MIDI キー グループ内の一致のみを表示します。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENEL
 msgid "Сцена"
@@ -255,8 +255,8 @@ msgid "Фильтровать по MIDI сцене"
 msgstr "MIDIシーンでフィルターをかける"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENED
-msgid "Показывать только совпадения MIDI сцены."
-msgstr "MIDI シーンの一致のみを表示します。"
+msgid "Показывать только совпадения в группе MIDI сцены."
+msgstr "MIDI シーン グループ内の一致のみを表示します。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETL
 msgid "Назначение 1"
@@ -267,9 +267,8 @@ msgid "Фильтровать по назначению 1"
 msgstr "目的地で絞り込む 1"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
-msgid "Показывать только совпадения по целевому назначению."
-msgstr "意図された目的に一致するもののみを表示します。"
+msgid "Показывать только совпадения в группе по целевому назначению 1."
+msgstr "ターゲット グループ 1 内の一致のみを表示します。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGL
 msgid "Назначение 2"
@@ -278,6 +277,10 @@ msgstr "目的2"
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
 msgid "Фильтровать по назначению 2"
 msgstr "目的地で絞り込む 2"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
+msgid "Показывать только совпадения в группе по целевому назначению 2."
+msgstr "ターゲット グループ 2 内の一致のみを表示します。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
 msgid "Очистить фильтры"
@@ -341,7 +344,7 @@ msgstr "フィルターを適用すると、「マルチメディア ボタン�
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
 msgid "Показать «Аудио микшер»"
-msgstr "「オーディオミキサー」を表示"
+msgstr "「オーディオミキサー」を表示する"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
 msgid "Фильтровать по группе «Аудио микшер»"
@@ -372,8 +375,8 @@ msgid "Установка типа применяемых фильтров"
 msgstr "適用するフィルターの種類を設定する"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
-msgid "Типы применяемых фильтров имеют два логических состояния: 'И','ИЛИ'."
-msgstr "適用されるフィルターの種類には、「AND」、「OR」の 2 つの論理状態があります。"
+msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
+msgstr "使用されるフィルターの種類には、「AND」、「OR」の 2 つの論理状態があります。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
 msgid "Выбор типа фильтрации"
@@ -388,8 +391,8 @@ msgid "Показывать записи с любым совпадением"
 msgstr "一致するエントリを表示する"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
-msgid "Фильтр имеет состояние логического 'И' и показывает любые совпадения."
-msgstr "フィルターには論理「AND」状態があり、一致するものがあれば表示されます。"
+msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
+msgstr "フィルターには論理 AND 状態があり、一致するものがあれば表示されます。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
@@ -400,16 +403,16 @@ msgid "Показывать записи только с полным совпа
 msgstr "完全に一致するレコードのみを表示する"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
-msgid "Фильтр имеет состояние логического 'ИЛИ' и показывает только полные совпадения."
-msgstr "フィルターは論理「OR」状態を持ち、完全に一致するもののみを表示します。"
+msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
+msgstr "フィルターは論理 OR 状態を持ち、完全に一致するもののみを表示します。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"
 msgstr "フィルター内のデータの自動送信"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
-msgid "Авто отправка вводимых значений фильтра"
-msgstr "入力されたフィルター値の自動送信"
+msgid "Авто отправка вводимых значений в фильтре"
+msgstr "フィルターに入力された値の自動送信"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
@@ -453,7 +456,7 @@ msgstr "昇順と MIDI 宛先による並べ替え 2."
 
 #: STRINGTABLE.IDS_RB_LV_SORTDOWN_KEYT
 msgid "Сортировка по убыванию и MIDI ключу."
-msgstr "降順とMIDIキーによるソート。"
+msgstr "降順とMIDIキーでソートします。"
 
 #: STRINGTABLE.IDS_RB_LV_SORTDOWN_SCENET
 msgid "Сортировка по убыванию и MIDI сцене."
