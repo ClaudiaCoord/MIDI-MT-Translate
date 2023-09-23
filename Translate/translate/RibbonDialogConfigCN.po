@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-22 19:41+0300\n"
+"POT-Creation-Date: 2023-09-23 13:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgid "редактировать MIDI ключ"
 msgstr "编辑 MIDI 键"
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITSETL
-msgid "установить MIDI ключ как..."
+msgid "установить MIDI ключ как.."
 msgstr "将 MIDI 键设置为..."
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITOPTL
@@ -63,7 +63,7 @@ msgid "Панель быстрого доступа"
 msgstr "快捷工具栏"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
-msgid "&Сохранить             "
+msgid "&Сохранить"
 msgstr "＆节省"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
@@ -87,7 +87,7 @@ msgid "Экспортировать отредактированную конф�
 msgstr "将编辑的配置导出到新文件。"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
-msgid "&Импорт                "
+msgid "&Импорт"
 msgstr "＆进口"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
@@ -99,7 +99,7 @@ msgid "Импортировать конфигурацию из файла."
 msgstr "从文件导入配置。"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
-msgid "&Выход         "
+msgid "&Выход"
 msgstr "＆出口"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT
@@ -199,8 +199,8 @@ msgid "Читать MIDI код"
 msgstr "读取 MIDI 代码"
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODET
-msgid "Чтение MIDI кода"
-msgstr "读取 MIDI 代码"
+msgid "Прочесть MIDI код контрола"
+msgstr "读取MIDI控制代码"
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODED
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
@@ -223,12 +223,12 @@ msgid "MIDI панель управления"
 msgstr "MIDI控制面板"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYST
-msgid "Рекомендуемые настройки ключей"
-msgstr "推荐按键设置"
+msgid "Рекомендуемые настройки"
+msgstr "推荐设置"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSD
-msgid "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
-msgstr "推荐与 Adob​​e Premiere Pro 控制兼容的 MIDI 控制面板设置。"
+msgid "Рекомендуемые настройки панели управления MIDI, совместимые с элементами управления Adobe Premiere Pro."
+msgstr "推荐与 Adob​​e Premiere Pro 控件兼容的 MIDI 控制面板设置。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
 msgid "Встроенные фильтры"
@@ -243,8 +243,8 @@ msgid "Фильтровать по MIDI ключу"
 msgstr "按 MIDI 键过滤"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYD
-msgid "Показывать только совпадения MIDI ключей."
-msgstr "仅显示 MIDI 键匹配。"
+msgid "Показывать только совпадения в группе MIDI ключей."
+msgstr "仅显示 MIDI 键组内的匹配项。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENEL
 msgid "Сцена"
@@ -255,8 +255,8 @@ msgid "Фильтровать по MIDI сцене"
 msgstr "按 MIDI 场景过滤"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENED
-msgid "Показывать только совпадения MIDI сцены."
-msgstr "仅显示 MIDI 场景匹配。"
+msgid "Показывать только совпадения в группе MIDI сцены."
+msgstr "仅显示 MIDI 场景组中的匹配项。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETL
 msgid "Назначение 1"
@@ -267,9 +267,8 @@ msgid "Фильтровать по назначению 1"
 msgstr "按目的地过滤 1"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
-msgid "Показывать только совпадения по целевому назначению."
-msgstr "仅显示按预期目的匹配的内容。"
+msgid "Показывать только совпадения в группе по целевому назначению 1."
+msgstr "仅显示目标组 1 中的匹配项。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGL
 msgid "Назначение 2"
@@ -278,6 +277,10 @@ msgstr "目的2"
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
 msgid "Фильтровать по назначению 2"
 msgstr "按目的地过滤 2"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
+msgid "Показывать только совпадения в группе по целевому назначению 2."
+msgstr "仅显示目标组 2 中的匹配项。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
 msgid "Очистить фильтры"
@@ -325,7 +328,7 @@ msgstr "取消筛选"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_OFFD
 msgid "Отмена фильтра покажет все элементы."
-msgstr "取消过滤器将显示所有项目。"
+msgstr "取消过滤器将显示所有元素。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
 msgid "Показать «Мультимедиа кнопки»"
@@ -357,7 +360,7 @@ msgstr "展示智能家居。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "按“智能家居”组过滤"
+msgstr "按“智能家居”组筛选"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
 msgid "Применение фильтра покажет членов группы «Умный дом»."
@@ -372,8 +375,8 @@ msgid "Установка типа применяемых фильтров"
 msgstr "设置要应用的过滤器类型"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
-msgid "Типы применяемых фильтров имеют два логических состояния: 'И','ИЛИ'."
-msgstr "应用的过滤器的类型有两种逻辑状态：“AND”、“OR”。"
+msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
+msgstr "使用的过滤器类型有两种逻辑状态：“AND”、“OR”。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
 msgid "Выбор типа фильтрации"
@@ -388,8 +391,8 @@ msgid "Показывать записи с любым совпадением"
 msgstr "显示任何匹配的条目"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
-msgid "Фильтр имеет состояние логического 'И' и показывает любые совпадения."
-msgstr "该过滤器具有逻辑“AND”状态并显示所有匹配项。"
+msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
+msgstr "该过滤器具有逻辑 AND 状态并显示所有匹配项。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
@@ -400,16 +403,16 @@ msgid "Показывать записи только с полным совпа
 msgstr "仅显示完全匹配的记录"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
-msgid "Фильтр имеет состояние логического 'ИЛИ' и показывает только полные совпадения."
-msgstr "该过滤器具有逻辑“OR”状态，并且仅显示完全匹配。"
+msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
+msgstr "该过滤器具有逻辑“或”状态，并且仅显示完全匹配。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"
 msgstr "自动发送过滤器中的数据"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
-msgid "Авто отправка вводимых значений фильтра"
-msgstr "自动发送输入的过滤器值"
+msgid "Авто отправка вводимых значений в фильтре"
+msgstr "自动发送过滤器中输入的值"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
