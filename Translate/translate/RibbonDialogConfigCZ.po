@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-22 19:41+0300\n"
+"POT-Creation-Date: 2023-09-23 13:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgid "редактировать MIDI ключ"
 msgstr "upravit MIDI klíč"
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITSETL
-msgid "установить MIDI ключ как..."
+msgid "установить MIDI ключ как.."
 msgstr "nastavit MIDI klíč jako..."
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITOPTL
@@ -63,7 +63,7 @@ msgid "Панель быстрого доступа"
 msgstr "Panel nástrojů Rychlý přístup"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
-msgid "&Сохранить             "
+msgid "&Сохранить"
 msgstr "&Uložit"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
@@ -87,7 +87,7 @@ msgid "Экспортировать отредактированную конф�
 msgstr "Exportujte upravenou konfiguraci do nového souboru."
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
-msgid "&Импорт                "
+msgid "&Импорт"
 msgstr "&Import"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
@@ -99,7 +99,7 @@ msgid "Импортировать конфигурацию из файла."
 msgstr "Import konfigurace ze souboru."
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
-msgid "&Выход         "
+msgid "&Выход"
 msgstr "&Výstup"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT
@@ -176,7 +176,7 @@ msgstr "Multimediální tlačítka"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Nastavte skupinu jako Multimediální tlačítka"
+msgstr "Nastavte skupinu jako "Multimediální tlačítka""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
@@ -188,7 +188,7 @@ msgstr "Audio mixer"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERT
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Nastavit skupinu jako Audio Mixer"
+msgstr "Nastavit skupinu jako "Audio Mixer""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERD
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
@@ -199,12 +199,12 @@ msgid "Читать MIDI код"
 msgstr "Přečtěte si MIDI kód"
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODET
-msgid "Чтение MIDI кода"
-msgstr "Čtení MIDI kódu"
+msgid "Прочесть MIDI код контрола"
+msgstr "Přečtěte si kontrolní kód MIDI"
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODED
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
-msgstr "Číst MIDI kód ​​z ovládací plochy nebo MIDI klávesnice."
+msgstr "Čtete MIDI kód ​​z ovládacího panelu nebo MIDI klávesnice."
 
 #: STRINGTABLE.IDS_RB_LV_EDIT_MODEL
 msgid "Только цифровой ввод"
@@ -223,12 +223,12 @@ msgid "MIDI панель управления"
 msgstr "MIDI ovládací panel"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYST
-msgid "Рекомендуемые настройки ключей"
-msgstr "Doporučená nastavení klíče"
+msgid "Рекомендуемые настройки"
+msgstr "Doporučená nastavení"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSD
-msgid "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
-msgstr "Doporučená nastavení ovládacího panelu MIDI kompatibilní s ovládáním Adobe Premiere Pro."
+msgid "Рекомендуемые настройки панели управления MIDI, совместимые с элементами управления Adobe Premiere Pro."
+msgstr "Doporučená nastavení ovládacího panelu MIDI kompatibilní s ovládacími prvky Adobe Premiere Pro."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
 msgid "Встроенные фильтры"
@@ -243,8 +243,8 @@ msgid "Фильтровать по MIDI ключу"
 msgstr "Filtrování podle MIDI klíče"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYD
-msgid "Показывать только совпадения MIDI ключей."
-msgstr "Zobrazit pouze shody MIDI klíčů."
+msgid "Показывать только совпадения в группе MIDI ключей."
+msgstr "Zobrazit pouze shody v rámci skupiny MIDI klíčů."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENEL
 msgid "Сцена"
@@ -255,8 +255,8 @@ msgid "Фильтровать по MIDI сцене"
 msgstr "Filtrování podle MIDI scény"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENED
-msgid "Показывать только совпадения MIDI сцены."
-msgstr "Zobrazit pouze shody MIDI scén."
+msgid "Показывать только совпадения в группе MIDI сцены."
+msgstr "Zobrazit pouze shody ve skupině scén MIDI."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETL
 msgid "Назначение 1"
@@ -267,9 +267,8 @@ msgid "Фильтровать по назначению 1"
 msgstr "Filtrovat podle cíle 1"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
-msgid "Показывать только совпадения по целевому назначению."
-msgstr "Zobrazit pouze shody podle zamýšleného účelu."
+msgid "Показывать только совпадения в группе по целевому назначению 1."
+msgstr "Zobrazit pouze zápasy v cílové skupině 1."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGL
 msgid "Назначение 2"
@@ -278,6 +277,10 @@ msgstr "Účel 2"
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
 msgid "Фильтровать по назначению 2"
 msgstr "Filtrovat podle cíle 2"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
+msgid "Показывать только совпадения в группе по целевому назначению 2."
+msgstr "Zobrazit pouze zápasy v cílové skupině 2."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
 msgid "Очистить фильтры"
@@ -372,8 +375,8 @@ msgid "Установка типа применяемых фильтров"
 msgstr "Nastavení typu filtrů, které se mají použít"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
-msgid "Типы применяемых фильтров имеют два логических состояния: 'И','ИЛИ'."
-msgstr "Typy použitých filtrů mají dva logické stavy: 'A', 'NEBO'."
+msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
+msgstr "Použité typy filtrů mají dva logické stavy: „A“, „NEBO“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
 msgid "Выбор типа фильтрации"
@@ -388,8 +391,8 @@ msgid "Показывать записи с любым совпадением"
 msgstr "Zobrazit záznamy s jakoukoli shodou"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
-msgid "Фильтр имеет состояние логического 'И' и показывает любые совпадения."
-msgstr "Filtr má logický stav „AND“ a zobrazuje všechny shody."
+msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
+msgstr "Filtr má logický stav AND a zobrazuje všechny shody."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
@@ -400,16 +403,16 @@ msgid "Показывать записи только с полным совпа
 msgstr "Zobrazit pouze záznamy s přesnou shodou"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
-msgid "Фильтр имеет состояние логического 'ИЛИ' и показывает только полные совпадения."
-msgstr "Filtr má logický stav „NEBO“ a zobrazuje pouze úplné shody."
+msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
+msgstr "Filtr má logický stav NEBO a zobrazuje pouze úplné shody."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"
 msgstr "Automatické odesílání dat ve filtru"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
-msgid "Авто отправка вводимых значений фильтра"
-msgstr "Automatické odesílání zadaných hodnot filtru"
+msgid "Авто отправка вводимых значений в фильтре"
+msgstr "Automatické odesílání zadaných hodnot ve filtru"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
@@ -425,7 +428,7 @@ msgstr "podle klíče"
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_KEYT
 msgid "Сортировка по возрастанию и MIDI ключу."
-msgstr "Seřadit podle vzestupně a podle MIDI klíče."
+msgstr "Seřadit podle vzestupně a MIDI klíče."
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_SCENEL
 msgid "по сцене"
@@ -441,7 +444,7 @@ msgstr "po domluvě 1"
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETT
 msgid "Сортировка по возрастанию и MIDI назначению 1."
-msgstr "Třídit podle vzestupně a MIDI cíle 1."
+msgstr "Třídění vzestupně a MIDI cíle 1."
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETLONGL
 msgid "по назначению 2"
