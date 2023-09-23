@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-22 19:41+0300\n"
+"POT-Creation-Date: 2023-09-23 13:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgid "редактировать MIDI ключ"
 msgstr "modifier la touche MIDI"
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITSETL
-msgid "установить MIDI ключ как..."
+msgid "установить MIDI ключ как.."
 msgstr "définir la clé MIDI comme..."
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITOPTL
@@ -63,7 +63,7 @@ msgid "Панель быстрого доступа"
 msgstr "Barre d'accès rapide"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVEL
-msgid "&Сохранить             "
+msgid "&Сохранить"
 msgstr "&Sauvegarder"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SAVET
@@ -87,7 +87,7 @@ msgid "Экспортировать отредактированную конф�
 msgstr "Exportez la configuration modifiée vers un nouveau fichier."
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
-msgid "&Импорт                "
+msgid "&Импорт"
 msgstr "&Importer"
 
 #: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
@@ -99,7 +99,7 @@ msgid "Импортировать конфигурацию из файла."
 msgstr "Importer la configuration à partir du fichier."
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITL
-msgid "&Выход         "
+msgid "&Выход"
 msgstr "&Sortie"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITT
@@ -176,7 +176,7 @@ msgstr "Boutons multimédia"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Définissez le groupe comme Boutons multimédia"
+msgstr "Définissez le groupe comme "Boutons multimédia""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
@@ -188,7 +188,7 @@ msgstr "Mélangeur audio"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERT
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Définir le groupe comme Audio Mixer"
+msgstr "Définir le groupe comme "Audio Mixer""
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERD
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
@@ -199,8 +199,8 @@ msgid "Читать MIDI код"
 msgstr "Lire le code MIDI"
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODET
-msgid "Чтение MIDI кода"
-msgstr "Lecture du code MIDI"
+msgid "Прочесть MIDI код контрола"
+msgstr "Lire le code de contrôle MIDI"
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODED
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
@@ -223,12 +223,12 @@ msgid "MIDI панель управления"
 msgstr "Panneau de contrôle MIDI"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYST
-msgid "Рекомендуемые настройки ключей"
-msgstr "Paramètres clés recommandés"
+msgid "Рекомендуемые настройки"
+msgstr "Paramètres recommandés"
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSD
-msgid "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
-msgstr "Paramètres du panneau de commande MIDI recommandés compatibles avec le contrôle Adobe Premiere Pro."
+msgid "Рекомендуемые настройки панели управления MIDI, совместимые с элементами управления Adobe Premiere Pro."
+msgstr "Paramètres du panneau de commande MIDI recommandés compatibles avec les commandes Adobe Premiere Pro."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
 msgid "Встроенные фильтры"
@@ -243,8 +243,8 @@ msgid "Фильтровать по MIDI ключу"
 msgstr "Filtrer par touche MIDI"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYD
-msgid "Показывать только совпадения MIDI ключей."
-msgstr "Afficher uniquement les correspondances de touches MIDI."
+msgid "Показывать только совпадения в группе MIDI ключей."
+msgstr "Afficher uniquement les correspondances au sein d'un groupe de touches MIDI."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENEL
 msgid "Сцена"
@@ -255,8 +255,8 @@ msgid "Фильтровать по MIDI сцене"
 msgstr "Filtrer par scène MIDI"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENED
-msgid "Показывать только совпадения MIDI сцены."
-msgstr "Afficher uniquement les correspondances de scène MIDI."
+msgid "Показывать только совпадения в группе MIDI сцены."
+msgstr "Afficher uniquement les correspondances dans le groupe de scènes MIDI."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETL
 msgid "Назначение 1"
@@ -267,9 +267,8 @@ msgid "Фильтровать по назначению 1"
 msgstr "Filtrer par destination 1"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
-msgid "Показывать только совпадения по целевому назначению."
-msgstr "Afficher uniquement les correspondances par objectif prévu."
+msgid "Показывать только совпадения в группе по целевому назначению 1."
+msgstr "Afficher uniquement les correspondances dans le groupe cible 1."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGL
 msgid "Назначение 2"
@@ -278,6 +277,10 @@ msgstr "Objectif 2"
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
 msgid "Фильтровать по назначению 2"
 msgstr "Filtrer par destination 2"
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
+msgid "Показывать только совпадения в группе по целевому назначению 2."
+msgstr "Afficher uniquement les correspondances dans le groupe cible 2."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
 msgid "Очистить фильтры"
@@ -372,8 +375,8 @@ msgid "Установка типа применяемых фильтров"
 msgstr "Définir le type de filtres à appliquer"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
-msgid "Типы применяемых фильтров имеют два логических состояния: 'И','ИЛИ'."
-msgstr "Les types de filtres appliqués ont deux états logiques : « ET », « OU »."
+msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
+msgstr "Les types de filtres utilisés ont deux états logiques : « ET », « OU »."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
 msgid "Выбор типа фильтрации"
@@ -388,8 +391,8 @@ msgid "Показывать записи с любым совпадением"
 msgstr "Afficher les entrées avec n'importe quelle correspondance"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
-msgid "Фильтр имеет состояние логического 'И' и показывает любые совпадения."
-msgstr "Le filtre a un état logique « ET » et affiche toutes les correspondances."
+msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
+msgstr "Le filtre a un état ET logique et affiche toutes les correspondances."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
@@ -400,16 +403,16 @@ msgid "Показывать записи только с полным совпа
 msgstr "Afficher uniquement les enregistrements avec des correspondances exactes"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
-msgid "Фильтр имеет состояние логического 'ИЛИ' и показывает только полные совпадения."
-msgstr "Le filtre a un état logique « OU » et affiche uniquement les correspondances complètes."
+msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
+msgstr "Le filtre a un état OU logique et affiche uniquement les correspondances complètes."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"
 msgstr "Envoi automatique des données dans le filtre"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
-msgid "Авто отправка вводимых значений фильтра"
-msgstr "Envoi automatique des valeurs de filtre saisies"
+msgid "Авто отправка вводимых значений в фильтре"
+msgstr "Envoi automatique des valeurs saisies dans le filtre"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
