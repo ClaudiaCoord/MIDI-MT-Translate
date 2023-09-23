@@ -355,16 +355,16 @@ msgid "Применение фильтра покажет членов груп�
 msgstr "Durch Anwenden eines Filters werden die Mitglieder der Audio-Mixer-Gruppe angezeigt."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
-msgid "Показать «Умный дом»."
-msgstr "Smart Home anzeigen."
+msgid "Показать «Умный дом»"
+msgstr "Smart „Home anzeigen“"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "Filtern Sie nach der Gruppe „Smart Home“."
+msgstr "Filtern Sie nach der Gruppe „Home anzeigen“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr "Durch Anwenden eines Filters werden die Mitglieder der Smart Home-Gruppe angezeigt."
+msgstr "Durch Anwenden eines Filters werden die Mitglieder der „Home anzeigen“-Gruppe angezeigt."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
 msgid "Тип фильтра"

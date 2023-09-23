@@ -176,11 +176,11 @@ msgstr "Boutons multimédia"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Définissez le groupe comme "Boutons multimédia""
+msgstr "Définissez le groupe comme «Boutons multimédia»"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
-msgstr "Attribuez la touche MIDI sélectionnée au groupe « Boutons multimédia »."
+msgstr "Attribuez la touche MIDI sélectionnée au groupe «Boutons multimédia»."
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERL
 msgid "Аудио микшер"
@@ -188,11 +188,11 @@ msgstr "Mélangeur audio"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERT
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Définir le groupe comme "Audio Mixer""
+msgstr "Définir le groupe comme «Audio Mixer»"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERD
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
-msgstr "Attribuez la touche MIDI sélectionnée au groupe « Audio Mixer »."
+msgstr "Attribuez la touche MIDI sélectionnée au groupe «Audio Mixer»."
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODEL
 msgid "Читать MIDI код"
@@ -332,11 +332,11 @@ msgstr "L'annulation du filtre affichera tous les éléments."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Afficher les "boutons multimédia""
+msgstr "Afficher les «Boutons multimédia»"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr "Filtrer par groupe « Boutons multimédia »"
+msgstr "Filtrer par groupe «Boutons multimédia»"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
@@ -344,27 +344,27 @@ msgstr "L'application d'un filtre affichera les membres du groupe Boutons multim
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
 msgid "Показать «Аудио микшер»"
-msgstr "Afficher "Mixeur audio""
+msgstr "Afficher «Audio Mixer»"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
 msgid "Фильтровать по группе «Аудио микшер»"
-msgstr "Filtrer par groupe « Audio Mixer »"
+msgstr "Filtrer par groupe «Audio Mixer»"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
 msgstr "L’application d’un filtre affichera les membres du groupe Audio Mixer."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
-msgid "Показать «Умный дом»."
-msgstr "Afficher la maison intelligente."
+msgid "Показать «Умный дом»"
+msgstr "Afficher la «Maison intelligente»"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "Filtrer par groupe « Maison intelligente »"
+msgstr "Filtrer par groupe «Maison intelligente»"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr "L'application d'un filtre affichera les membres du groupe Smart Home."
+msgstr "L'application d'un filtre affichera les membres du groupe «Maison intelligente»."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
 msgid "Тип фильтра"
@@ -376,7 +376,7 @@ msgstr "Définir le type de filtres à appliquer"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
 msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
-msgstr "Les types de filtres utilisés ont deux états logiques : « ET », « OU »."
+msgstr "Les types de filtres utilisés ont deux états logiques : «ET», «OU»."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
 msgid "Выбор типа фильтрации"
@@ -392,7 +392,7 @@ msgstr "Afficher les entrées avec n'importe quelle correspondance"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
-msgstr "Le filtre a un état ET logique et affiche toutes les correspondances."
+msgstr "Le filtre a un état «ET» logique et affiche toutes les correspondances."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
@@ -404,7 +404,7 @@ msgstr "Afficher uniquement les enregistrements avec des correspondances exactes
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
-msgstr "Le filtre a un état OU logique et affiche uniquement les correspondances complètes."
+msgstr "Le filtre a un état «OU» logique et affiche uniquement les correspondances complètes."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"

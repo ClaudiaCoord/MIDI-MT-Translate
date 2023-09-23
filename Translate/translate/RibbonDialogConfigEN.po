@@ -1,18 +1,20 @@
 #. extracted from RibbonDialogConfig.rc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-23 13:58+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2023-09-22 19:41+0300\n"
+"PO-Revision-Date: 2023-09-23 02:40+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"X-Generator: Poedit 2.0.7\n"
 "X-Merge-On: location\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #: STRINGTABLE.IDS_RB_DIALOG_LAST_OPENL
 msgid "Последние файлы:"
@@ -108,7 +110,7 @@ msgstr "Exit editor"
 
 #: STRINGTABLE.IDS_RB_DIALOG_EXITD
 msgid "Выход из редактора конфигурации MIDI ключей, если изменения не сохранены, они будут утеряны."
-msgstr "Exits the MIDI Key Configuration Editor; if changes are not saved, they will be lost."
+msgstr "Exits the MIDI Key Configuration Editor. If changes are not saved, they will be lost."
 
 #: STRINGTABLE.IDS_RB_LV_NEWL
 msgid "&Новый MIDI ключ"
@@ -176,7 +178,7 @@ msgstr "Multimedia buttons"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Set the group as "Multimedia Buttons""
+msgstr "Set the group as “Multimedia Buttons”"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
@@ -188,7 +190,7 @@ msgstr "Audio mixer"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERT
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Set group as "Audio Mixer""
+msgstr "Set group as “Audio Mixer”"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERD
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
@@ -332,7 +334,7 @@ msgstr "Canceling the filter will show all items."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Show "Multimedia Buttons""
+msgstr "Show “Multimedia buttons”"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
@@ -340,11 +342,11 @@ msgstr "Filter by “Multimedia buttons” group"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
-msgstr "Applying a filter will show the members of the Multimedia Buttons group."
+msgstr "Applying a filter will show the members of the “Multimedia Buttons” group."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
 msgid "Показать «Аудио микшер»"
-msgstr "Show "Audio Mixer""
+msgstr "Show “Audio Mixer”"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
 msgid "Фильтровать по группе «Аудио микшер»"
@@ -352,11 +354,11 @@ msgstr "Filter by “Audio Mixer” group"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
-msgstr "Applying a filter will show the members of the Audio Mixer group."
+msgstr "Applying a filter will show the members of the “Audio Mixer” group."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
-msgid "Показать «Умный дом»."
-msgstr "Show Smart Home."
+msgid "Показать «Умный дом»"
+msgstr "Show “Smart Home”"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
@@ -392,7 +394,7 @@ msgstr "Show entries with any match"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
-msgstr "The filter has a logical AND state and shows any matches."
+msgstr "The filter has a logical “AND” state and shows any matches."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
@@ -404,7 +406,7 @@ msgstr "Show records with exact matches only"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
-msgstr "The filter has a logical OR state and shows only complete matches."
+msgstr "The filter has a logical “OR” state and shows only complete matches."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"
@@ -412,11 +414,11 @@ msgstr "Automatic sending of data in the filter"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
 msgid "Авто отправка вводимых значений в фильтре"
-msgstr "Automatic sending of entered values ​​in the filter"
+msgstr "Automatic sending of entered values in the filter"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
-msgstr "Automatically submits input values ​​in a built-in filter."
+msgstr "Automatically submits input values to a built-in filter."
 
 #: STRINGTABLE.IDS_RB_LV_EXT_MODEL
 msgid "Показать сортировку"
@@ -432,7 +434,7 @@ msgstr "Sort by ascending and MIDI key."
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_SCENEL
 msgid "по сцене"
-msgstr "around the stage"
+msgstr "by scene"
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_SCENET
 msgid "Сортировка по возрастанию и MIDI сцене."
@@ -440,7 +442,7 @@ msgstr "Sorting by ascending and MIDI scene."
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETL
 msgid "по назначению 1"
-msgstr "by appointment 1"
+msgstr "by target 1"
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETT
 msgid "Сортировка по возрастанию и MIDI назначению 1."
@@ -448,7 +450,7 @@ msgstr "Sorting by ascending and MIDI destination 1."
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETLONGL
 msgid "по назначению 2"
-msgstr "by appointment 2"
+msgstr "by target 2"
 
 #: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETLONGT
 msgid "Сортировка по возрастанию и MIDI назначению 2."

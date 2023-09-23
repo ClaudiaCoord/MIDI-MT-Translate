@@ -355,8 +355,8 @@ msgid "Применение фильтра покажет членов груп�
 msgstr "Զտիչ կիրառելը ցույց կտա Audio Mixer խմբի անդամներին:"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
-msgid "Показать «Умный дом»."
-msgstr "Ցույց տալ խելացի տունը:"
+msgid "Показать «Умный дом»"
+msgstr "Ցույց տալ խելացի տունը"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"

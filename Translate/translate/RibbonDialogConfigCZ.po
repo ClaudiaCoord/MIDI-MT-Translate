@@ -176,7 +176,7 @@ msgstr "Multimediální tlačítka"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Nastavte skupinu jako "Multimediální tlačítka""
+msgstr "Nastavte skupinu jako „Multimediální tlačítka“"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
@@ -188,7 +188,7 @@ msgstr "Audio mixer"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERT
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Nastavit skupinu jako "Audio Mixer""
+msgstr "Nastavit skupinu jako „Audio Mixer“"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERD
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
@@ -204,7 +204,7 @@ msgstr "Přečtěte si kontrolní kód MIDI"
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODED
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
-msgstr "Čtete MIDI kód ​​z ovládacího panelu nebo MIDI klávesnice."
+msgstr "Čtete MIDI kód iz ovládacího panelu nebo MIDI klávesnice."
 
 #: STRINGTABLE.IDS_RB_LV_EDIT_MODEL
 msgid "Только цифровой ввод"
@@ -332,7 +332,7 @@ msgstr "Zrušením filtru se zobrazí všechny položky."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Zobrazit "Multimediální tlačítka""
+msgstr "Zobrazit „Multimediální tlačítka“"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
@@ -344,7 +344,7 @@ msgstr "Použitím filtru se zobrazí členové skupiny Multimediální tlačít
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
 msgid "Показать «Аудио микшер»"
-msgstr "Zobrazit "Audio Mixer""
+msgstr "Zobrazit „Audio Mixer“"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
 msgid "Фильтровать по группе «Аудио микшер»"
@@ -355,8 +355,8 @@ msgid "Применение фильтра покажет членов груп�
 msgstr "Použitím filtru se zobrazí členové skupiny Audio Mixer."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
-msgid "Показать «Умный дом»."
-msgstr "Zobrazit Smart Home."
+msgid "Показать «Умный дом»"
+msgstr "Zobrazit „Inteligentní domov“"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
@@ -364,7 +364,7 @@ msgstr "Filtrujte podle skupiny „Inteligentní domov“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr "Použitím filtru se zobrazí členové skupiny Smart Home."
+msgstr "Použitím filtru se zobrazí členové skupiny „Inteligentní domov“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
 msgid "Тип фильтра"
@@ -392,7 +392,7 @@ msgstr "Zobrazit záznamy s jakoukoli shodou"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
-msgstr "Filtr má logický stav AND a zobrazuje všechny shody."
+msgstr "Filtr má logický stav „A“ a zobrazuje všechny shody."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
@@ -404,7 +404,7 @@ msgstr "Zobrazit pouze záznamy s přesnou shodou"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
-msgstr "Filtr má logický stav NEBO a zobrazuje pouze úplné shody."
+msgstr "Filtr má logický stav „NEBO“ a zobrazuje pouze úplné shody."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"

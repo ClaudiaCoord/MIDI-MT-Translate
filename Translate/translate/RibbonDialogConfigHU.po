@@ -176,11 +176,11 @@ msgstr "Multimédiás gombok"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Állítsa be a csoportot "Multimédia gombokként""
+msgstr "Állítsa be a csoportot „Multimédia gombokként”"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
-msgstr "Rendelje hozzá a kiválasztott MIDI gombot a „Multimedia Buttons” csoporthoz."
+msgstr "Rendelje hozzá a kiválasztott MIDI gombot a „Multimédia gombokként” csoporthoz."
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERL
 msgid "Аудио микшер"
@@ -188,11 +188,11 @@ msgstr "Audio keverő"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERT
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Csoport beállítása „Audio Mixer”-ként"
+msgstr "Csoport beállítása „Audio keverő-ként"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERD
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
-msgstr "Rendelje hozzá a kiválasztott MIDI gombot az „Audio Mixer” csoporthoz."
+msgstr "Rendelje hozzá a kiválasztott MIDI gombot az „Audio keverő” csoporthoz."
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODEL
 msgid "Читать MIDI код"
@@ -332,7 +332,7 @@ msgstr "A szűrő törlésével az összes elem megjelenik."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
 msgid "Показать «Мультимедиа кнопки»"
-msgstr ""Multimédiás gombok" megjelenítése"
+msgstr "„Multimédia gombok” megjelenítése"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
@@ -340,11 +340,11 @@ msgstr "Szűrés a „Multimédia gombok” csoport szerint"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
-msgstr "A szűrő alkalmazása megjeleníti a Multimédia gombok csoport tagjait."
+msgstr "A szűrő alkalmazása megjeleníti a „Multimédia gombok” csoport tagjait."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
 msgid "Показать «Аудио микшер»"
-msgstr "Az "Audio Mixer" műsora"
+msgstr "Az „Audio Mixer” műsora"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
 msgid "Фильтровать по группе «Аудио микшер»"
@@ -352,11 +352,11 @@ msgstr "Szűrés „Audio Mixer” csoport szerint"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
-msgstr "A szűrő alkalmazása megjeleníti az Audio Mixer csoport tagjait."
+msgstr "A szűrő alkalmazása megjeleníti az „Audio Mixer” csoport tagjait."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
-msgid "Показать «Умный дом»."
-msgstr "Intelligens otthon megjelenítése."
+msgid "Показать «Умный дом»"
+msgstr "„Intelligens otthon” megjelenítése"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
@@ -392,7 +392,7 @@ msgstr "Bejegyzések megjelenítése bármilyen egyezéssel"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
-msgstr "A szűrőnek logikai ÉS állapota van, és minden egyezést megjelenít."
+msgstr "A szűrőnek logikai „ÉS” állapota van, és minden egyezést megjelenít."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
@@ -404,7 +404,7 @@ msgstr "Csak a pontos egyezéseket tartalmazó rekordok megjelenítése"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
-msgstr "A szűrőnek logikai VAGY állapota van, és csak a teljes egyezéseket mutatja."
+msgstr "A szűrőnek logikai „VAGY” állapota van, és csak a teljes egyezéseket mutatja."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"

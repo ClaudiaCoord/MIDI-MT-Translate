@@ -355,16 +355,16 @@ msgid "Применение фильтра покажет членов груп�
 msgstr "Použitím filtra sa zobrazia členovia skupiny Audio Mixer."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
-msgid "Показать «Умный дом»."
-msgstr "Zobraziť „Inteligentný dom“."
+msgid "Показать «Умный дом»"
+msgstr "Zobraziť „Inteligentný dom“"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "Filtrujte podľa skupiny „Smart Home“."
+msgstr "Filtrujte podľa skupiny „Inteligentný dom“"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr "Použitím filtra sa zobrazia členovia skupiny Smart Home."
+msgstr "Použitím filtra sa zobrazia členovia skupiny „Inteligentný dom“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
 msgid "Тип фильтра"
@@ -392,7 +392,7 @@ msgstr "Zobraziť záznamy s ľubovoľnou zhodou"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
-msgstr "Filter má logický stav AND a zobrazuje všetky zhody."
+msgstr "Filter má logický stav „A“ a zobrazuje všetky zhody."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
@@ -404,7 +404,7 @@ msgstr "Zobraziť iba záznamy s presnými zhodami"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
-msgstr "Filter má logický stav ALEBO a zobrazuje iba úplné zhody."
+msgstr "Filter má logický stav „ALEBO“ a zobrazuje iba úplné zhody."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"

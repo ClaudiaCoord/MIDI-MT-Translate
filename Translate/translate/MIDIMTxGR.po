@@ -1045,10 +1045,6 @@ msgid "Настройка MIDI контролов"
 msgstr "MIDI კონტროლის დაყენება"
 
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
-msgid "MIDI"
-msgstr ""
-
-#: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
 msgid "Информация"
 msgstr "ინფორმაცია"
 
@@ -1607,10 +1603,6 @@ msgstr "მხოლოდ შეცდომები"
 #: STRINGTABLE.IDM_MQTT_LOG_DEBUG
 msgid "все сообщения"
 msgstr "ყველა შეტყობინება"
-
-#: STRINGTABLE.IDS_ERRORID_EMPTY
-msgid "<тут пусто>"
-msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_UNDEFINED
 msgid "Эта ошибка не определена"

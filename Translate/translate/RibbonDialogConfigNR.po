@@ -176,11 +176,11 @@ msgstr "Multimedieknapper"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Sett gruppen som "Multimedia Buttons""
+msgstr "Sett gruppen som Multimedieknapper"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
-msgstr "Tilordne den valgte MIDI-tasten til "Multimedia Buttons"-gruppen."
+msgstr "Tilordne den valgte MIDI-tasten til Multimedieknapper-gruppen."
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERL
 msgid "Аудио микшер"
@@ -188,11 +188,11 @@ msgstr "Lydmikser"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERT
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Sett gruppe som "Audio Mixer""
+msgstr "Sett gruppe som Audio Mixer"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERD
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
-msgstr "Tilordne den valgte MIDI-tasten til "Audio Mixer"-gruppen."
+msgstr "Tilordne den valgte MIDI-tasten til Audio Mixer-gruppen."
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODEL
 msgid "Читать MIDI код"
@@ -332,11 +332,11 @@ msgstr "Hvis du avbryter filteret, vises alle elementene."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Vis "Multimedieknapper""
+msgstr "Vis Multimedieknapper"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr "Filtrer etter "Multimedieknapper"-gruppe"
+msgstr "Filtrer etter Multimedieknapper-gruppe"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
@@ -344,23 +344,23 @@ msgstr "Hvis du bruker et filter, vises medlemmene av Multimedia Buttons-gruppen
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
 msgid "Показать «Аудио микшер»"
-msgstr "Vis "Audio Mixer""
+msgstr "Vis Audio Mixer"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
 msgid "Фильтровать по группе «Аудио микшер»"
-msgstr "Filtrer etter "Audio Mixer"-gruppe"
+msgstr "Filtrer etter Audio Mixer-gruppe"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
 msgstr "Hvis du bruker et filter, vises medlemmene av Audio Mixer-gruppen."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
-msgid "Показать «Умный дом»."
-msgstr "Vis Smart Home."
+msgid "Показать «Умный дом»"
+msgstr "Vis Smart Home"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "Filtrer etter "Smart Home"-gruppe"
+msgstr "Filtrer etter Smart Home-gruppe"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
 msgid "Применение фильтра покажет членов группы «Умный дом»."
@@ -376,7 +376,7 @@ msgstr "Angi typen filtre som skal brukes"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
 msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
-msgstr "Filtertypene som brukes har to logiske tilstander: "OG", "ELLER"."
+msgstr "Filtertypene som brukes har to logiske tilstander: OG, ELLER."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
 msgid "Выбор типа фильтрации"

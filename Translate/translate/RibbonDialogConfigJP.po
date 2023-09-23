@@ -355,7 +355,7 @@ msgid "Применение фильтра покажет членов груп�
 msgstr "フィルターを適用すると、オーディオ ミキサー グループのメンバーが表示されます。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
-msgid "Показать «Умный дом»."
+msgid "Показать «Умный дом»"
 msgstr "スマートホームを表示します。"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT

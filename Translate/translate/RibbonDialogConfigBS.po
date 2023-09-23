@@ -176,7 +176,7 @@ msgstr "Multimedijalna dugmad"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Postavite grupu kao "Multimedijalna dugmad""
+msgstr "Postavite grupu kao “Multimedijska dugmad”"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
@@ -188,7 +188,7 @@ msgstr "Audio mikser"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERT
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Postavite grupu kao "Audio mikser""
+msgstr "Postavite grupu kao “Audio Mixer”"
 
 #: STRINGTABLE.IDS_RB_LV_SET_MIXERD
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
@@ -332,11 +332,11 @@ msgstr "Otkazivanjem filtera će se prikazati sve stavke."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Prikaži "Multimedijalna dugmad""
+msgstr "Prikaži „Multimedijalna dugmad“"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr "Filtrirajte prema grupi „Multimedijalna dugmad“."
+msgstr "Filtrirajte prema grupi „Multimedijalna dugmad“"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
@@ -344,19 +344,19 @@ msgstr "Primjena filtera će prikazati članove grupe Multimedijalna dugmad."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
 msgid "Показать «Аудио микшер»"
-msgstr "Emisija "Audio mikser""
+msgstr "Emisija „Audio mikser“"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
 msgid "Фильтровать по группе «Аудио микшер»"
-msgstr "Filtrirajte prema grupi „Audio mikser“."
+msgstr "Filtrirajte prema grupi „Audio mikser“"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
 msgstr "Primjena filtera će prikazati članove grupe Audio Mixer."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
-msgid "Показать «Умный дом»."
-msgstr "Prikaži pametni dom."
+msgid "Показать «Умный дом»"
+msgstr "Prikaži „Pametna kuća“"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
@@ -364,7 +364,7 @@ msgstr "Filtrirajte prema grupi „Pametna kuća“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr "Primjena filtera će prikazati članove grupe Smart Home."
+msgstr "Primjena filtera će prikazati članove grupe „Pametna kuća“."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
 msgid "Тип фильтра"
@@ -392,7 +392,7 @@ msgstr "Prikaži unose sa bilo kojim podudaranjem"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
-msgstr "Filter ima logičko I stanje i prikazuje sva podudaranja."
+msgstr "Filter ima logičko “AND” stanje i prikazuje sva podudaranja."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
@@ -404,7 +404,7 @@ msgstr "Prikaži samo zapise sa tačnim podudaranjem"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
-msgstr "Filter ima logičko stanje ILI i prikazuje samo potpuna podudaranja."
+msgstr "Filter ima logičko stanje “OR” i prikazuje samo potpuna podudaranja."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"

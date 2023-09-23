@@ -355,8 +355,8 @@ msgid "Применение фильтра покажет членов груп�
 msgstr "Če uporabite filter, bodo prikazani člani skupine Audio Mixer."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
-msgid "Показать «Умный дом»."
-msgstr "Prikaži pametni dom."
+msgid "Показать «Умный дом»"
+msgstr "Prikaži »Pametni dom«"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
@@ -364,7 +364,7 @@ msgstr "Filtrirajte po skupini »Pametni dom«."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr "Če uporabite filter, bodo prikazani člani skupine Smart Home."
+msgstr "Če uporabite filter, bodo prikazani člani skupine »Pametni dom«."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
 msgid "Тип фильтра"
@@ -392,7 +392,7 @@ msgstr "Prikaži vnose s poljubnim ujemanjem"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
-msgstr "Filter ima logično IN stanje in prikaže vsa ujemanja."
+msgstr "Filter ima logično »IN« stanje in prikaže vsa ujemanja."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
@@ -404,7 +404,7 @@ msgstr "Prikaži samo zapise z natančnimi ujemanji"
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
-msgstr "Filter ima logično stanje ALI in prikazuje samo popolna ujemanja."
+msgstr "Filter ima logično stanje »ALI« in prikazuje samo popolna ujemanja."
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"
