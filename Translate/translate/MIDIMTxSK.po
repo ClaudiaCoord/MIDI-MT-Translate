@@ -194,7 +194,7 @@ msgstr "Prečítajte si MIDI kód.."
 #: MENU.IDR_COL3_TYPE_MENU.COL3_TYPE_MENU.POPUP.CAPTION
 #: MENU.IDR_COL4_ALL_TARGET_MENU.MENUITEM.IDR_COL5_MENU_REPLACE_FIELD1
 msgid "Регуляторы.."
-msgstr ""
+msgstr "Regulátory.."
 
 #: MENU.IDR_COL3_TYPE_MENU.COL3_TYPE_MENU.MENUITEM.IDM_COL3_SLIDER
 msgid "Полосковый регулятор"
@@ -223,7 +223,7 @@ msgstr "Kodér s inverziou"
 #: MENU.IDR_COL3_TYPE_MENU.COL3_TYPE_MENU.POPUP.CAPTION
 #: MENU.IDR_COL4_ALL_TARGET_MENU.MENUITEM.IDR_COL5_MENU_REPLACE_FIELD2
 msgid "Кнопки.."
-msgstr ""
+msgstr "Tlačidlá.."
 
 #: MENU.IDR_COL3_TYPE_MENU.COL3_TYPE_MENU.MENUITEM.IDM_COL3_BTN
 msgid "Кнопка"
@@ -236,20 +236,20 @@ msgstr "Spínacie tlačidlo s indikáciou"
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.COL4_SLIDER_TARGET_MENU.POPUP.CAPTION
 msgid "Управление звуком.."
-msgstr ""
+msgstr "Ovládanie zvuku..."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.MENUITEM.IDM_COL4_MAM
 msgid "Без звука (мастер)"
-msgstr ""
+msgstr "Tichý (majster)"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.MENUITEM.IDM_COL4_MAS
 msgid "Соло (мастер)"
-msgstr ""
+msgstr "sólo (majster)"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC...POPUP.CAPTION
 #: MENU.IDR_COL5_BTN_MIX_MENU.COL5_BTN_MIXER_MENU.POPUP.CAPTION
 msgid "Без звука.."
-msgstr ""
+msgstr "Bez zvuku.."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC...MENUITEM.IDM_COL4_B21
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC...MENUITEM.IDM_COL4_B11
@@ -325,11 +325,11 @@ msgstr "kanál 9"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC...POPUP.CAPTION
 msgid "Соло.."
-msgstr ""
+msgstr "sólo.."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
 msgid "Мультимедиа кнопки.."
-msgstr ""
+msgstr "Multimediálne tlačidlá.."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.MENUITEM.IDM_COL4_SYS_Play
 #: MENU.IDR_COL5_BTN_MMKEY_MENU.MENUITEM.IDM_COL4_SYS_Play
@@ -389,11 +389,11 @@ msgstr "Drhnutie"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
 msgid "Функции «Premiere Pro».."
-msgstr ""
+msgstr "Funkcie Premiere Pro..."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%C2%ABPremiere_Pro%C2%BB...POPUP.CAPTION
 msgid "Функции стандартной кнопки.."
-msgstr ""
+msgstr "Funkcie štandardného tlačidla..."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%C2%ABPremiere_Pro%C2%BB...MENUITEM.IDM_COL4_FUN11
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%C2%ABPremiere_Pro%C2%BB...MENUITEM.IDM_COL4_FUN21
@@ -437,11 +437,11 @@ msgstr "Funkcia 8"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%C2%ABPremiere_Pro%C2%BB...POPUP.CAPTION
 msgid "Функции кнопки «в одно касание».."
-msgstr ""
+msgstr "Funkcie jedného dotykového tlačidla..."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.POPUP.CAPTION
 msgid "Кнопки в системе «Умный дом».."
-msgstr ""
+msgstr "Tlačidlá v systéme Smart Home.."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.MENUITEM.IDM_COL4_B11
 #: MENU.IDR_COL5_BTN_SM_MENU.MENUITEM.IDM_COL4_B11
@@ -621,15 +621,15 @@ msgstr "Zostatok (hlavný)"
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.COL4_SLIDER_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC...POPUP.CAPTION
 #: MENU.IDR_COL5_SLIDER_MIX_MENU.COL4_SLIDER_MIXER_MENU.POPUP.CAPTION
 msgid "Громкость.."
-msgstr ""
+msgstr "Objem.."
 
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.COL4_SLIDER_TARGET_MENU.%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%BC...POPUP.CAPTION
 msgid "Баланс.."
-msgstr ""
+msgstr "Zostatok.."
 
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.COL4_SLIDER_TARGET_MENU.POPUP.CAPTION
 msgid "Регуляторы в системе «Умный дом».."
-msgstr ""
+msgstr "Regulátory v systéme „Smart Home“..."
 
 #: MENU.IDR_COL4_SLIDER_TARGET_MENU.COL4_SLIDER_TARGET_MENU.MENUITEM.IDM_COL4_AV1
 #: MENU.IDR_COL5_SLIDER_SM_MENU.MENUITEM.IDM_COL4_AV1
@@ -1018,7 +1018,7 @@ msgstr "Úroveň protokolovania relácie MQTT:"
 
 #: DIALOGEX.IDD_FORMSTART.PUSHBUTTON.IDC_GO_ABOUT
 msgid "&О программе.."
-msgstr ""
+msgstr "&O programe.."
 
 #: DIALOGEX.IDD_FORMMONITOR.CAPTION
 msgid "Монитор MIDI команд"
@@ -1202,7 +1202,7 @@ msgstr "MIDIMT - Nedá sa dokončiť operácia:"
 
 #: STRINGTABLE.IDS_INF13
 msgid "Управление устройствами «Умного дома» запущено."
-msgstr ""
+msgstr "Správa zariadení Smart Home sa začala."
 
 #: STRINGTABLE.IDS_DLG_MSG1
 msgid "MIDI Mackie выход"
@@ -1566,7 +1566,7 @@ msgstr "Drhnúť"
 
 #: STRINGTABLE.IDM_COL4_VOLUMEMIX
 msgid "Управление «Микшером»"
-msgstr ""
+msgstr "Ovládanie mixéra"
 
 #: STRINGTABLE.IDM_COL4_MEDIAKEY
 msgid "Мультимедийные клавиши"
@@ -1574,7 +1574,7 @@ msgstr "Multimediálne klávesy"
 
 #: STRINGTABLE.IDM_COL4_MQTTKEY
 msgid "Управление «Умным домом»"
-msgstr ""
+msgstr "Správa inteligentnej domácnosti"
 
 #: STRINGTABLE.IDM_COL4_NONE
 msgid "действие не определено"
@@ -1850,8 +1850,8 @@ msgstr "Okno panela zvukového mixéra nemá správny stav a v ďalšej operáci
 
 #: STRINGTABLE.IDS_ERRORID_PANEL_NOT_UI_THREAD
 msgid "Панель аудиомикшера вызвана не в потоке пользовательского интерфейса, изменения невозможны."
-msgstr ""
+msgstr "Panel zvukového mixéra sa nevyvoláva vo vlákne používateľského rozhrania a nie je možné vykonávať zmeny."
 
 #: STRINGTABLE.IDS_ERRORID_PANEL_NOT_ITEM_VALID
 msgid "Панель аудиомикшера обнаружила неверный элемент, прервано создание окна панели."
-msgstr ""
+msgstr "Panel audio mixpultu zistil neplatný prvok a vytvorenie okna panelu bolo prerušené."
