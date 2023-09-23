@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-23 02:42+0300\n"
+"POT-Creation-Date: 2023-09-23 13:58+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgid "редактировать MIDI ключ"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITSETL
-msgid "установить MIDI ключ как..."
+msgid "установить MIDI ключ как.."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_PANEL_EDITOPTL
@@ -199,7 +199,7 @@ msgid "Читать MIDI код"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODET
-msgid "Чтение MIDI кода"
+msgid "Прочесть MIDI код контрола"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODED
@@ -223,11 +223,11 @@ msgid "MIDI панель управления"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYST
-msgid "Рекомендуемые настройки ключей"
+msgid "Рекомендуемые настройки"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSD
-msgid "Рекомендуемые настройки панели управления MIDI, совместимые с управлением Adobe Premiere Pro."
+msgid "Рекомендуемые настройки панели управления MIDI, совместимые с элементами управления Adobe Premiere Pro."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
@@ -243,7 +243,7 @@ msgid "Фильтровать по MIDI ключу"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_KEYD
-msgid "Показывать только совпадения MIDI ключей."
+msgid "Показывать только совпадения в группе MIDI ключей."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENEL
@@ -255,7 +255,7 @@ msgid "Фильтровать по MIDI сцене"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_SCENED
-msgid "Показывать только совпадения MIDI сцены."
+msgid "Показывать только совпадения в группе MIDI сцены."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETL
@@ -267,8 +267,7 @@ msgid "Фильтровать по назначению 1"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
-msgid "Показывать только совпадения по целевому назначению."
+msgid "Показывать только совпадения в группе по целевому назначению 1."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGL
@@ -277,6 +276,10 @@ msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
 msgid "Фильтровать по назначению 2"
+msgstr ""
+
+#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
+msgid "Показывать только совпадения в группе по целевому назначению 2."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
@@ -372,7 +375,7 @@ msgid "Установка типа применяемых фильтров"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
-msgid "Типы применяемых фильтров имеют два логических состояния: 'И','ИЛИ'."
+msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
@@ -388,7 +391,7 @@ msgid "Показывать записи с любым совпадением"
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
-msgid "Фильтр имеет состояние логического 'И' и показывает любые совпадения."
+msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
@@ -400,7 +403,7 @@ msgid "Показывать записи только с полным совпа
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
-msgid "Фильтр имеет состояние логического 'ИЛИ' и показывает только полные совпадения."
+msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
 msgstr ""
 
 #: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
