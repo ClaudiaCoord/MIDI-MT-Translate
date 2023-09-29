@@ -1265,7 +1265,7 @@ msgstr ""
 
 #: STRINGTABLE.IDS_INFO9
 msgid "Неверный идентификатор события. Пожалуйста, перезапустите это приложение."
-msgstr ""
+msgstr "Няверны ідэнтыфікатар падзеі. Калі ласка, перазапусціце гэта дадатак."
 
 #: STRINGTABLE.IDS_INF1O
 msgid "Не удалось переключается на поток пользовательского интерфейса, запуск аудиопанели прерван."
@@ -1281,7 +1281,7 @@ msgstr "MIDIMT - Немагчыма скончыць аперацыю:"
 
 #: STRINGTABLE.IDS_INF13
 msgid "Управление устройствами «Умного дома» запущено."
-msgstr "Кіраванне прыладамі Разумнага дома запушчана."
+msgstr "Кіраванне прыладамі "Разумнага дома" запушчана."
 
 #: STRINGTABLE.IDS_DLG_MSG1
 msgid "MIDI Mackie выход"
@@ -1341,19 +1341,19 @@ msgstr ""
 
 #: STRINGTABLE.IDS_DLG_DMX_NODEV
 msgid "Устройства отсутствуют"
-msgstr ""
+msgstr "Прылады адсутнічаюць"
 
 #: STRINGTABLE.IDS_DLG_ARTNET_NOINT
 msgid "Интерфейсы отсутствуют"
-msgstr ""
+msgstr "Інтэрфейсы адсутнічаюць"
 
 #: STRINGTABLE.IDS_DLG_DMX_SELDEV
 msgid "Выберите DMX устройство"
-msgstr ""
+msgstr "Абярыце DMX прылада"
 
 #: STRINGTABLE.IDS_DLG_ARTNET_SELINT
 msgid "Выберите ARTNET интерфейс"
-msgstr ""
+msgstr "Абярыце ARTNET інтэрфейс"
 
 #: STRINGTABLE.IDM_COL4_MAV
 msgid "громкость звука (основной)"
@@ -1841,11 +1841,11 @@ msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_OPEN_MIDI_DEVICE
 msgid "Не удается открыть MIDI-устройство, продолжение невозможно, id = {0}/{1}"
-msgstr ""
+msgstr "Не ўдаецца адкрыць MIDI-прыладу, працяг немагчыма, id = {0}/{1}"
 
 #: STRINGTABLE.IDS_ERRORID_START_MIDI_DEVICE
 msgid "Не удается запустить MIDI-устройство, продолжение невозможно, id = {0}/{1}"
-msgstr ""
+msgstr "Не ўдаецца запусціць MIDI-прыладу, працяг немагчыма, id = {0}/{1}"
 
 #: STRINGTABLE.IDS_ERRORID_DEVICE_NOT_CONNECT
 msgid "Устройство не подключено, abort, id = {0}/{1}"
@@ -1953,7 +1953,7 @@ msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_LIGHT_DMX_START
 msgid "Служба управления освещением DMX запущена с использованием COM{0} – {1}."
-msgstr ""
+msgstr "Служба кіравання асвятленнем DMX запушчана з выкарыстаннем COM {0} – {1}."
 
 #: STRINGTABLE.IDS_ERRORID_LIGHT_DMX_NOT_COM
 msgid "Служба управления освещением DMX не запущена, устройство COM{0} не подключено.."
