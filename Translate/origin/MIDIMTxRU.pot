@@ -1339,6 +1339,22 @@ msgstr ""
 msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
 msgstr ""
 
+#: STRINGTABLE.IDS_DLG_DMX_NODEV
+msgid "Устройства отсутствуют"
+msgstr ""
+
+#: STRINGTABLE.IDS_DLG_ARTNET_NOINT
+msgid "Интерфейсы отсутствуют"
+msgstr ""
+
+#: STRINGTABLE.IDS_DLG_DMX_SELDEV
+msgid "Выберите DMX устройство"
+msgstr ""
+
+#: STRINGTABLE.IDS_DLG_ARTNET_SELINT
+msgid "Выберите ARTNET интерфейс"
+msgstr ""
+
 #: STRINGTABLE.IDM_COL4_MAV
 msgid "громкость звука (основной)"
 msgstr ""
