@@ -979,7 +979,7 @@ msgid "COM порт:"
 msgstr ""
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
-msgid "Скорость:"
+msgid "Порт:"
 msgstr ""
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
