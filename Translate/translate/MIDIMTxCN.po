@@ -1,9 +1,9 @@
-#. extracted from MIDIMTxRU.rc
+# fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-23 13:42+0300\n"
+"POT-Creation-Date: 2023-09-29 19:12+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate Toolkit 3.10.0\n"
+"X-Generator: Poedit 3.3.2\n"
 "X-Merge-On: location\n"
 
 #: MENU.IDR_TRAY_MENU.POPUP.CAPTION
@@ -171,8 +171,16 @@ msgstr "与多媒体按钮相关的控件"
 #: MENU.IDR_LV_MENU.LV_MENU.MENUITEM.IDM_LV_SET_MQTT
 #: MENU.IDR_COL4_ALL_TARGET_MENU.MENUITEM.IDM_COL4_MQTTKEY
 #: MENU.IDR_COL4_BTN_TARGET_MENU.MENUITEM.IDM_COL4_MQTTKEY
+#: MENU.IDR_COL4_SLIDER_TARGET_MENU.MENUITEM.IDM_COL4_MQTTKEY
 msgid "Контроль относиться к умному дому"
 msgstr "控制对待智能家居"
+
+#: MENU.IDR_LV_MENU.LV_MENU.MENUITEM.IDM_LV_SET_LIGHTKEY
+#: MENU.IDR_COL4_ALL_TARGET_MENU.MENUITEM.IDM_COL4_LIGHTKEY
+#: MENU.IDR_COL4_BTN_TARGET_MENU.MENUITEM.IDM_COL4_LIGHTKEY
+#: MENU.IDR_COL4_SLIDER_TARGET_MENU.MENUITEM.IDM_COL4_LIGHTKEY
+msgid "Контроль относиться к управлению светом"
+msgstr "控制指的是光的控制"
 
 #: MENU.IDR_LV_MENU.LV_MENU.MENUITEM.IDM_LV_SET_NONE
 #: MENU.IDR_COL3_TYPE_MENU.COL3_TYPE_MENU.MENUITEM.IDM_COL3_NONE
@@ -239,6 +247,7 @@ msgid "Управление звуком.."
 msgstr "声音控制..."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.MENUITEM.IDM_COL4_MAM
+#: MENU.IDR_COL5_BTN_MIX_MENU.MENUITEM.IDM_COL4_MAM
 msgid "Без звука (мастер)"
 msgstr "沉默（大师）"
 
@@ -815,10 +824,6 @@ msgstr "17频道"
 msgid "канал 18"
 msgstr "18频道"
 
-#: MENU.IDR_COL5_BTN_MIX_MENU.MENUITEM.IDM_COL4_MAM
-msgid "Mute (мастер)"
-msgstr "静音（主）"
-
 #: DIALOGEX.IDD_FORMABOUT.PUSHBUTTON.IDC_OK2
 #: DIALOGEX.IDD_FORMSTART.PUSHBUTTON.IDC_GO_URL
 msgid "Обновления"
@@ -833,8 +838,10 @@ msgid "&Программа настройки MIDI панели"
 msgstr "MIDI 面板设置(&M)"
 
 #: DIALOGEX.IDD_ASSIGNBOX.LTEXT.IDC_STATIC
-msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
-msgstr "推荐的 MIDI 控制面板布局。包含此布局设置的文件位于文件夹“docs/MIDIMT.Ctrl_data”中"
+msgid ""
+"Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой "
+"раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
+msgstr ""
 
 #: DIALOGEX.IDD_FORMSTART.CAPTION
 msgid "Запуск MIDI транслятора"
@@ -927,6 +934,8 @@ msgstr "端口数量"
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_INFO_ISPROXY
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_MIXER_ENABLE
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_DMX_ENABLE
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_ARTNET_ENABLE
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_MQTT_ENABLE
 msgid "Включено"
 msgstr "包括"
@@ -958,6 +967,62 @@ msgstr "保存设置"
 #: DIALOGEX.IDD_FORMSTART.PUSHBUTTON.IDC_GO_START
 msgid "&Старт"
 msgstr "＆开始"
+
+#: DIALOGEX.IDD_FORMSTART.GROUPBOX.IDC_STATIC
+msgid "Освещение"
+msgstr "灯光"
+
+#: DIALOGEX.IDD_FORMSTART.GROUPBOX.IDC_STATIC
+msgid "Служба DMX"
+msgstr "DMX服务"
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
+msgid "COM порт:"
+msgstr "通讯端口："
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
+msgid "Скорость:"
+msgstr "速度："
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
+msgid "Бит-рейт:"
+msgstr "比特率："
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
+msgid "Стоп-бит:"
+msgstr "停止位："
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
+msgid "Тайм-аут:"
+msgstr "暂停："
+
+#: DIALOGEX.IDD_FORMSTART.GROUPBOX.IDC_STATIC
+msgid "Служба ArtNet"
+msgstr "艺术网服务"
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
+msgid "ArtNet сеть:"
+msgstr "艺术网网络："
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
+msgid "Номер вселенной:"
+msgstr "宇宙编号："
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
+msgid "Порт:"
+msgstr "港口："
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
+msgid "Адрес:"
+msgstr "地址："
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
+msgid "Маска:"
+msgstr "面具："
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
+msgid "Броадкаст:"
+msgstr "播送："
 
 #: DIALOGEX.IDD_FORMSTART.GROUPBOX.IDC_STATIC
 msgid "Умный Дом"
@@ -1029,8 +1094,12 @@ msgid "Монитор команд"
 msgstr "命令监视器"
 
 #: DIALOGEX.IDD_FORMMONITOR.LTEXT.IDC_STATIC
-msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
-msgstr "MIDI 命令监视器将帮助您确定控制器的设置方式。要开始测试，请单击“开始”按钮。使用控制器上的各种控件，您将收到有关场景、编号和当前值的消息。"
+msgid ""
+"Монитор MIDI команд поможет вам определить как настроен контроллер. Для "
+"начала тестирования нажмите кнопку 'Старт'. Используя различные элементы "
+"управления на своем кортроллере, вы будете получать сообщения о сцене, "
+"номере и текущем значении."
+msgstr ""
 
 #: DIALOGEX.IDD_FORMMONITOR.PUSHBUTTON.IDC_MONITOR_CLEAR
 msgid "Очи&стить"
@@ -1043,6 +1112,10 @@ msgstr "MIDI 控制设置"
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
 msgid "Настройка MIDI контролов"
 msgstr "设置 MIDI 控制"
+
+#: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
+msgid "MIDI"
+msgstr ""
 
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
 msgid "Информация"
@@ -1177,16 +1250,21 @@ msgid "Управление мультимедиа клавишами запущ
 msgstr "多媒体按键控制正在运行，检查设置。"
 
 #: STRINGTABLE.IDS_INFO8
-msgid "Аудиомикшер не запущен, проверьте настройки, должен быть включен запуск аудиопанели."
-msgstr "音频混合器未运行，请检查设置，必须启用音频面板的启动。"
+msgid ""
+"Аудиомикшер не запущен, проверьте настройки, должен быть включен запуск "
+"аудиопанели."
+msgstr ""
 
 #: STRINGTABLE.IDS_INFO9
-msgid "Неверный идентификатор события. Пожалуйста, перезапустите это приложение."
-msgstr "事件 ID 无效。请重新启动此应用程序。"
+msgid ""
+"Неверный идентификатор события. Пожалуйста, перезапустите это приложение."
+msgstr ""
 
 #: STRINGTABLE.IDS_INF1O
-msgid "Не удалось переключается на поток пользовательского интерфейса, запуск аудиопанели прерван."
-msgstr "无法切换到 UI 线程，音频面板启动中止。"
+msgid ""
+"Не удалось переключается на поток пользовательского интерфейса, запуск "
+"аудиопанели прерван."
+msgstr ""
 
 #: STRINGTABLE.IDS_INF11
 msgid "MIDIMT - Аудио микшер не запущен:"
@@ -1213,8 +1291,10 @@ msgid "Версия MIDI Virtual драйвера:"
 msgstr "MIDI 虚拟驱动版本："
 
 #: STRINGTABLE.IDS_DLG_MSG4
-msgid "Установленный MIDI Virtual драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска транслятора"
-msgstr "未找到已安装的 MIDI 虚拟驱动程序！您需要安装 Virtual Loop MIDI 包才能运行转换器"
+msgid ""
+"Установленный MIDI Virtual драйвер не найден! Необходимо установить пакет "
+"Virtual Loop MIDI для запуска транслятора"
+msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG5
 msgid "При запуске будут созданы Proxy MIDI порты: "
@@ -1245,16 +1325,24 @@ msgid "Выбранная конфигурация не поддерживает
 msgstr "所选配置不支持自动启动。"
 
 #: STRINGTABLE.IDS_DLG_MSG12
-msgid "Пожалуйста, перед запуском монитора, запустите MIDI бридж из меню, вызвав 'Старт'."
-msgstr "请在启动显示器之前，通过调用“开始”从菜单启动 MIDI 桥。"
+msgid ""
+"Пожалуйста, перед запуском монитора, запустите MIDI бридж из меню, вызвав "
+"'Старт'."
+msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG13
-msgid "При запуске был указан файл конфигурации: '{0}'. Установить его как конфигурацию для последующих запусков?"
-msgstr "启动时，指定了配置文件：“{0}”。将其设置为后续运行的配置？"
+msgid ""
+"При запуске был указан файл конфигурации: '{0}'. Установить его как "
+"конфигурацию для последующих запусков?"
+msgstr "启动时，指定了配置文件：“{0}”。将其安装为
+后续启动的配置？"
 
 #: STRINGTABLE.IDS_DLG_MSG14
-msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
-msgstr "打开编辑器时，指定了配置文件：“{0}”。用相同的名称保存吗？"
+msgid ""
+"При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с "
+"тем-же именем?"
+msgstr "打开编辑器时，指定了配置文件：“{0}”。保存为
+同名？"
 
 #: STRINGTABLE.IDM_COL4_MAV
 msgid "громкость звука (основной)"
@@ -1572,6 +1660,10 @@ msgstr "多媒体键"
 msgid "Управление «Умным домом»"
 msgstr "智能家居管理"
 
+#: STRINGTABLE.IDM_COL4_LIGHTKEY
+msgid "Управление освещением"
+msgstr "灯光控制"
+
 #: STRINGTABLE.IDM_COL4_NONE
 msgid "действие не определено"
 msgstr "动作未定义"
@@ -1629,8 +1721,10 @@ msgid "В этой конфигурации не настроены MIDI-кла�
 msgstr "此配置中没有配置 MIDI 键。"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_WRITE_EMPTY
-msgid "Внимание, в этой конфигурации не настроены MIDI-клавиши! записанная конфигурацию будет не работоспособной."
-msgstr "注意，此配置中没有配置 MIDI 键！写入的配置将不起作用。"
+msgid ""
+"Внимание, в этой конфигурации не настроены MIDI-клавиши! записанная "
+"конфигурацию будет не работоспособной."
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_INIT_COINITIALIZE
 msgid "Co*Initialize инициализация не удалась."
@@ -1653,20 +1747,26 @@ msgid "Аудио пиковый измеритель не доступен."
 msgstr "音频峰值计不可用。"
 
 #: STRINGTABLE.IDS_ERRORID_MIXER_STARTOK
-msgid "Микшер аудиосеансов запущен, на момент запуска имеется {0} запущенных программ, доступных для регулирования."
-msgstr "音频会话混合器正在运行，有 {0} 个正在运行的程序可在启动时进行限制。"
+msgid ""
+"Микшер аудиосеансов запущен, на момент запуска имеется {0} запущенных "
+"программ, доступных для регулирования."
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_MIXER_STARTERROR
-msgid "Не удалось запустить микшер аудиосессий, сведения об ошибке должны быть в файле журнала."
-msgstr "无法启动音频会话混合器，错误详细信息应位于日志文件中。"
+msgid ""
+"Не удалось запустить микшер аудиосессий, сведения об ошибке должны быть в "
+"файле журнала."
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_MIXER_STOPOK
 msgid "Микшер аудиосессий остановлен."
 msgstr "音频会话混合器已停止。"
 
 #: STRINGTABLE.IDS_ERRORID_MIXER_STOPERROR
-msgid "Микшер аудиосессий не был правильно остановлен, сведения об ошибке должны быть в файле журнала."
-msgstr "音频会话混合器未正确停止，错误详细信息应在日志文件中。"
+msgid ""
+"Микшер аудиосессий не был правильно остановлен, сведения об ошибке должны "
+"быть в файле журнала."
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_NO_INIT
 msgid "Инициализируйте, прежде чем вызывать это.."
@@ -1697,8 +1797,11 @@ msgid "Устанавливаемое значение из обратного �
 msgstr "从回调中设置的值是无效的选择器。"
 
 #: STRINGTABLE.IDS_ERRORID_SET_CB_WARNING
-msgid "Установка обратного вызова возможна только после успешного запуска MIDI-моста."
-msgstr "仅在 MIDI 桥成功启动后才能设置回调。"
+msgid ""
+"Установка обратного вызова возможна только после успешного запуска MIDI-"
+"моста."
+msgstr "仅在成功启动 MIDI 后才能设置回调。
+桥。"
 
 #: STRINGTABLE.IDS_ERRORID_CONFIG_FAIL
 msgid "Сбой загрузки конфигурации, файл не найден, запуск невозможен.."
@@ -1733,16 +1836,20 @@ msgid "Устройства не подключены, продолжение н
 msgstr "没有连接设备，无法继续。"
 
 #: STRINGTABLE.IDS_ERRORID_COUNT_DEVICES
-msgid "Внимание, несоответствие количества устройств в итоговом списке, система/список = {0}/{1}"
-msgstr "注意，最终列表中的设备数量存在差异，系统/列表 = {0}/{1}"
+msgid ""
+"Внимание, несоответствие количества устройств в итоговом списке, система/"
+"список = {0}/{1}"
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_OPEN_MIDI_DEVICE
-msgid "Не удается открыть MIDI-устройство, продолжение невозможно, id = {0}/{1}"
-msgstr "无法打开 MIDI 设备，无法继续，id = {0}/{1}"
+msgid ""
+"Не удается открыть MIDI-устройство, продолжение невозможно, id = {0}/{1}"
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_START_MIDI_DEVICE
-msgid "Не удается запустить MIDI-устройство, продолжение невозможно, id = {0}/{1}"
-msgstr "无法启动 MIDI 设备，无法继续，id = {0}/{1}"
+msgid ""
+"Не удается запустить MIDI-устройство, продолжение невозможно, id = {0}/{1}"
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_DEVICE_NOT_CONNECT
 msgid "Устройство не подключено, abort, id = {0}/{1}"
@@ -1765,8 +1872,9 @@ msgid "Устройство {0} готово (система)"
 msgstr "设备 {0} 就绪（系统）"
 
 #: STRINGTABLE.IDS_ERRORID_NOT_DEVICE_NAME
-msgid "Не задано имя для активного устройства, продолжение невозможно, id = {0}/{1}"
-msgstr "活动设备名称未设置，无法继续，id = {0}/{1}"
+msgid ""
+"Не задано имя для активного устройства, продолжение невозможно, id = {0}/{1}"
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_NOT_CONFIG_PROXY
 msgid "Не заданы прокси-порты в конфигурации, MIDI-прокси отключено."
@@ -1837,13 +1945,66 @@ msgid "Панель аудио микшера - продолжение нево�
 msgstr "音频混合器面板 - 无法继续，初始化错误。"
 
 #: STRINGTABLE.IDS_ERRORID_PANEL_ENABLE
-msgid "Окно панели аудиомикшера не соответствует статусу, невозможно продолжить следующую операцию."
-msgstr "混音器面板窗口与状态不匹配，无法继续下一步操作。"
+msgid ""
+"Окно панели аудиомикшера не соответствует статусу, невозможно продолжить "
+"следующую операцию."
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_PANEL_NOT_UI_THREAD
-msgid "Панель аудиомикшера вызвана не в потоке пользовательского интерфейса, изменения невозможны."
-msgstr "音频混合器面板不会在 UI 线程上调用，并且无法进行更改。"
+msgid ""
+"Панель аудиомикшера вызвана не в потоке пользовательского интерфейса, "
+"изменения невозможны."
+msgstr "音频混合器面板不会在 UI 线程上调用，
+改变是不可能的。"
 
 #: STRINGTABLE.IDS_ERRORID_PANEL_NOT_ITEM_VALID
-msgid "Панель аудиомикшера обнаружила неверный элемент, прервано создание окна панели."
-msgstr "音频混合器面板检测到无效元素，并且面板窗口的创建被中止。"
+msgid ""
+"Панель аудиомикшера обнаружила неверный элемент, прервано создание окна "
+"панели."
+msgstr "音频混合器面板检测到无效元素，窗口创建中止
+面板。"
+
+#: STRINGTABLE.IDS_ERRORID_LIGHT_DMX_START
+msgid ""
+"Служба управления освещением DMX запущена с использованием COM{0} – {1}."
+msgstr ""
+
+#: STRINGTABLE.IDS_ERRORID_LIGHT_DMX_NOT_COM
+msgid ""
+"Служба управления освещением DMX не запущена, устройство COM{0} не "
+"подключено.."
+msgstr "DMX 灯光控制服务未运行，COM{0} 设备未运行
+连接的.."
+
+#: STRINGTABLE.IDS_ERRORID_LIGHT_DMX_NOT_CONFIG
+msgid ""
+"Служба управления освещением DMX не запущена, конфигурация службы не "
+"заполнена."
+msgstr "DMX灯光控制服务未运行，服务配置未配置
+填充。"
+
+#: STRINGTABLE.IDS_ERRORID_LIGHT_DMX_STOP
+msgid "Служба управления освещением DMX остановлена."
+msgstr "DMX灯光控制服务已停止。"
+
+#: STRINGTABLE.IDS_ERRORID_LIGHT_ARTNET_START
+msgid ""
+"Служба управления освещением ArtNet запущена с использованием "
+"широковещательного адреса {0}:{1} в сети {2}."
+msgstr "ArtNet灯光控制服务开始使用
+网络 {2} 上的广播地址 {0}：{1}。"
+
+#: STRINGTABLE.IDS_ERRORID_LIGHT_ARTNET_NOT_COM
+msgid "Служба управления освещением ArtNet не запущена, сеть {0} не найдена.."
+msgstr "ArtNet 照明控制服务未运行，未找到网络 {0}。"
+
+#: STRINGTABLE.IDS_ERRORID_LIGHT_ARTNET_NOT_CONFIG
+msgid ""
+"Служба управления освещением ArtNet не запущена, конфигурация службы не "
+"заполнена."
+msgstr "ArtNet灯光控制服务未运行，服务配置未配置
+填充。"
+
+#: STRINGTABLE.IDS_ERRORID_LIGHT_ARTNET_STOP
+msgid "Служба управления освещением ArtNet остановлена."
+msgstr "ArtNet 灯光控制服务已停止。"
