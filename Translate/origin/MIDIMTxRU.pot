@@ -1207,22 +1207,6 @@ msgstr ""
 msgid "Конфигурация создана заново и требует заполнения"
 msgstr ""
 
-#: STRINGTABLE.IDS_URL_WIKI
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/wiki/RU"
-msgstr ""
-
-#: STRINGTABLE.IDS_URL_GIT
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases"
-msgstr ""
-
-#: STRINGTABLE.IDS_URL_WEB
-msgid "https://claudiacoord.github.io/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/"
-msgstr ""
-
-#: STRINGTABLE.IDS_URL_ESETUP
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases/download/1.0.1.1/EasyControl.zip"
-msgstr ""
-
 #: STRINGTABLE.IDS_START_EXT_FILTER
 msgid "MIDI-MT Конфигурация"
 msgstr ""
