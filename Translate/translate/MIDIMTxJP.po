@@ -1,9 +1,9 @@
-# fuzzy
+#. extracted
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-29 19:12+0300\n"
+"POT-Creation-Date: 2023-09-29 22:07+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Translate Toolkit 3.10.0\n"
 "X-Merge-On: location\n"
 
 #: MENU.IDR_TRAY_MENU.POPUP.CAPTION
@@ -402,7 +402,7 @@ msgstr "プレミアプロの機能..."
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%C2%ABPremiere_Pro%C2%BB...POPUP.CAPTION
 msgid "Функции стандартной кнопки.."
-msgstr "標準ボタンの機能..."
+msgstr "標準ボタンの機能は・・・"
 
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%C2%ABPremiere_Pro%C2%BB...MENUITEM.IDM_COL4_FUN11
 #: MENU.IDR_COL4_BTN_TARGET_MENU.COL4_BTN_TARGET_MENU.%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8_%C2%ABPremiere_Pro%C2%BB...MENUITEM.IDM_COL4_FUN21
@@ -838,9 +838,7 @@ msgid "&Программа настройки MIDI панели"
 msgstr "MIDI パネルのセットアップ(&MIDI)"
 
 #: DIALOGEX.IDD_ASSIGNBOX.LTEXT.IDC_STATIC
-msgid ""
-"Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой "
-"раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
+msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
 msgstr ""
 
 #: DIALOGEX.IDD_FORMSTART.CAPTION
@@ -981,8 +979,8 @@ msgid "COM порт:"
 msgstr "COMポート:"
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
-msgid "Скорость:"
-msgstr "スピード："
+msgid "Порт:"
+msgstr "ポート："
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
 msgid "Бит-рейт:"
@@ -1010,7 +1008,7 @@ msgstr "宇宙番号:"
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
 msgid "Порт:"
-msgstr "ポート："
+msgstr ""
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
 msgid "Адрес:"
@@ -1094,11 +1092,7 @@ msgid "Монитор команд"
 msgstr "コマンドモニター"
 
 #: DIALOGEX.IDD_FORMMONITOR.LTEXT.IDC_STATIC
-msgid ""
-"Монитор MIDI команд поможет вам определить как настроен контроллер. Для "
-"начала тестирования нажмите кнопку 'Старт'. Используя различные элементы "
-"управления на своем кортроллере, вы будете получать сообщения о сцене, "
-"номере и текущем значении."
+msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
 msgstr ""
 
 #: DIALOGEX.IDD_FORMMONITOR.PUSHBUTTON.IDC_MONITOR_CLEAR
@@ -1250,20 +1244,15 @@ msgid "Управление мультимедиа клавишами запущ
 msgstr "マルチメディア キー コントロールが実行されています。設定を確認してください。"
 
 #: STRINGTABLE.IDS_INFO8
-msgid ""
-"Аудиомикшер не запущен, проверьте настройки, должен быть включен запуск "
-"аудиопанели."
+msgid "Аудиомикшер не запущен, проверьте настройки, должен быть включен запуск аудиопанели."
 msgstr ""
 
 #: STRINGTABLE.IDS_INFO9
-msgid ""
-"Неверный идентификатор события. Пожалуйста, перезапустите это приложение."
-msgstr ""
+msgid "Неверный идентификатор события. Пожалуйста, перезапустите это приложение."
+msgstr "無効なイベントIDです。このアプリケーションを再起動してください。"
 
 #: STRINGTABLE.IDS_INF1O
-msgid ""
-"Не удалось переключается на поток пользовательского интерфейса, запуск "
-"аудиопанели прерван."
+msgid "Не удалось переключается на поток пользовательского интерфейса, запуск аудиопанели прерван."
 msgstr ""
 
 #: STRINGTABLE.IDS_INF11
@@ -1291,9 +1280,7 @@ msgid "Версия MIDI Virtual драйвера:"
 msgstr "MIDI仮想ドライバーのバージョン:"
 
 #: STRINGTABLE.IDS_DLG_MSG4
-msgid ""
-"Установленный MIDI Virtual драйвер не найден! Необходимо установить пакет "
-"Virtual Loop MIDI для запуска транслятора"
+msgid "Установленный MIDI Virtual драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска транслятора"
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG5
@@ -1325,24 +1312,32 @@ msgid "Выбранная конфигурация не поддерживает
 msgstr "選択した構成は自動起動をサポートしていません。"
 
 #: STRINGTABLE.IDS_DLG_MSG12
-msgid ""
-"Пожалуйста, перед запуском монитора, запустите MIDI бридж из меню, вызвав "
-"'Старт'."
+msgid "Пожалуйста, перед запуском монитора, запустите MIDI бридж из меню, вызвав 'Старт'."
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG13
-msgid ""
-"При запуске был указан файл конфигурации: '{0}'. Установить его как "
-"конфигурацию для последующих запусков?"
-msgstr "起動時に、構成ファイルが指定されました: '{0}'。としてインストールします
-次回以降の起動のための設定は?"
+msgid "При запуске был указан файл конфигурации: '{0}'. Установить его как конфигурацию для последующих запусков?"
+msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG14
-msgid ""
-"При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с "
-"тем-же именем?"
-msgstr "エディターを開くときに、構成ファイルが指定されました: '{0}'。で保存します
-同じ名前で？"
+msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
+msgstr ""
+
+#: STRINGTABLE.IDS_DLG_DMX_NODEV
+msgid "Устройства отсутствуют"
+msgstr "利用可能なデバイスがありません"
+
+#: STRINGTABLE.IDS_DLG_ARTNET_NOINT
+msgid "Интерфейсы отсутствуют"
+msgstr "インターフェースなし"
+
+#: STRINGTABLE.IDS_DLG_DMX_SELDEV
+msgid "Выберите DMX устройство"
+msgstr "DMX デバイスを選択します"
+
+#: STRINGTABLE.IDS_DLG_ARTNET_SELINT
+msgid "Выберите ARTNET интерфейс"
+msgstr "ARTNETインターフェイスを選択します"
 
 #: STRINGTABLE.IDM_COL4_MAV
 msgid "громкость звука (основной)"
@@ -1721,9 +1716,7 @@ msgid "В этой конфигурации не настроены MIDI-кла�
 msgstr "この設定では MIDI キーは設定されていません。"
 
 #: STRINGTABLE.IDS_ERRORID_JSONCONF_WRITE_EMPTY
-msgid ""
-"Внимание, в этой конфигурации не настроены MIDI-клавиши! записанная "
-"конфигурацию будет не работоспособной."
+msgid "Внимание, в этой конфигурации не настроены MIDI-клавиши! записанная конфигурацию будет не работоспособной."
 msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_INIT_COINITIALIZE
@@ -1747,15 +1740,11 @@ msgid "Аудио пиковый измеритель не доступен."
 msgstr "オーディオピークメーターは使用できません。"
 
 #: STRINGTABLE.IDS_ERRORID_MIXER_STARTOK
-msgid ""
-"Микшер аудиосеансов запущен, на момент запуска имеется {0} запущенных "
-"программ, доступных для регулирования."
+msgid "Микшер аудиосеансов запущен, на момент запуска имеется {0} запущенных программ, доступных для регулирования."
 msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_MIXER_STARTERROR
-msgid ""
-"Не удалось запустить микшер аудиосессий, сведения об ошибке должны быть в "
-"файле журнала."
+msgid "Не удалось запустить микшер аудиосессий, сведения об ошибке должны быть в файле журнала."
 msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_MIXER_STOPOK
@@ -1763,9 +1752,7 @@ msgid "Микшер аудиосессий остановлен."
 msgstr "オーディオ セッション ミキサーが停止しました。"
 
 #: STRINGTABLE.IDS_ERRORID_MIXER_STOPERROR
-msgid ""
-"Микшер аудиосессий не был правильно остановлен, сведения об ошибке должны "
-"быть в файле журнала."
+msgid "Микшер аудиосессий не был правильно остановлен, сведения об ошибке должны быть в файле журнала."
 msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_NO_INIT
@@ -1797,11 +1784,8 @@ msgid "Устанавливаемое значение из обратного �
 msgstr "コールバックから設定されている値は無効なセレクターです。"
 
 #: STRINGTABLE.IDS_ERRORID_SET_CB_WARNING
-msgid ""
-"Установка обратного вызова возможна только после успешного запуска MIDI-"
-"моста."
-msgstr "コールバックの設定は、MIDI の起動が成功した後にのみ可能です。
-橋。"
+msgid "Установка обратного вызова возможна только после успешного запуска MIDI-моста."
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_CONFIG_FAIL
 msgid "Сбой загрузки конфигурации, файл не найден, запуск невозможен.."
@@ -1836,20 +1820,16 @@ msgid "Устройства не подключены, продолжение н
 msgstr "デバイスが接続されていないため、続行できません。"
 
 #: STRINGTABLE.IDS_ERRORID_COUNT_DEVICES
-msgid ""
-"Внимание, несоответствие количества устройств в итоговом списке, система/"
-"список = {0}/{1}"
+msgid "Внимание, несоответствие количества устройств в итоговом списке, система/список = {0}/{1}"
 msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_OPEN_MIDI_DEVICE
-msgid ""
-"Не удается открыть MIDI-устройство, продолжение невозможно, id = {0}/{1}"
-msgstr ""
+msgid "Не удается открыть MIDI-устройство, продолжение невозможно, id = {0}/{1}"
+msgstr "MIDI デバイスを開けません。続行できません。ID = {0}/{1}"
 
 #: STRINGTABLE.IDS_ERRORID_START_MIDI_DEVICE
-msgid ""
-"Не удается запустить MIDI-устройство, продолжение невозможно, id = {0}/{1}"
-msgstr ""
+msgid "Не удается запустить MIDI-устройство, продолжение невозможно, id = {0}/{1}"
+msgstr "MIDI デバイスを開始できません。続行できません。ID = {0}/{1}"
 
 #: STRINGTABLE.IDS_ERRORID_DEVICE_NOT_CONNECT
 msgid "Устройство не подключено, abort, id = {0}/{1}"
@@ -1872,9 +1852,8 @@ msgid "Устройство {0} готово (система)"
 msgstr "デバイス {0} の準備完了 (システム)"
 
 #: STRINGTABLE.IDS_ERRORID_NOT_DEVICE_NAME
-msgid ""
-"Не задано имя для активного устройства, продолжение невозможно, id = {0}/{1}"
-msgstr ""
+msgid "Не задано имя для активного устройства, продолжение невозможно, id = {0}/{1}"
+msgstr "アクティブなデバイスの名前が指定されていないため、続行できません。ID = {0}/{1}"
 
 #: STRINGTABLE.IDS_ERRORID_NOT_CONFIG_PROXY
 msgid "Не заданы прокси-порты в конфигурации, MIDI-прокси отключено."
@@ -1945,65 +1924,44 @@ msgid "Панель аудио микшера - продолжение нево�
 msgstr "オーディオ ミキサー パネル - 続行できません。初期化エラーです。"
 
 #: STRINGTABLE.IDS_ERRORID_PANEL_ENABLE
-msgid ""
-"Окно панели аудиомикшера не соответствует статусу, невозможно продолжить "
-"следующую операцию."
+msgid "Окно панели аудиомикшера не соответствует статусу, невозможно продолжить следующую операцию."
 msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_PANEL_NOT_UI_THREAD
-msgid ""
-"Панель аудиомикшера вызвана не в потоке пользовательского интерфейса, "
-"изменения невозможны."
-msgstr "オーディオ ミキサー パネルは UI スレッドでは呼び出されません。
-変更はできません。"
-
-#: STRINGTABLE.IDS_ERRORID_PANEL_NOT_ITEM_VALID
-msgid ""
-"Панель аудиомикшера обнаружила неверный элемент, прервано создание окна "
-"панели."
-msgstr "オーディオ ミキサー パネルが無効な要素を検出したため、ウィンドウの作成が中止されました
-パネル。"
-
-#: STRINGTABLE.IDS_ERRORID_LIGHT_DMX_START
-msgid ""
-"Служба управления освещением DMX запущена с использованием COM{0} – {1}."
+msgid "Панель аудиомикшера вызвана не в потоке пользовательского интерфейса, изменения невозможны."
 msgstr ""
 
+#: STRINGTABLE.IDS_ERRORID_PANEL_NOT_ITEM_VALID
+msgid "Панель аудиомикшера обнаружила неверный элемент, прервано создание окна панели."
+msgstr ""
+
+#: STRINGTABLE.IDS_ERRORID_LIGHT_DMX_START
+msgid "Служба управления освещением DMX запущена с использованием COM{0} – {1}."
+msgstr "DMX 照明制御サービスは、COM{0} - {1} を使用して開始されます。"
+
 #: STRINGTABLE.IDS_ERRORID_LIGHT_DMX_NOT_COM
-msgid ""
-"Служба управления освещением DMX не запущена, устройство COM{0} не "
-"подключено.."
-msgstr "DMX 照明制御サービスが実行されていません。COM{0} デバイスが動作していません
-接続されています。"
+msgid "Служба управления освещением DMX не запущена, устройство COM{0} не подключено.."
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_LIGHT_DMX_NOT_CONFIG
-msgid ""
-"Служба управления освещением DMX не запущена, конфигурация службы не "
-"заполнена."
-msgstr "DMX 照明制御サービスが実行されていません。サービス構成が正しくありません。
-満たされました。"
+msgid "Служба управления освещением DMX не запущена, конфигурация службы не заполнена."
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_LIGHT_DMX_STOP
 msgid "Служба управления освещением DMX остановлена."
 msgstr "DMX照明制御サービスを停止しました。"
 
 #: STRINGTABLE.IDS_ERRORID_LIGHT_ARTNET_START
-msgid ""
-"Служба управления освещением ArtNet запущена с использованием "
-"широковещательного адреса {0}:{1} в сети {2}."
-msgstr "ArtNet照明制御サービスを開始
-ブロードキャスト アドレス {0}:{1} ネットワーク {2}。"
+msgid "Служба управления освещением ArtNet запущена с использованием широковещательного адреса {0}:{1} в сети {2}."
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_LIGHT_ARTNET_NOT_COM
 msgid "Служба управления освещением ArtNet не запущена, сеть {0} не найдена.."
 msgstr "ArtNet 照明制御サービスが実行されていません。ネットワーク {0} が見つかりません。"
 
 #: STRINGTABLE.IDS_ERRORID_LIGHT_ARTNET_NOT_CONFIG
-msgid ""
-"Служба управления освещением ArtNet не запущена, конфигурация службы не "
-"заполнена."
-msgstr "ArtNet 照明制御サービスが実行されていません。サービス構成が正しくありません。
-満たされました。"
+msgid "Служба управления освещением ArtNet не запущена, конфигурация службы не заполнена."
+msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_LIGHT_ARTNET_STOP
 msgid "Служба управления освещением ArtNet остановлена."
