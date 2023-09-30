@@ -3,7 +3,7 @@ setlocal
 set MIDIMT_LANG=S:\__BuildSource\__SVN__\EasyControl-Mackie\EasyControl-Mackie-src\src\Languages
 set MIDIMT_LANG_OUT=S:\__BuildSource\__SVN__\EasyControl-Mackie\MIDI-MT-Translate\Translate\origin
 
-IF NOT EXIST "RibbonDialogConfigRU.rc" (
+IF NOT EXIST "%MIDIMT_LANG%\MIDIMTxRU\RibbonDialogConfigRU.rc" (
 echo "FILE NOT FOUND: RibbonDialogConfigRU.rc"
 GOTO END
 )
