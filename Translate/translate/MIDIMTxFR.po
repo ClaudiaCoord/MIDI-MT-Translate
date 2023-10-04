@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-30 14:08+0300\n"
+"POT-Creation-Date: 2023-10-04 23:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -797,6 +797,10 @@ msgid "Броадкаст:"
 msgstr "Diffuser:"
 
 #, fuzzy
+msgid "Включить DMX пул (стандартное поведение)"
+msgstr "Activer le pool DMX (comportement standard)"
+
+#, fuzzy
 msgid "Умный Дом"
 msgstr "Maison intelligente"
 
@@ -1025,6 +1029,10 @@ msgid "Управление устройствами «Умного дома» �
 msgstr "La gestion des appareils Smart Home a commencé."
 
 #, fuzzy
+msgid "Установка Virtual MIDI драйвера"
+msgstr "Installation du pilote MIDI virtuel"
+
+#, fuzzy
 msgid "MIDI Mackie выход"
 msgstr "Sortie MIDI Mackie"
 
@@ -1037,8 +1045,12 @@ msgid "Версия MIDI Virtual драйвера:"
 msgstr "Version du pilote virtuel MIDI :"
 
 #, fuzzy
+msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора"
+msgstr "Le pilote Virtual MIDI installé n'a pas été trouvé ! Vous devez installer le package Virtual Loop MIDI pour exécuter le traducteur MIDI-MT"
+
+#, fuzzy
 msgid "При запуске будут созданы Proxy MIDI порты:"
-msgstr "Au démarrage, des ports MIDI proxy seront créés :"
+msgstr "Au démarrage, des ports Proxy MIDI seront créés :"
 
 #, fuzzy
 msgid "MIDI Proxy порты отключены."
@@ -1063,6 +1075,18 @@ msgstr "Version du pilote Virtual MIDI installé :"
 #, fuzzy
 msgid "Выбранная конфигурация не поддерживает авто старт."
 msgstr "La configuration sélectionnée ne prend pas en charge le démarrage automatique."
+
+#, fuzzy
+msgid "Автозапуск запрещен в общей конфигурации."
+msgstr "L'exécution automatique est désactivée dans la configuration générale."
+
+#, fuzzy
+msgid "Номер DMX канала"
+msgstr "Numéro de canal DMX"
+
+#, fuzzy
+msgid "Неоходимо установить Virtual MIDI драйвер!"
+msgstr "Vous devez installer le pilote Virtual MIDI !"
 
 #, fuzzy
 msgid "Устройства отсутствуют"
@@ -1575,6 +1599,10 @@ msgstr "Problème avec la version du pilote [{0}]"
 #, fuzzy
 msgid "Устройство {0} отправило неверное значение = {1}"
 msgstr "L'appareil {0} a envoyé une valeur non valide = {1}"
+
+#, fuzzy
+msgid "Виртуальный MIDI драйвер не установлен. Необходимо установить пакет loopMidi, или скачать полную весию установщика и переустановить MIDI-MT. Подробнее: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
+msgstr "Le pilote MIDI virtuel n'est pas installé. Vous devez installer le package loopMidi ou télécharger le programme d'installation complet et réinstaller MIDI-MT. Plus de détails: https://claudiacoord.github.io/MIDI-MT/docs/EN/Dependencies.html"
 
 #, fuzzy
 msgid "Служба управления мультимедийными ключами запущена."

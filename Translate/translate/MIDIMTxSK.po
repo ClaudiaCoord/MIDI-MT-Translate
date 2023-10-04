@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-30 14:08+0300\n"
+"POT-Creation-Date: 2023-10-04 23:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -797,6 +797,10 @@ msgid "Броадкаст:"
 msgstr "Vysielanie:"
 
 #, fuzzy
+msgid "Включить DMX пул (стандартное поведение)"
+msgstr "Povoliť bazén DMX (štandardné správanie)"
+
+#, fuzzy
 msgid "Умный Дом"
 msgstr "Inteligentný dom"
 
@@ -1022,7 +1026,11 @@ msgstr "MIDIMT - Nedá sa dokončiť operácia:"
 
 #, fuzzy
 msgid "Управление устройствами «Умного дома» запущено."
-msgstr "Správa zariadení Smart Home bola spustená."
+msgstr "Správa zariadení Smart Home sa začala."
+
+#, fuzzy
+msgid "Установка Virtual MIDI драйвера"
+msgstr "Inštalácia virtuálneho MIDI ovládača"
 
 #, fuzzy
 msgid "MIDI Mackie выход"
@@ -1035,6 +1043,10 @@ msgstr "MIDI Proxy výstup"
 #, fuzzy
 msgid "Версия MIDI Virtual драйвера:"
 msgstr "Verzia virtuálneho ovládača MIDI:"
+
+#, fuzzy
+msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора"
+msgstr "Nainštalovaný virtuálny MIDI ovládač sa nenašiel! Ak chcete spustiť prekladač MIDI-MT, musíte nainštalovať balík Virtual Loop MIDI"
 
 #, fuzzy
 msgid "При запуске будут созданы Proxy MIDI порты:"
@@ -1063,6 +1075,18 @@ msgstr "Verzia nainštalovaného virtuálneho MIDI ovládača:"
 #, fuzzy
 msgid "Выбранная конфигурация не поддерживает авто старт."
 msgstr "Vybraná konfigurácia nepodporuje automatické spustenie."
+
+#, fuzzy
+msgid "Автозапуск запрещен в общей конфигурации."
+msgstr "Automatické spustenie je vo všeobecnej konfigurácii zakázané."
+
+#, fuzzy
+msgid "Номер DMX канала"
+msgstr "Číslo DMX kanála"
+
+#, fuzzy
+msgid "Неоходимо установить Virtual MIDI драйвер!"
+msgstr "Musíte nainštalovať ovládač Virtual MIDI!"
 
 #, fuzzy
 msgid "Устройства отсутствуют"
@@ -1430,7 +1454,7 @@ msgstr "Prístup na zápis do konfiguračného súboru je odmietnutý, '{0}'"
 
 #, fuzzy
 msgid "Файл конфигурации отсутствует или доступ запрещен, '{0}'"
-msgstr "Konfiguračný súbor chýba alebo bol prístup odmietnutý, '{0}'"
+msgstr "Konfiguračný súbor chýba alebo prístup bol odmietnutý, '{0}'"
 
 #, fuzzy
 msgid "Файл конфигурации пуст, '{0}'"
@@ -1575,6 +1599,10 @@ msgstr "Problém s verziou ovládača [{0}]"
 #, fuzzy
 msgid "Устройство {0} отправило неверное значение = {1}"
 msgstr "Zariadenie {0} odoslalo neplatnú hodnotu = {1}"
+
+#, fuzzy
+msgid "Виртуальный MIDI драйвер не установлен. Необходимо установить пакет loopMidi, или скачать полную весию установщика и переустановить MIDI-MT. Подробнее: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
+msgstr "Virtuálny MIDI ovládač nie je nainštalovaný. Musíte nainštalovať balík loopMidi alebo stiahnuť úplný inštalátor a preinštalovať MIDI-MT. Viac podrobností: https://claudiacoord.github.io/MIDI-MT/docs/EN/Dependencies.html"
 
 #, fuzzy
 msgid "Служба управления мультимедийными ключами запущена."

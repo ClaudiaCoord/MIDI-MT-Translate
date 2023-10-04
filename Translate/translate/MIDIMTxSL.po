@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-30 14:08+0300\n"
+"POT-Creation-Date: 2023-10-04 23:19+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -797,6 +797,10 @@ msgid "Броадкаст:"
 msgstr "Oddaja:"
 
 #, fuzzy
+msgid "Включить DMX пул (стандартное поведение)"
+msgstr "Omogoči bazen DMX (standardno delovanje)"
+
+#, fuzzy
 msgid "Умный Дом"
 msgstr "Pametna hiša"
 
@@ -1025,6 +1029,10 @@ msgid "Управление устройствами «Умного дома» �
 msgstr "Začelo se je upravljanje naprav Smart Home."
 
 #, fuzzy
+msgid "Установка Virtual MIDI драйвера"
+msgstr "Namestitev gonilnika Virtual MIDI"
+
+#, fuzzy
 msgid "MIDI Mackie выход"
 msgstr "MIDI Mackie izhod"
 
@@ -1037,8 +1045,12 @@ msgid "Версия MIDI Virtual драйвера:"
 msgstr "Različica virtualnega gonilnika MIDI:"
 
 #, fuzzy
+msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора"
+msgstr "Nameščenega gonilnika Virtual MIDI ni bilo mogoče najti! Za zagon prevajalnika MIDI-MT morate namestiti paket MIDI Virtual Loop"
+
+#, fuzzy
 msgid "При запуске будут созданы Proxy MIDI порты:"
-msgstr "Ob zagonu bodo ustvarjena proxy vrata MIDI:"
+msgstr "Ob zagonu bodo ustvarjena vrata proxy MIDI:"
 
 #, fuzzy
 msgid "MIDI Proxy порты отключены."
@@ -1063,6 +1075,18 @@ msgstr "Različica nameščenega gonilnika Virtual MIDI:"
 #, fuzzy
 msgid "Выбранная конфигурация не поддерживает авто старт."
 msgstr "Izbrana konfiguracija ne podpira samodejnega zagona."
+
+#, fuzzy
+msgid "Автозапуск запрещен в общей конфигурации."
+msgstr "Samodejni zagon je v splošni konfiguraciji onemogočen."
+
+#, fuzzy
+msgid "Номер DMX канала"
+msgstr "Številka kanala DMX"
+
+#, fuzzy
+msgid "Неоходимо установить Virtual MIDI драйвер!"
+msgstr "Namestiti morate gonilnik Virtual MIDI!"
 
 #, fuzzy
 msgid "Устройства отсутствуют"
@@ -1575,6 +1599,10 @@ msgstr "Težava z različico gonilnika [{0}]"
 #, fuzzy
 msgid "Устройство {0} отправило неверное значение = {1}"
 msgstr "Naprava {0} je poslala neveljavno vrednost = {1}"
+
+#, fuzzy
+msgid "Виртуальный MIDI драйвер не установлен. Необходимо установить пакет loopMidi, или скачать полную весию установщика и переустановить MIDI-MT. Подробнее: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
+msgstr "Navidezni gonilnik MIDI ni nameščen. Namestiti morate paket loopMidi ali prenesti celoten namestitveni program in znova namestiti MIDI-MT. Več podrobnosti: https://claudiacoord.github.io/MIDI-MT/docs/EN/Dependencies.html"
 
 #, fuzzy
 msgid "Служба управления мультимедийными ключами запущена."
