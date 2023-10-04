@@ -1,9 +1,9 @@
-#. extracted
+#. extracted from S:\__BuildSource\__SVN__\EasyControl-Mackie\EasyControl-Mackie-src\src\Languages\MIDIMTxRU\MIDIMTxRU.rc
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-29 22:07+0300\n"
+"POT-Creation-Date: 2023-10-04 18:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1007,10 +1007,6 @@ msgid "Номер вселенной:"
 msgstr "Universumsnummer:"
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
-msgid "Порт:"
-msgstr ""
-
-#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
 msgid "Адрес:"
 msgstr "Adresse:"
 
@@ -1021,6 +1017,10 @@ msgstr "Maske:"
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
 msgid "Броадкаст:"
 msgstr "Übertragen:"
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_DMX_POLL
+msgid "Включить DMX пул (стандартное поведение)"
+msgstr "DMX-Pool aktivieren (Standardverhalten)"
 
 #: DIALOGEX.IDD_FORMSTART.GROUPBOX.IDC_STATIC
 msgid "Умный Дом"
@@ -1106,10 +1106,6 @@ msgstr "MIDI-Steuerungseinstellung"
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
 msgid "Настройка MIDI контролов"
 msgstr "MIDI-Steuerung einrichten"
-
-#: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
-msgid "MIDI"
-msgstr ""
 
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
 msgid "Информация"
@@ -1267,6 +1263,10 @@ msgstr "MIDIMT – Vorgang konnte nicht abgeschlossen werden:"
 msgid "Управление устройствами «Умного дома» запущено."
 msgstr "Die Smart Home-Geräteverwaltung wurde gestartet."
 
+#: STRINGTABLE.IDS_DLG_MSG0
+msgid "Установка Virtual MIDI драйвера"
+msgstr "Installieren des virtuellen MIDI-Treibers"
+
 #: STRINGTABLE.IDS_DLG_MSG1
 msgid "MIDI Mackie выход"
 msgstr "MIDI-Mackie-Ausgang"
@@ -1280,8 +1280,8 @@ msgid "Версия MIDI Virtual драйвера:"
 msgstr "Version des virtuellen MIDI-Treibers:"
 
 #: STRINGTABLE.IDS_DLG_MSG4
-msgid "Установленный MIDI Virtual драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска транслятора"
-msgstr ""
+msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора"
+msgstr "Der installierte Virtual MIDI-Treiber wurde nicht gefunden! Sie müssen das Virtual Loop MIDI-Paket installieren, um den MIDI-MT-Übersetzer auszuführen"
 
 #: STRINGTABLE.IDS_DLG_MSG5
 msgid "При запуске будут созданы Proxy MIDI порты: "
@@ -1322,6 +1322,18 @@ msgstr ""
 #: STRINGTABLE.IDS_DLG_MSG14
 msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
 msgstr ""
+
+#: STRINGTABLE.IDS_DLG_MSG15
+msgid "Автозапуск запрещен в общей конфигурации."
+msgstr "Autorun ist in der allgemeinen Konfiguration deaktiviert."
+
+#: STRINGTABLE.IDS_DLG_MSG16
+msgid "Номер DMX канала"
+msgstr "DMX-Kanalnummer"
+
+#: STRINGTABLE.IDS_DLG_MSG17
+msgid "Неоходимо установить Virtual MIDI драйвер!"
+msgstr "Sie müssen den Virtual MIDI-Treiber installieren!"
 
 #: STRINGTABLE.IDS_DLG_DMX_NODEV
 msgid "Устройства отсутствуют"
@@ -1870,6 +1882,10 @@ msgstr "Problem mit der Treiberversion [{0}]"
 #: STRINGTABLE.IDS_ERRORID_SEND_BAD_VALUES
 msgid "Устройство {0} отправило неверное значение = {1}"
 msgstr "Gerät {0} hat einen ungültigen Wert gesendet = {1}"
+
+#: STRINGTABLE.IDS_ERRORID_NOT_DRIVER
+msgid "Виртуальный MIDI драйвер не установлен. Необходимо установить пакет loopMidi, или скачать полную весию установщика и переустановить MIDI-MT. Подробнее: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
+msgstr "Der virtuelle MIDI-Treiber ist nicht installiert. Sie müssen das LoopMidi-Paket installieren oder das vollständige Installationsprogramm herunterladen und MIDI-MT neu installieren. Weitere Details: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
 
 #: STRINGTABLE.IDS_ERRORID_MMKEY_START
 msgid "Служба управления мультимедийными ключами запущена."
