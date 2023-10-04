@@ -1,9 +1,9 @@
-#. extracted
+#. extracted from S:\__BuildSource\__SVN__\EasyControl-Mackie\EasyControl-Mackie-src\src\Languages\MIDIMTxRU\MIDIMTxRU.rc
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-29 22:07+0300\n"
+"POT-Creation-Date: 2023-10-04 18:50+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1007,10 +1007,6 @@ msgid "Номер вселенной:"
 msgstr ""
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
-msgid "Порт:"
-msgstr ""
-
-#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
 msgid "Адрес:"
 msgstr ""
 
@@ -1020,6 +1016,10 @@ msgstr ""
 
 #: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_STATIC
 msgid "Броадкаст:"
+msgstr ""
+
+#: DIALOGEX.IDD_FORMSTART.CONTROL.IDC_DMX_POLL
+msgid "Включить DMX пул (стандартное поведение)"
 msgstr ""
 
 #: DIALOGEX.IDD_FORMSTART.GROUPBOX.IDC_STATIC
@@ -1105,10 +1105,6 @@ msgstr ""
 
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
 msgid "Настройка MIDI контролов"
-msgstr ""
-
-#: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
-msgid "MIDI"
 msgstr ""
 
 #: DIALOGEX.IDD_FORMSETUP.GROUPBOX.IDC_STATIC
@@ -1267,6 +1263,10 @@ msgstr ""
 msgid "Управление устройствами «Умного дома» запущено."
 msgstr ""
 
+#: STRINGTABLE.IDS_DLG_MSG0
+msgid "Установка Virtual MIDI драйвера"
+msgstr ""
+
 #: STRINGTABLE.IDS_DLG_MSG1
 msgid "MIDI Mackie выход"
 msgstr ""
@@ -1280,7 +1280,7 @@ msgid "Версия MIDI Virtual драйвера:"
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG4
-msgid "Установленный MIDI Virtual драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска транслятора"
+msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора"
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG5
@@ -1321,6 +1321,18 @@ msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG14
 msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
+msgstr ""
+
+#: STRINGTABLE.IDS_DLG_MSG15
+msgid "Автозапуск запрещен в общей конфигурации."
+msgstr ""
+
+#: STRINGTABLE.IDS_DLG_MSG16
+msgid "Номер DMX канала"
+msgstr ""
+
+#: STRINGTABLE.IDS_DLG_MSG17
+msgid "Неоходимо установить Virtual MIDI драйвер!"
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_DMX_NODEV
@@ -1869,6 +1881,10 @@ msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_SEND_BAD_VALUES
 msgid "Устройство {0} отправило неверное значение = {1}"
+msgstr ""
+
+#: STRINGTABLE.IDS_ERRORID_NOT_DRIVER
+msgid "Виртуальный MIDI драйвер не установлен. Необходимо установить пакет loopMidi, или скачать полную весию установщика и переустановить MIDI-MT. Подробнее: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
 msgstr ""
 
 #: STRINGTABLE.IDS_ERRORID_MMKEY_START
