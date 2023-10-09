@@ -1,471 +1,354 @@
-#. extracted from S:\__BuildSource\__SVN__\EasyControl-Mackie\EasyControl-Mackie-src\src\Languages\MIDIMTxRU\RibbonDialogConfigRU.rc
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-30 14:32+0300\n"
+"POT-Creation-Date: 2023-10-10 00:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Accelerator-Marker: &\n"
 "X-Generator: Translate Toolkit 3.10.0\n"
-"X-Merge-On: location\n"
 
-#: STRINGTABLE.IDS_RB_DIALOG_LAST_OPENL
 msgid "Последние файлы:"
 msgstr "Senaste filerna:"
 
-#: STRINGTABLE.IDS_RB_TABHOMEL
 msgid "Редактирование"
 msgstr "Redigering"
 
-#: STRINGTABLE.IDS_RB_TABFILTERL
 msgid "Фильтры"
 msgstr "Filter"
 
-#: STRINGTABLE.IDS_RB_PANEL_EDITMAINL
 msgid "редактировать MIDI ключ"
 msgstr "redigera MIDI-nyckeln"
 
-#: STRINGTABLE.IDS_RB_PANEL_EDITSETL
 msgid "установить MIDI ключ как.."
 msgstr "ställ in MIDI-nyckeln som..."
 
-#: STRINGTABLE.IDS_RB_PANEL_EDITOPTL
 msgid "параметры редактора"
 msgstr "redigeringsalternativ"
 
-#: STRINGTABLE.IDS_RB_PANEL_FILTERL
 msgid "выбор фильтров просмотра"
 msgstr "urval av visningsfilter"
 
-#: STRINGTABLE.IDS_RB_PANEL_SORTL
 msgid "сортировка"
 msgstr "sortering"
 
-#: STRINGTABLE.IDS_RB_MENUL
 msgid "&Меню"
 msgstr "&Meny"
 
-#: STRINGTABLE.IDS_RB_MENUT
 msgid "Меню приложения"
 msgstr "Applikationsmeny"
 
-#: STRINGTABLE.IDS_RB_PANEL_QATL
 msgid "&Быстрый доступ"
 msgstr "&Snabb åtkomst"
 
-#: STRINGTABLE.IDS_RB_PANEL_QATT
 msgid "Панель быстрого доступа"
 msgstr "Snabbåtkomstverktygsfält"
 
-#: STRINGTABLE.IDS_RB_DIALOG_SAVEL
 msgid "&Сохранить"
 msgstr "&Spara"
 
-#: STRINGTABLE.IDS_RB_DIALOG_SAVET
 msgid "Сохранить и применить"
 msgstr "Spara och tillämpa"
 
-#: STRINGTABLE.IDS_RB_DIALOG_SAVED
 msgid "Сохранить в загруженный ранее файл и обновить текущую конфигурацию."
 msgstr "Spara till den tidigare nedladdade filen och uppdatera den aktuella konfigurationen."
 
-#: STRINGTABLE.IDS_RB_DIALOG_EXPORTL
 msgid "&Экспорт"
 msgstr "&Exportera"
 
-#: STRINGTABLE.IDS_RB_DIALOG_EXPORTT
 msgid "Экспорт в новый файл"
 msgstr "Exportera till en ny fil"
 
-#: STRINGTABLE.IDS_RB_DIALOG_EXPORTD
 msgid "Экспортировать отредактированную конфигурацию в новый файл."
 msgstr "Exportera den redigerade konfigurationen till en ny fil."
 
-#: STRINGTABLE.IDS_RB_DIALOG_IMPORTL
 msgid "&Импорт"
 msgstr "&Importera"
 
-#: STRINGTABLE.IDS_RB_DIALOG_IMPORTT
 msgid "Импорт из файла"
 msgstr "Importera från fil"
 
-#: STRINGTABLE.IDS_RB_DIALOG_IMPORTD
 msgid "Импортировать конфигурацию из файла."
 msgstr "Importera konfiguration från fil."
 
-#: STRINGTABLE.IDS_RB_DIALOG_EXITL
 msgid "&Выход"
 msgstr "&Utgång"
 
-#: STRINGTABLE.IDS_RB_DIALOG_EXITT
 msgid "Выход из редактора"
 msgstr "Avsluta editorn"
 
-#: STRINGTABLE.IDS_RB_DIALOG_EXITD
 msgid "Выход из редактора конфигурации MIDI ключей, если изменения не сохранены, они будут утеряны."
 msgstr "Avsluter MIDI Key Configuration Editor; om ändringar inte sparas kommer de att gå förlorade."
 
-#: STRINGTABLE.IDS_RB_LV_NEWL
 msgid "&Новый MIDI ключ"
 msgstr "&Ny MIDI-nyckel"
 
-#: STRINGTABLE.IDS_RB_LV_NEWT
 msgid "Новый MIDI ключ"
 msgstr "Ny MIDI-nyckel"
 
-#: STRINGTABLE.IDS_RB_LV_NEWD
 msgid "Создание нового MIDI ключа."
 msgstr "Skapa en ny MIDI-nyckel."
 
-#: STRINGTABLE.IDS_RB_LV_COPYL
 msgid "&Копировать"
 msgstr "&Kopiera"
 
-#: STRINGTABLE.IDS_RB_LV_COPYT
 msgid "Копировать MIDI ключ"
 msgstr "Kopiera MIDI-nyckeln"
 
-#: STRINGTABLE.IDS_RB_LV_COPYD
 msgid "Скопировать выбранную запись MIDI ключа."
 msgstr "Kopiera den valda MIDI-tangenten."
 
-#: STRINGTABLE.IDS_RB_LV_PASTEL
 msgid "&Вставить"
 msgstr "&Föra in"
 
-#: STRINGTABLE.IDS_RB_LV_PASTET
 msgid "Вставить ключ"
 msgstr "Sätt i nyckel"
 
-#: STRINGTABLE.IDS_RB_LV_PASTED
 msgid "Вставить скопированный MIDI ключ."
 msgstr "Klistra in den kopierade MIDI-nyckeln."
 
-#: STRINGTABLE.IDS_RB_LV_DELETEL
 msgid "&Удалить"
 msgstr "&Radera"
 
-#: STRINGTABLE.IDS_RB_LV_DELETET
 msgid "Удалить ключ"
 msgstr "Ta bort nyckel"
 
-#: STRINGTABLE.IDS_RB_LV_DELETED
 msgid "Удалить выбранную запись MIDI ключа."
 msgstr "Radera den valda MIDI-tangenten."
 
-#: STRINGTABLE.IDS_RB_LV_SET_MQTTL
 msgid "Умный дом"
 msgstr "Smart hus"
 
-#: STRINGTABLE.IDS_RB_LV_SET_MQTTT
 msgid "Установить группу как «Умный дом»."
-msgstr "Ställ in gruppen som "Smart Home"."
+msgstr "Ställ in gruppen som \"Smart Home\"."
 
-#: STRINGTABLE.IDS_RB_LV_SET_MQTTD
 msgid "Назначить выбранный MIDI ключ к группе «Умный дом»."
-msgstr "Tilldela den valda MIDI-nyckeln till gruppen "Smart Home"."
+msgstr "Tilldela den valda MIDI-nyckeln till gruppen \"Smart Home\"."
 
-#: STRINGTABLE.IDS_RB_LV_SET_MMKEYL
 msgid "Мультимедиа кнопки"
 msgstr "Multimediaknappar"
 
-#: STRINGTABLE.IDS_RB_LV_SET_MMKEYT
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Ställ in gruppen som "Multimediaknappar""
+msgstr "Ställ in gruppen som \"Multimediaknappar\""
 
-#: STRINGTABLE.IDS_RB_LV_SET_MMKEYD
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
-msgstr "Tilldela den valda MIDI-nyckeln till gruppen "Multimedia Buttons"."
+msgstr "Tilldela den valda MIDI-nyckeln till gruppen \"Multimedia Buttons\"."
 
-#: STRINGTABLE.IDS_RB_LV_SET_MIXERL
 msgid "Аудио микшер"
 msgstr "Ljudmixer"
 
-#: STRINGTABLE.IDS_RB_LV_SET_MIXERT
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Ställ in grupp som "Audio Mixer""
+msgstr "Ställ in grupp som \"Audio Mixer\""
 
-#: STRINGTABLE.IDS_RB_LV_SET_MIXERD
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
-msgstr "Tilldela den valda MIDI-tangenten till gruppen "Audio Mixer"."
+msgstr "Tilldela den valda MIDI-tangenten till gruppen \"Audio Mixer\"."
 
-#: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODEL
 msgid "Читать MIDI код"
 msgstr "Läs MIDI-koden"
 
-#: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODET
 msgid "Прочесть MIDI код контрола"
 msgstr "Läs MIDI-kontrollkoden"
 
-#: STRINGTABLE.IDS_RB_LV_READ_MIDI_CODED
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
 msgstr "Läs MIDI-kod från en kontrollyta eller MIDI-keyboard."
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODEL
 msgid "Только цифровой ввод"
 msgstr "Endast digital ingång"
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODET
 msgid "Использовать только цифровой ввод"
 msgstr "Använd endast digital ingång"
 
-#: STRINGTABLE.IDS_RB_LV_EDIT_MODED
 msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
 msgstr "Använd inte värdevalsmenyn, använd endast digital ingång."
 
-#: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSL
 msgid "MIDI панель управления"
 msgstr "MIDI kontrollpanel"
 
-#: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYST
 msgid "Рекомендуемые настройки"
 msgstr "Rekommenderade inställningar"
 
-#: STRINGTABLE.IDS_RB_DIALOG_SHOW_MIDI_KEYSD
 msgid "Рекомендуемые настройки панели управления MIDI, совместимые с элементами управления Adobe Premiere Pro."
 msgstr "Rekommenderade MIDI-kontrollpanelinställningar kompatibla med Adobe Premiere Pro-kontroller."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_EMBEDL
 msgid "Встроенные фильтры"
 msgstr "Inbyggda filter"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_KEYL
 msgid "Ключ"
 msgstr "Nyckel"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_KEYT
 msgid "Фильтровать по MIDI ключу"
 msgstr "Filtrera efter MIDI-nyckel"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_KEYD
 msgid "Показывать только совпадения в группе MIDI ключей."
 msgstr "Visa endast matchningar inom en MIDI-nyckelgrupp."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_SCENEL
 msgid "Сцена"
 msgstr "Scen"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_SCENET
 msgid "Фильтровать по MIDI сцене"
 msgstr "Filtrera efter MIDI-scen"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_SCENED
 msgid "Показывать только совпадения в группе MIDI сцены."
 msgstr "Visa endast matchningar i MIDI-scengruppen."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETL
 msgid "Назначение 1"
 msgstr "Syfte 1"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETT
 msgid "Фильтровать по назначению 1"
 msgstr "Filtrera efter destination 1"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETD
 msgid "Показывать только совпадения в группе по целевому назначению 1."
 msgstr "Visa endast matchningar i målgrupp 1."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGL
 msgid "Назначение 2"
 msgstr "Syfte 2"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGT
 msgid "Фильтровать по назначению 2"
 msgstr "Filtrera efter destination 2"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TARGETLONGD
 msgid "Показывать только совпадения в группе по целевому назначению 2."
 msgstr "Visa endast matchningar i målgrupp 2."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_CLEARL
 msgid "Очистить фильтры"
 msgstr "Rensa filter"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_CLEART
 msgid "Очистка фильтров"
 msgstr "Rengöring av filter"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_CLEARD
 msgid "Полная очистка фильтров, будут показаны все записи."
 msgstr "Rensa filtren helt, alla poster kommer att visas."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_SETL
 msgid "Установить фильтр"
 msgstr "Ställ in filter"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_SETT
 msgid "Установка фильтра"
 msgstr "Filterinstallation"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_SETD
 msgid "Установка фильтра показывает все недействительные элементы."
 msgstr "Om du ställer in filtret visas alla ogiltiga objekt."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ONL
 msgid "Применить фильтр"
 msgstr "Använd filter"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_ONT
 msgid "Применение фильтра"
 msgstr "Använda ett filter"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_OND
 msgid "Применение фильтра показывает выбранные элементы."
 msgstr "Genom att använda ett filter visas de valda objekten."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_OFFL
 msgid "Отменить фильтр"
 msgstr "Avbryt filter"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_OFFT
 msgid "Отмена фильтра"
 msgstr "Avbryt filter"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_OFFD
 msgid "Отмена фильтра покажет все элементы."
 msgstr "Om du avbryter filtret visas alla element."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYL
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Visa "Multimediaknappar""
+msgstr "Visa \"Multimediaknappar\""
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYT
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr "Filtrera efter grupp "Multimediaknappar"."
+msgstr "Filtrera efter grupp \"Multimediaknappar\"."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_MMKEYD
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
 msgstr "Om du använder ett filter visas medlemmarna i gruppen Multimediaknappar."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERL
 msgid "Показать «Аудио микшер»"
-msgstr "Visa "Audio Mixer""
+msgstr "Visa \"Audio Mixer\""
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERT
 msgid "Фильтровать по группе «Аудио микшер»"
-msgstr "Filtrera efter "Audio Mixer"-grupp"
+msgstr "Filtrera efter \"Audio Mixer\"-grupp"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_MIXERD
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
 msgstr "Om du använder ett filter visas medlemmarna i Audio Mixer-gruppen."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTL
 msgid "Показать «Умный дом»"
-msgstr "Visa "Smart Home""
+msgstr "Visa \"Smart Home\""
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTT
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "Filtrera efter "Smart Home"-grupp"
+msgstr "Filtrera efter \"Smart Home\"-grupp"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_MQTTD
 msgid "Применение фильтра покажет членов группы «Умный дом»."
 msgstr "Om du använder ett filter visas medlemmarna i Smart Home-gruppen."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNL
 msgid "Тип фильтра"
 msgstr "Filtertyp"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTNT
 msgid "Установка типа применяемых фильтров"
 msgstr "Ställa in vilken typ av filter som ska tillämpas"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEBTND
 msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
-msgstr "De typer av filter som används har två logiska tillstånd: "OCH", "ELLER"."
+msgstr "De typer av filter som används har två logiska tillstånd: \"OCH\", \"ELLER\"."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEGRPL
 msgid "Выбор типа фильтрации"
 msgstr "Välja en filtertyp"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORL
 msgid "Показывать любые совпадения"
 msgstr "Visa eventuella matchningar"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORT
 msgid "Показывать записи с любым совпадением"
 msgstr "Visa bidrag med valfri matchning"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEORD
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
 msgstr "Filtret har ett logiskt OCH-tillstånd och visar eventuella matchningar."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDL
 msgid "Показывать только полные совпадения"
 msgstr "Visa endast fullständiga matchningar"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDT
 msgid "Показывать записи только с полным совпадением"
 msgstr "Visa endast poster med exakta matchningar"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_TYPEANDD
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
 msgstr "Filtret har ett logiskt ELLER-tillstånd och visar endast fullständiga matchningar."
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITL
 msgid "Авто отправка данных в фильтре"
 msgstr "Automatisk sändning av data i filtret"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITT
 msgid "Авто отправка вводимых значений в фильтре"
 msgstr "Automatisk sändning av inmatade värden i filtret"
 
-#: STRINGTABLE.IDS_RB_LV_FILTER_AUTOCOMMITD
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
 msgstr "Skickar automatiskt in ingångsvärden i ett inbyggt filter."
 
-#: STRINGTABLE.IDS_RB_LV_EXT_MODEL
 msgid "Показать сортировку"
 msgstr "Visa sortering"
 
-#: STRINGTABLE.IDS_RB_LV_SORTUP_KEYL
 msgid "по ключу"
 msgstr "med nyckel"
 
-#: STRINGTABLE.IDS_RB_LV_SORTUP_KEYT
 msgid "Сортировка по возрастанию и MIDI ключу."
 msgstr "Sortera efter stigande och MIDI-nyckel."
 
-#: STRINGTABLE.IDS_RB_LV_SORTUP_SCENEL
 msgid "по сцене"
 msgstr "runt scenen"
 
-#: STRINGTABLE.IDS_RB_LV_SORTUP_SCENET
 msgid "Сортировка по возрастанию и MIDI сцене."
 msgstr "Sortering efter stigande och MIDI-scen."
 
-#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETL
 msgid "по назначению 1"
 msgstr "efter överenskommelse 1"
 
-#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETT
 msgid "Сортировка по возрастанию и MIDI назначению 1."
 msgstr "Sortera efter stigande och MIDI-destination 1."
 
-#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETLONGL
 msgid "по назначению 2"
 msgstr "efter överenskommelse 2"
 
-#: STRINGTABLE.IDS_RB_LV_SORTUP_TARGETLONGT
 msgid "Сортировка по возрастанию и MIDI назначению 2."
 msgstr "Sortering efter stigande och MIDI-destination 2."
 
-#: STRINGTABLE.IDS_RB_LV_SORTDOWN_KEYT
 msgid "Сортировка по убыванию и MIDI ключу."
 msgstr "Sortera efter fallande och MIDI-nyckel."
 
-#: STRINGTABLE.IDS_RB_LV_SORTDOWN_SCENET
 msgid "Сортировка по убыванию и MIDI сцене."
 msgstr "Sortering efter fallande ordning och MIDI-scen."
 
-#: STRINGTABLE.IDS_RB_LV_SORTDOWN_TARGETT
 msgid "Сортировка по убыванию и MIDI назначению 1."
 msgstr "Sortera efter fallande ordning och MIDI-destination 1."
 
-#: STRINGTABLE.IDS_RB_LV_SORTDOWN_TARGETLONGT
 msgid "Сортировка по убыванию и MIDI назначению 2."
 msgstr "Sortering efter fallande ordning och MIDI-destination 2."

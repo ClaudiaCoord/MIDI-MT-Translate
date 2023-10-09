@@ -1,9 +1,8 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-04 23:19+0300\n"
+"POT-Creation-Date: 2023-10-10 00:14+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,1662 +11,1301 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.10.0\n"
 
-#, fuzzy
 msgid "MIDI Mackie транслятор"
 msgstr "Traducteur MIDI Mackie"
 
-#, fuzzy
 msgid "&Информация"
 msgstr "&Information"
 
-#, fuzzy
 msgid "&Аудио микшер"
 msgstr "&mixeur audio"
 
-#, fuzzy
 msgid "&Монитор"
 msgstr "&Moniteur"
 
-#, fuzzy
 msgid "&Настройка"
 msgstr "&Paramètre"
 
-#, fuzzy
 msgid "Ст&арт"
 msgstr "Commencer"
 
-#, fuzzy
 msgid "Ст&оп"
 msgstr "Arrêt"
 
-#, fuzzy
 msgid "Вы&ход"
 msgstr "Sortie"
 
-#, fuzzy
 msgid "Расположение.."
 msgstr "Emplacement.."
 
-#, fuzzy
 msgid "Вертикально слева"
 msgstr "Verticale gauche"
 
-#, fuzzy
 msgid "Вертикально справа"
 msgstr "Verticale à droite"
 
-#, fuzzy
 msgid "Горизонтально вверху"
 msgstr "Dessus horizontal"
 
-#, fuzzy
 msgid "Горизонтально внизу"
 msgstr "Horizontalement en bas"
 
-#, fuzzy
 msgid "Тема.."
 msgstr "Sujet.."
 
-#, fuzzy
 msgid "Метро"
 msgstr "Métro"
 
-#, fuzzy
 msgid "Светлая"
 msgstr "Lumière"
 
-#, fuzzy
 msgid "Тёмная"
 msgstr "Sombre"
 
-#, fuzzy
 msgid "Рэтро"
 msgstr "rétro"
 
-#, fuzzy
 msgid "Современный"
 msgstr "Moderne"
 
-#, fuzzy
 msgid "Настраеваямая"
 msgstr "TuningMai"
 
-#, fuzzy
 msgid "Настройка темы"
 msgstr "Personnalisation du thème"
 
-#, fuzzy
 msgid "&Анимация"
 msgstr "&Animation"
 
-#, fuzzy
 msgid "&Путь приложений"
 msgstr "&Chemin d'accès à l'application"
 
-#, fuzzy
 msgid "Привязка &MIDI контролов"
 msgstr "Liaison et commandes MIDI"
 
-#, fuzzy
 msgid "Пиковый &измеритель громкости"
 msgstr "Compteur de crête et de volume"
 
-#, fuzzy
 msgid "З&апомнить позицию"
 msgstr "Mémoriser la position"
 
-#, fuzzy
 msgid "&Закрыть"
 msgstr "&Fermer"
 
-#, fuzzy
 msgid "Новая запись"
 msgstr "Nouvelle entrée"
 
-#, fuzzy
 msgid "Копировать"
 msgstr "Copie"
 
-#, fuzzy
 msgid "Вставить"
 msgstr "Insérer"
 
-#, fuzzy
 msgid "Удалить"
 msgstr "Supprimer"
 
-#, fuzzy
 msgid "Установить как.."
 msgstr "Définir comme .."
 
-#, fuzzy
 msgid "Контроль относиться к аудио микшеру"
 msgstr "Le contrôle se réfère au mixeur audio"
 
-#, fuzzy
 msgid "Контроль относиться к мультимедиа кнопкам"
 msgstr "Commandes liées aux boutons multimédia"
 
-#, fuzzy
 msgid "Контроль относиться к умному дому"
 msgstr "Contrôler la maison intelligente"
 
-#, fuzzy
 msgid "Контроль относиться к управлению светом"
 msgstr "Le contrôle fait référence au contrôle de la lumière"
 
-#, fuzzy
 msgid "Неназначенный"
 msgstr "Non attribué"
 
-#, fuzzy
 msgid "Читать MIDI код.."
 msgstr "Lire le code MIDI.."
 
-#, fuzzy
 msgid "Регуляторы.."
 msgstr "Les régulateurs.."
 
-#, fuzzy
 msgid "Полосковый регулятор"
 msgstr "Régulateur de bande"
 
-#, fuzzy
 msgid "Полосковый регулятор с инверсией"
 msgstr "Régulateur inversé à bande"
 
-#, fuzzy
 msgid "Круговый регулятор"
 msgstr "Curseur rotatif"
 
-#, fuzzy
 msgid "Круговый регулятор с инверсией"
 msgstr "Bouton rotatif avec inversion"
 
-#, fuzzy
 msgid "Энкодер"
 msgstr "encodeur"
 
-#, fuzzy
 msgid "Энкодер с инверсией"
 msgstr "Codeur avec inversion"
 
-#, fuzzy
 msgid "Кнопки.."
 msgstr "Boutons.."
 
-#, fuzzy
 msgid "Кнопка"
 msgstr "Bouton"
 
-#, fuzzy
 msgid "Кнопка переключать, с индикацией"
 msgstr "Bouton interrupteur, avec indication"
 
-#, fuzzy
 msgid "Управление звуком.."
 msgstr "Contrôle du son..."
 
-#, fuzzy
 msgid "Без звука (мастер)"
 msgstr "Silencieux (maître)"
 
-#, fuzzy
 msgid "Соло (мастер)"
 msgstr "Solo (maître)"
 
-#, fuzzy
 msgid "Без звука.."
 msgstr "Silencieux.."
 
-#, fuzzy
-msgctxt ""
 msgid "канал 1"
 msgstr "canal 1"
 
-#, fuzzy
-msgctxt ""
 msgid "канал 2"
 msgstr "canal 2"
 
-#, fuzzy
-msgctxt ""
 msgid "канал 3"
 msgstr "canal 3"
 
-#, fuzzy
-msgctxt ""
 msgid "канал 4"
 msgstr "canal 4"
 
-#, fuzzy
-msgctxt ""
 msgid "канал 5"
 msgstr "canal 5"
 
-#, fuzzy
-msgctxt ""
 msgid "канал 6"
 msgstr "canal 6"
 
-#, fuzzy
-msgctxt ""
 msgid "канал 7"
 msgstr "canal 7"
 
-#, fuzzy
-msgctxt ""
 msgid "канал 8"
 msgstr "canal 8"
 
-#, fuzzy
-msgctxt ""
 msgid "канал 9"
 msgstr "canal 9"
 
-#, fuzzy
 msgid "Соло.."
 msgstr "Solo.."
 
-#, fuzzy
 msgid "Мультимедиа кнопки.."
 msgstr "Boutons multimédia.."
 
-#, fuzzy
 msgid "Играть/Пауза"
 msgstr "Jouer pause"
 
-#, fuzzy
 msgid "Стоп"
 msgstr "Arrêt"
 
-#, fuzzy
 msgid "Предыдущий"
 msgstr "Précédent"
 
-#, fuzzy
 msgid "Следующий"
 msgstr "Suivant"
 
-#, fuzzy
 msgid "Запись"
 msgstr "Enregistrement"
 
-#, fuzzy
-msgctxt ""
 msgid "Вверх (джойстик)"
 msgstr "Vers le haut (joystick)"
 
-#, fuzzy
-msgctxt ""
 msgid "Вниз (джойстик)"
 msgstr "Vers le bas (joystick)"
 
-#, fuzzy
 msgid "Вправо (джойстик)"
 msgstr "Droite (joystick)"
 
-#, fuzzy
-msgctxt ""
 msgid "Влево (джойстик)"
 msgstr "Gauche (joystick)"
 
-#, fuzzy
 msgid "Увеличение масштаба"
 msgstr "Agrandir"
 
-#, fuzzy
 msgid "Скрабирование"
 msgstr "lavage"
 
-#, fuzzy
 msgid "Функции «Premiere Pro».."
 msgstr "Fonctionnalités de Premiere Pro..."
 
-#, fuzzy
 msgid "Функции стандартной кнопки.."
 msgstr "Fonctions du bouton standard..."
 
-#, fuzzy
 msgid "Функция 1"
 msgstr "Fonction 1"
 
-#, fuzzy
 msgid "Функция 2"
 msgstr "Fonction 2"
 
-#, fuzzy
 msgid "Функция 3"
 msgstr "Fonction 3"
 
-#, fuzzy
 msgid "Функция 4"
 msgstr "Caractéristique 4"
 
-#, fuzzy
 msgid "Функция 5"
 msgstr "Caractéristique 5"
 
-#, fuzzy
 msgid "Функция 6"
 msgstr "Fonction 6"
 
-#, fuzzy
 msgid "Функция 7"
 msgstr "Caractéristique 7"
 
-#, fuzzy
 msgid "Функция 8"
 msgstr "Fonction 8"
 
-#, fuzzy
 msgid "Функции кнопки «в одно касание».."
 msgstr "Fonctions des boutons à une touche..."
 
-#, fuzzy
 msgid "Кнопки в системе «Умный дом».."
 msgstr "Boutons du système Smart Home."
 
-#, fuzzy
 msgid "вкл/выкл 1"
 msgstr "marche/arrêt 1"
 
-#, fuzzy
 msgid "вкл/выкл 2"
 msgstr "marche/arrêt 2"
 
-#, fuzzy
 msgid "вкл/выкл 3"
 msgstr "marche/arrêt 3"
 
-#, fuzzy
 msgid "вкл/выкл 4"
 msgstr "marche/arrêt 4"
 
-#, fuzzy
 msgid "вкл/выкл 5"
 msgstr "marche/arrêt 5"
 
-#, fuzzy
 msgid "вкл/выкл 6"
 msgstr "marche/arrêt 6"
 
-#, fuzzy
 msgid "вкл/выкл 7"
 msgstr "marche/arrêt 7"
 
-#, fuzzy
 msgid "вкл/выкл 8"
 msgstr "marche/arrêt 8"
 
-#, fuzzy
 msgid "вкл/выкл 9"
 msgstr "marche/arrêt 9"
 
-#, fuzzy
 msgid "вкл/выкл 10"
 msgstr "marche/arrêt 10"
 
-#, fuzzy
 msgid "вкл/выкл 11"
 msgstr "marche/arrêt 11"
 
-#, fuzzy
 msgid "вкл/выкл 12"
 msgstr "marche/arrêt 12"
 
-#, fuzzy
 msgid "вкл/выкл 13"
 msgstr "marche/arrêt 13"
 
-#, fuzzy
 msgid "вкл/выкл 14"
 msgstr "marche/arrêt 14"
 
-#, fuzzy
 msgid "вкл/выкл 15"
 msgstr "marche/arrêt 15"
 
-#, fuzzy
 msgid "вкл/выкл 16"
 msgstr "marche/arrêt 16"
 
-#, fuzzy
 msgid "вкл/выкл 17"
 msgstr "marche/arrêt 17"
 
-#, fuzzy
 msgid "вкл/выкл 18"
 msgstr "marche/arrêt 18"
 
-#, fuzzy
 msgid "вкл/выкл 19"
 msgstr "marche/arrêt 19"
 
-#, fuzzy
 msgid "вкл/выкл 20"
 msgstr "marche/arrêt 20"
 
-#, fuzzy
 msgid "вкл/выкл 21"
 msgstr "marche/arrêt 21"
 
-#, fuzzy
 msgid "вкл/выкл 22"
 msgstr "marche/arrêt 22"
 
-#, fuzzy
 msgid "вкл/выкл 23"
 msgstr "marche/arrêt 23"
 
-#, fuzzy
 msgid "вкл/выкл 24"
 msgstr "marche/arrêt 24"
 
-#, fuzzy
 msgid "вкл/выкл 25"
 msgstr "marche/arrêt 25"
 
-#, fuzzy
 msgid "вкл/выкл 26"
 msgstr "marche/arrêt 26"
 
-#, fuzzy
 msgid "вкл/выкл 27"
 msgstr "marche/arrêt 27"
 
-#, fuzzy
 msgid "Энкодер (покадровый просмотр)"
 msgstr "Encodeur (image par image)"
 
-#, fuzzy
 msgid "Громкость (мастер)"
 msgstr "Volume (maître)"
 
-#, fuzzy
 msgid "Баланс (мастер)"
 msgstr "Solde (maître)"
 
-#, fuzzy
 msgid "Громкость.."
 msgstr "Volume.."
 
-#, fuzzy
 msgid "Баланс.."
 msgstr "Équilibre.."
 
-#, fuzzy
 msgid "Регуляторы в системе «Умный дом».."
 msgstr "Régulateurs dans le système « Smart Home »."
 
-#, fuzzy
 msgid "уровень 1"
 msgstr "niveau 1"
 
-#, fuzzy
 msgid "уровень 2"
 msgstr "niveau 2"
 
-#, fuzzy
 msgid "уровень 3"
 msgstr "niveau 3"
 
-#, fuzzy
 msgid "уровень 4"
 msgstr "niveau 4"
 
-#, fuzzy
 msgid "уровень 5"
 msgstr "niveau 5"
 
-#, fuzzy
 msgid "уровень 6"
 msgstr "niveau 6"
 
-#, fuzzy
 msgid "уровень 7"
 msgstr "niveau 7"
 
-#, fuzzy
 msgid "уровень 8"
 msgstr "niveau 8"
 
-#, fuzzy
 msgid "уровень 9"
 msgstr "niveau 9"
 
-#, fuzzy
 msgid "уровень 10"
 msgstr "niveau 10"
 
-#, fuzzy
 msgid "уровень 11"
 msgstr "niveau 11"
 
-#, fuzzy
 msgid "уровень 12"
 msgstr "niveau 12"
 
-#, fuzzy
 msgid "уровень 13"
 msgstr "niveau 13"
 
-#, fuzzy
 msgid "уровень 14"
 msgstr "niveau 14"
 
-#, fuzzy
 msgid "уровень 15"
 msgstr "niveau 15"
 
-#, fuzzy
 msgid "уровень 16"
 msgstr "niveau 16"
 
-#, fuzzy
 msgid "уровень 17"
 msgstr "niveau 17"
 
-#, fuzzy
 msgid "уровень 18"
 msgstr "niveau 18"
 
-#, fuzzy
 msgid "Энкодер (JOG)"
 msgstr "Encodeur (JOG)"
 
-#, fuzzy
 msgid "канал 10"
 msgstr "canal 10"
 
-#, fuzzy
 msgid "канал 11"
 msgstr "canal 11"
 
-#, fuzzy
 msgid "канал 12"
 msgstr "canal 12"
 
-#, fuzzy
 msgid "канал 13"
 msgstr "canal 13"
 
-#, fuzzy
 msgid "канал 14"
 msgstr "canal 14"
 
-#, fuzzy
 msgid "канал 15"
 msgstr "canal 15"
 
-#, fuzzy
 msgid "канал 16"
 msgstr "canal 16"
 
-#, fuzzy
 msgid "канал 17"
 msgstr "canal 17"
 
-#, fuzzy
 msgid "канал 18"
 msgstr "canal 18"
 
-#, fuzzy
 msgid "Обновления"
 msgstr "Mises à jour"
 
-#, fuzzy
 msgid "Помощь"
 msgstr "Aide"
 
-#, fuzzy
 msgid "&Программа настройки MIDI панели"
 msgstr "&Configuration du panneau MIDI"
 
-#, fuzzy
+msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
+msgstr "Disposition recommandée du panneau de commande MIDI. Le fichier contenant les paramètres de cette mise en page se trouve dans le dossier 'docs/MIDIMT.Ctrl_data'."
+
 msgid "Запуск MIDI транслятора"
 msgstr "Lancement du traducteur MIDI"
 
-#, fuzzy
 msgid "MIDI устройства"
 msgstr "Appareils MIDI"
 
-#, fuzzy
 msgid "MIDI Бридж"
 msgstr "Pont MIDI"
 
-#, fuzzy
 msgid "Запущен"
 msgstr "lancé"
 
-#, fuzzy
 msgid "Остановлен"
 msgstr "Arrêté"
 
-#, fuzzy
 msgid "Конфигурация"
 msgstr "Configuration"
 
-#, fuzzy
 msgid "MIDI контролы"
 msgstr "Commandes MIDI"
 
-#, fuzzy
 msgid "Интервал между нажатиями"
 msgstr "Intervalle entre les clics"
 
-#, fuzzy
 msgid "Интервал как долгое нажатие"
 msgstr "Intervalle en appuyant longuement"
 
-#, fuzzy
 msgid "Запуск"
 msgstr "lancement"
 
-#, fuzzy
 msgid "Старт при загрузке системы"
 msgstr "Démarrer au démarrage du système"
 
-#, fuzzy
 msgid "Авто старт при запуске"
 msgstr "Démarrage automatique au démarrage"
 
-#, fuzzy
 msgid "Авто старт этой конфигурации"
 msgstr "Démarrage automatique de cette configuration"
 
-#, fuzzy
 msgid "Записывать лог"
 msgstr "Écrire un journal"
 
-#, fuzzy
 msgid "Предпочитаемый язык:"
 msgstr "Langue préférée:"
 
-#, fuzzy
 msgid "Использовать правую кнопку мыши для вызова микшера"
 msgstr "Utilisez le bouton droit de la souris pour appeler le mixeur"
 
-#, fuzzy
 msgid "Настройки MIDI"
 msgstr "Paramètres MIDI"
 
-#, fuzzy
 msgid "Драйвер:"
 msgstr "Conducteur:"
 
-#, fuzzy
 msgid "JOG фильтр сцены"
 msgstr "Filtre de scène JOG"
 
-#, fuzzy
 msgid "Порт не создается"
 msgstr "Port non créé"
 
-#, fuzzy
 msgid "MIDI Прокси"
 msgstr "Proxy MIDI"
 
-#, fuzzy
 msgid "количество портов"
 msgstr "nombre de ports"
 
-#, fuzzy
 msgid "Включено"
 msgstr "Inclus"
 
-#, fuzzy
 msgid "Настройки Микшера Звука"
 msgstr "Paramètres du mixeur audio"
 
-#, fuzzy
 msgid "Замена значений громкости без проверки"
 msgstr "Remplacer les valeurs de volume sans vérifier"
 
-#, fuzzy
 msgid "Объединять приложения по названию, раздельная регулировка невозможна"
 msgstr "Fusionner les applications par nom, un ajustement séparé n'est pas possible"
 
-#, fuzzy
 msgid "Устанавливать сохранённые уровни громкости при старте"
 msgstr "Définir les niveaux de volume enregistrés au démarrage"
 
-#, fuzzy
 msgid "Включить MM клавиши"
 msgstr "Activer les touches MM"
 
-#, fuzzy
 msgid "Сохранить &настройки"
 msgstr "Enregistrer les paramètres"
 
-#, fuzzy
 msgid "&Старт"
 msgstr "&Commencer"
 
-#, fuzzy
 msgid "Освещение"
 msgstr "Éclairage"
 
-#, fuzzy
 msgid "Служба DMX"
 msgstr "Service DMX"
 
-#, fuzzy
 msgid "COM порт:"
 msgstr "Port COM :"
 
-#, fuzzy
 msgid "Порт:"
 msgstr "Port:"
 
-#, fuzzy
 msgid "Бит-рейт:"
 msgstr "Débit binaire :"
 
-#, fuzzy
 msgid "Стоп-бит:"
 msgstr "Bit d'arrêt :"
 
-#, fuzzy
 msgid "Тайм-аут:"
 msgstr "Temps mort:"
 
-#, fuzzy
 msgid "Служба ArtNet"
 msgstr "Service ArtNet"
 
-#, fuzzy
 msgid "ArtNet сеть:"
 msgstr "Réseau ArtNet :"
 
-#, fuzzy
 msgid "Номер вселенной:"
 msgstr "Numéro d'univers :"
 
-#, fuzzy
 msgid "Адрес:"
 msgstr "Adresse:"
 
-#, fuzzy
 msgid "Маска:"
 msgstr "Masque:"
 
-#, fuzzy
 msgid "Броадкаст:"
 msgstr "Diffuser:"
 
-#, fuzzy
 msgid "Включить DMX пул (стандартное поведение)"
 msgstr "Activer le pool DMX (comportement standard)"
 
-#, fuzzy
 msgid "Умный Дом"
 msgstr "Maison intelligente"
 
-#, fuzzy
 msgid "MQTT сервер"
 msgstr "serveur MQTT"
 
-#, fuzzy
 msgid "IP адрес:"
 msgstr "Adresse IP:"
 
-#, fuzzy
 msgid "порт:"
 msgstr "port:"
 
-#, fuzzy
 msgid "Безопасность"
 msgstr "Sécurité"
 
-#, fuzzy
 msgid "логин:"
 msgstr "se connecter:"
 
-#, fuzzy
 msgid "пароль:"
 msgstr "mot de passe:"
 
-#, fuzzy
 msgid "ключ PSK:"
 msgstr "Clé PSK :"
 
-#, fuzzy
 msgid "SSL/TLS включено"
 msgstr "SSL/TLS activé"
 
-#, fuzzy
 msgid "самоподписанный"
 msgstr "auto-signé"
 
-#, fuzzy
 msgid "CA сертификат"
 msgstr "Certificat d'autorité de certification"
 
-#, fuzzy
 msgid "Опции"
 msgstr "Possibilités"
 
-#, fuzzy
 msgid "MQTT топик префикс: (необязательно)"
 msgstr "Préfixe du sujet MQTT : (facultatif)"
 
-#, fuzzy
 msgid "уровень логирования MQTT сессий:"
 msgstr "niveau de journalisation des sessions MQTT :"
 
-#, fuzzy
 msgid "&О программе.."
 msgstr "&À propos du programme.."
 
-#, fuzzy
 msgid "Монитор MIDI команд"
 msgstr "Moniteur de commandes MIDI"
 
-#, fuzzy
 msgid "Монитор команд"
 msgstr "Moniteur de commandes"
 
-#, fuzzy
+msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
+msgstr "Le moniteur de commandes MIDI vous aidera à déterminer comment le contrôleur est configuré. Pour commencer les tests, cliquez sur le bouton « Démarrer ». En utilisant les différentes commandes de votre contrôleur, vous recevrez des messages sur la scène, le numéro et la valeur actuelle."
+
 msgid "Очи&стить"
 msgstr "Propre et raide"
 
-#, fuzzy
 msgid "Настройка управления MIDI"
 msgstr "Réglage du contrôle MIDI"
 
-#, fuzzy
 msgid "Настройка MIDI контролов"
 msgstr "Configuration des commandes MIDI"
 
-#, fuzzy
+msgid "MIDI"
+msgstr "MIDI"
+
 msgid "Информация"
 msgstr "Information"
 
-#, fuzzy
 msgid "Контрол:"
 msgstr "Contrôle:"
 
-#, fuzzy
 msgid "Сцена:"
 msgstr "Scène:"
 
-#, fuzzy
 msgid "Тип контрола:"
 msgstr "Type de contrôle:"
 
-#, fuzzy
 msgid "Назначение:"
 msgstr "But:"
 
-#, fuzzy
 msgid "Назначение (долгий клик):"
 msgstr "Objectif (clic long) :"
 
-#, fuzzy
 msgid "Регулируемые микшером приложения:"
 msgstr "Applications réglables sur le mélangeur :"
 
-#, fuzzy
 msgid "Подсказки"
 msgstr "Astuces"
 
-#, fuzzy
 msgid "Все"
 msgstr "Tous"
 
-#, fuzzy
 msgid "Кнопки"
 msgstr "Boutons"
 
-#, fuzzy
 msgid "Слайдеры"
 msgstr "Curseurs"
 
-#, fuzzy
 msgid "Мультимедиа"
 msgstr "Multimédia"
 
-#, fuzzy
 msgid "Настройка пользовательской темы"
 msgstr "Configuration d'un thème personnalisé"
 
-#, fuzzy
 msgid "Цвета вашей темы"
 msgstr "Les couleurs de votre thème"
 
-#, fuzzy
 msgid "Цвет текста"
 msgstr "Couleur du texte"
 
-#, fuzzy
 msgid "Цвет фона"
 msgstr "Couleur de l'arrière plan"
 
-#, fuzzy
 msgid "Цвет рамки"
 msgstr "couleur du cadre"
 
-#, fuzzy
 msgid "Базовая тема"
 msgstr "Thème de base"
 
-#, fuzzy
 msgid "MIDI Easy Control -> Аудио Микшер -> MIDI-Mackie транслятор"
 msgstr "Contrôle facile MIDI -> Mélangeur audio -> Traducteur MIDI Mackie"
 
-#, fuzzy
 msgid "&Микшер"
 msgstr "&Mixer"
 
-#, fuzzy
 msgid "&Настройки"
 msgstr "&Paramètres"
 
-#, fuzzy
 msgid "Конфигурация загружена из драйвера"
 msgstr "Configuration chargée depuis le pilote"
 
-#, fuzzy
 msgid "Конфигурация загружена из файла"
 msgstr "Configuration chargée à partir du fichier"
 
-#, fuzzy
 msgid "Конфигурация создана заново и требует заполнения"
 msgstr "La configuration est nouvellement créée et doit être remplie"
 
-#, fuzzy
 msgid "MIDI-MT Конфигурация"
 msgstr "Configuration MIDI-MT"
 
-#, fuzzy
 msgid "Исполняемые файлы"
 msgstr "Fichiers exécutables"
 
-#, fuzzy
 msgid "MIDI транслятор не запущен."
 msgstr "Le traducteur MIDI n'est pas en cours d'exécution."
 
-#, fuzzy
 msgid "MIDI транслятор работает:"
 msgstr "Le traducteur MIDI fonctionne :"
 
-#, fuzzy
 msgid "Входное устройство:"
 msgstr "Dispositif d'entrée:"
 
-#, fuzzy
 msgid "Выходной Mackie/Premier порт:"
 msgstr "Port de sortie Mackie/Premier :"
 
-#, fuzzy
-msgid "Выходной Proxy порт:"
+msgid "Выходной прокси порт:"
 msgstr "Port proxy de sortie :"
 
-#, fuzzy
 msgid "Аудио микшер запущен."
 msgstr "Le mixeur audio est en cours d'exécution."
 
-#, fuzzy
 msgid "Управление мультимедиа клавишами запущено, проверьте настройки."
 msgstr "Le contrôle des touches multimédia est en cours d'exécution, vérifiez les paramètres."
 
-#, fuzzy
+msgid "Аудиомикшер не запущен, проверьте настройки, должен быть включен запуск аудиопанели."
+msgstr "Le mixeur audio ne fonctionne pas, vérifiez les paramètres, le lancement du panneau audio doit être activé."
+
 msgid "Неверный идентификатор события. Пожалуйста, перезапустите это приложение."
 msgstr "ID d'événement invalide. Veuillez redémarrer cette application."
 
-#, fuzzy
+msgid "Не удалось переключается на поток пользовательского интерфейса, запуск аудиопанели прерван."
+msgstr "Échec du passage au fil de l'interface utilisateur, démarrage du panneau audio interrompu."
+
 msgid "MIDIMT - Аудио микшер не запущен:"
 msgstr "MIDIMT - Le mixeur audio ne fonctionne pas :"
 
-#, fuzzy
 msgid "MIDIMT - Невозможно закончить операцию:"
 msgstr "MIDIMT - Impossible de terminer l'opération :"
 
-#, fuzzy
 msgid "Управление устройствами «Умного дома» запущено."
 msgstr "La gestion des appareils Smart Home a commencé."
 
-#, fuzzy
 msgid "Установка Virtual MIDI драйвера"
 msgstr "Installation du pilote MIDI virtuel"
 
-#, fuzzy
 msgid "MIDI Mackie выход"
 msgstr "Sortie MIDI Mackie"
 
-#, fuzzy
 msgid "MIDI Proxy выход"
 msgstr "Sortie proxy MIDI"
 
-#, fuzzy
 msgid "Версия MIDI Virtual драйвера:"
 msgstr "Version du pilote virtuel MIDI :"
 
-#, fuzzy
 msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора"
 msgstr "Le pilote Virtual MIDI installé n'a pas été trouvé ! Vous devez installer le package Virtual Loop MIDI pour exécuter le traducteur MIDI-MT"
 
-#, fuzzy
 msgid "При запуске будут созданы Proxy MIDI порты:"
 msgstr "Au démarrage, des ports Proxy MIDI seront créés :"
 
-#, fuzzy
 msgid "MIDI Proxy порты отключены."
 msgstr "Les ports proxy MIDI sont désactivés."
 
-#, fuzzy
 msgid "Выбранный язык будет активным после перезапуска окна -"
 msgstr "La langue sélectionnée sera active après le redémarrage de la fenêtre -"
 
-#, fuzzy
 msgid "Входное MIDI устройство назначено на"
 msgstr "Périphérique d’entrée MIDI affecté à"
 
-#, fuzzy
 msgid "Пожалуйста, отредактируйте конфигурацию перед запуском."
 msgstr "Veuillez modifier la configuration avant de commencer."
 
-#, fuzzy
 msgid "Версия установленного Virtual MIDI драйвера:"
 msgstr "Version du pilote Virtual MIDI installé :"
 
-#, fuzzy
 msgid "Выбранная конфигурация не поддерживает авто старт."
 msgstr "La configuration sélectionnée ne prend pas en charge le démarrage automatique."
 
-#, fuzzy
+msgid "Пожалуйста, перед запуском монитора, запустите MIDI бридж из меню, вызвав 'Старт'."
+msgstr "S'il vous plaît, avant de démarrer le moniteur, démarrez le pont MIDI depuis le menu en appelant « Démarrer »."
+
+msgid "При запуске был указан файл конфигурации: '{0}'. Установить его как конфигурацию для последующих запусков?"
+msgstr "Au démarrage, le fichier de configuration a été spécifié : '{0}'. Le définir comme configuration pour les exécutions ultérieures ?"
+
+msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
+msgstr "A l'ouverture de l'éditeur, le fichier de configuration a été précisé : '{0}'. L'enregistrer sous le même nom ?"
+
 msgid "Автозапуск запрещен в общей конфигурации."
 msgstr "L'exécution automatique est désactivée dans la configuration générale."
 
-#, fuzzy
 msgid "Номер DMX канала"
 msgstr "Numéro de canal DMX"
 
-#, fuzzy
 msgid "Неоходимо установить Virtual MIDI драйвер!"
 msgstr "Vous devez installer le pilote Virtual MIDI !"
 
-#, fuzzy
 msgid "Устройства отсутствуют"
 msgstr "Aucun appareil disponible"
 
-#, fuzzy
 msgid "Интерфейсы отсутствуют"
 msgstr "Aucune interface"
 
-#, fuzzy
 msgid "Выберите DMX устройство"
 msgstr "Sélectionnez un appareil DMX"
 
-#, fuzzy
 msgid "Выберите ARTNET интерфейс"
 msgstr "Sélectionnez l'interface ARTNET"
 
-#, fuzzy
 msgid "громкость звука (основной)"
 msgstr "volume audio (principal)"
 
-#, fuzzy
 msgid "звуковой баланс (основной)"
 msgstr "balance sonore (de base)"
 
-#, fuzzy
 msgid "отключение звука (основной)"
 msgstr "muet (de base)"
 
-#, fuzzy
 msgid "аудио соло (основной)"
 msgstr "solo audio (principal)"
 
-#, fuzzy
 msgid "JOG (перемотка видеокадра)"
 msgstr "JOG (rembobiner l'image vidéo)"
 
-#, fuzzy
 msgid "громкость звука (канал 1)"
 msgstr "volume sonore (canal 1)"
 
-#, fuzzy
 msgid "громкость звука (канал 2)"
 msgstr "volume sonore (canal 2)"
 
-#, fuzzy
 msgid "громкость звука (канал 3)"
 msgstr "volume sonore (canal 3)"
 
-#, fuzzy
 msgid "громкость звука (канал 4)"
 msgstr "volume sonore (canal 4)"
 
-#, fuzzy
 msgid "громкость звука (канал 5)"
 msgstr "volume sonore (canal 5)"
 
-#, fuzzy
 msgid "громкость звука (канал 6)"
 msgstr "volume sonore (canal 6)"
 
-#, fuzzy
 msgid "громкость звука (канал 7)"
 msgstr "volume sonore (canal 7)"
 
-#, fuzzy
 msgid "громкость звука (канал 8)"
 msgstr "volume sonore (canal 8)"
 
-#, fuzzy
 msgid "громкость звука (канал 9)"
 msgstr "volume sonore (canal 9)"
 
-#, fuzzy
 msgid "звуковой баланс (канал 1)"
 msgstr "balance sonore (canal 1)"
 
-#, fuzzy
 msgid "звуковой баланс (канал 2)"
 msgstr "balance sonore (canal 2)"
 
-#, fuzzy
 msgid "звуковой баланс (канал 3)"
 msgstr "balance sonore (canal 3)"
 
-#, fuzzy
 msgid "звуковой баланс (канал 4)"
 msgstr "balance sonore (canal 4)"
 
-#, fuzzy
 msgid "звуковой баланс (канал 5)"
 msgstr "balance sonore (canal 5)"
 
-#, fuzzy
 msgid "звуковой баланс (канал 6)"
 msgstr "balance sonore (canal 6)"
 
-#, fuzzy
 msgid "звуковой баланс (канал 7)"
 msgstr "balance sonore (canal 7)"
 
-#, fuzzy
 msgid "звуковой баланс (канал 8)"
 msgstr "balance sonore (canal 8)"
 
-#, fuzzy
 msgid "звуковой баланс (канал 9)"
 msgstr "balance sonore (canal 9)"
 
-#, fuzzy
 msgid "аудио соло (канал 1)"
 msgstr "solo audio (canal 1)"
 
-#, fuzzy
 msgid "аудио соло (канал 2)"
 msgstr "solo audio (canal 2)"
 
-#, fuzzy
 msgid "аудио соло (канал 3)"
 msgstr "solo audio (canal 3)"
 
-#, fuzzy
 msgid "аудио соло (канал 4)"
 msgstr "solo audio (canal 4)"
 
-#, fuzzy
 msgid "аудио соло (канал 5)"
 msgstr "solo audio (canal 5)"
 
-#, fuzzy
 msgid "аудио соло (канал 6)"
 msgstr "solo audio (canal 6)"
 
-#, fuzzy
 msgid "аудио соло (канал 7)"
 msgstr "solo audio (canal 7)"
 
-#, fuzzy
 msgid "аудио соло (канал 8)"
 msgstr "solo audio (canal 8)"
 
-#, fuzzy
 msgid "аудио соло (канал 9)"
 msgstr "solo audio (canal 9)"
 
-#, fuzzy
 msgid "отключение звука (канал 1)"
 msgstr "muet (canal 1)"
 
-#, fuzzy
 msgid "отключение звука (канал 2)"
 msgstr "muet (canal 2)"
 
-#, fuzzy
 msgid "отключение звука (канал 3)"
 msgstr "muet (canal 3)"
 
-#, fuzzy
 msgid "отключение звука (канал 4)"
 msgstr "muet (canal 4)"
 
-#, fuzzy
 msgid "отключение звука (канал 5)"
 msgstr "muet (canal 5)"
 
-#, fuzzy
 msgid "отключение звука (канал 6)"
 msgstr "muet (canal 6)"
 
-#, fuzzy
 msgid "отключение звука (канал 7)"
 msgstr "muet (canal 7)"
 
-#, fuzzy
 msgid "отключение звука (канал 8)"
 msgstr "muet (canal 8)"
 
-#, fuzzy
 msgid "отключение звука (канал 9)"
 msgstr "muet (canal 9)"
 
-#, fuzzy
 msgid "выбор звука (канал 1)"
 msgstr "sélection du son (canal 1)"
 
-#, fuzzy
 msgid "выбор звука (канал 2)"
 msgstr "sélection du son (canal 2)"
 
-#, fuzzy
 msgid "выбор звука (канал 3)"
 msgstr "sélection du son (canal 3)"
 
-#, fuzzy
 msgid "выбор звука (канал 4)"
 msgstr "sélection du son (canal 4)"
 
-#, fuzzy
 msgid "выбор звука (канал 5)"
 msgstr "sélection du son (canal 5)"
 
-#, fuzzy
 msgid "выбор звука (канал 6)"
 msgstr "sélection du son (canal 6)"
 
-#, fuzzy
 msgid "выбор звука (канал 7)"
 msgstr "sélection du son (canal 7)"
 
-#, fuzzy
 msgid "выбор звука (канал 8)"
 msgstr "sélection du son (canal 8)"
 
-#, fuzzy
 msgid "выбор звука (канал 9)"
 msgstr "sélection du son (canal 9)"
 
-#, fuzzy
 msgid "функция F1 (стандартный режим)"
 msgstr "fonction F1 (mode standard)"
 
-#, fuzzy
 msgid "функция F2 (стандартный режим)"
 msgstr "fonction F2 (mode standard)"
 
-#, fuzzy
 msgid "функция F3 (стандартный режим)"
 msgstr "fonction F3 (mode standard)"
 
-#, fuzzy
 msgid "функция F4 (стандартный режим)"
 msgstr "fonction F4 (mode standard)"
 
-#, fuzzy
 msgid "функция F5 (стандартный режим)"
 msgstr "fonction F5 (mode standard)"
 
-#, fuzzy
 msgid "функция F6 (стандартный режим)"
 msgstr "fonction F6 (mode standard)"
 
-#, fuzzy
 msgid "функция F7 (стандартный режим)"
 msgstr "fonction F7 (mode standard)"
 
-#, fuzzy
 msgid "функция F8 (стандартный режим)"
 msgstr "fonction F8 (mode standard)"
 
-#, fuzzy
 msgid "функция F1 (удерживаемый режим)"
 msgstr "Fonction F1 (mode maintien)"
 
-#, fuzzy
 msgid "функция F2 (удерживаемый режим)"
 msgstr "Fonction F2 (mode maintien)"
 
-#, fuzzy
 msgid "функция F3 (удерживаемый режим)"
 msgstr "Fonction F3 (mode maintien)"
 
-#, fuzzy
 msgid "функция F4 (удерживаемый режим)"
 msgstr "Fonction F4 (mode maintien)"
 
-#, fuzzy
 msgid "функция F5 (удерживаемый режим)"
 msgstr "Fonction F5 (mode maintien)"
 
-#, fuzzy
 msgid "функция F6 (удерживаемый режим)"
 msgstr "Fonction F6 (mode maintien)"
 
-#, fuzzy
 msgid "функция F7 (удерживаемый режим)"
 msgstr "Fonction F7 (mode maintien)"
 
-#, fuzzy
 msgid "функция F8 (удерживаемый режим)"
 msgstr "Fonction F8 (mode maintien)"
 
-#, fuzzy
 msgid "Перемотка назад (проигрыватель)"
 msgstr "Rembobiner (joueur)"
 
-#, fuzzy
 msgid "Перемотка вперед (проигрыватель)"
 msgstr "Avance rapide (lecteur)"
 
-#, fuzzy
 msgid "Стоп (проигрыватель)"
 msgstr "Arrêter (joueur)"
 
-#, fuzzy
 msgid "Играть (проигрыватель)"
 msgstr "Jouer (joueur)"
 
-#, fuzzy
 msgid "Запись (проигрыватель)"
 msgstr "Enregistrement (lecteur)"
 
-#, fuzzy
 msgid "Увеличение"
 msgstr "Augmenter"
 
-#, fuzzy
 msgid "Скраб"
 msgstr "Frotter"
 
-#, fuzzy
 msgid "Управление «Микшером»"
 msgstr "Contrôle du mélangeur"
 
-#, fuzzy
 msgid "Мультимедийные клавиши"
 msgstr "Touches multimédia"
 
-#, fuzzy
 msgid "Управление «Умным домом»"
 msgstr "Gestion de la maison intelligente"
 
-#, fuzzy
 msgid "Управление освещением"
 msgstr "Contrôle d'éclairage"
 
-#, fuzzy
 msgid "действие не определено"
 msgstr "l'action n'est pas définie"
 
-#, fuzzy
 msgid "Не назначено"
 msgstr "Non attribué"
 
-#, fuzzy
 msgid "лог не ведется"
 msgstr "le journal n'est pas conservé"
 
-#, fuzzy
 msgid "информация"
 msgstr "information"
 
-#, fuzzy
 msgid "уведомления"
 msgstr "avis"
 
-#, fuzzy
 msgid "предупреждения"
 msgstr "avertissements"
 
-#, fuzzy
 msgid "только ошибки"
 msgstr "seulement des erreurs"
 
-#, fuzzy
 msgid "все сообщения"
 msgstr "tous les messages"
 
-#, fuzzy
 msgid "Эта ошибка не определена"
 msgstr "Cette erreur n'est pas définie"
 
-#, fuzzy
 msgid "Доступ на запись к файлу конфигурации запрещен, '{0}'"
 msgstr "L'accès en écriture au fichier de configuration est refusé, '{0}'"
 
-#, fuzzy
 msgid "Файл конфигурации отсутствует или доступ запрещен, '{0}'"
 msgstr "Fichier de configuration manquant ou accès refusé, '{0}'"
 
-#, fuzzy
 msgid "Файл конфигурации пуст, '{0}'"
 msgstr "Le fichier de configuration est vide, '{0}'"
 
-#, fuzzy
 msgid "Имя MIDI-устройства не задано в конфигурации."
 msgstr "Le nom du périphérique MIDI n'est pas défini dans la configuration."
 
-#, fuzzy
 msgid "В этой конфигурации не настроены MIDI-клавиши."
 msgstr "Aucune touche MIDI n'est configurée dans cette configuration."
 
-#, fuzzy
+msgid "Внимание, в этой конфигурации не настроены MIDI-клавиши! записанная конфигурацию будет не работоспособной."
+msgstr "Attention, cette configuration n'a pas de touches MIDI configurées ! la configuration enregistrée ne fonctionnera pas."
+
 msgid "Co*Initialize инициализация не удалась."
 msgstr "L’initialisation de Co*Initialize a échoué."
 
-#, fuzzy
 msgid "Co*Create - не удалось создать экземпляр."
 msgstr "Co*Create – Échec de l’instanciation."
 
-#, fuzzy
 msgid "Не удалось получить аудио устройство по умолчанию."
 msgstr "Échec de l'obtention du périphérique audio par défaut."
 
-#, fuzzy
 msgid "Сбой диспетчера аудиосеансов."
 msgstr "Le gestionnaire de session audio est tombé en panne."
 
-#, fuzzy
 msgid "Аудио пиковый измеритель не доступен."
 msgstr "L'indicateur de crête audio n'est pas disponible."
 
-#, fuzzy
+msgid "Микшер аудиосеансов запущен, на момент запуска имеется {0} запущенных программ, доступных для регулирования."
+msgstr "Le mixeur de session audio est en cours d'exécution. Au moment du lancement, {0} programmes en cours d'exécution sont disponibles pour la régulation."
+
+msgid "Не удалось запустить микшер аудиосессий, сведения об ошибке должны быть в файле журнала."
+msgstr "Le mixeur de session audio n'a pas pu être démarré, les détails de l'erreur doivent figurer dans le fichier journal."
+
 msgid "Микшер аудиосессий остановлен."
 msgstr "Le mixeur de session audio s'est arrêté."
 
-#, fuzzy
+msgid "Микшер аудиосессий не был правильно остановлен, сведения об ошибке должны быть в файле журнала."
+msgstr "Le mélangeur de session audio n'a pas été arrêté correctement, les détails de l'erreur doivent figurer dans le fichier journal."
+
 msgid "Инициализируйте, прежде чем вызывать это.."
 msgstr "Initialisez avant d'appeler ceci."
 
-#, fuzzy
 msgid "Не удалось получить список аудиосеансов."
 msgstr "Échec de l'obtention de la liste des sessions audio."
 
-#, fuzzy
 msgid "Список аудиосессий пуст!"
 msgstr "La liste des sessions audio est vide !"
 
-#, fuzzy
 msgid "Отключение аудиосессии, причина='{0}'"
 msgstr "Désactivation de la session audio, raison='{0}'"
 
-#, fuzzy
 msgid "Создана аудиосессия, имя='{0}'"
 msgstr "Session audio créée, name='{0}'"
 
-#, fuzzy
 msgid "Аудиосеанс '{0}' – неправильное состояние регистрации '{1}': {2}/{3}"
 msgstr "Session audio « {0} » – État d'enregistrement « {1} » non valide : {2}/{3}"
 
-#, fuzzy
 msgid "Устанавливаемое значение из обратного вызова - неверный селектор."
 msgstr "La valeur définie à partir du rappel est un sélecteur non valide."
 
-#, fuzzy
+msgid "Установка обратного вызова возможна только после успешного запуска MIDI-моста."
+msgstr "La définition d'un rappel n'est possible qu'après le lancement réussi du pont MIDI."
+
 msgid "Сбой загрузки конфигурации, файл не найден, запуск невозможен.."
 msgstr "Échec du chargement de la configuration, fichier introuvable, impossible de démarrer."
 
-#, fuzzy
 msgid "Конфигурация загружена.."
 msgstr "Configuration chargée.."
 
-#, fuzzy
 msgid "Конфигурация уже загружена.."
 msgstr "Configuration déjà chargée.."
 
-#, fuzzy
 msgid "Конфигурация пустая.."
 msgstr "La configuration est vide."
 
-#, fuzzy
 msgid "Обнаружена новая версия конфигурации.."
 msgstr "Nouvelle version de configuration détectée.."
 
-#, fuzzy
 msgid "Неподдерживаемая реализация в коде, метод не переопределен: {0}"
 msgstr "Implémentation non prise en charge dans le code, méthode non remplacée : {0}"
 
-#, fuzzy
 msgid "Имя конфигурации не указано, продолжение невозможно."
 msgstr "Aucun nom de configuration spécifié, impossible de continuer."
 
-#, fuzzy
 msgid "Устройства не подключены, продолжение невозможно."
 msgstr "Aucun appareil connecté, impossible de continuer."
 
-#, fuzzy
+msgid "Внимание, несоответствие количества устройств в итоговом списке, система/список = {0}/{1}"
+msgstr "Attention, non-concordance du nombre d'appareils dans la liste finale, système/liste = {0}/{1}"
+
 msgid "Не удается открыть MIDI-устройство, продолжение невозможно, id = {0}/{1}"
 msgstr "Impossible d'ouvrir le périphérique MIDI, impossible de continuer, identifiant = {0}/{1}"
 
-#, fuzzy
 msgid "Не удается запустить MIDI-устройство, продолжение невозможно, id = {0}/{1}"
 msgstr "Impossible de démarrer le périphérique MIDI, impossible de continuer, identifiant = {0}/{1}"
 
-#, fuzzy
 msgid "Устройство не подключено, abort, id = {0}/{1}"
 msgstr "Appareil non connecté, abandon, identifiant = {0}/{1}"
 
-#, fuzzy
 msgid "Устройство {0} найдено, {1}"
 msgstr "Appareil {0} trouvé, {1}"
 
-#, fuzzy
 msgid "Устройство {0} открыто, {1}"
 msgstr "Appareil {0} ouvert, {1}"
 
-#, fuzzy
 msgid "Устройство {0} закрыто (система)"
 msgstr "Appareil {0} fermé (système)"
 
-#, fuzzy
 msgid "Устройство {0} готово (система)"
 msgstr "Appareil {0} prêt (système)"
 
-#, fuzzy
 msgid "Не задано имя для активного устройства, продолжение невозможно, id = {0}/{1}"
 msgstr "Le nom de l'appareil actif n'est pas précisé, la suite est impossible, id = {0}/{1}"
 
-#, fuzzy
 msgid "Не заданы прокси-порты в конфигурации, MIDI-прокси отключено."
 msgstr "Les ports proxy ne sont pas définis dans la configuration, le proxy MIDI est désactivé."
 
-#, fuzzy
 msgid "Версия драйвера [{0}]"
 msgstr "Version du pilote [{0}]"
 
-#, fuzzy
 msgid "Проблема с версией драйвера [{0}]"
 msgstr "Problème avec la version du pilote [{0}]"
 
-#, fuzzy
 msgid "Устройство {0} отправило неверное значение = {1}"
 msgstr "L'appareil {0} a envoyé une valeur non valide = {1}"
 
-#, fuzzy
 msgid "Виртуальный MIDI драйвер не установлен. Необходимо установить пакет loopMidi, или скачать полную весию установщика и переустановить MIDI-MT. Подробнее: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
 msgstr "Le pilote MIDI virtuel n'est pas installé. Vous devez installer le package loopMidi ou télécharger le programme d'installation complet et réinstaller MIDI-MT. Plus de détails: https://claudiacoord.github.io/MIDI-MT/docs/EN/Dependencies.html"
 
-#, fuzzy
 msgid "Служба управления мультимедийными ключами запущена."
 msgstr "Le service de gestion des clés multimédias est en cours d'exécution."
 
-#, fuzzy
 msgid "Служба управления мультимедийными ключами остановлена."
 msgstr "Le service de gestion des clés multimédias s'est arrêté."
 
-#, fuzzy
 msgid "Конфигурация MQTT не заполнена, продолжение невозможно."
 msgstr "La configuration MQTT est vide, ne peut pas continuer."
 
-#, fuzzy
 msgid "Ошибка создания клиента MQTT, отмена."
 msgstr "Erreur lors de la création du client MQTT, annulé."
 
-#, fuzzy
 msgid "Клиент MMQTT успешно создан, продолжаем.."
 msgstr "Client MMQTT créé avec succès, continuez."
 
-#, fuzzy
 msgid "Подключено к серверу MQTT:"
 msgstr "Connecté au serveur MQTT :"
 
-#, fuzzy
 msgid "Не удалось подключиться к серверу MQTT:"
 msgstr "Échec de la connexion au serveur MQTT :"
 
-#, fuzzy
 msgid "Отключено от сервера MQTT:"
 msgstr "Déconnecté du serveur MQTT :"
 
-#, fuzzy
 msgid "Файл сертификата CA не существует, путь = '{0}'"
 msgstr "Le fichier de certificat CA n'existe pas, chemin = '{0}'"
 
-#, fuzzy
 msgid "Служба управления Умным домом запущена."
 msgstr "Le service de contrôle Smart Home est en cours d'exécution."
 
-#, fuzzy
 msgid "Служба управления Умным домом остановлена."
 msgstr "Le service de contrôle Smart Home a été arrêté."
 
-#, fuzzy
 msgid "Панель аудиомикшера - продолжение невозможно, элементы индекса неверны."
 msgstr "Panneau de mixage audio : impossible de continuer, les entrées d'index sont incorrectes."
 
-#, fuzzy
 msgid "Панель аудио микшера - продолжение невозможно, ошибка инициализации."
 msgstr "Panneau de mixage audio : impossible de continuer, erreur d'initialisation."
 
-#, fuzzy
+msgid "Окно панели аудиомикшера не соответствует статусу, невозможно продолжить следующую операцию."
+msgstr "La fenêtre du panneau de mixage audio n'a pas l'état correct et l'opération suivante ne peut pas être poursuivie."
+
+msgid "Панель аудиомикшера вызвана не в потоке пользовательского интерфейса, изменения невозможны."
+msgstr "Le panneau de mixage audio n’est pas appelé sur un thread d’interface utilisateur et les modifications ne peuvent pas être apportées."
+
+msgid "Панель аудиомикшера обнаружила неверный элемент, прервано создание окна панели."
+msgstr "Le panneau de mixage audio a détecté un élément non valide et la création de la fenêtre du panneau a été abandonnée."
+
 msgid "Служба управления освещением DMX запущена с использованием COM{0} – {1}."
 msgstr "Le service de contrôle d'éclairage DMX est démarré à l'aide de COM{0} - {1}."
 
-#, fuzzy
+msgid "Служба управления освещением DMX не запущена, устройство COM{0} не подключено.."
+msgstr "Le service de contrôle d'éclairage DMX n'est pas en cours d'exécution, le périphérique COM{0} n'est pas connecté."
+
+msgid "Служба управления освещением DMX не запущена, конфигурация службы не заполнена."
+msgstr "Le service de contrôle d'éclairage DMX n'est pas exécuté et la configuration du service n'est pas renseignée."
+
 msgid "Служба управления освещением DMX остановлена."
 msgstr "Le service de contrôle d'éclairage DMX s'est arrêté."
 
-#, fuzzy
+msgid "Служба управления освещением ArtNet запущена с использованием широковещательного адреса {0}:{1} в сети {2}."
+msgstr "Le service de contrôle d'éclairage ArtNet s'exécute en utilisant l'adresse de diffusion {0} :{1} sur le réseau {2}."
+
 msgid "Служба управления освещением ArtNet не запущена, сеть {0} не найдена.."
 msgstr "Le service de contrôle d'éclairage ArtNet n'est pas en cours d'exécution, le réseau {0} est introuvable."
 
-#, fuzzy
+msgid "Служба управления освещением ArtNet не запущена, конфигурация службы не заполнена."
+msgstr "Le service de contrôle d'éclairage ArtNet n'est pas en cours d'exécution, la configuration du service n'est pas renseignée."
+
 msgid "Служба управления освещением ArtNet остановлена."
 msgstr "Le service de contrôle d'éclairage ArtNet s'est arrêté."
