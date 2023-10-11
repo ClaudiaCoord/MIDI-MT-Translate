@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-11 23:47+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.10.0\n"
+
+msgid "MIDI Mackie транслятор"
+msgstr "MIDI 麦基翻译器"
+
+msgid "&Информация"
+msgstr "＆信息"
+
+msgid "&Аудио микшер"
+msgstr "音频混音器(&A)"
+
+msgid "&Монитор"
+msgstr "＆监视器"
+
+msgid "&Настройка"
+msgstr "＆设置"
+
+msgid "Ст&арт"
+msgstr "开始"
+
+msgid "Ст&оп"
+msgstr "停止"
+
+msgid "Вы&ход"
+msgstr "出口"
+
+msgid "Расположение.."
+msgstr "地点.."
+
+msgid "Вертикально слева"
+msgstr "垂直向左"
+
+msgid "Вертикально справа"
+msgstr "垂直右"
+
+msgid "Горизонтально вверху"
+msgstr "水平位于顶部"
+
+msgid "Горизонтально внизу"
+msgstr "水平下方"
+
+msgid "Тема.."
+msgstr "主题.."
+
+msgid "Метро"
+msgstr "地铁"
+
+msgid "Светлая"
+msgstr "光"
+
+msgid "Тёмная"
+msgstr "黑暗的"
+
+msgid "Рэтро"
+msgstr "复古的"
+
+msgid "Современный"
+msgstr "现代的"
+
+msgid "Настраеваямая"
+msgstr "配置"
+
+msgid "Настройка темы"
+msgstr "设置主题"
+
+msgid "&Анимация"
+msgstr "＆动画片"
+
+msgid "&Путь приложений"
+msgstr "应用路径(&C)"
+
+msgid "Привязка &MIDI контролов"
+msgstr "绑定和MIDI控制"
+
+msgid "Пиковый &измеритель громкости"
+msgstr "峰值&音量计"
+
+msgid "З&апомнить позицию"
+msgstr "记住位置"
+
+msgid "&Закрыть"
+msgstr "＆关闭"
+
+msgid "Новая запись"
+msgstr "新条目"
+
+msgid "Копировать"
+msgstr "复制"
+
+msgid "Вставить"
+msgstr "插入"
+
+msgid "Удалить"
+msgstr "删除"
+
+msgid "Установить как.."
+msgstr "安装为.."
+
+msgid "Контроль относиться к аудио микшеру"
+msgstr "控制指的是音频混音器"
+
+msgid "Контроль относиться к мультимедиа кнопкам"
+msgstr "控件适用于多媒体按钮"
+
+msgid "Контроль относиться к умному дому"
+msgstr "控制指的是智能家居"
+
+msgid "Контроль относиться к управлению светом"
+msgstr "控制指的是光的控制"
+
+msgid "Канал 8 бит (стандарт)"
+msgstr "通道 8 位（标准）"
+
+msgid "Канал 16 бит (расширенный)"
+msgstr "通道 16 位（扩展）"
+
+msgid "Неназначенный"
+msgstr "未分配"
+
+msgid "Читать MIDI код.."
+msgstr "读取 MIDI 代码.."
+
+msgid "Регуляторы.."
+msgstr "监管机构.."
+
+msgid "Полосковый регулятор"
+msgstr "条带调节器"
+
+msgid "Полосковый регулятор с инверсией"
+msgstr "带反转的带状调节器"
+
+msgid "Круговый регулятор"
+msgstr "循环调节器"
+
+msgid "Круговый регулятор с инверсией"
+msgstr "带反转的圆形调节器"
+
+msgid "Энкодер"
+msgstr "编码器"
+
+msgid "Энкодер с инверсией"
+msgstr "带反转的编码器"
+
+msgid "Кнопки.."
+msgstr "纽扣.."
+
+msgid "Кнопка"
+msgstr "按钮"
+
+msgid "Кнопка переключать, с индикацией"
+msgstr "开关按钮，带指示"
+
+msgid "Управление звуком.."
+msgstr "声音控制..."
+
+msgid "Без звука (мастер)"
+msgstr "沉默（大师）"
+
+msgid "Соло (мастер)"
+msgstr "独奏（大师）"
+
+msgid "Без звука.."
+msgstr "无声无息.."
+
+msgid "канал 1"
+msgstr "频道1"
+
+msgid "канал 2"
+msgstr "频道2"
+
+msgid "канал 3"
+msgstr "频道3"
+
+msgid "канал 4"
+msgstr "频道4"
+
+msgid "канал 5"
+msgstr "频道5"
+
+msgid "канал 6"
+msgstr "频道6"
+
+msgid "канал 7"
+msgstr "7频道"
+
+msgid "канал 8"
+msgstr "频道8"
+
+msgid "канал 9"
+msgstr "频道 9"
+
+msgid "Соло.."
+msgstr "独奏.."
+
+msgid "Мультимедиа кнопки.."
+msgstr "多媒体按钮.."
+
+msgid "Играть/Пауза"
+msgstr "播放/暂停"
+
+msgid "Стоп"
+msgstr "停止"
+
+msgid "Предыдущий"
+msgstr "以前的"
+
+msgid "Следующий"
+msgstr "下一个"
+
+msgid "Запись"
+msgstr "记录"
+
+msgid "Вверх (джойстик)"
+msgstr "向上（操纵杆）"
+
+msgid "Вниз (джойстик)"
+msgstr "向下（操纵杆）"
+
+msgid "Вправо (джойстик)"
+msgstr "右（操纵杆）"
+
+msgid "Влево (джойстик)"
+msgstr "左（操纵杆）"
+
+msgid "Увеличение масштаба"
+msgstr "放大"
+
+msgid "Скрабирование"
+msgstr "擦洗"
+
+msgid "Функции «Premiere Pro».."
+msgstr "Premiere Pro 功能..."
+
+msgid "Функции стандартной кнопки.."
+msgstr "标准按钮的功能..."
+
+msgid "Функция 1"
+msgstr "功能1"
+
+msgid "Функция 2"
+msgstr "功能2"
+
+msgid "Функция 3"
+msgstr "功能3"
+
+msgid "Функция 4"
+msgstr "功能4"
+
+msgid "Функция 5"
+msgstr "功能5"
+
+msgid "Функция 6"
+msgstr "功能6"
+
+msgid "Функция 7"
+msgstr "功能7"
+
+msgid "Функция 8"
+msgstr "功能8"
+
+msgid "Функции кнопки «в одно касание».."
+msgstr "一键式按钮功能..."
+
+msgid "Кнопки в системе «Умный дом».."
+msgstr "智能家居系统中的按钮.."
+
+msgid "вкл/выкл 1"
+msgstr "开/关 1"
+
+msgid "вкл/выкл 2"
+msgstr "开/关 2"
+
+msgid "вкл/выкл 3"
+msgstr "开/关 3"
+
+msgid "вкл/выкл 4"
+msgstr "开/关 4"
+
+msgid "вкл/выкл 5"
+msgstr "开/关 5"
+
+msgid "вкл/выкл 6"
+msgstr "开/关 6"
+
+msgid "вкл/выкл 7"
+msgstr "开/关 7"
+
+msgid "вкл/выкл 8"
+msgstr "开/关 8"
+
+msgid "вкл/выкл 9"
+msgstr "开/关 9"
+
+msgid "вкл/выкл 10"
+msgstr "开/关 10"
+
+msgid "вкл/выкл 11"
+msgstr "开/关 11"
+
+msgid "вкл/выкл 12"
+msgstr "开/关 12"
+
+msgid "вкл/выкл 13"
+msgstr "开/关 13"
+
+msgid "вкл/выкл 14"
+msgstr "开/关 14"
+
+msgid "вкл/выкл 15"
+msgstr "开/关 15"
+
+msgid "вкл/выкл 16"
+msgstr "开/关 16"
+
+msgid "вкл/выкл 17"
+msgstr "开/关 17"
+
+msgid "вкл/выкл 18"
+msgstr "开/关 18"
+
+msgid "вкл/выкл 19"
+msgstr "开/关 19"
+
+msgid "вкл/выкл 20"
+msgstr "开/关 20"
+
+msgid "вкл/выкл 21"
+msgstr "开/关 21"
+
+msgid "вкл/выкл 22"
+msgstr "开/关 22"
+
+msgid "вкл/выкл 23"
+msgstr "开/关 23"
+
+msgid "вкл/выкл 24"
+msgstr "开/关 24"
+
+msgid "вкл/выкл 25"
+msgstr "开/关 25"
+
+msgid "вкл/выкл 26"
+msgstr "开/关 26"
+
+msgid "вкл/выкл 27"
+msgstr "开/关 27"
+
+msgid "Энкодер (покадровый просмотр)"
+msgstr "编码器（逐帧查看）"
+
+msgid "Громкость (мастер)"
+msgstr "音量（主）"
+
+msgid "Баланс (мастер)"
+msgstr "平衡（主）"
+
+msgid "Громкость.."
+msgstr "体积.."
+
+msgid "Баланс.."
+msgstr "平衡.."
+
+msgid "Регуляторы в системе «Умный дом».."
+msgstr "“智能家居”系统中的调节器.."
+
+msgid "уровень 1"
+msgstr "1级"
+
+msgid "уровень 2"
+msgstr "2级"
+
+msgid "уровень 3"
+msgstr "3级"
+
+msgid "уровень 4"
+msgstr "4级"
+
+msgid "уровень 5"
+msgstr "5级"
+
+msgid "уровень 6"
+msgstr "6级"
+
+msgid "уровень 7"
+msgstr "7级"
+
+msgid "уровень 8"
+msgstr "8级"
+
+msgid "уровень 9"
+msgstr "9级"
+
+msgid "уровень 10"
+msgstr "10级"
+
+msgid "уровень 11"
+msgstr "11级"
+
+msgid "уровень 12"
+msgstr "12级"
+
+msgid "уровень 13"
+msgstr "13级"
+
+msgid "уровень 14"
+msgstr "14级"
+
+msgid "уровень 15"
+msgstr "15级"
+
+msgid "уровень 16"
+msgstr "16级"
+
+msgid "уровень 17"
+msgstr "17级"
+
+msgid "уровень 18"
+msgstr "18级"
+
+msgid "Энкодер (JOG)"
+msgstr "编码器（点动）"
+
+msgid "канал 10"
+msgstr "频道10"
+
+msgid "канал 11"
+msgstr "11频道"
+
+msgid "канал 12"
+msgstr "12频道"
+
+msgid "канал 13"
+msgstr "频道 13"
+
+msgid "канал 14"
+msgstr "14频道"
+
+msgid "канал 15"
+msgstr "频道 15"
+
+msgid "канал 16"
+msgstr "16频道"
+
+msgid "канал 17"
+msgstr "17频道"
+
+msgid "канал 18"
+msgstr "18频道"

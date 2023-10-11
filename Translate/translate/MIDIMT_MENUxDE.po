@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-11 23:47+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.10.0\n"
+
+msgid "MIDI Mackie транслятор"
+msgstr "MIDI-Mackie-Übersetzer"
+
+msgid "&Информация"
+msgstr "&Information"
+
+msgid "&Аудио микшер"
+msgstr "&Audiomischer"
+
+msgid "&Монитор"
+msgstr "&Monitor"
+
+msgid "&Настройка"
+msgstr "&Einstellungen"
+
+msgid "Ст&арт"
+msgstr "Start"
+
+msgid "Ст&оп"
+msgstr "Stoppen"
+
+msgid "Вы&ход"
+msgstr "Ausfahrt"
+
+msgid "Расположение.."
+msgstr "Standort.."
+
+msgid "Вертикально слева"
+msgstr "Vertikal links"
+
+msgid "Вертикально справа"
+msgstr "Vertikal rechts"
+
+msgid "Горизонтально вверху"
+msgstr "Horizontal oben"
+
+msgid "Горизонтально внизу"
+msgstr "Horizontal unten"
+
+msgid "Тема.."
+msgstr "Thema.."
+
+msgid "Метро"
+msgstr "Metro"
+
+msgid "Светлая"
+msgstr "Licht"
+
+msgid "Тёмная"
+msgstr "Dunkel"
+
+msgid "Рэтро"
+msgstr "Retro"
+
+msgid "Современный"
+msgstr "Modern"
+
+msgid "Настраеваямая"
+msgstr "Einrichten"
+
+msgid "Настройка темы"
+msgstr "Ein Thema einrichten"
+
+msgid "&Анимация"
+msgstr "&Animation"
+
+msgid "&Путь приложений"
+msgstr "&Anwendungspfad"
+
+msgid "Привязка &MIDI контролов"
+msgstr "Binden von &MIDI-Steuerelementen"
+
+msgid "Пиковый &измеритель громкости"
+msgstr "Spitzen- und Volumenmesser"
+
+msgid "З&апомнить позицию"
+msgstr "Position merken"
+
+msgid "&Закрыть"
+msgstr "&Schließen"
+
+msgid "Новая запись"
+msgstr "Neuer Eintrag"
+
+msgid "Копировать"
+msgstr "Kopieren"
+
+msgid "Вставить"
+msgstr "Einfügen"
+
+msgid "Удалить"
+msgstr "Löschen"
+
+msgid "Установить как.."
+msgstr "Installieren als..."
+
+msgid "Контроль относиться к аудио микшеру"
+msgstr "Steuerung bezieht sich auf den Audiomixer"
+
+msgid "Контроль относиться к мультимедиа кнопкам"
+msgstr "Die Steuerelemente gelten für Multimedia-Tasten"
+
+msgid "Контроль относиться к умному дому"
+msgstr "Unter Steuerung versteht man ein Smart Home"
+
+msgid "Контроль относиться к управлению светом"
+msgstr "Unter Kontrolle versteht man die Lichtsteuerung"
+
+msgid "Канал 8 бит (стандарт)"
+msgstr "Kanal 8 Bit (Standard)"
+
+msgid "Канал 16 бит (расширенный)"
+msgstr "Kanal 16 Bit (erweitert)"
+
+msgid "Неназначенный"
+msgstr "Nicht zugewiesen"
+
+msgid "Читать MIDI код.."
+msgstr "MIDI-Code lesen."
+
+msgid "Регуляторы.."
+msgstr "Aufsichtsbehörden.."
+
+msgid "Полосковый регулятор"
+msgstr "Streifenregler"
+
+msgid "Полосковый регулятор с инверсией"
+msgstr "Streifenregler mit Inversion"
+
+msgid "Круговый регулятор"
+msgstr "Kreisregler"
+
+msgid "Круговый регулятор с инверсией"
+msgstr "Kreisregler mit Umkehrung"
+
+msgid "Энкодер"
+msgstr "Encoder"
+
+msgid "Энкодер с инверсией"
+msgstr "Encoder mit Invertierung"
+
+msgid "Кнопки.."
+msgstr "Tasten.."
+
+msgid "Кнопка"
+msgstr "Taste"
+
+msgid "Кнопка переключать, с индикацией"
+msgstr "Schaltknopf, mit Anzeige"
+
+msgid "Управление звуком.."
+msgstr "Tonsteuerung..."
+
+msgid "Без звука (мастер)"
+msgstr "Still (Meister)"
+
+msgid "Соло (мастер)"
+msgstr "Solo (Meister)"
+
+msgid "Без звука.."
+msgstr "Lautlos.."
+
+msgid "канал 1"
+msgstr "Kanal 1"
+
+msgid "канал 2"
+msgstr "Kanal 2"
+
+msgid "канал 3"
+msgstr "Kanal 3"
+
+msgid "канал 4"
+msgstr "Kanal 4"
+
+msgid "канал 5"
+msgstr "Kanal 5"
+
+msgid "канал 6"
+msgstr "Kanal 6"
+
+msgid "канал 7"
+msgstr "Kanal 7"
+
+msgid "канал 8"
+msgstr "Kanal 8"
+
+msgid "канал 9"
+msgstr "Kanal 9"
+
+msgid "Соло.."
+msgstr "Solo.."
+
+msgid "Мультимедиа кнопки.."
+msgstr "Multimedia-Tasten."
+
+msgid "Играть/Пауза"
+msgstr "Spielpause"
+
+msgid "Стоп"
+msgstr "Stoppen"
+
+msgid "Предыдущий"
+msgstr "Vorherige"
+
+msgid "Следующий"
+msgstr "Nächste"
+
+msgid "Запись"
+msgstr "Aufzeichnen"
+
+msgid "Вверх (джойстик)"
+msgstr "Oben (Joystick)"
+
+msgid "Вниз (джойстик)"
+msgstr "Unten (Joystick)"
+
+msgid "Вправо (джойстик)"
+msgstr "Rechts (Joystick)"
+
+msgid "Влево (джойстик)"
+msgstr "Links (Joystick)"
+
+msgid "Увеличение масштаба"
+msgstr "Hineinzoomen"
+
+msgid "Скрабирование"
+msgstr "Schrubben"
+
+msgid "Функции «Premiere Pro».."
+msgstr "Premiere Pro-Funktionen..."
+
+msgid "Функции стандартной кнопки.."
+msgstr "Funktionen einer Standardtaste..."
+
+msgid "Функция 1"
+msgstr "Funktion 1"
+
+msgid "Функция 2"
+msgstr "Funktion 2"
+
+msgid "Функция 3"
+msgstr "Funktion 3"
+
+msgid "Функция 4"
+msgstr "Funktion 4"
+
+msgid "Функция 5"
+msgstr "Funktion 5"
+
+msgid "Функция 6"
+msgstr "Funktion 6"
+
+msgid "Функция 7"
+msgstr "Funktion 7"
+
+msgid "Функция 8"
+msgstr "Funktion 8"
+
+msgid "Функции кнопки «в одно касание».."
+msgstr "One-Touch-Tastenfunktionen..."
+
+msgid "Кнопки в системе «Умный дом».."
+msgstr "Tasten im Smart Home System."
+
+msgid "вкл/выкл 1"
+msgstr "Ein/Aus 1"
+
+msgid "вкл/выкл 2"
+msgstr "ein/aus 2"
+
+msgid "вкл/выкл 3"
+msgstr "ein/aus 3"
+
+msgid "вкл/выкл 4"
+msgstr "ein/aus 4"
+
+msgid "вкл/выкл 5"
+msgstr "ein/aus 5"
+
+msgid "вкл/выкл 6"
+msgstr "ein/aus 6"
+
+msgid "вкл/выкл 7"
+msgstr "ein/aus 7"
+
+msgid "вкл/выкл 8"
+msgstr "ein/aus 8"
+
+msgid "вкл/выкл 9"
+msgstr "ein/aus 9"
+
+msgid "вкл/выкл 10"
+msgstr "ein/aus 10"
+
+msgid "вкл/выкл 11"
+msgstr "ein/aus 11"
+
+msgid "вкл/выкл 12"
+msgstr "ein/aus 12"
+
+msgid "вкл/выкл 13"
+msgstr "ein/aus 13"
+
+msgid "вкл/выкл 14"
+msgstr "ein/aus 14"
+
+msgid "вкл/выкл 15"
+msgstr "ein/aus 15"
+
+msgid "вкл/выкл 16"
+msgstr "ein/aus 16"
+
+msgid "вкл/выкл 17"
+msgstr "ein/aus 17"
+
+msgid "вкл/выкл 18"
+msgstr "ein/aus 18"
+
+msgid "вкл/выкл 19"
+msgstr "ein/aus 19"
+
+msgid "вкл/выкл 20"
+msgstr "ein/aus 20"
+
+msgid "вкл/выкл 21"
+msgstr "ein/aus 21"
+
+msgid "вкл/выкл 22"
+msgstr "ein/aus 22"
+
+msgid "вкл/выкл 23"
+msgstr "ein/aus 23"
+
+msgid "вкл/выкл 24"
+msgstr "ein/aus 24"
+
+msgid "вкл/выкл 25"
+msgstr "ein/aus 25"
+
+msgid "вкл/выкл 26"
+msgstr "ein/aus 26"
+
+msgid "вкл/выкл 27"
+msgstr "ein/aus 27"
+
+msgid "Энкодер (покадровый просмотр)"
+msgstr "Encoder (Bild-für-Bild-Anzeige)"
+
+msgid "Громкость (мастер)"
+msgstr "Lautstärke (Master)"
+
+msgid "Баланс (мастер)"
+msgstr "Balance (Meister)"
+
+msgid "Громкость.."
+msgstr "Volumen.."
+
+msgid "Баланс.."
+msgstr "Gleichgewicht.."
+
+msgid "Регуляторы в системе «Умный дом».."
+msgstr "Regler im „Smart Home“-System."
+
+msgid "уровень 1"
+msgstr "Level 1"
+
+msgid "уровень 2"
+msgstr "Level 2"
+
+msgid "уровень 3"
+msgstr "Stufe 3"
+
+msgid "уровень 4"
+msgstr "Level 4"
+
+msgid "уровень 5"
+msgstr "Level 5"
+
+msgid "уровень 6"
+msgstr "Stufe 6"
+
+msgid "уровень 7"
+msgstr "Stufe 7"
+
+msgid "уровень 8"
+msgstr "Stufe 8"
+
+msgid "уровень 9"
+msgstr "Stufe 9"
+
+msgid "уровень 10"
+msgstr "Stufe 10"
+
+msgid "уровень 11"
+msgstr "Stufe 11"
+
+msgid "уровень 12"
+msgstr "Stufe 12"
+
+msgid "уровень 13"
+msgstr "Stufe 13"
+
+msgid "уровень 14"
+msgstr "Stufe 14"
+
+msgid "уровень 15"
+msgstr "Stufe 15"
+
+msgid "уровень 16"
+msgstr "Stufe 16"
+
+msgid "уровень 17"
+msgstr "Stufe 17"
+
+msgid "уровень 18"
+msgstr "Stufe 18"
+
+msgid "Энкодер (JOG)"
+msgstr "Encoder (JOG)"
+
+msgid "канал 10"
+msgstr "Kanal 10"
+
+msgid "канал 11"
+msgstr "Kanal 11"
+
+msgid "канал 12"
+msgstr "Kanal 12"
+
+msgid "канал 13"
+msgstr "Kanal 13"
+
+msgid "канал 14"
+msgstr "Kanal 14"
+
+msgid "канал 15"
+msgstr "Kanal 15"
+
+msgid "канал 16"
+msgstr "Kanal 16"
+
+msgid "канал 17"
+msgstr "Kanal 17"
+
+msgid "канал 18"
+msgstr "Kanal 18"

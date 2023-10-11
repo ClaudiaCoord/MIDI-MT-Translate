@@ -135,7 +135,7 @@ msgid "Установленный Virtual MIDI драйвер не найден!
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG5
-msgid "При запуске будут созданы Proxy MIDI порты: "
+msgid "При запуске будут созданы Proxy MIDI порты:"
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG6
@@ -143,11 +143,11 @@ msgid "MIDI Proxy порты отключены."
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG7
-msgid "Выбранный язык будет активным после перезапуска окна - "
+msgid "Выбранный язык будет активным после перезапуска окна -"
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG8
-msgid "Входное MIDI устройство назначено на "
+msgid "Входное MIDI устройство назначено на"
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG9
@@ -155,7 +155,7 @@ msgid "Пожалуйста, отредактируйте конфигураци
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG10
-msgid "Версия установленного Virtual MIDI драйвера: "
+msgid "Версия установленного Virtual MIDI драйвера:"
 msgstr ""
 
 #: STRINGTABLE.IDS_DLG_MSG11

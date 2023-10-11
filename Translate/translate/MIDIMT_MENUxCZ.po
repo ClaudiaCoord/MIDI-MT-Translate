@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-11 23:47+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.10.0\n"
+
+msgid "MIDI Mackie транслятор"
+msgstr "Překladač MIDI Mackie"
+
+msgid "&Информация"
+msgstr "&Informace"
+
+msgid "&Аудио микшер"
+msgstr "&Směšovač zvuku"
+
+msgid "&Монитор"
+msgstr "&Monitor"
+
+msgid "&Настройка"
+msgstr "&Nastavení"
+
+msgid "Ст&арт"
+msgstr "Start"
+
+msgid "Ст&оп"
+msgstr "Stop"
+
+msgid "Вы&ход"
+msgstr "Výstup"
+
+msgid "Расположение.."
+msgstr "Umístění.."
+
+msgid "Вертикально слева"
+msgstr "Svisle vlevo"
+
+msgid "Вертикально справа"
+msgstr "Svisle vpravo"
+
+msgid "Горизонтально вверху"
+msgstr "Vodorovně nahoře"
+
+msgid "Горизонтально внизу"
+msgstr "Vodorovně níže"
+
+msgid "Тема.."
+msgstr "Předmět.."
+
+msgid "Метро"
+msgstr "Metro"
+
+msgid "Светлая"
+msgstr "Světlo"
+
+msgid "Тёмная"
+msgstr "Temný"
+
+msgid "Рэтро"
+msgstr "Retro"
+
+msgid "Современный"
+msgstr "Moderní"
+
+msgid "Настраеваямая"
+msgstr "Nastavení"
+
+msgid "Настройка темы"
+msgstr "Nastavení motivu"
+
+msgid "&Анимация"
+msgstr "&Animace"
+
+msgid "&Путь приложений"
+msgstr "&Cesta aplikace"
+
+msgid "Привязка &MIDI контролов"
+msgstr "Vazba & MIDI ovládací prvky"
+
+msgid "Пиковый &измеритель громкости"
+msgstr "Peak & Volume Meter"
+
+msgid "З&апомнить позицию"
+msgstr "Zapamatujte si pozici"
+
+msgid "&Закрыть"
+msgstr "&Zavřít"
+
+msgid "Новая запись"
+msgstr "Nový záznam"
+
+msgid "Копировать"
+msgstr "kopírovat"
+
+msgid "Вставить"
+msgstr "Vložit"
+
+msgid "Удалить"
+msgstr "Vymazat"
+
+msgid "Установить как.."
+msgstr "Instalovat jako.."
+
+msgid "Контроль относиться к аудио микшеру"
+msgstr "Ovládání se týká audio mixeru"
+
+msgid "Контроль относиться к мультимедиа кнопкам"
+msgstr "Ovládací prvky se vztahují na multimediální tlačítka"
+
+msgid "Контроль относиться к умному дому"
+msgstr "Ovládání odkazuje na chytrou domácnost"
+
+msgid "Контроль относиться к управлению светом"
+msgstr "Ovládání se týká ovládání světla"
+
+msgid "Канал 8 бит (стандарт)"
+msgstr "Kanál 8 bitů (standardní)"
+
+msgid "Канал 16 бит (расширенный)"
+msgstr "Kanál 16bit (rozšířený)"
+
+msgid "Неназначенный"
+msgstr "Nepřiřazeno"
+
+msgid "Читать MIDI код.."
+msgstr "Číst MIDI kód.."
+
+msgid "Регуляторы.."
+msgstr "Regulátoři..."
+
+msgid "Полосковый регулятор"
+msgstr "Pásový regulátor"
+
+msgid "Полосковый регулятор с инверсией"
+msgstr "Pásový regulátor s inverzí"
+
+msgid "Круговый регулятор"
+msgstr "Kruhový regulátor"
+
+msgid "Круговый регулятор с инверсией"
+msgstr "Kruhový regulátor s inverzí"
+
+msgid "Энкодер"
+msgstr "Kodér"
+
+msgid "Энкодер с инверсией"
+msgstr "Kodér s inverzí"
+
+msgid "Кнопки.."
+msgstr "Tlačítka.."
+
+msgid "Кнопка"
+msgstr "Knoflík"
+
+msgid "Кнопка переключать, с индикацией"
+msgstr "Spínací tlačítko, s indikací"
+
+msgid "Управление звуком.."
+msgstr "Ovládání zvuku..."
+
+msgid "Без звука (мастер)"
+msgstr "Tichý (mistr)"
+
+msgid "Соло (мастер)"
+msgstr "Solo (mistr)"
+
+msgid "Без звука.."
+msgstr "Nehlučný.."
+
+msgid "канал 1"
+msgstr "kanál 1"
+
+msgid "канал 2"
+msgstr "kanál 2"
+
+msgid "канал 3"
+msgstr "kanál 3"
+
+msgid "канал 4"
+msgstr "kanál 4"
+
+msgid "канал 5"
+msgstr "kanál 5"
+
+msgid "канал 6"
+msgstr "kanál 6"
+
+msgid "канал 7"
+msgstr "kanál 7"
+
+msgid "канал 8"
+msgstr "kanál 8"
+
+msgid "канал 9"
+msgstr "kanál 9"
+
+msgid "Соло.."
+msgstr "Sólo.."
+
+msgid "Мультимедиа кнопки.."
+msgstr "Multimediální tlačítka.."
+
+msgid "Играть/Пауза"
+msgstr "Přehrát/Pozastavit"
+
+msgid "Стоп"
+msgstr "Stop"
+
+msgid "Предыдущий"
+msgstr "Předchozí"
+
+msgid "Следующий"
+msgstr "další"
+
+msgid "Запись"
+msgstr "Záznam"
+
+msgid "Вверх (джойстик)"
+msgstr "Nahoru (joystick)"
+
+msgid "Вниз (джойстик)"
+msgstr "Dolů (joystick)"
+
+msgid "Вправо (джойстик)"
+msgstr "Vpravo (joystick)"
+
+msgid "Влево (джойстик)"
+msgstr "Vlevo (joystick)"
+
+msgid "Увеличение масштаба"
+msgstr "Přiblížit"
+
+msgid "Скрабирование"
+msgstr "Drhnutí"
+
+msgid "Функции «Premiere Pro».."
+msgstr "Funkce Premiere Pro..."
+
+msgid "Функции стандартной кнопки.."
+msgstr "Funkce standardního tlačítka..."
+
+msgid "Функция 1"
+msgstr "Funkce 1"
+
+msgid "Функция 2"
+msgstr "Funkce 2"
+
+msgid "Функция 3"
+msgstr "Funkce 3"
+
+msgid "Функция 4"
+msgstr "Funkce 4"
+
+msgid "Функция 5"
+msgstr "Funkce 5"
+
+msgid "Функция 6"
+msgstr "Funkce 6"
+
+msgid "Функция 7"
+msgstr "Funkce 7"
+
+msgid "Функция 8"
+msgstr "Funkce 8"
+
+msgid "Функции кнопки «в одно касание».."
+msgstr "Funkce jednoho tlačítka..."
+
+msgid "Кнопки в системе «Умный дом».."
+msgstr "Tlačítka v systému Smart Home.."
+
+msgid "вкл/выкл 1"
+msgstr "zapnutí/vypnutí 1"
+
+msgid "вкл/выкл 2"
+msgstr "zapnutí/vypnutí 2"
+
+msgid "вкл/выкл 3"
+msgstr "zapnutí/vypnutí 3"
+
+msgid "вкл/выкл 4"
+msgstr "zapnutí/vypnutí 4"
+
+msgid "вкл/выкл 5"
+msgstr "zapnutí/vypnutí 5"
+
+msgid "вкл/выкл 6"
+msgstr "zapnutí/vypnutí 6"
+
+msgid "вкл/выкл 7"
+msgstr "zapnutí/vypnutí 7"
+
+msgid "вкл/выкл 8"
+msgstr "zapnutí/vypnutí 8"
+
+msgid "вкл/выкл 9"
+msgstr "zapnutí/vypnutí 9"
+
+msgid "вкл/выкл 10"
+msgstr "zapnutí/vypnutí 10"
+
+msgid "вкл/выкл 11"
+msgstr "zapnutí/vypnutí 11"
+
+msgid "вкл/выкл 12"
+msgstr "zapnutí/vypnutí 12"
+
+msgid "вкл/выкл 13"
+msgstr "zapnutí/vypnutí 13"
+
+msgid "вкл/выкл 14"
+msgstr "zapnutí/vypnutí 14"
+
+msgid "вкл/выкл 15"
+msgstr "zapnutí/vypnutí 15"
+
+msgid "вкл/выкл 16"
+msgstr "zapnutí/vypnutí 16"
+
+msgid "вкл/выкл 17"
+msgstr "zapnutí/vypnutí 17"
+
+msgid "вкл/выкл 18"
+msgstr "zapnutí/vypnutí 18"
+
+msgid "вкл/выкл 19"
+msgstr "zapnutí/vypnutí 19"
+
+msgid "вкл/выкл 20"
+msgstr "zapnutí/vypnutí 20"
+
+msgid "вкл/выкл 21"
+msgstr "zapnutí/vypnutí 21"
+
+msgid "вкл/выкл 22"
+msgstr "zapnutí/vypnutí 22"
+
+msgid "вкл/выкл 23"
+msgstr "zapnutí/vypnutí 23"
+
+msgid "вкл/выкл 24"
+msgstr "zapnutí/vypnutí 24"
+
+msgid "вкл/выкл 25"
+msgstr "zapnutí/vypnutí 25"
+
+msgid "вкл/выкл 26"
+msgstr "zapnutí/vypnutí 26"
+
+msgid "вкл/выкл 27"
+msgstr "zapnutí/vypnutí 27"
+
+msgid "Энкодер (покадровый просмотр)"
+msgstr "Kodér (prohlížení snímek po snímku)"
+
+msgid "Громкость (мастер)"
+msgstr "svazek (hlavní)"
+
+msgid "Баланс (мастер)"
+msgstr "Rovnováha (hlavní)"
+
+msgid "Громкость.."
+msgstr "Hlasitost.."
+
+msgid "Баланс.."
+msgstr "Zůstatek.."
+
+msgid "Регуляторы в системе «Умный дом».."
+msgstr "Regulátory v systému „Smart Home“..."
+
+msgid "уровень 1"
+msgstr "úroveň 1"
+
+msgid "уровень 2"
+msgstr "úroveň 2"
+
+msgid "уровень 3"
+msgstr "úroveň 3"
+
+msgid "уровень 4"
+msgstr "úroveň 4"
+
+msgid "уровень 5"
+msgstr "úroveň 5"
+
+msgid "уровень 6"
+msgstr "úroveň 6"
+
+msgid "уровень 7"
+msgstr "úroveň 7"
+
+msgid "уровень 8"
+msgstr "úroveň 8"
+
+msgid "уровень 9"
+msgstr "úroveň 9"
+
+msgid "уровень 10"
+msgstr "úroveň 10"
+
+msgid "уровень 11"
+msgstr "úroveň 11"
+
+msgid "уровень 12"
+msgstr "úroveň 12"
+
+msgid "уровень 13"
+msgstr "úroveň 13"
+
+msgid "уровень 14"
+msgstr "úroveň 14"
+
+msgid "уровень 15"
+msgstr "úroveň 15"
+
+msgid "уровень 16"
+msgstr "úroveň 16"
+
+msgid "уровень 17"
+msgstr "úroveň 17"
+
+msgid "уровень 18"
+msgstr "úroveň 18"
+
+msgid "Энкодер (JOG)"
+msgstr "Kodér (JOG)"
+
+msgid "канал 10"
+msgstr "kanál 10"
+
+msgid "канал 11"
+msgstr "kanál 11"
+
+msgid "канал 12"
+msgstr "kanál 12"
+
+msgid "канал 13"
+msgstr "kanál 13"
+
+msgid "канал 14"
+msgstr "kanál 14"
+
+msgid "канал 15"
+msgstr "kanál 15"
+
+msgid "канал 16"
+msgstr "kanál 16"
+
+msgid "канал 17"
+msgstr "kanál 17"
+
+msgid "канал 18"
+msgstr "kanál 18"
