@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-12 07:29+0300\n"
+"POT-Creation-Date: 2023-10-12 07:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,289 +12,289 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.10.0\n"
 
 msgid "Обновления"
-msgstr "Posodobitve"
+msgstr "Atualizações"
 
 msgid "Помощь"
-msgstr "pomoč"
+msgstr "Ajuda"
 
 msgid "&Закрыть"
-msgstr "&Zapri"
+msgstr "&Fechar"
 
 msgid "&Программа настройки MIDI панели"
-msgstr "&Nastavitev plošče MIDI"
+msgstr "& Programa de configuração do painel MIDI"
 
 msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
-msgstr "Priporočena postavitev nadzorne plošče MIDI. Datoteka z nastavitvami za to postavitev se nahaja v mapi 'docs/MIDIMT.Ctrl_data'"
+msgstr "Layout recomendado do painel de controle MIDI. O arquivo com as configurações deste layout está localizado na pasta 'docs/MIDIMT.Ctrl_data'"
 
 msgid "Запуск MIDI транслятора"
-msgstr "Zagon prevajalnika MIDI"
+msgstr "Iniciando um tradutor MIDI"
 
 msgid "MIDI устройства"
-msgstr "MIDI naprave"
+msgstr "Dispositivos MIDI"
 
 msgid "MIDI Бридж"
-msgstr "MIDI most"
+msgstr "Ponte MIDI"
 
 msgid "Запущен"
-msgstr "sprožil"
+msgstr "Lançado"
 
 msgid "Остановлен"
-msgstr "ustavil"
+msgstr "Parou"
 
 msgid "Конфигурация"
-msgstr "Konfiguracija"
+msgstr "Configuração"
 
 msgid "MIDI контролы"
-msgstr "Kontrole MIDI"
+msgstr "Controles MIDI"
 
 msgid "Интервал между нажатиями"
-msgstr "Interval med kliki"
+msgstr "Intervalo entre cliques"
 
 msgid "Интервал как долгое нажатие"
-msgstr "Interval kot dolg pritisk"
+msgstr "Intervalo como pressão longa"
 
 msgid "Запуск"
-msgstr "kosilo"
+msgstr "Lançar"
 
 msgid "Старт при загрузке системы"
-msgstr "Začnite ob zagonu sistema"
+msgstr "Comece na inicialização do sistema"
 
 msgid "Авто старт при запуске"
-msgstr "Samodejni zagon ob zagonu"
+msgstr "Início automático na inicialização"
 
 msgid "Авто старт этой конфигурации"
-msgstr "Samodejni zagon te konfiguracije"
+msgstr "Início automático desta configuração"
 
 msgid "Записывать лог"
-msgstr "Pišite dnevnik"
+msgstr "Gravar registro"
 
 msgid "Предпочитаемый язык:"
-msgstr "Želeni jezik:"
+msgstr "Língua preferida:"
 
 msgid "Использовать правую кнопку мыши для вызова микшера"
-msgstr "Z desnim gumbom miške pokličite mešalnik"
+msgstr "Use o botão direito do mouse para abrir o mixer"
 
 msgid "Настройки MIDI"
-msgstr "MIDI nastavitve"
+msgstr "Configurações MIDI"
 
 msgid "Драйвер:"
-msgstr "Voznik:"
+msgstr "Motorista:"
 
 msgid "JOG фильтр сцены"
-msgstr "Filter scene JOG"
+msgstr "Filtro de cena JOG"
 
 msgid "Порт не создается"
-msgstr "Vrata niso ustvarjena"
+msgstr "A porta não foi criada"
 
 msgid "MIDI Прокси"
-msgstr "MIDI proxy"
+msgstr "Proxy MIDI"
 
 msgid "количество портов"
-msgstr "število vrat"
+msgstr "número de portas"
 
 msgid "Включено"
-msgstr "Vključeno"
+msgstr "Incluído"
 
 msgid "Настройки Микшера Звука"
-msgstr "Nastavitve mešalnika zvoka"
+msgstr "Configurações do mixer de áudio"
 
 msgid "Замена значений громкости без проверки"
-msgstr "Zamenjava vrednosti glasnosti brez preverjanja"
+msgstr "Substituindo valores de volume sem verificar"
 
 msgid "Объединять приложения по названию, раздельная регулировка невозможна"
-msgstr "Aplikacije združite po imenu, ločena prilagoditev ni mogoča"
+msgstr "Combine aplicativos por nome; ajustes separados não são possíveis"
 
 msgid "Устанавливать сохранённые уровни громкости при старте"
-msgstr "Nastavite shranjene ravni glasnosti ob zagonu"
+msgstr "Defina os níveis de volume salvos na inicialização"
 
 msgid "Включить MM клавиши"
-msgstr "Omogoči tipke MM"
+msgstr "Habilitar chaves MM"
 
 msgid "Сохранить &настройки"
-msgstr "Shrani nastavitve"
+msgstr "Salvar configurações"
 
 msgid "&Старт"
-msgstr "&Začni"
+msgstr "&Começar"
 
 msgid "Освещение"
-msgstr "Razsvetljava"
+msgstr "Iluminação"
 
 msgid "Служба DMX"
-msgstr "DMX storitev"
+msgstr "Serviço DMX"
 
 msgid "COM порт:"
-msgstr "COM vrata:"
+msgstr "Porta COM:"
 
 msgid "Порт:"
-msgstr "vrata:"
+msgstr "Porta:"
 
 msgid "Бит-рейт:"
-msgstr "Bitna hitrost:"
+msgstr "Taxa de bits:"
 
 msgid "Стоп-бит:"
-msgstr "Stop bit:"
+msgstr "Pare um pouco:"
 
 msgid "Тайм-аут:"
-msgstr "Odmor:"
+msgstr "Tempo esgotado:"
 
 msgid "Служба ArtNet"
-msgstr "Storitev ArtNet"
+msgstr "Serviço ArtNet"
 
 msgid "ArtNet сеть:"
-msgstr "Omrežje ArtNet:"
+msgstr "Rede ArtNet:"
 
 msgid "Номер вселенной:"
-msgstr "Številka vesolja:"
+msgstr "Número do universo:"
 
 msgid "Адрес:"
-msgstr "Naslov:"
+msgstr "Endereço:"
 
 msgid "Маска:"
-msgstr "Maska:"
+msgstr "Mascarar:"
 
 msgid "Броадкаст:"
-msgstr "Oddaja:"
+msgstr "Transmissão:"
 
 msgid "Включить DMX пул (стандартное поведение)"
-msgstr "Omogoči bazen DMX (standardno delovanje)"
+msgstr "Habilitar pool DMX (comportamento padrão)"
 
 msgid "Умный Дом"
-msgstr "Pametna hiša"
+msgstr "Casa inteligente"
 
 msgid "MQTT сервер"
-msgstr "MQTT strežnik"
+msgstr "Servidor MQTT"
 
 msgid "IP адрес:"
-msgstr "IP naslov:"
+msgstr "Endereço de IP:"
 
 msgid "порт:"
-msgstr "pristanišče:"
+msgstr "porta:"
 
 msgid "Безопасность"
-msgstr "Varnost"
+msgstr "Segurança"
 
 msgid "логин:"
-msgstr "Vpiši se:"
+msgstr "Conecte-se:"
 
 msgid "пароль:"
-msgstr "geslo:"
+msgstr "senha:"
 
 msgid "ключ PSK:"
-msgstr "PSK ključ:"
+msgstr "Chave PSK:"
 
 msgid "SSL/TLS включено"
-msgstr "SSL/TLS omogočen"
+msgstr "SSL/TLS ativado"
 
 msgid "самоподписанный"
-msgstr "samopodpisan"
+msgstr "autoassinado"
 
 msgid "CA сертификат"
-msgstr "potrdilo CA"
+msgstr "Certificado CA"
 
 msgid "Опции"
-msgstr "Opcije"
+msgstr "Opções"
 
 msgid "MQTT топик префикс: (необязательно)"
-msgstr "Predpona teme MQTT: (neobvezno)"
+msgstr "Prefixo do tópico MQTT: (opcional)"
 
 msgid "уровень логирования MQTT сессий:"
-msgstr "raven beleženja sej MQTT:"
+msgstr "Nível de log da sessão MQTT:"
 
 msgid "&О программе.."
-msgstr "&O programu.."
+msgstr "&Sobre o programa.."
 
 msgid "Монитор MIDI команд"
-msgstr "Nadzornik ukazov MIDI"
+msgstr "Monitor de comando MIDI"
 
 msgid "Монитор команд"
-msgstr "Nadzornik ukazov"
+msgstr "Monitor de comando"
 
 msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
-msgstr "Nadzornik ukazov MIDI vam bo pomagal določiti, kako je krmilnik konfiguriran. Za začetek testiranja kliknite gumb 'Začni'. Z uporabo različnih kontrolnikov na krmilniku boste prejeli sporočila o sceni, številki in trenutni vrednosti."
+msgstr "O MIDI Command Monitor o ajudará a determinar como o controlador está configurado. Para iniciar o teste, clique no botão ‘Iniciar’. Usando os vários controles do seu controlador, você receberá mensagens sobre a cena, número e valor atual."
 
 msgid "Ст&оп"
-msgstr "Stop"
+msgstr "Parar"
 
 msgid "Ст&арт"
-msgstr "Začetek"
+msgstr "Começar"
 
 msgid "Очи&стить"
-msgstr "Čisto&Strmo"
+msgstr "Limpar"
 
 msgid "Настройка управления MIDI"
-msgstr "Nastavitev krmiljenja MIDI"
+msgstr "Configurando o controle MIDI"
 
 msgid "Настройка MIDI контролов"
-msgstr "Nastavitev kontrolnikov MIDI"
+msgstr "Configurando controles MIDI"
 
 msgid "MIDI"
 msgstr "MIDI"
 
 msgid "Информация"
-msgstr "Informacije"
+msgstr "Informação"
 
 msgid "Контрол:"
-msgstr "Nadzor:"
+msgstr "Ao controle:"
 
 msgid "Сцена:"
-msgstr "Scena:"
+msgstr "Cena:"
 
 msgid "Тип контрола:"
-msgstr "Vrsta nadzora:"
+msgstr "Tipo de controlo:"
 
 msgid "Назначение:"
-msgstr "Namen:"
+msgstr "Propósito:"
 
 msgid "Назначение (долгий клик):"
-msgstr "Namen (dolg klik):"
+msgstr "Objetivo (clique longo):"
 
 msgid "Регулируемые микшером приложения:"
-msgstr "Aplikacije, nastavljive z mešalnikom:"
+msgstr "Aplicações controladas pelo mixer:"
 
 msgid "Подсказки"
-msgstr "Namigi"
+msgstr "Dicas"
 
 msgid "Все"
-msgstr "Vse"
+msgstr "Todos"
 
 msgid "Кнопки"
-msgstr "Gumbi"
+msgstr "Botões"
 
 msgid "Слайдеры"
-msgstr "Drsniki"
+msgstr "Controles deslizantes"
 
 msgid "Мультимедиа"
-msgstr "Multimedija"
+msgstr "Multimídia"
 
 msgid "Настройка пользовательской темы"
-msgstr "Nastavitev teme po meri"
+msgstr "Configurando um tema personalizado"
 
 msgid "Цвета вашей темы"
-msgstr "Vaše teme Barve"
+msgstr "As cores do seu tema"
 
 msgid "Цвет текста"
-msgstr "Barva besedila"
+msgstr "Cor do texto"
 
 msgid "Цвет фона"
-msgstr "Barva ozadja"
+msgstr "Cor de fundo"
 
 msgid "Цвет рамки"
-msgstr "barva okvirja"
+msgstr "Cor da moldura"
 
 msgid "Базовая тема"
-msgstr "Osnovna tema"
+msgstr "Tema básico"
 
 msgid "Метро"
-msgstr "Metro"
+msgstr "Metrô"
 
 msgid "Светлая"
-msgstr "Svetloba"
+msgstr "Luz"
 
 msgid "Тёмная"
-msgstr "Temno"
+msgstr "Escuro"
 
 msgid "Рэтро"
-msgstr "retro"
+msgstr "Retrô"
 
 msgid "Современный"
 msgstr "Moderno"

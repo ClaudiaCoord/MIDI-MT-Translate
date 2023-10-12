@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-11 23:47+0300\n"
+"POT-Creation-Date: 2023-10-12 07:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,6 +86,12 @@ msgstr "MIDIMT - Nedá sa dokončiť operácia:"
 msgid "Управление устройствами «Умного дома» запущено."
 msgstr "Správa zariadení Smart Home bola spustená."
 
+msgid "Управление освещением по протоколу «DMX512» запущено."
+msgstr "Bolo spustené ovládanie osvetlenia cez protokol DMX512."
+
+msgid "Управление освещением по протоколу «ArtNet» запущено."
+msgstr "Bolo spustené ovládanie osvetlenia cez protokol ArtNet."
+
 msgid "Установка Virtual MIDI драйвера"
 msgstr "Inštalácia virtuálneho MIDI ovládača"
 
@@ -101,8 +107,8 @@ msgstr "Verzia virtuálneho ovládača MIDI:"
 msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора"
 msgstr "Nainštalovaný virtuálny MIDI ovládač sa nenašiel! Ak chcete spustiť prekladač MIDI-MT, musíte nainštalovať balík Virtual Loop MIDI"
 
-msgid "При запуске будут созданы Proxy MIDI порты:"
-msgstr "Pri spustení sa vytvoria proxy MIDI porty:"
+msgid "При запуске будут созданы прокси MIDI порты:"
+msgstr "Po spustení sa vytvoria proxy MIDI porty:"
 
 msgid "MIDI Proxy порты отключены."
 msgstr "Porty MIDI Proxy sú vypnuté."

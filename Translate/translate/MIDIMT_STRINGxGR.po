@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-11 23:47+0300\n"
+"POT-Creation-Date: 2023-10-12 07:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,6 +86,12 @@ msgstr "MIDIMT - ოპერაციის დასრულება შე�
 msgid "Управление устройствами «Умного дома» запущено."
 msgstr "Smart Home მოწყობილობის მართვა დაიწყო."
 
+msgid "Управление освещением по протоколу «DMX512» запущено."
+msgstr "განათების კონტროლი DMX512 პროტოკოლით დაიწყო."
+
+msgid "Управление освещением по протоколу «ArtNet» запущено."
+msgstr "განათების კონტროლი ArtNet პროტოკოლით დაიწყო."
+
 msgid "Установка Virtual MIDI драйвера"
 msgstr "ვირტუალური MIDI დრაივერის დაყენება"
 
@@ -101,8 +107,8 @@ msgstr "MIDI ვირტუალური დრაივერის ვე�
 msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора"
 msgstr "დაინსტალირებული ვირტუალური MIDI დრაივერი ვერ მოიძებნა! თქვენ უნდა დააინსტალიროთ Virtual Loop MIDI პაკეტი MIDI-MT მთარგმნელის გასაშვებად"
 
-msgid "При запуске будут созданы Proxy MIDI порты:"
-msgstr "გაშვებისას შეიქმნება Proxy MIDI პორტები:"
+msgid "При запуске будут созданы прокси MIDI порты:"
+msgstr "გაშვებისას შეიქმნება პროქსი MIDI პორტები:"
 
 msgid "MIDI Proxy порты отключены."
 msgstr "MIDI Proxy პორტები გამორთულია."

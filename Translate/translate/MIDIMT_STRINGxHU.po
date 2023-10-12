@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-11 23:47+0300\n"
+"POT-Creation-Date: 2023-10-12 07:29+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,6 +86,12 @@ msgstr "MIDIMT – A művelet nem hajtható végre:"
 msgid "Управление устройствами «Умного дома» запущено."
 msgstr "Az intelligens otthon eszközkezelése elindult."
 
+msgid "Управление освещением по протоколу «DMX512» запущено."
+msgstr "Elindult a DMX512 protokollon keresztüli világításvezérlés."
+
+msgid "Управление освещением по протоколу «ArtNet» запущено."
+msgstr "Elindult a világításvezérlés az ArtNet protokollon keresztül."
+
 msgid "Установка Virtual MIDI драйвера"
 msgstr "Virtuális MIDI illesztőprogram telepítése"
 
@@ -101,8 +107,8 @@ msgstr "MIDI virtuális illesztőprogram verziója:"
 msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора"
 msgstr "A telepített Virtual MIDI illesztőprogram nem található! A MIDI-MT fordító futtatásához telepítenie kell a Virtual Loop MIDI csomagot"
 
-msgid "При запуске будут созданы Proxy MIDI порты:"
-msgstr "Indításkor a proxy MIDI portok jönnek létre:"
+msgid "При запуске будут созданы прокси MIDI порты:"
+msgstr "Indításkor proxy MIDI portok jönnek létre:"
 
 msgid "MIDI Proxy порты отключены."
 msgstr "A MIDI proxy portok le vannak tiltva."

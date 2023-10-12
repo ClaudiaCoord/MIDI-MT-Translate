@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-11 23:47+0300\n"
+"POT-Creation-Date: 2023-10-12 07:30+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,7 +15,7 @@ msgid "MIDI Easy Control -> Аудио Микшер -> MIDI-Mackie трансл�
 msgstr "MIDI Easy Control -> Audio Mixer -> MIDI-Mackie translator"
 
 msgid "&Микшер"
-msgstr "& Mixer"
+msgstr "&Mixer"
 
 msgid "&Настройки"
 msgstr "&Setări"
@@ -86,6 +86,12 @@ msgstr "MIDIMT - Imposibil de finalizat operația:"
 msgid "Управление устройствами «Умного дома» запущено."
 msgstr "Gestionarea dispozitivelor Smart Home a început."
 
+msgid "Управление освещением по протоколу «DMX512» запущено."
+msgstr "Controlul luminii prin protocolul DMX512 a fost lansat."
+
+msgid "Управление освещением по протоколу «ArtNet» запущено."
+msgstr "Controlul luminii prin protocolul ArtNet a fost lansat."
+
 msgid "Установка Virtual MIDI драйвера"
 msgstr "Instalarea driverului MIDI virtual"
 
@@ -101,8 +107,8 @@ msgstr "Versiunea MIDI Virtual Driver:"
 msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора"
 msgstr "Driverul Virtual MIDI instalat nu a fost găsit! Trebuie să instalați pachetul Virtual Loop MIDI pentru a rula translatorul MIDI-MT"
 
-msgid "При запуске будут созданы Proxy MIDI порты:"
-msgstr "La pornire, vor fi create porturi Proxy MIDI:"
+msgid "При запуске будут созданы прокси MIDI порты:"
+msgstr "La lansare, vor fi create porturi MIDI proxy:"
 
 msgid "MIDI Proxy порты отключены."
 msgstr "Porturile MIDI Proxy sunt dezactivate."
