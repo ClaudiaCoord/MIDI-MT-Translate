@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-10 07:53+0300\n"
+"POT-Creation-Date: 2023-10-12 08:21+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,343 +12,343 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.10.0\n"
 
 msgid "Последние файлы:"
-msgstr "Ultimele fișiere:"
+msgstr "Neueste Dateien:"
 
 msgid "Редактирование"
-msgstr "Editare"
+msgstr "Bearbeitung"
 
 msgid "Фильтры"
-msgstr "Filtre"
+msgstr "Filter"
 
 msgid "редактировать MIDI ключ"
-msgstr "editați tasta MIDI"
+msgstr "MIDI-Taste bearbeiten"
 
 msgid "установить MIDI ключ как.."
-msgstr "setați tasta MIDI ca..."
+msgstr "MIDI-Taste einstellen als..."
 
 msgid "параметры редактора"
-msgstr "opțiunile editorului"
+msgstr "Editor-Optionen"
 
 msgid "выбор фильтров просмотра"
-msgstr "selectarea filtrelor de vizualizare"
+msgstr "Auswahl an Anzeigefiltern"
 
 msgid "сортировка"
-msgstr "triere"
+msgstr "Sortierung"
 
 msgid "&Меню"
-msgstr "&Meniul"
+msgstr "&Speisekarte"
 
 msgid "Меню приложения"
-msgstr "Meniul aplicației"
+msgstr "Anwendungsmenü"
 
 msgid "&Быстрый доступ"
-msgstr "&Acces rapid"
+msgstr "&Schneller Zugriff"
 
 msgid "Панель быстрого доступа"
-msgstr "Bara de acces rapid"
+msgstr "Schnellzugriffsleiste"
 
 msgid "&Сохранить"
-msgstr "&Salva"
+msgstr "&Speichern"
 
 msgid "Сохранить и применить"
-msgstr "Salvați și aplicați"
+msgstr "Speichern und anwenden"
 
 msgid "Сохранить в загруженный ранее файл и обновить текущую конфигурацию."
-msgstr "Salvați în fișierul descărcat anterior și actualizați configurația curentă."
+msgstr "Speichern Sie die zuvor heruntergeladene Datei und aktualisieren Sie die aktuelle Konfiguration."
 
 msgid "&Экспорт"
 msgstr "&Export"
 
 msgid "Экспорт в новый файл"
-msgstr "Exportați într-un fișier nou"
+msgstr "In eine neue Datei exportieren"
 
 msgid "Экспортировать отредактированную конфигурацию в новый файл."
-msgstr "Exportați configurația editată într-un fișier nou."
+msgstr "Exportieren Sie die bearbeitete Konfiguration in eine neue Datei."
 
 msgid "&Импорт"
-msgstr "&Import"
+msgstr "&Importieren"
 
 msgid "Импорт из файла"
-msgstr "Import din fișier"
+msgstr "Aus Datei importieren"
 
 msgid "Импортировать конфигурацию из файла."
-msgstr "Importați configurația din fișier."
+msgstr "Konfiguration aus Datei importieren."
 
 msgid "&Выход"
-msgstr "&Ieșire"
+msgstr "&Ausfahrt"
 
 msgid "Выход из редактора"
-msgstr "Ieșiți din editor"
+msgstr "Beenden Sie den Editor"
 
 msgid "Выход из редактора конфигурации MIDI ключей, если изменения не сохранены, они будут утеряны."
-msgstr "Iese din Editorul de configurare a tastelor MIDI; dacă modificările nu sunt salvate, acestea se vor pierde."
+msgstr "Beendet den MIDI-Key-Konfigurationseditor; wenn Änderungen nicht gespeichert werden, gehen sie verloren."
 
 msgid "&Новый MIDI ключ"
-msgstr "&Tasta MIDI nouă"
+msgstr "&Neue MIDI-Taste"
 
 msgid "Новый MIDI ключ"
-msgstr "Tasta MIDI nouă"
+msgstr "Neue MIDI-Taste"
 
 msgid "Создание нового MIDI ключа."
-msgstr "Crearea unei noi chei MIDI."
+msgstr "Erstellen einer neuen MIDI-Taste."
 
 msgid "&Копировать"
-msgstr "&Copie"
+msgstr "&Kopieren"
 
 msgid "Копировать MIDI ключ"
-msgstr "Copiați cheia MIDI"
+msgstr "MIDI-Taste kopieren"
 
 msgid "Скопировать выбранную запись MIDI ключа."
-msgstr "Copiați intrarea selectată a tastei MIDI."
+msgstr "Kopieren Sie den ausgewählten MIDI-Tasteneintrag."
 
 msgid "&Вставить"
-msgstr "&Introduce"
+msgstr "&Einfügen"
 
 msgid "Вставить ключ"
-msgstr "Introduceți cheia"
+msgstr "Schlüssel einstecken"
 
 msgid "Вставить скопированный MIDI ключ."
-msgstr "Lipiți cheia MIDI copiată."
+msgstr "Fügen Sie den kopierten MIDI-Key ein."
 
 msgid "&Удалить"
-msgstr "&Șterge"
+msgstr "&Löschen"
 
 msgid "Удалить ключ"
-msgstr "Șterge cheia"
+msgstr "Schlüssel löschen"
 
 msgid "Удалить выбранную запись MIDI ключа."
-msgstr "Ștergeți intrarea selectată a tastei MIDI."
+msgstr "Löschen Sie den ausgewählten MIDI-Tasteneintrag."
 
 msgid "Умный дом"
-msgstr "Casa inteligentă"
+msgstr "Intelligentes Haus"
 
 msgid "Установить группу как «Умный дом»."
-msgstr "Setați grupul ca „Smart Home”."
+msgstr "Legen Sie die Gruppe als „Smart Home“ fest."
 
 msgid "Назначить выбранный MIDI ключ к группе «Умный дом»."
-msgstr "Atribuiți cheia MIDI selectată grupului „Smart Home”."
+msgstr "Weisen Sie die ausgewählte MIDI-Taste der Gruppe „Smart Home“ zu."
 
 msgid "Мультимедиа кнопки"
-msgstr "Butoane multimedia"
+msgstr "Multimedia-Tasten"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Setați grupul ca „Butoane multimedia”"
+msgstr "Legen Sie die Gruppe als „Multimedia-Schaltflächen“ fest."
 
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
-msgstr "Atribuiți cheia MIDI selectată grupului „Butoane multimedia”."
+msgstr "Weisen Sie die ausgewählte MIDI-Taste der Gruppe „Multimedia Buttons“ zu."
 
 msgid "Аудио микшер"
-msgstr "Mixer audio"
+msgstr "Audiomischer"
 
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Setați grupul ca „Mixer audio”"
+msgstr "Gruppe als „Audiomixer“ festlegen"
 
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
-msgstr "Atribuiți cheia MIDI selectată grupului „Audio Mixer”."
+msgstr "Weisen Sie die ausgewählte MIDI-Taste der Gruppe „Audio Mixer“ zu."
 
 msgid "Читать MIDI код"
-msgstr "Citiți codul MIDI"
+msgstr "MIDI-Code lesen"
 
 msgid "Прочесть MIDI код контрола"
-msgstr "Citiți codul de control MIDI"
+msgstr "MIDI-Steuercode lesen"
 
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
-msgstr "Citiți codul MIDI de pe o suprafață de control sau de pe o tastatură MIDI."
+msgstr "Lesen Sie MIDI-Code von einer Bedienoberfläche oder einem MIDI-Keyboard."
 
 msgid "Только цифровой ввод"
-msgstr "Doar intrare digitală"
+msgstr "Nur digitaler Eingang"
 
 msgid "Использовать только цифровой ввод"
-msgstr "Utilizați numai intrarea digitală"
+msgstr "Verwenden Sie nur den digitalen Eingang"
 
 msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
-msgstr "Nu utilizați meniul de selectare a valorii, utilizați numai intrarea digitală."
+msgstr "Verwenden Sie nicht das Werteauswahlmenü, sondern nur den digitalen Eingang."
 
 msgid "MIDI панель управления"
-msgstr "Panou de control MIDI"
+msgstr "MIDI-Bedienfeld"
 
 msgid "Рекомендуемые настройки"
-msgstr "Setări recomandate"
+msgstr "Empfohlene Einstellungen"
 
 msgid "Рекомендуемые настройки панели управления MIDI, совместимые с элементами управления Adobe Premiere Pro."
-msgstr "Setări recomandate pentru panoul de control MIDI compatibile cu comenzile Adobe Premiere Pro."
+msgstr "Empfohlene MIDI-Bedienfeldeinstellungen, die mit Adobe Premiere Pro-Steuerelementen kompatibel sind."
 
 msgid "Встроенные фильтры"
-msgstr "Filtre încorporate"
+msgstr "Eingebaute Filter"
 
 msgid "Ключ"
-msgstr "Cheie"
+msgstr "Schlüssel"
 
 msgid "Фильтровать по MIDI ключу"
-msgstr "Filtrați după tasta MIDI"
+msgstr "Nach MIDI-Taste filtern"
 
 msgid "Показывать только совпадения в группе MIDI ключей."
-msgstr "Afișați numai potrivirile dintr-un grup de taste MIDI."
+msgstr "Nur Übereinstimmungen innerhalb einer MIDI-Tastengruppe anzeigen."
 
 msgid "Сцена"
-msgstr "Scenă"
+msgstr "Szene"
 
 msgid "Фильтровать по MIDI сцене"
-msgstr "Filtrați după scena MIDI"
+msgstr "Nach MIDI-Szene filtern"
 
 msgid "Показывать только совпадения в группе MIDI сцены."
-msgstr "Afișați numai potrivirile din grupul de scene MIDI."
+msgstr "Nur Übereinstimmungen in der MIDI-Szenengruppe anzeigen."
 
 msgid "Назначение 1"
-msgstr "Scopul 1"
+msgstr "Zweck 1"
 
 msgid "Фильтровать по назначению 1"
-msgstr "Filtrați după destinație 1"
+msgstr "Nach Ziel filtern 1"
 
 msgid "Показывать только совпадения в группе по целевому назначению 1."
-msgstr "Afișați numai meciurile din grupul țintă 1."
+msgstr "Nur Übereinstimmungen in der Zielgruppe 1 anzeigen."
 
 msgid "Назначение 2"
-msgstr "Scopul 2"
+msgstr "Zweck 2"
 
 msgid "Фильтровать по назначению 2"
-msgstr "Filtrați după destinație 2"
+msgstr "Nach Ziel filtern 2"
 
 msgid "Показывать только совпадения в группе по целевому назначению 2."
-msgstr "Afișați numai meciurile din grupul țintă 2."
+msgstr "Nur Übereinstimmungen in der Zielgruppe 2 anzeigen."
 
 msgid "Очистить фильтры"
-msgstr "Ștergeți filtrele"
+msgstr "Filter löschen"
 
 msgid "Очистка фильтров"
-msgstr "Curățarea filtrelor"
+msgstr "Filter reinigen"
 
 msgid "Полная очистка фильтров, будут показаны все записи."
-msgstr "Ștergeți complet filtrele, toate intrările vor fi afișate."
+msgstr "Filter vollständig löschen, alle Einträge werden angezeigt."
 
 msgid "Установить фильтр"
-msgstr "Setați filtrul"
+msgstr "Filter einstellen"
 
 msgid "Установка фильтра"
-msgstr "Instalarea filtrului"
+msgstr "Filterinstallation"
 
 msgid "Установка фильтра показывает все недействительные элементы."
-msgstr "Setarea filtrului afișează toate elementele nevalide."
+msgstr "Durch das Setzen des Filters werden alle ungültigen Elemente angezeigt."
 
 msgid "Применить фильтр"
-msgstr "Aplica filtru"
+msgstr "Filter anwenden"
 
 msgid "Применение фильтра"
-msgstr "Aplicarea unui filtru"
+msgstr "Anwenden eines Filters"
 
 msgid "Применение фильтра показывает выбранные элементы."
-msgstr "Aplicarea unui filtru afișează elementele selectate."
+msgstr "Durch Anwenden eines Filters werden die ausgewählten Elemente angezeigt."
 
 msgid "Отменить фильтр"
-msgstr "Anulează filtrul"
+msgstr "Filter aufheben"
 
 msgid "Отмена фильтра"
-msgstr "Anulează filtrul"
+msgstr "Filter aufheben"
 
 msgid "Отмена фильтра покажет все элементы."
-msgstr "Anularea filtrului va afișa toate elementele."
+msgstr "Wenn Sie den Filter aufheben, werden alle Elemente angezeigt."
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Afișați „Butoanele multimedia”"
+msgstr "„Multimedia-Buttons“ anzeigen"
 
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr "Filtrați după grupul „Butoane multimedia”."
+msgstr "Filtern Sie nach der Gruppe „Multimedia-Schaltflächen“."
 
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
-msgstr "Aplicarea unui filtru va afișa membrii grupului Butoane multimedia."
+msgstr "Durch Anwenden eines Filters werden die Mitglieder der Gruppe „Multimedia-Schaltflächen“ angezeigt."
 
 msgid "Показать «Аудио микшер»"
-msgstr "Afișați „Mixer audio”"
+msgstr "„Audiomixer“ anzeigen"
 
 msgid "Фильтровать по группе «Аудио микшер»"
-msgstr "Filtrați după grupul „Mixer audio”."
+msgstr "Filtern Sie nach der Gruppe „Audiomixer“."
 
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
-msgstr "Aplicarea unui filtru va afișa membrii grupului Mixer audio."
+msgstr "Durch Anwenden eines Filters werden die Mitglieder der Audio-Mixer-Gruppe angezeigt."
 
 msgid "Показать «Умный дом»"
-msgstr "Afișați „Acasă inteligentă”"
+msgstr "„Smart Home“ anzeigen"
 
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "Filtrați după grupul „Smart Home”."
+msgstr "Filtern Sie nach der Gruppe „Smart Home“."
 
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr "Aplicarea unui filtru va afișa membrii grupului Smart Home."
+msgstr "Durch Anwenden eines Filters werden die Mitglieder der Smart Home-Gruppe angezeigt."
 
 msgid "Тип фильтра"
-msgstr "Tip filtru"
+msgstr "Filter Typ"
 
 msgid "Установка типа применяемых фильтров"
-msgstr "Setarea tipului de filtre de aplicat"
+msgstr "Festlegen der Art der anzuwendenden Filter"
 
 msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
-msgstr "Tipurile de filtre utilizate au două stări logice: „ȘI”, „SAU”."
+msgstr "Die verwendeten Filtertypen haben zwei logische Zustände: „AND“, „OR“."
 
 msgid "Выбор типа фильтрации"
-msgstr "Selectarea unui tip de filtru"
+msgstr "Auswählen eines Filtertyps"
 
 msgid "Показывать любые совпадения"
-msgstr "Afișați orice potrivire"
+msgstr "Alle Übereinstimmungen anzeigen"
 
 msgid "Показывать записи с любым совпадением"
-msgstr "Afișați intrările cu orice potrivire"
+msgstr "Einträge mit beliebiger Übereinstimmung anzeigen"
 
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
-msgstr "Filtrul are o stare logică AND și arată orice potrivire."
+msgstr "Der Filter hat einen logischen UND-Zustand und zeigt alle Übereinstimmungen an."
 
 msgid "Показывать только полные совпадения"
-msgstr "Afișați numai potriviri complete"
+msgstr "Nur vollständige Übereinstimmungen anzeigen"
 
 msgid "Показывать записи только с полным совпадением"
-msgstr "Afișați numai înregistrările cu potriviri exacte"
+msgstr "Nur Datensätze mit exakten Übereinstimmungen anzeigen"
 
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
-msgstr "Filtrul are o stare logică SAU și arată doar potriviri complete."
+msgstr "Der Filter hat einen logischen ODER-Zustand und zeigt nur vollständige Übereinstimmungen an."
 
 msgid "Авто отправка данных в фильтре"
-msgstr "Trimiterea automată a datelor în filtru"
+msgstr "Automatisches Senden von Daten im Filter"
 
 msgid "Авто отправка вводимых значений в фильтре"
-msgstr "Trimiterea automată a valorilor introduse în filtru"
+msgstr "Automatisches Senden der eingegebenen Werte im Filter"
 
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
-msgstr "Trimite automat valorile de intrare într-un filtru încorporat."
+msgstr "Übermittelt Eingabewerte automatisch an einen integrierten Filter."
 
 msgid "Показать сортировку"
-msgstr "Afișează sortarea"
+msgstr "Sortierung anzeigen"
 
 msgid "по ключу"
-msgstr "prin cheie"
+msgstr "per Schlüssel"
 
 msgid "Сортировка по возрастанию и MIDI ключу."
-msgstr "Sortați după tasta ascendentă și MIDI."
+msgstr "Sortierung nach aufsteigender Reihenfolge und MIDI-Taste."
 
 msgid "по сцене"
-msgstr "în jurul scenei"
+msgstr "rund um die Bühne"
 
 msgid "Сортировка по возрастанию и MIDI сцене."
-msgstr "Sortare după scenă ascendentă și MIDI."
+msgstr "Sortierung nach aufsteigender Reihenfolge und MIDI-Szene."
 
 msgid "по назначению 1"
-msgstr "cu programare 1"
+msgstr "nach Vereinbarung 1"
 
 msgid "Сортировка по возрастанию и MIDI назначению 1."
-msgstr "Sortați după creșterea și destinația MIDI 1."
+msgstr "Sortierung nach aufsteigender Reihenfolge und MIDI-Ziel 1."
 
 msgid "по назначению 2"
-msgstr "cu programare 2"
+msgstr "nach Vereinbarung 2"
 
 msgid "Сортировка по возрастанию и MIDI назначению 2."
-msgstr "Sortare crescător și destinație MIDI 2."
+msgstr "Sortierung nach aufsteigender Reihenfolge und MIDI-Ziel 2."
 
 msgid "Сортировка по убыванию и MIDI ключу."
-msgstr "Sortați după tasta descendentă și MIDI."
+msgstr "Sortierung nach absteigender Reihenfolge und MIDI-Taste."
 
 msgid "Сортировка по убыванию и MIDI сцене."
-msgstr "Sortare după ordine descrescătoare și scena MIDI."
+msgstr "Sortierung nach absteigender Reihenfolge und MIDI-Szene."
 
 msgid "Сортировка по убыванию и MIDI назначению 1."
-msgstr "Sortarea după ordine descrescătoare și destinația MIDI 1."
+msgstr "Sortierung nach absteigender Reihenfolge und MIDI-Ziel 1."
 
 msgid "Сортировка по убыванию и MIDI назначению 2."
-msgstr "Sortare după ordine descrescătoare și destinație MIDI 2."
+msgstr "Sortierung nach absteigender Reihenfolge und MIDI-Ziel 2."

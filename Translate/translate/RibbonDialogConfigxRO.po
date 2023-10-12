@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-10 07:53+0300\n"
+"POT-Creation-Date: 2023-10-12 08:21+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,343 +12,343 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.10.0\n"
 
 msgid "Последние файлы:"
-msgstr "Seneste filer:"
+msgstr "Ultimele fișiere:"
 
 msgid "Редактирование"
-msgstr "Redigering"
+msgstr "Editare"
 
 msgid "Фильтры"
 msgstr "Filtre"
 
 msgid "редактировать MIDI ключ"
-msgstr "rediger MIDI-tasten"
+msgstr "editați tasta MIDI"
 
 msgid "установить MIDI ключ как.."
-msgstr "indstil MIDI-nøgle som..."
+msgstr "setați tasta MIDI ca..."
 
 msgid "параметры редактора"
-msgstr "redigeringsmuligheder"
+msgstr "opțiunile editorului"
 
 msgid "выбор фильтров просмотра"
-msgstr "valg af visningsfiltre"
+msgstr "selectarea filtrelor de vizualizare"
 
 msgid "сортировка"
-msgstr "sortering"
+msgstr "triere"
 
 msgid "&Меню"
-msgstr "&Menu"
+msgstr "&Meniul"
 
 msgid "Меню приложения"
-msgstr "Applikationsmenu"
+msgstr "Meniul aplicației"
 
 msgid "&Быстрый доступ"
-msgstr "&Hurtig adgang"
+msgstr "&Acces rapid"
 
 msgid "Панель быстрого доступа"
-msgstr "Hurtig adgang værktøjslinje"
+msgstr "Bara de acces rapid"
 
 msgid "&Сохранить"
-msgstr "&Gemme"
+msgstr "&Salva"
 
 msgid "Сохранить и применить"
-msgstr "Gem og anvend"
+msgstr "Salvați și aplicați"
 
 msgid "Сохранить в загруженный ранее файл и обновить текущую конфигурацию."
-msgstr "Gem i den tidligere downloadede fil, og opdater den aktuelle konfiguration."
+msgstr "Salvați în fișierul descărcat anterior și actualizați configurația curentă."
 
 msgid "&Экспорт"
-msgstr "&Eksport"
+msgstr "&Export"
 
 msgid "Экспорт в новый файл"
-msgstr "Eksporter til en ny fil"
+msgstr "Exportați într-un fișier nou"
 
 msgid "Экспортировать отредактированную конфигурацию в новый файл."
-msgstr "Eksporter den redigerede konfiguration til en ny fil."
+msgstr "Exportați configurația editată într-un fișier nou."
 
 msgid "&Импорт"
-msgstr "&Importere"
+msgstr "&Import"
 
 msgid "Импорт из файла"
-msgstr "Importer fra fil"
+msgstr "Import din fișier"
 
 msgid "Импортировать конфигурацию из файла."
-msgstr "Importer konfiguration fra fil."
+msgstr "Importați configurația din fișier."
 
 msgid "&Выход"
-msgstr "&Afslut"
+msgstr "&Ieșire"
 
 msgid "Выход из редактора"
-msgstr "Afslut editor"
+msgstr "Ieșiți din editor"
 
 msgid "Выход из редактора конфигурации MIDI ключей, если изменения не сохранены, они будут утеряны."
-msgstr "Forlader MIDI Key Configuration Editor; hvis ændringer ikke gemmes, vil de gå tabt."
+msgstr "Iese din Editorul de configurare a tastelor MIDI; dacă modificările nu sunt salvate, acestea se vor pierde."
 
 msgid "&Новый MIDI ключ"
-msgstr "&Ny MIDI-nøgle"
+msgstr "&Tasta MIDI nouă"
 
 msgid "Новый MIDI ключ"
-msgstr "Ny MIDI key"
+msgstr "Tasta MIDI nouă"
 
 msgid "Создание нового MIDI ключа."
-msgstr "Oprettelse af en ny MIDI-nøgle."
+msgstr "Crearea unei noi chei MIDI."
 
 msgid "&Копировать"
-msgstr "&Kopi"
+msgstr "&Copie"
 
 msgid "Копировать MIDI ключ"
-msgstr "Kopier MIDI-nøgle"
+msgstr "Copiați cheia MIDI"
 
 msgid "Скопировать выбранную запись MIDI ключа."
-msgstr "Kopier den valgte MIDI key-indgang."
+msgstr "Copiați intrarea selectată a tastei MIDI."
 
 msgid "&Вставить"
-msgstr "&Indsæt"
+msgstr "&Introduce"
 
 msgid "Вставить ключ"
-msgstr "Indsæt nøgle"
+msgstr "Introduceți cheia"
 
 msgid "Вставить скопированный MIDI ключ."
-msgstr "Indsæt den kopierede MIDI-nøgle."
+msgstr "Lipiți cheia MIDI copiată."
 
 msgid "&Удалить"
-msgstr "&Slet"
+msgstr "&Șterge"
 
 msgid "Удалить ключ"
-msgstr "Slet nøgle"
+msgstr "Șterge cheia"
 
 msgid "Удалить выбранную запись MIDI ключа."
-msgstr "Slet den valgte MIDI key-indgang."
+msgstr "Ștergeți intrarea selectată a tastei MIDI."
 
 msgid "Умный дом"
-msgstr "Smart hus"
+msgstr "Casa inteligentă"
 
 msgid "Установить группу как «Умный дом»."
-msgstr "Indstil gruppen som \"Smart Home\"."
+msgstr "Setați grupul ca „Smart Home”."
 
 msgid "Назначить выбранный MIDI ключ к группе «Умный дом»."
-msgstr "Tildel den valgte MIDI-key til \"Smart Home\"-gruppen."
+msgstr "Atribuiți cheia MIDI selectată grupului „Smart Home”."
 
 msgid "Мультимедиа кнопки"
-msgstr "Multimedieknapper"
+msgstr "Butoane multimedia"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Indstil gruppen som \"Multimedieknapper\""
+msgstr "Setați grupul ca „Butoane multimedia”"
 
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
-msgstr "Tildel den valgte MIDI-key til gruppen \"Multimedia Buttons\"."
+msgstr "Atribuiți cheia MIDI selectată grupului „Butoane multimedia”."
 
 msgid "Аудио микшер"
-msgstr "Audio mixer"
+msgstr "Mixer audio"
 
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Indstil gruppe som \"Audio Mixer\""
+msgstr "Setați grupul ca „Mixer audio”"
 
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
-msgstr "Tildel den valgte MIDI-key til \"Audio Mixer\"-gruppen."
+msgstr "Atribuiți cheia MIDI selectată grupului „Audio Mixer”."
 
 msgid "Читать MIDI код"
-msgstr "Læs MIDI-koden"
+msgstr "Citiți codul MIDI"
 
 msgid "Прочесть MIDI код контрола"
-msgstr "Læs MIDI-kontrolkode"
+msgstr "Citiți codul de control MIDI"
 
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
-msgstr "Læs MIDI-kode fra en kontroloverflade eller MIDI-keyboard."
+msgstr "Citiți codul MIDI de pe o suprafață de control sau de pe o tastatură MIDI."
 
 msgid "Только цифровой ввод"
-msgstr "Kun digital indgang"
+msgstr "Doar intrare digitală"
 
 msgid "Использовать только цифровой ввод"
-msgstr "Brug kun digital indgang"
+msgstr "Utilizați numai intrarea digitală"
 
 msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
-msgstr "Brug ikke værdivalgsmenuen, brug kun digital input."
+msgstr "Nu utilizați meniul de selectare a valorii, utilizați numai intrarea digitală."
 
 msgid "MIDI панель управления"
-msgstr "MIDI kontrolpanel"
+msgstr "Panou de control MIDI"
 
 msgid "Рекомендуемые настройки"
-msgstr "Anbefalede indstillinger"
+msgstr "Setări recomandate"
 
 msgid "Рекомендуемые настройки панели управления MIDI, совместимые с элементами управления Adobe Premiere Pro."
-msgstr "Anbefalede MIDI-kontrolpanelindstillinger, der er kompatible med Adobe Premiere Pro-kontroller."
+msgstr "Setări recomandate pentru panoul de control MIDI compatibile cu comenzile Adobe Premiere Pro."
 
 msgid "Встроенные фильтры"
-msgstr "Indbyggede filtre"
+msgstr "Filtre încorporate"
 
 msgid "Ключ"
-msgstr "Nøgle"
+msgstr "Cheie"
 
 msgid "Фильтровать по MIDI ключу"
-msgstr "Filtrer efter MIDI-nøgle"
+msgstr "Filtrați după tasta MIDI"
 
 msgid "Показывать только совпадения в группе MIDI ключей."
-msgstr "Vis kun kampe inden for en MIDI-nøglegruppe."
+msgstr "Afișați numai potrivirile dintr-un grup de taste MIDI."
 
 msgid "Сцена"
-msgstr "Scene"
+msgstr "Scenă"
 
 msgid "Фильтровать по MIDI сцене"
-msgstr "Filtrer efter MIDI-scene"
+msgstr "Filtrați după scena MIDI"
 
 msgid "Показывать только совпадения в группе MIDI сцены."
-msgstr "Vis kun matches i MIDI-scenegruppen."
+msgstr "Afișați numai potrivirile din grupul de scene MIDI."
 
 msgid "Назначение 1"
-msgstr "Formål 1"
+msgstr "Scopul 1"
 
 msgid "Фильтровать по назначению 1"
-msgstr "Filtrer efter destination 1"
+msgstr "Filtrați după destinație 1"
 
 msgid "Показывать только совпадения в группе по целевому назначению 1."
-msgstr "Vis kun kampe i målgruppe 1."
+msgstr "Afișați numai meciurile din grupul țintă 1."
 
 msgid "Назначение 2"
-msgstr "Formål 2"
+msgstr "Scopul 2"
 
 msgid "Фильтровать по назначению 2"
-msgstr "Filtrer efter destination 2"
+msgstr "Filtrați după destinație 2"
 
 msgid "Показывать только совпадения в группе по целевому назначению 2."
-msgstr "Vis kun kampe i målgruppe 2."
+msgstr "Afișați numai meciurile din grupul țintă 2."
 
 msgid "Очистить фильтры"
-msgstr "Ryd filtre"
+msgstr "Ștergeți filtrele"
 
 msgid "Очистка фильтров"
-msgstr "Rengøring af filtre"
+msgstr "Curățarea filtrelor"
 
 msgid "Полная очистка фильтров, будут показаны все записи."
-msgstr "Ryd filtrene fuldstændigt, alle poster vil blive vist."
+msgstr "Ștergeți complet filtrele, toate intrările vor fi afișate."
 
 msgid "Установить фильтр"
-msgstr "Indstil filter"
+msgstr "Setați filtrul"
 
 msgid "Установка фильтра"
-msgstr "Installation af filter"
+msgstr "Instalarea filtrului"
 
 msgid "Установка фильтра показывает все недействительные элементы."
-msgstr "Indstilling af filteret viser alle ugyldige elementer."
+msgstr "Setarea filtrului afișează toate elementele nevalide."
 
 msgid "Применить фильтр"
-msgstr "Anvend filter"
+msgstr "Aplica filtru"
 
 msgid "Применение фильтра"
-msgstr "Anvendelse af et filter"
+msgstr "Aplicarea unui filtru"
 
 msgid "Применение фильтра показывает выбранные элементы."
-msgstr "Anvendelse af et filter viser de valgte elementer."
+msgstr "Aplicarea unui filtru afișează elementele selectate."
 
 msgid "Отменить фильтр"
-msgstr "Annuller filter"
+msgstr "Anulează filtrul"
 
 msgid "Отмена фильтра"
-msgstr "Annuller filter"
+msgstr "Anulează filtrul"
 
 msgid "Отмена фильтра покажет все элементы."
-msgstr "Annullering af filteret vil vise alle elementer."
+msgstr "Anularea filtrului va afișa toate elementele."
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Vis \"Multimedieknapper\""
+msgstr "Afișați „Butoanele multimedia”"
 
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr "Filtrer efter gruppen \"Multimedieknapper\"."
+msgstr "Filtrați după grupul „Butoane multimedia”."
 
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
-msgstr "Anvendelse af et filter vil vise medlemmerne af gruppen Multimedieknapper."
+msgstr "Aplicarea unui filtru va afișa membrii grupului Butoane multimedia."
 
 msgid "Показать «Аудио микшер»"
-msgstr "Vis \"Audio Mixer\""
+msgstr "Afișați „Mixer audio”"
 
 msgid "Фильтровать по группе «Аудио микшер»"
-msgstr "Filtrer efter \"Audio Mixer\" gruppe"
+msgstr "Filtrați după grupul „Mixer audio”."
 
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
-msgstr "Anvendelse af et filter vil vise medlemmerne af Audio Mixer-gruppen."
+msgstr "Aplicarea unui filtru va afișa membrii grupului Mixer audio."
 
 msgid "Показать «Умный дом»"
-msgstr "Vis \"Smart Home\""
+msgstr "Afișați „Acasă inteligentă”"
 
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "Filtrer efter \"Smart Home\"-gruppe"
+msgstr "Filtrați după grupul „Smart Home”."
 
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr "Anvendelse af et filter vil vise medlemmerne af Smart Home-gruppen."
+msgstr "Aplicarea unui filtru va afișa membrii grupului Smart Home."
 
 msgid "Тип фильтра"
-msgstr "Filtertype"
+msgstr "Tip filtru"
 
 msgid "Установка типа применяемых фильтров"
-msgstr "Indstilling af typen af ​​filtre, der skal anvendes"
+msgstr "Setarea tipului de filtre de aplicat"
 
 msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
-msgstr "De anvendte filtre har to logiske tilstande: \"OG\", \"ELLER\"."
+msgstr "Tipurile de filtre utilizate au două stări logice: „ȘI”, „SAU”."
 
 msgid "Выбор типа фильтрации"
-msgstr "Valg af filtertype"
+msgstr "Selectarea unui tip de filtru"
 
 msgid "Показывать любые совпадения"
-msgstr "Vis eventuelle kampe"
+msgstr "Afișați orice potrivire"
 
 msgid "Показывать записи с любым совпадением"
-msgstr "Vis indlæg med ethvert match"
+msgstr "Afișați intrările cu orice potrivire"
 
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
-msgstr "Filteret har en logisk OG-tilstand og viser eventuelle matchninger."
+msgstr "Filtrul are o stare logică AND și arată orice potrivire."
 
 msgid "Показывать только полные совпадения"
-msgstr "Vis kun komplette kampe"
+msgstr "Afișați numai potriviri complete"
 
 msgid "Показывать записи только с полным совпадением"
-msgstr "Vis kun poster med nøjagtige match"
+msgstr "Afișați numai înregistrările cu potriviri exacte"
 
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
-msgstr "Filteret har en logisk ELLER-tilstand og viser kun komplette matcher."
+msgstr "Filtrul are o stare logică SAU și arată doar potriviri complete."
 
 msgid "Авто отправка данных в фильтре"
-msgstr "Automatisk afsendelse af data i filteret"
+msgstr "Trimiterea automată a datelor în filtru"
 
 msgid "Авто отправка вводимых значений в фильтре"
-msgstr "Automatisk afsendelse af indtastede værdier i filteret"
+msgstr "Trimiterea automată a valorilor introduse în filtru"
 
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
-msgstr "Indsender automatisk inputværdier i et indbygget filter."
+msgstr "Trimite automat valorile de intrare într-un filtru încorporat."
 
 msgid "Показать сортировку"
-msgstr "Vis sortering"
+msgstr "Afișează sortarea"
 
 msgid "по ключу"
-msgstr "med nøgle"
+msgstr "prin cheie"
 
 msgid "Сортировка по возрастанию и MIDI ключу."
-msgstr "Sorter efter stigende og MIDI-tast."
+msgstr "Sortați după tasta ascendentă și MIDI."
 
 msgid "по сцене"
-msgstr "rundt på scenen"
+msgstr "în jurul scenei"
 
 msgid "Сортировка по возрастанию и MIDI сцене."
-msgstr "Sortering efter stigende og MIDI-scene."
+msgstr "Sortare după scenă ascendentă și MIDI."
 
 msgid "по назначению 1"
-msgstr "efter aftale 1"
+msgstr "cu programare 1"
 
 msgid "Сортировка по возрастанию и MIDI назначению 1."
-msgstr "Sorter efter stigende og MIDI-destination 1."
+msgstr "Sortați după creșterea și destinația MIDI 1."
 
 msgid "по назначению 2"
-msgstr "efter aftale 2"
+msgstr "cu programare 2"
 
 msgid "Сортировка по возрастанию и MIDI назначению 2."
-msgstr "Sortering efter stigende og MIDI-destination 2."
+msgstr "Sortare crescător și destinație MIDI 2."
 
 msgid "Сортировка по убыванию и MIDI ключу."
-msgstr "Sortering efter faldende og MIDI-tast."
+msgstr "Sortați după tasta descendentă și MIDI."
 
 msgid "Сортировка по убыванию и MIDI сцене."
-msgstr "Sortering efter faldende rækkefølge og MIDI-scene."
+msgstr "Sortare după ordine descrescătoare și scena MIDI."
 
 msgid "Сортировка по убыванию и MIDI назначению 1."
-msgstr "Sortering efter faldende rækkefølge og MIDI-destination 1."
+msgstr "Sortarea după ordine descrescătoare și destinația MIDI 1."
 
 msgid "Сортировка по убыванию и MIDI назначению 2."
-msgstr "Sortering efter faldende rækkefølge og MIDI-destination 2."
+msgstr "Sortare după ordine descrescătoare și destinație MIDI 2."

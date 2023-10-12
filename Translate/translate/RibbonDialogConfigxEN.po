@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-10 07:53+0300\n"
+"POT-Creation-Date: 2023-10-12 08:21+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,343 +12,343 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.10.0\n"
 
 msgid "Последние файлы:"
-msgstr "Laatste bestanden:"
+msgstr "Latest files:"
 
 msgid "Редактирование"
-msgstr "Bewerken"
+msgstr "Editing"
 
 msgid "Фильтры"
 msgstr "Filters"
 
 msgid "редактировать MIDI ключ"
-msgstr "MIDI-sleutel bewerken"
+msgstr "edit MIDI key"
 
 msgid "установить MIDI ключ как.."
-msgstr "stel de MIDI-sleutel in als..."
+msgstr "set MIDI key as..."
 
 msgid "параметры редактора"
-msgstr "editor opties"
+msgstr "editor options"
 
 msgid "выбор фильтров просмотра"
-msgstr "selectie van weergavefilters"
+msgstr "selection of viewing filters"
 
 msgid "сортировка"
-msgstr "sorteren"
+msgstr "sorting"
 
 msgid "&Меню"
 msgstr "&Menu"
 
 msgid "Меню приложения"
-msgstr "Applicatiemenu"
+msgstr "Application menu"
 
 msgid "&Быстрый доступ"
-msgstr "&Snelle toegang"
+msgstr "&Fast access"
 
 msgid "Панель быстрого доступа"
-msgstr "Werkbalk Snelle toegang"
+msgstr "Quick Access Toolbar"
 
 msgid "&Сохранить"
-msgstr "&Redden"
+msgstr "&Save"
 
 msgid "Сохранить и применить"
-msgstr "Opslaan en toepassen"
+msgstr "Save and Apply"
 
 msgid "Сохранить в загруженный ранее файл и обновить текущую конфигурацию."
-msgstr "Sla het bestand op in het eerder gedownloade bestand en update de huidige configuratie."
+msgstr "Save to the previously downloaded file and update the current configuration."
 
 msgid "&Экспорт"
-msgstr "&Exporteren"
+msgstr "&Export"
 
 msgid "Экспорт в новый файл"
-msgstr "Exporteren naar een nieuw bestand"
+msgstr "Export to a new file"
 
 msgid "Экспортировать отредактированную конфигурацию в новый файл."
-msgstr "Exporteer de bewerkte configuratie naar een nieuw bestand."
+msgstr "Export the edited configuration to a new file."
 
 msgid "&Импорт"
-msgstr "&Importeren"
+msgstr "&Import"
 
 msgid "Импорт из файла"
-msgstr "Importeren uit bestand"
+msgstr "Import from file"
 
 msgid "Импортировать конфигурацию из файла."
-msgstr "Configuratie uit bestand importeren."
+msgstr "Import configuration from file."
 
 msgid "&Выход"
-msgstr "&Uitgang"
+msgstr "&Exit"
 
 msgid "Выход из редактора"
-msgstr "Verlaat de editor"
+msgstr "Exit editor"
 
 msgid "Выход из редактора конфигурации MIDI ключей, если изменения не сохранены, они будут утеряны."
-msgstr "Sluit de MIDI Key Configuration Editor af; als de wijzigingen niet worden opgeslagen, gaan ze verloren."
+msgstr "Exits the MIDI Key Configuration Editor; if changes are not saved, they will be lost."
 
 msgid "&Новый MIDI ключ"
-msgstr "&Nieuwe MIDI-sleutel"
+msgstr "&New MIDI key"
 
 msgid "Новый MIDI ключ"
-msgstr "Nieuwe MIDI-sleutel"
+msgstr "New MIDI key"
 
 msgid "Создание нового MIDI ключа."
-msgstr "Een nieuwe MIDI-sleutel maken."
+msgstr "Creating a new MIDI key."
 
 msgid "&Копировать"
-msgstr "&Kopiëren"
+msgstr "&Copy"
 
 msgid "Копировать MIDI ключ"
-msgstr "Kopieer MIDI-sleutel"
+msgstr "Copy MIDI key"
 
 msgid "Скопировать выбранную запись MIDI ключа."
-msgstr "Kopieer de geselecteerde MIDI-sleutelinvoer."
+msgstr "Copy the selected MIDI key entry."
 
 msgid "&Вставить"
-msgstr "&Invoegen"
+msgstr "&Insert"
 
 msgid "Вставить ключ"
-msgstr "Sleutel insteken"
+msgstr "Insert key"
 
 msgid "Вставить скопированный MIDI ключ."
-msgstr "Plak de gekopieerde MIDI-sleutel."
+msgstr "Paste the copied MIDI key."
 
 msgid "&Удалить"
-msgstr "&Verwijderen"
+msgstr "&Delete"
 
 msgid "Удалить ключ"
-msgstr "Sleutel verwijderen"
+msgstr "Delete key"
 
 msgid "Удалить выбранную запись MIDI ключа."
-msgstr "Verwijder de geselecteerde MIDI-toetsinvoer."
+msgstr "Delete the selected MIDI key entry."
 
 msgid "Умный дом"
-msgstr "Slim huis"
+msgstr "Smart House"
 
 msgid "Установить группу как «Умный дом»."
-msgstr "Stel de groep in als “Smart Home”."
+msgstr "Set the group as “Smart Home”."
 
 msgid "Назначить выбранный MIDI ключ к группе «Умный дом»."
-msgstr "Wijs de geselecteerde MIDI-toets toe aan de ‘Smart Home’-groep."
+msgstr "Assign the selected MIDI key to the “Smart Home” group."
 
 msgid "Мультимедиа кнопки"
-msgstr "Multimediaknoppen"
+msgstr "Multimedia buttons"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Stel de groep in als 'Multimediaknoppen'"
+msgstr "Set the group as \"Multimedia Buttons\""
 
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
-msgstr "Wijs de geselecteerde MIDI-toets toe aan de groep 'Multimedia Buttons'."
+msgstr "Assign the selected MIDI key to the “Multimedia Buttons” group."
 
 msgid "Аудио микшер"
-msgstr "Audiomixer"
+msgstr "Audio mixer"
 
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Groep instellen als \"Audiomixer\""
+msgstr "Set group as \"Audio Mixer\""
 
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
-msgstr "Wijs de geselecteerde MIDI-toets toe aan de groep 'Audio Mixer'."
+msgstr "Assign the selected MIDI key to the “Audio Mixer” group."
 
 msgid "Читать MIDI код"
-msgstr "MIDI-code lezen"
+msgstr "Read MIDI code"
 
 msgid "Прочесть MIDI код контрола"
-msgstr "MIDI-besturingscode lezen"
+msgstr "Read MIDI control code"
 
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
-msgstr "Lees MIDI-code van een bedieningsoppervlak of MIDI-toetsenbord."
+msgstr "Read MIDI code from a control surface or MIDI keyboard."
 
 msgid "Только цифровой ввод"
-msgstr "Alleen digitale ingang"
+msgstr "Digital input only"
 
 msgid "Использовать только цифровой ввод"
-msgstr "Gebruik alleen digitale ingang"
+msgstr "Use digital input only"
 
 msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
-msgstr "Gebruik niet het waardeselectiemenu, gebruik alleen digitale ingang."
+msgstr "Do not use the value selection menu, use digital input only."
 
 msgid "MIDI панель управления"
-msgstr "MIDI-bedieningspaneel"
+msgstr "MIDI control panel"
 
 msgid "Рекомендуемые настройки"
-msgstr "Aanbevolen instellingen"
+msgstr "Recommended Settings"
 
 msgid "Рекомендуемые настройки панели управления MIDI, совместимые с элементами управления Adobe Premiere Pro."
-msgstr "Aanbevolen MIDI-configuratiescherminstellingen die compatibel zijn met Adobe Premiere Pro-besturingselementen."
+msgstr "Recommended MIDI control panel settings compatible with Adobe Premiere Pro controls."
 
 msgid "Встроенные фильтры"
-msgstr "Ingebouwde filters"
+msgstr "Built-in filters"
 
 msgid "Ключ"
-msgstr "Sleutel"
+msgstr "Key"
 
 msgid "Фильтровать по MIDI ключу"
-msgstr "Filter op MIDI-sleutel"
+msgstr "Filter by MIDI key"
 
 msgid "Показывать только совпадения в группе MIDI ключей."
-msgstr "Toon alleen overeenkomsten binnen een MIDI-sleutelgroep."
+msgstr "Show only matches within a MIDI key group."
 
 msgid "Сцена"
-msgstr "Tafereel"
+msgstr "Scene"
 
 msgid "Фильтровать по MIDI сцене"
-msgstr "Filter op MIDI-scène"
+msgstr "Filter by MIDI scene"
 
 msgid "Показывать только совпадения в группе MIDI сцены."
-msgstr "Toon alleen overeenkomsten in de MIDI-scènegroep."
+msgstr "Show only matches in the MIDI scene group."
 
 msgid "Назначение 1"
-msgstr "Doel 1"
+msgstr "Purpose 1"
 
 msgid "Фильтровать по назначению 1"
-msgstr "Filter op bestemming 1"
+msgstr "Filter by destination 1"
 
 msgid "Показывать только совпадения в группе по целевому назначению 1."
-msgstr "Toon alleen matches in de doelgroep 1."
+msgstr "Show only matches in the target group 1."
 
 msgid "Назначение 2"
-msgstr "Doel 2"
+msgstr "Purpose 2"
 
 msgid "Фильтровать по назначению 2"
-msgstr "Filter op bestemming 2"
+msgstr "Filter by destination 2"
 
 msgid "Показывать только совпадения в группе по целевому назначению 2."
-msgstr "Toon alleen matches in de doelgroep 2."
+msgstr "Show only matches in the target group 2."
 
 msgid "Очистить фильтры"
-msgstr "Wis filters"
+msgstr "Clear filters"
 
 msgid "Очистка фильтров"
-msgstr "Filters reinigen"
+msgstr "Cleaning filters"
 
 msgid "Полная очистка фильтров, будут показаны все записи."
-msgstr "Volledig duidelijke filters, alle vermeldingen worden getoond."
+msgstr "Completely clear filters, all entries will be shown."
 
 msgid "Установить фильтр"
-msgstr "Filter instellen"
+msgstr "Set filter"
 
 msgid "Установка фильтра"
-msgstr "Filterinstallatie"
+msgstr "Filter installation"
 
 msgid "Установка фильтра показывает все недействительные элементы."
-msgstr "Als u het filter instelt, worden alle ongeldige items weergegeven."
+msgstr "Setting the filter shows all invalid items."
 
 msgid "Применить фильтр"
-msgstr "Voeg filter toe"
+msgstr "Apply filter"
 
 msgid "Применение фильтра"
-msgstr "Een filter toepassen"
+msgstr "Applying a filter"
 
 msgid "Применение фильтра показывает выбранные элементы."
-msgstr "Als u een filter toepast, worden de geselecteerde items weergegeven."
+msgstr "Applying a filter shows the selected items."
 
 msgid "Отменить фильтр"
-msgstr "Filter annuleren"
+msgstr "Cancel filter"
 
 msgid "Отмена фильтра"
-msgstr "Filter annuleren"
+msgstr "Cancel filter"
 
 msgid "Отмена фильтра покажет все элементы."
-msgstr "Als u het filter annuleert, worden alle elementen weergegeven."
+msgstr "Canceling the filter will show all items."
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Toon \"Multimediaknoppen\""
+msgstr "Show \"Multimedia Buttons\""
 
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr "Filter op de groep “Multimediaknoppen”."
+msgstr "Filter by “Multimedia buttons” group"
 
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
-msgstr "Als u een filter toepast, worden de leden van de groep Multimediaknoppen weergegeven."
+msgstr "Applying a filter will show the members of the Multimedia Buttons group."
 
 msgid "Показать «Аудио микшер»"
-msgstr "Toon \"Audiomixer\""
+msgstr "Show \"Audio Mixer\""
 
 msgid "Фильтровать по группе «Аудио микшер»"
-msgstr "Filter op de groep “Audiomixer”."
+msgstr "Filter by “Audio Mixer” group"
 
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
-msgstr "Als u een filter toepast, worden de leden van de Audio Mixer-groep weergegeven."
+msgstr "Applying a filter will show the members of the Audio Mixer group."
 
 msgid "Показать «Умный дом»"
-msgstr "Toon \"Smart Home\""
+msgstr "Show \"Smart Home\""
 
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "Filter op ‘Smart Home’-groep"
+msgstr "Filter by “Smart Home” group"
 
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr "Als u een filter toepast, worden de leden van de Smart Home-groep weergegeven."
+msgstr "Applying a filter will show the members of the Smart Home group."
 
 msgid "Тип фильтра"
-msgstr "Filtertype"
+msgstr "Filter type"
 
 msgid "Установка типа применяемых фильтров"
-msgstr "Het type filters instellen dat moet worden toegepast"
+msgstr "Setting the type of filters to apply"
 
 msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
-msgstr "De gebruikte typen filters hebben twee logische statussen: “AND”, “OR”."
+msgstr "The types of filters used have two logical states: “AND”, “OR”."
 
 msgid "Выбор типа фильтрации"
-msgstr "Een filtertype selecteren"
+msgstr "Selecting a filter type"
 
 msgid "Показывать любые совпадения"
-msgstr "Toon eventuele overeenkomsten"
+msgstr "Show any matches"
 
 msgid "Показывать записи с любым совпадением"
-msgstr "Toon inzendingen met elke match"
+msgstr "Show entries with any match"
 
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
-msgstr "Het filter heeft een logische EN-status en toont eventuele overeenkomsten."
+msgstr "The filter has a logical AND state and shows any matches."
 
 msgid "Показывать только полные совпадения"
-msgstr "Toon alleen volledige overeenkomsten"
+msgstr "Show only complete matches"
 
 msgid "Показывать записи только с полным совпадением"
-msgstr "Toon alleen records met exacte overeenkomsten"
+msgstr "Show records with exact matches only"
 
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
-msgstr "Het filter heeft een logische OR-status en toont alleen volledige overeenkomsten."
+msgstr "The filter has a logical OR state and shows only complete matches."
 
 msgid "Авто отправка данных в фильтре"
-msgstr "Automatisch verzenden van gegevens in het filter"
+msgstr "Automatic sending of data in the filter"
 
 msgid "Авто отправка вводимых значений в фильтре"
-msgstr "Automatisch verzenden van ingevoerde waarden in het filter"
+msgstr "Automatic sending of entered values ​​in the filter"
 
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
-msgstr "Verzendt automatisch invoerwaarden in een ingebouwd filter."
+msgstr "Automatically submits input values ​​in a built-in filter."
 
 msgid "Показать сортировку"
-msgstr "Sortering weergeven"
+msgstr "Show sorting"
 
 msgid "по ключу"
-msgstr "per sleutel"
+msgstr "by key"
 
 msgid "Сортировка по возрастанию и MIDI ключу."
-msgstr "Sorteer op oplopend en MIDI-sleutel."
+msgstr "Sort by ascending and MIDI key."
 
 msgid "по сцене"
-msgstr "rond het podium"
+msgstr "around the stage"
 
 msgid "Сортировка по возрастанию и MIDI сцене."
-msgstr "Sorteren op oplopend en MIDI-scène."
+msgstr "Sorting by ascending and MIDI scene."
 
 msgid "по назначению 1"
-msgstr "op afspraak 1"
+msgstr "by appointment 1"
 
 msgid "Сортировка по возрастанию и MIDI назначению 1."
-msgstr "Sorteer op oplopend en MIDI-bestemming 1."
+msgstr "Sorting by ascending and MIDI destination 1."
 
 msgid "по назначению 2"
-msgstr "op afspraak 2"
+msgstr "by appointment 2"
 
 msgid "Сортировка по возрастанию и MIDI назначению 2."
-msgstr "Sorteren op oplopend en MIDI-bestemming 2."
+msgstr "Sorting by ascending and MIDI destination 2."
 
 msgid "Сортировка по убыванию и MIDI ключу."
-msgstr "Sorteer op aflopend en MIDI-sleutel."
+msgstr "Sort by descending and MIDI key."
 
 msgid "Сортировка по убыванию и MIDI сцене."
-msgstr "Sorteren op aflopende volgorde en MIDI-scène."
+msgstr "Sorting by descending order and MIDI scene."
 
 msgid "Сортировка по убыванию и MIDI назначению 1."
-msgstr "Sorteren op aflopende volgorde en MIDI-bestemming 1."
+msgstr "Sorting by descending order and MIDI destination 1."
 
 msgid "Сортировка по убыванию и MIDI назначению 2."
-msgstr "Sorteren op aflopende volgorde en MIDI-bestemming 2."
+msgstr "Sorting by descending order and MIDI destination 2."
