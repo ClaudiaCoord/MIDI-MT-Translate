@@ -752,3 +752,27 @@ msgstr ""
 #: MENU.IDR_COL5_SLIDER_MIX_MENU.COL4_SLIDER_MIXER_MENU.MENUITEM.IDM_COL4_XP9
 msgid "канал 18"
 msgstr ""
+
+msgid "&Мониторинг"
+msgstr ""
+
+msgid "&Просмотр лог-файла"
+msgstr ""
+
+msgid "выход"
+msgstr ""
+
+msgid "крупнее"
+msgstr ""
+
+msgid "мельче"
+msgstr ""
+
+msgid "в начало"
+msgstr ""
+
+msgid "в конец"
+msgstr ""
+
+msgid "очистить"
+msgstr ""

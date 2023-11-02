@@ -407,3 +407,6 @@ msgstr ""
 #: DIALOGEX.IDD_FORMCOLOR.CONTROL.IDC_RADIO_MODERN
 msgid "Современный"
 msgstr ""
+
+msgid "Просмотр лог-файла"
+msgstr ""
