@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-12 08:21+0300\n"
+"POT-Creation-Date: 2023-11-03 03:03+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -457,3 +457,27 @@ msgstr "channel 17"
 
 msgid "канал 18"
 msgstr "channel 18"
+
+msgid "&Мониторинг"
+msgstr "&Monitoring"
+
+msgid "&Просмотр лог-файла"
+msgstr "&View log file"
+
+msgid "выход"
+msgstr "exit"
+
+msgid "крупнее"
+msgstr "larger"
+
+msgid "мельче"
+msgstr "smaller"
+
+msgid "в начало"
+msgstr "to the begining"
+
+msgid "в конец"
+msgstr "In the end"
+
+msgid "очистить"
+msgstr "clear"

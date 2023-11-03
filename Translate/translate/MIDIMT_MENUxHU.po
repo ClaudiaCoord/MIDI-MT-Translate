@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-12 08:21+0300\n"
+"POT-Creation-Date: 2023-11-03 03:03+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -457,3 +457,27 @@ msgstr "17-es csatorna"
 
 msgid "канал 18"
 msgstr "18-as csatorna"
+
+msgid "&Мониторинг"
+msgstr "&Monitoring"
+
+msgid "&Просмотр лог-файла"
+msgstr "&Naplófájl megtekintése"
+
+msgid "выход"
+msgstr "kijárat"
+
+msgid "крупнее"
+msgstr "nagyobb"
+
+msgid "мельче"
+msgstr "kisebb"
+
+msgid "в начало"
+msgstr "az elejére"
+
+msgid "в конец"
+msgstr "A végén"
+
+msgid "очистить"
+msgstr "egyértelmű"

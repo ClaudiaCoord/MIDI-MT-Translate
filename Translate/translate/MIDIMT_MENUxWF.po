@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-12 08:21+0300\n"
+"POT-Creation-Date: 2023-11-03 03:03+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -372,7 +372,7 @@ msgid "Баланс.."
 msgstr "Lykwicht.."
 
 msgid "Регуляторы в системе «Умный дом».."
-msgstr "Regulators yn it \"Smart Home\" systeem .."
+msgstr "Regulators yn it \\Smart Home\\ systeem .."
 
 msgid "уровень 1"
 msgstr "nivo 1"
@@ -457,3 +457,27 @@ msgstr "kanaal 17"
 
 msgid "канал 18"
 msgstr "kanaal 18"
+
+msgid "&Мониторинг"
+msgstr "& Monitoring"
+
+msgid "&Просмотр лог-файла"
+msgstr "&Logboekbestân sjen"
+
+msgid "выход"
+msgstr "útgong"
+
+msgid "крупнее"
+msgstr "grutter"
+
+msgid "мельче"
+msgstr "lytser"
+
+msgid "в начало"
+msgstr "oan it begjin"
+
+msgid "в конец"
+msgstr "Oan it ein"
+
+msgid "очистить"
+msgstr "opklearje"
