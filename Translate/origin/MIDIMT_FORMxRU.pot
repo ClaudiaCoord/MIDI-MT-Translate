@@ -1,9 +1,9 @@
-﻿#. extracted from RibbonDialogConfig.rc
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-12 10:10+0000\n"
+"POT-Creation-Date: 2023-12-11 23:24+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,21 +11,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate Toolkit 3.11.1\n"
+"X-Generator: Poedit 3.4\n"
 "X-Merge-On: location\n"
 
-#:STRINGTABLE.IDS_RB_DIALOG_LAST_OPEN1
 msgid "&Закрыть"
 msgstr ""
 
-#:STRINGTABLE.IDS_RB_DIALOG_LAST_OPEN2
 msgid "Модуль"
 msgstr ""
 
-#:STRINGTABLE.IDS_RB_DIALOG_LAST_OPEN3
 msgid "Монитор MIDI команд"
 msgstr ""
 
-#:STRINGTABLE.IDS_RB_DIALOG_LAST_OPEN4
 msgid "уровень логирования MQTT сессий:"
 msgstr ""
