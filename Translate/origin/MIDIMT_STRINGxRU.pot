@@ -1,4 +1,4 @@
-#. extracted from x.rc
+#. extracted from MIDIMT_STRINGxRU.rc
 msgid ""
 msgstr ""
 "Project-Id-Version: 9169\n"
@@ -48,18 +48,6 @@ msgid "OK"
 msgstr ""
 
 msgid "[Конфигурация пуста..]"
-msgstr ""
-
-msgid "https://claudiacoord.github.io/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/"
-msgstr ""
-
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases"
-msgstr ""
-
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/releases/download/1.0.1.1/EasyControl.zip"
-msgstr ""
-
-msgid "https://github.com/ClaudiaCoord/MIDI-EasyControl-to-Mackie-translator-for-Premiere-Pro/wiki/RU"
 msgstr ""
 
 msgid "Автозапуск запрещен в общей конфигурации."
