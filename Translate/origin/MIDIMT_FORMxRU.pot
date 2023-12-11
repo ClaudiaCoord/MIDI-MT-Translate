@@ -1,9 +1,9 @@
-#
+﻿#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-11 02:51+0300\n"
+"POT-Creation-Date: 2023-12-11 06:20+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,451 +14,323 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.11.1\n"
 "X-Merge-On: location\n"
 
-#: DIALOGEX.DLG_ABOUT_WINDOW.PUSHBUTTON.DLG_GO_UPDATE
-#: DIALOGEX.DLG_START_WINDOW.PUSHBUTTON.DLG_GO_UPDATE
 msgid "Обновления"
 msgstr ""
 
-#: DIALOGEX.DLG_ABOUT_WINDOW.PUSHBUTTON.DLG_GO_HELP
 msgid "Помощь"
 msgstr ""
 
-#: DIALOGEX.DLG_ABOUT_WINDOW.DEFPUSHBUTTON.IDCANCEL
-#: DIALOGEX.DLG_EDIT_INFO_WINDOW.DEFPUSHBUTTON.IDCANCEL
-#: DIALOGEX.DLG_MONITOR_WINDOW.PUSHBUTTON.IDCANCEL
-#: DIALOGEX.DLG_EDIT_WINDOW.PUSHBUTTON.IDCANCEL
-#: DIALOGEX.DLG_START_WINDOW.PUSHBUTTON.IDCANCEL
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.PUSHBUTTON.IDCANCEL
-#: DIALOGEX.DLG_PLUG_MMKEY_WINDOW.PUSHBUTTON.IDCANCEL
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.PUSHBUTTON.IDCANCEL
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.PUSHBUTTON.IDCANCEL
 msgid "&Закрыть"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_INFO_WINDOW.PUSHBUTTON.DLG_GO_URL
 msgid "&Программа настройки MIDI панели"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_INFO_WINDOW.LTEXT.IDC_STATIC
 msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
 msgstr ""
 
-#: DIALOGEX.DLG_MONITOR_WINDOW.CAPTION
 msgid "Монитор MIDI команд"
 msgstr ""
 
-#: DIALOGEX.DLG_MONITOR_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Монитор команд"
 msgstr ""
 
-#: DIALOGEX.DLG_MONITOR_WINDOW.LTEXT.IDC_STATIC
 msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
 msgstr ""
 
-#: DIALOGEX.DLG_MONITOR_WINDOW.PUSHBUTTON.DLG_MONITOR_STOP
 msgid "Ст&оп"
 msgstr ""
 
-#: DIALOGEX.DLG_MONITOR_WINDOW.PUSHBUTTON.DLG_MONITOR_START
 msgid "Ст&арт"
 msgstr ""
 
-#: DIALOGEX.DLG_MONITOR_WINDOW.PUSHBUTTON.DLG_MONITOR_CLEAR
 msgid "Очи&стить"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.CAPTION
 msgid "Настройка управления MIDI"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Настройка MIDI контролов"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Информация"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.LTEXT.IDC_STATIC
 msgid "Контрол:"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.LTEXT.IDC_STATIC
 msgid "Сцена:"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.LTEXT.IDC_STATIC
 msgid "Тип контрола:"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.LTEXT.IDC_STATIC
 msgid "Назначение:"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.LTEXT.IDC_STATIC
 msgid "Назначение (долгий клик):"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.LTEXT.IDC_STATIC
 msgid "Регулируемые микшером приложения:"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Подсказки"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.CONTROL.DLG_EDIT_SETUP_RADIO1
 msgid "Все"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.CONTROL.DLG_EDIT_SETUP_RADIO2
 msgid "Кнопки"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.CONTROL.DLG_EDIT_SETUP_RADIO3
 msgid "Слайдеры"
 msgstr ""
 
-#: DIALOGEX.DLG_EDIT_WINDOW.CONTROL.DLG_EDIT_SETUP_RADIO4
 msgid "Мультимедиа"
 msgstr ""
 
-#: DIALOGEX.DLG_COLOR_WINDOW.CAPTION
 msgid "Настройка пользовательской темы"
 msgstr ""
 
-#: DIALOGEX.DLG_COLOR_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Цвета вашей темы"
 msgstr ""
 
-#: DIALOGEX.DLG_COLOR_WINDOW.CONTROL.IDC_STATIC
 msgid "Цвет текста"
 msgstr ""
 
-#: DIALOGEX.DLG_COLOR_WINDOW.CONTROL.IDC_STATIC
 msgid "Цвет фона"
 msgstr ""
 
-#: DIALOGEX.DLG_COLOR_WINDOW.CONTROL.IDC_STATIC
 msgid "Цвет рамки"
 msgstr ""
 
-#: DIALOGEX.DLG_COLOR_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Базовая тема"
 msgstr ""
 
-#: DIALOGEX.DLG_COLOR_WINDOW.CONTROL.DLG_COLOR_RADIO_METRO
 msgid "Метро"
 msgstr ""
 
-#: DIALOGEX.DLG_COLOR_WINDOW.CONTROL.DLG_COLOR_RADIO_LIGHT
 msgid "Светлая"
 msgstr ""
 
-#: DIALOGEX.DLG_COLOR_WINDOW.CONTROL.DLG_COLOR_RADIO_DARK
 msgid "Тёмная"
 msgstr ""
 
-#: DIALOGEX.DLG_COLOR_WINDOW.CONTROL.DLG_COLOR_RADIO_RETRO
 msgid "Рэтро"
 msgstr ""
 
-#: DIALOGEX.DLG_COLOR_WINDOW.CONTROL.DLG_COLOR_RADIO_MODERN
 msgid "Современный"
 msgstr ""
 
-#: DIALOGEX.DLG_LOGVIEW_WINDOW.CAPTION
 msgid "Просмотр лог-файла"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CAPTION
 msgid "Запуск MIDI-MT"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.GROUPBOX.IDC_STATIC
 msgid "IN/OUT Бридж"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_RADIO1
 msgid "Запущен"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_RADIO2
 msgid "Остановлен"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_ISCONFIG
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.CONTROL.DLG_PLUG_MIDI_ISCONFIG
 msgid "Конфигурация"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_ISUNITS
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.CONTROL.DLG_PLUG_MIDI_ISUNITS
 msgid "MIDI контролы"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.PUSHBUTTON.DLG_START_OPEN_CONFIG
 msgid "Открыть файл конфигурации"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Запуск"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_AUTOBOOT_SYS
 msgid "Старт при загрузке системы"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_AUTORUN_SYS
 msgid "Авто старт при запуске"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_AUTORUN_CONFIG
 msgid "Авто старт этой конфигурации"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_WRITE_FILELOG
 msgid "Записывать лог"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.LTEXT.IDC_STATIC
 msgid "Предпочитаемый язык:"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_MIXER_RIGHT_CLICK
 msgid "Использовать правую кнопку мыши для вызова микшера"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Настройки Микшера Звука"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_MIXER_ENABLE
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.CONTROL.DLG_PLUG_MIDI_ISENABLE
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.CONTROL.DLG_PLUG_MIDI_ISOUT
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.CONTROL.DLG_PLUG_MIDI_ISPROXY
-#: DIALOGEX.DLG_PLUG_MMKEY_WINDOW.CONTROL.DLG_PLUG_MMKEY_ISENABLE
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.CONTROL.DLG_PLUG_MQTT_ISENABLE
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.DLG_PLUG_LIGHT_DMX_ISENABLE
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.DLG_PLUG_LIGHT_ARTNET_ISENABLE
 msgid "Включено"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_MIXER_FAST_VALUE
 msgid "Замена значений громкости без проверки"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_MIXER_DUPLICATE
 msgid "Объединять приложения по названию, раздельная регулировка невозможна"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.CONTROL.DLG_START_MIXER_OLD_VALUE
 msgid "Устанавливать сохранённые уровни громкости при старте"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Настройка модулей"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.PUSHBUTTON.DLG_START_PLUGINS_RELOAD
 msgid "&Перезагрузить модули"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Описание модуля"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Модуль"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.PUSHBUTTON.DLG_GO_START
 msgid "&Старт"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.PUSHBUTTON.DLG_SAVE
 msgid "Сохранить &настройки"
 msgstr ""
 
-#: DIALOGEX.DLG_START_WINDOW.PUSHBUTTON.DLG_GO_ABOUT
 msgid "&О программе.."
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.GROUPBOX.IDC_STATIC
 msgid "MIDI устройства"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Настройки MIDI"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.CONTROL.DLG_PLUG_MIDI_LIST_IN
 msgid "Входные"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.CONTROL.DLG_PLUG_MIDI_LIST_OUT
 msgid "Выходные"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.LTEXT.IDC_STATIC
 msgid "Интервал между нажатиями"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.LTEXT.IDC_STATIC
 msgid "Интервал как долгое нажатие"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.CONTROL.DLG_PLUG_MIDI_ISJOGFILTER
 msgid "JOG фильтр сцены"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.CONTROL.DLG_PLUG_MIDI_ISOUTSYSPORT
 msgid "Выходной порт не создается"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.GROUPBOX.IDC_STATIC
 msgid "MIDI драйвер"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.CONTROL.DLG_PLUG_MIDI_VMDRV_CHECK
 msgid "Драйвер:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.LTEXT.IDC_STATIC
 msgid "количество портов"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.GROUPBOX.IDC_STATIC
 msgid "MIDI Прокси"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.PUSHBUTTON.DLG_PLUG_MIDI_INSTALL_VMDRV
 msgid "&Установить Virtual MIDI драйвер"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MIDI_WINDOW.PUSHBUTTON.DLG_PLUG_SAVE
-#: DIALOGEX.DLG_PLUG_MMKEY_WINDOW.PUSHBUTTON.DLG_PLUG_SAVE
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.PUSHBUTTON.DLG_PLUG_SAVE
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.PUSHBUTTON.DLG_PLUG_SAVE
 msgid "&Сохранить настройки"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MMKEY_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Мультимедиа клавиатура"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MMKEY_WINDOW.CONTROL.IDC_STATIC
 msgid "Трансляция входных MIDI-команд в команды мультимедиа клавиатуры. Управление воспроизведением сторонних мультимедиа программ."
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Умный Дом"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.GROUPBOX.IDC_STATIC
 msgid "MQTT сервер"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.CONTROL.IDC_STATIC
 msgid "IP адрес:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.CONTROL.IDC_STATIC
 msgid "порт:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Безопасность"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.CONTROL.IDC_STATIC
 msgid "логин:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.CONTROL.IDC_STATIC
 msgid "пароль:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.CONTROL.IDC_STATIC
 msgid "ключ PSK:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.CONTROL.DLG_PLUG_MQTT_ISSSL
 msgid "SSL/TLS включено"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.CONTROL.DLG_PLUG_MQTT_ISSELFSIGN
 msgid "самоподписанный"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.PUSHBUTTON.DLG_PLUG_MQTT_CAOPEN
 msgid "CA сертификат"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Опции"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.CONTROL.IDC_STATIC
 msgid "MQTT топик префикс: (необязательно)"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_MQTT_WINDOW.CONTROL.IDC_STATIC
 msgid "уровень логирования MQTT сессий:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Освещение"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Служба DMX"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.IDC_STATIC
 msgid "COM порт:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.IDC_STATIC
 msgid "Порт:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.IDC_STATIC
 msgid "Бит-рейт:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.IDC_STATIC
 msgid "Стоп-бит:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.IDC_STATIC
 msgid "Тайм-аут:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.GROUPBOX.IDC_STATIC
 msgid "Служба ArtNet"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.IDC_STATIC
 msgid "ArtNet сеть:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.IDC_STATIC
 msgid "Номер вселенной:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.IDC_STATIC
 msgid "Адрес:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.IDC_STATIC
 msgid "Маска:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.IDC_STATIC
 msgid "Броадкаст:"
 msgstr ""
 
-#: DIALOGEX.DLG_PLUG_LIGHT_WINDOW.CONTROL.DLG_PLUG_LIGHT_POLL
 msgid "Включить DMX пул (стандартное поведение)"
 msgstr ""
