@@ -1,9 +1,9 @@
-#. extracted from S:\__BuildSource\__SVN__\EasyControl-Mackie\EasyControl-Mackie-src\src\Languages\MIDIMTxRU\MIDIMT_MENUxRU.rc
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-11 01:49+0300\n"
+"POT-Creation-Date: 2023-12-11 03:03+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,8 +11,71 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate Toolkit 3.11.1\n"
+"X-Generator: Poedit 3.4\n"
 "X-Merge-On: location\n"
+
+msgid "выход"
+msgstr ""
+
+msgid "крупнее"
+msgstr ""
+
+msgid "мельче"
+msgstr ""
+
+msgid "в начало"
+msgstr ""
+
+msgid "в конец"
+msgstr ""
+
+msgid "очистить"
+msgstr ""
+
+msgid "конфигурация"
+msgstr ""
+
+msgid "показать всю конфигурацию"
+msgstr ""
+
+msgid "показать MIDI конфигурацию"
+msgstr ""
+
+msgid "показать MQTT конфигурацию"
+msgstr ""
+
+msgid "показать MMKEYS конфигурацию"
+msgstr ""
+
+msgid "показать LIGTS конфигурацию"
+msgstr ""
+
+msgid "показать DMX512 конфигурацию"
+msgstr ""
+
+msgid "показать ArtNet конфигурацию"
+msgstr ""
+
+msgid "старт"
+msgstr ""
+
+msgid "стоп"
+msgstr ""
+
+msgid "сохранить натройки"
+msgstr ""
+
+msgid "помощь"
+msgstr ""
+
+msgid "язык"
+msgstr ""
+
+msgid "авто"
+msgstr ""
+
+msgid "лог"
+msgstr ""
 
 #: MENU.DLG_TRAY_MENU.MENUITEM.IDM_GO_INFO
 msgid "&Информация"
