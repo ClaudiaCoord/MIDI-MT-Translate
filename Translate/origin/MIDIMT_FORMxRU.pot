@@ -1,4 +1,4 @@
-#.XER
+#. extracted from RibbonDialogConfig.rc
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
