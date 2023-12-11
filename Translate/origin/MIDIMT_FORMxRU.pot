@@ -1,9 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-11 07:14+0300\n"
+"POT-Creation-Date: 2020-12-12 10:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,326 +11,437 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Poedit 3.4\n"
+"X-Generator: Translate Toolkit 3.11.1\n"
 "X-Merge-On: location\n"
 
-msgid "Обновления"
-msgstr ""
-
-msgid "Помощь"
-msgstr ""
-
+#, fuzzy
 msgid "&Закрыть"
 msgstr ""
 
-msgid "&Программа настройки MIDI панели"
-msgstr ""
-
-msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
-msgstr ""
-
-msgid "Монитор MIDI команд"
-msgstr ""
-
-msgid "Монитор команд"
-msgstr ""
-
-msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
-msgstr ""
-
-msgid "Ст&оп"
-msgstr ""
-
-msgid "Ст&арт"
-msgstr ""
-
-msgid "Очи&стить"
-msgstr ""
-
-msgid "Настройка управления MIDI"
-msgstr ""
-
-msgid "Настройка MIDI контролов"
-msgstr ""
-
-msgid "Информация"
-msgstr ""
-
-msgid "Контрол:"
-msgstr ""
-
-msgid "Сцена:"
-msgstr ""
-
-msgid "Тип контрола:"
-msgstr ""
-
-msgid "Назначение:"
-msgstr ""
-
-msgid "Назначение (долгий клик):"
-msgstr ""
-
-msgid "Регулируемые микшером приложения:"
-msgstr ""
-
-msgid "Подсказки"
-msgstr ""
-
-msgid "Все"
-msgstr ""
-
-msgid "Кнопки"
-msgstr ""
-
-msgid "Слайдеры"
-msgstr ""
-
-msgid "Мультимедиа"
-msgstr ""
-
-msgid "Настройка пользовательской темы"
-msgstr ""
-
-msgid "Цвета вашей темы"
-msgstr ""
-
-msgid "Цвет текста"
-msgstr ""
-
-msgid "Цвет фона"
-msgstr ""
-
-msgid "Цвет рамки"
-msgstr ""
-
-msgid "Базовая тема"
-msgstr ""
-
-msgid "Метро"
-msgstr ""
-
-msgid "Светлая"
-msgstr ""
-
-msgid "Тёмная"
-msgstr ""
-
-msgid "Рэтро"
-msgstr ""
-
-msgid "Современный"
-msgstr ""
-
-msgid "Просмотр лог-файла"
-msgstr ""
-
-msgid "Запуск MIDI-MT"
-msgstr ""
-
-msgid "IN/OUT Бридж"
-msgstr ""
-
-msgid "Запущен"
-msgstr ""
-
-msgid "Остановлен"
-msgstr ""
-
-msgid "Конфигурация"
-msgstr ""
-
-msgid "MIDI контролы"
-msgstr ""
-
-msgid "Открыть файл конфигурации"
-msgstr ""
-
-msgid "Запуск"
-msgstr ""
-
-msgid "Старт при загрузке системы"
-msgstr ""
-
-msgid "Авто старт при запуске"
-msgstr ""
-
-msgid "Авто старт этой конфигурации"
-msgstr ""
-
-msgid "Записывать лог"
-msgstr ""
-
-msgid "Предпочитаемый язык:"
-msgstr ""
-
-msgid "Использовать правую кнопку мыши для вызова микшера"
-msgstr ""
-
-msgid "Настройки Микшера Звука"
-msgstr ""
-
-msgid "Включено"
-msgstr ""
-
-msgid "Замена значений громкости без проверки"
-msgstr ""
-
-msgid "Объединять приложения по названию, раздельная регулировка невозможна"
-msgstr ""
-
-msgid "Устанавливать сохранённые уровни громкости при старте"
-msgstr ""
-
-msgid "Настройка модулей"
-msgstr ""
-
-msgid "&Перезагрузить модули"
-msgstr ""
-
-msgid "Описание модуля"
-msgstr ""
-
-msgid "Модуль"
-msgstr ""
-
-msgid "&Старт"
-msgstr ""
-
-msgid "Сохранить &настройки"
-msgstr ""
-
+#, fuzzy
 msgid "&О программе.."
 msgstr ""
 
-msgid "MIDI устройства"
+#, fuzzy
+msgid "&Перезагрузить модули"
 msgstr ""
 
-msgid "Настройки MIDI"
+#, fuzzy
+msgid "&Программа настройки MIDI панели"
 msgstr ""
 
-msgid "Входные"
-msgstr ""
-
-msgid "Выходные"
-msgstr ""
-
-msgid "Интервал между нажатиями"
-msgstr ""
-
-msgid "Интервал как долгое нажатие"
-msgstr ""
-
-msgid "JOG фильтр сцены"
-msgstr ""
-
-msgid "Выходной порт не создается"
-msgstr ""
-
-msgid "MIDI драйвер"
-msgstr ""
-
-msgid "Драйвер:"
-msgstr ""
-
-msgid "количество портов"
-msgstr ""
-
-msgid "MIDI Прокси"
-msgstr ""
-
-msgid "&Установить Virtual MIDI драйвер"
-msgstr ""
-
+#, fuzzy
 msgid "&Сохранить настройки"
 msgstr ""
 
-msgid "Мультимедиа клавиатура"
+#, fuzzy
+msgid "&Старт"
 msgstr ""
 
-msgid "Трансляция входных MIDI-команд в команды мультимедиа клавиатуры. Управление воспроизведением сторонних мультимедиа программ."
+#, fuzzy
+msgid "&Установить Virtual MIDI драйвер"
 msgstr ""
 
-msgid "Умный Дом"
-msgstr ""
-
-msgid "MQTT сервер"
-msgstr ""
-
-msgid "IP адрес:"
-msgstr ""
-
-msgid "порт:"
-msgstr ""
-
-msgid "Безопасность"
-msgstr ""
-
-msgid "логин:"
-msgstr ""
-
-msgid "пароль:"
-msgstr ""
-
-msgid "ключ PSK:"
-msgstr ""
-
-msgid "SSL/TLS включено"
-msgstr ""
-
-msgid "самоподписанный"
-msgstr ""
-
-msgid "CA сертификат"
-msgstr ""
-
-msgid "Опции"
-msgstr ""
-
-msgid "MQTT топик префикс: (необязательно)"
-msgstr ""
-
-msgid "уровень логирования MQTT сессий:"
-msgstr ""
-
-msgid "Освещение"
-msgstr ""
-
-msgid "Служба DMX"
-msgstr ""
-
-msgid "COM порт:"
-msgstr ""
-
-msgid "Порт:"
-msgstr ""
-
-msgid "Бит-рейт:"
-msgstr ""
-
-msgid "Стоп-бит:"
-msgstr ""
-
-msgid "Тайм-аут:"
-msgstr ""
-
-msgid "Служба ArtNet"
-msgstr ""
-
+#, fuzzy
 msgid "ArtNet сеть:"
 msgstr ""
 
-msgid "Номер вселенной:"
+#, fuzzy
+msgid "CA сертификат"
 msgstr ""
 
+#, fuzzy
+msgid "COM порт:"
+msgstr ""
+
+#, fuzzy
+msgid "IN/OUT Бридж"
+msgstr ""
+
+#, fuzzy
+msgid "IP адрес:"
+msgstr ""
+
+#, fuzzy
+msgid "JOG фильтр сцены"
+msgstr ""
+
+#, fuzzy
+msgid "MIDI Mackie"
+msgstr ""
+
+#, fuzzy
+msgid "MIDI Прокси"
+msgstr ""
+
+#, fuzzy
+msgid "MIDI драйвер"
+msgstr ""
+
+#, fuzzy
+msgid "MIDI контролы"
+msgstr ""
+
+#, fuzzy
+msgid "MIDI устройства"
+msgstr ""
+
+#, fuzzy
+msgid "MQTT сервер"
+msgstr ""
+
+#, fuzzy
+msgid "MQTT топик префикс: (необязательно)"
+msgstr ""
+
+#, fuzzy
+msgid "SSL/TLS включено"
+msgstr ""
+
+#, fuzzy
+msgid "Авто старт при запуске"
+msgstr ""
+
+#, fuzzy
+msgid "Авто старт этой конфигурации"
+msgstr ""
+
+#, fuzzy
 msgid "Адрес:"
 msgstr ""
 
-msgid "Маска:"
+#, fuzzy
+msgid "Базовая тема"
 msgstr ""
 
+#, fuzzy
+msgid "Безопасность"
+msgstr ""
+
+#, fuzzy
+msgid "Бит-рейт:"
+msgstr ""
+
+#, fuzzy
 msgid "Броадкаст:"
 msgstr ""
 
+#, fuzzy
+msgid "Включено"
+msgstr ""
+
+#, fuzzy
 msgid "Включить DMX пул (стандартное поведение)"
+msgstr ""
+
+#, fuzzy
+msgid "Все"
+msgstr ""
+
+#, fuzzy
+msgid "Входные"
+msgstr ""
+
+#, fuzzy
+msgid "Выходной порт не создается"
+msgstr ""
+
+#, fuzzy
+msgid "Выходные"
+msgstr ""
+
+#, fuzzy
+msgid "Драйвер:"
+msgstr ""
+
+#, fuzzy
+msgid "Замена значений громкости без проверки"
+msgstr ""
+
+#, fuzzy
+msgid "Записывать лог"
+msgstr ""
+
+#, fuzzy
+msgid "Запуск"
+msgstr ""
+
+#, fuzzy
+msgid "Запуск MIDI-MT"
+msgstr ""
+
+#, fuzzy
+msgid "Запущен"
+msgstr ""
+
+#, fuzzy
+msgid "Интервал как долгое нажатие"
+msgstr ""
+
+#, fuzzy
+msgid "Интервал между нажатиями"
+msgstr ""
+
+#, fuzzy
+msgid "Информация"
+msgstr ""
+
+#, fuzzy
+msgid "Использовать правую кнопку мыши для вызова микшера"
+msgstr ""
+
+#, fuzzy
+msgid "Кнопки"
+msgstr ""
+
+#, fuzzy
+msgid "Контрол:"
+msgstr ""
+
+#, fuzzy
+msgid "Конфигурация"
+msgstr ""
+
+#, fuzzy
+msgid "Маска:"
+msgstr ""
+
+#, fuzzy
+msgid "Метро"
+msgstr ""
+
+#, fuzzy
+msgid "Модуль"
+msgstr ""
+
+#, fuzzy
+msgid "Монитор MIDI команд"
+msgstr ""
+
+#, fuzzy
+msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
+msgstr ""
+
+#, fuzzy
+msgid "Монитор команд"
+msgstr ""
+
+#, fuzzy
+msgid "Мультимедиа"
+msgstr ""
+
+#, fuzzy
+msgid "Мультимедиа клавиатура"
+msgstr ""
+
+#, fuzzy
+msgid "Назначение (долгий клик):"
+msgstr ""
+
+#, fuzzy
+msgid "Назначение:"
+msgstr ""
+
+#, fuzzy
+msgid "Настройка MIDI контролов"
+msgstr ""
+
+#, fuzzy
+msgid "Настройка модулей"
+msgstr ""
+
+#, fuzzy
+msgid "Настройка пользовательской темы"
+msgstr ""
+
+#, fuzzy
+msgid "Настройка управления MIDI"
+msgstr ""
+
+#, fuzzy
+msgid "Настройки MIDI"
+msgstr ""
+
+#, fuzzy
+msgid "Настройки Микшера Звука"
+msgstr ""
+
+#, fuzzy
+msgid "Номер вселенной:"
+msgstr ""
+
+#, fuzzy
+msgid "Обновления"
+msgstr ""
+
+#, fuzzy
+msgid "Объединять приложения по названию, раздельная регулировка невозможна"
+msgstr ""
+
+#, fuzzy
+msgid "Описание модуля"
+msgstr ""
+
+#, fuzzy
+msgid "Опции"
+msgstr ""
+
+#, fuzzy
+msgid "Освещение"
+msgstr ""
+
+#, fuzzy
+msgid "Остановлен"
+msgstr ""
+
+#, fuzzy
+msgid "Открыть файл конфигурации"
+msgstr ""
+
+#, fuzzy
+msgid "Очи&стить"
+msgstr ""
+
+#, fuzzy
+msgid "Подсказки"
+msgstr ""
+
+#, fuzzy
+msgid "Помощь"
+msgstr ""
+
+#, fuzzy
+msgid "Порт:"
+msgstr ""
+
+#, fuzzy
+msgid "Предпочитаемый язык:"
+msgstr ""
+
+#, fuzzy
+msgid "Просмотр лог-файла"
+msgstr ""
+
+#, fuzzy
+msgid "Регулируемые микшером приложения:"
+msgstr ""
+
+#, fuzzy
+msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
+msgstr ""
+
+#, fuzzy
+msgid "Рэтро"
+msgstr ""
+
+#, fuzzy
+msgid "Светлая"
+msgstr ""
+
+#, fuzzy
+msgid "Слайдеры"
+msgstr ""
+
+#, fuzzy
+msgid "Служба ArtNet"
+msgstr ""
+
+#, fuzzy
+msgid "Служба DMX"
+msgstr ""
+
+#, fuzzy
+msgid "Современный"
+msgstr ""
+
+#, fuzzy
+msgid "Сохранить &настройки"
+msgstr ""
+
+#, fuzzy
+msgid "Ст&арт"
+msgstr ""
+
+#, fuzzy
+msgid "Ст&оп"
+msgstr ""
+
+#, fuzzy
+msgid "Старт при загрузке системы"
+msgstr ""
+
+#, fuzzy
+msgid "Стоп-бит:"
+msgstr ""
+
+#, fuzzy
+msgid "Сцена:"
+msgstr ""
+
+#, fuzzy
+msgid "Тайм-аут:"
+msgstr ""
+
+#, fuzzy
+msgid "Тип контрола:"
+msgstr ""
+
+#, fuzzy
+msgid "Трансляция входных MIDI-команд в команды мультимедиа клавиатуры. Управление воспроизведением сторонних мультимедиа программ."
+msgstr ""
+
+#, fuzzy
+msgid "Тёмная"
+msgstr ""
+
+#, fuzzy
+msgid "Умный Дом"
+msgstr ""
+
+#, fuzzy
+msgid "Устанавливать сохранённые уровни громкости при старте"
+msgstr ""
+
+#, fuzzy
+msgid "Цвет рамки"
+msgstr ""
+
+#, fuzzy
+msgid "Цвет текста"
+msgstr ""
+
+#, fuzzy
+msgid "Цвет фона"
+msgstr ""
+
+#, fuzzy
+msgid "Цвета вашей темы"
+msgstr ""
+
+#, fuzzy
+msgid "ключ PSK:"
+msgstr ""
+
+#, fuzzy
+msgid "количество портов"
+msgstr ""
+
+#, fuzzy
+msgid "логин:"
+msgstr ""
+
+#, fuzzy
+msgid "пароль:"
+msgstr ""
+
+#, fuzzy
+msgid "порт:"
+msgstr ""
+
+#, fuzzy
+msgid "самоподписанный"
+msgstr ""
+
+#, fuzzy
+msgid "уровень логирования MQTT сессий:"
 msgstr ""
