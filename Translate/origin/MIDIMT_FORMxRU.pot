@@ -67,10 +67,6 @@ msgid "JOG фильтр сцены"
 msgstr ""
 
 #, fuzzy
-msgid "MIDI Mackie"
-msgstr ""
-
-#, fuzzy
 msgid "MIDI Прокси"
 msgstr ""
 
