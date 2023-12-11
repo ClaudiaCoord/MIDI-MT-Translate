@@ -14,3 +14,6 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.10.0\n"
 "X-Merge-On: location\n"
 
+msgid "Новая запись"
+msgstr ""
+
