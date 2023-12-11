@@ -19,9 +19,3 @@ msgstr ""
 
 msgid "&О программе.."
 msgstr ""
-
-msgid "&Перезагрузить модули"
-msgstr ""
-
-msgid "&Программа настройки MIDI панели"
-msgstr ""
