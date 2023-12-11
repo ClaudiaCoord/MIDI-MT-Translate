@@ -1,4 +1,4 @@
-#.
+#. X
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -14,18 +14,18 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.11.1\n"
 "X-Merge-On: location\n"
 
-#
+#: X
 msgid "&Закрыть"
 msgstr ""
 
-#
+#: X
 msgid "Модуль"
 msgstr ""
 
-#
+#: X
 msgid "Монитор MIDI команд"
 msgstr ""
 
-#
+#: X
 msgid "уровень логирования MQTT сессий:"
 msgstr ""
