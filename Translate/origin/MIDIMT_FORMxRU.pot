@@ -14,14 +14,18 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.11.1\n"
 "X-Merge-On: location\n"
 
+#: STRINGTABLE.IDS_RB_DIALOG_LAST_OPENL
 msgid "&Закрыть"
 msgstr ""
 
+#: STRINGTABLE.IDS_RB_DIALOG_LAST_OPENL
 msgid "Модуль"
 msgstr ""
 
+#: STRINGTABLE.IDS_RB_DIALOG_LAST_OPENL
 msgid "Монитор MIDI команд"
 msgstr ""
 
+#: STRINGTABLE.IDS_RB_DIALOG_LAST_OPENL
 msgid "уровень логирования MQTT сессий:"
 msgstr ""
