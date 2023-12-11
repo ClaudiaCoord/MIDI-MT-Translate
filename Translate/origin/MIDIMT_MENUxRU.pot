@@ -1,9 +1,9 @@
-#, fuzzy
+#. extracted from x.rc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: 9169\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-12 10:10+0000\n"
+"POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,689 +11,518 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate Toolkit 3.11.1\n"
+"X-Generator: Translate RC2POT 1.0.0\n"
 "X-Merge-On: location\n"
 
-#, fuzzy
 msgid "&Анимация"
 msgstr ""
 
-#, fuzzy
 msgid "&Аудио микшер"
 msgstr ""
 
-#, fuzzy
 msgid "&Закрыть"
 msgstr ""
 
-#, fuzzy
 msgid "&Информация"
 msgstr ""
 
-#, fuzzy
 msgid "&Монитор"
 msgstr ""
 
-#, fuzzy
 msgid "&Мониторинг"
 msgstr ""
 
-#, fuzzy
 msgid "&Настройка"
 msgstr ""
 
-#, fuzzy
 msgid "&Просмотр лог-файла"
 msgstr ""
 
-#, fuzzy
 msgid "&Путь приложений"
 msgstr ""
 
-#, fuzzy
 msgid "Баланс (мастер)"
 msgstr ""
 
-#, fuzzy
 msgid "Баланс.."
 msgstr ""
 
-#, fuzzy
 msgid "Без звука (мастер)"
 msgstr ""
 
-#, fuzzy
 msgid "Без звука.."
 msgstr ""
 
-#, fuzzy
 msgid "Вверх (джойстик)"
 msgstr ""
 
-#, fuzzy
 msgid "Вертикально слева"
 msgstr ""
 
-#, fuzzy
 msgid "Вертикально справа"
 msgstr ""
 
-#, fuzzy
 msgid "Влево (джойстик)"
 msgstr ""
 
-#, fuzzy
 msgid "Вниз (джойстик)"
 msgstr ""
 
-#, fuzzy
 msgid "Вправо (джойстик)"
 msgstr ""
 
-#, fuzzy
 msgid "Вставить"
 msgstr ""
 
-#, fuzzy
 msgid "Вы&ход"
 msgstr ""
 
-#, fuzzy
 msgid "Горизонтально вверху"
 msgstr ""
 
-#, fuzzy
 msgid "Горизонтально внизу"
 msgstr ""
 
-#, fuzzy
 msgid "Громкость (мастер)"
 msgstr ""
 
-#, fuzzy
 msgid "Громкость.."
 msgstr ""
 
-#, fuzzy
 msgid "З&апомнить позицию"
 msgstr ""
 
-#, fuzzy
 msgid "Запись"
 msgstr ""
 
-#, fuzzy
 msgid "Играть/Пауза"
 msgstr ""
 
-#, fuzzy
 msgid "Канал 16 бит (расширенный)"
 msgstr ""
 
-#, fuzzy
 msgid "Канал 8 бит (стандарт)"
 msgstr ""
 
-#, fuzzy
 msgid "Кнопка"
 msgstr ""
 
-#, fuzzy
 msgid "Кнопка переключать, с индикацией"
 msgstr ""
 
-#, fuzzy
 msgid "Кнопки в системе «Умный дом».."
 msgstr ""
 
-#, fuzzy
 msgid "Кнопки.."
 msgstr ""
 
-#, fuzzy
 msgid "Контроль относиться к аудио микшеру"
 msgstr ""
 
-#, fuzzy
 msgid "Контроль относиться к мультимедиа кнопкам"
 msgstr ""
 
-#, fuzzy
 msgid "Контроль относиться к умному дому"
 msgstr ""
 
-#, fuzzy
 msgid "Контроль относиться к управлению светом"
 msgstr ""
 
-#, fuzzy
 msgid "Копировать"
 msgstr ""
 
-#, fuzzy
 msgid "Круговый регулятор"
 msgstr ""
 
-#, fuzzy
 msgid "Круговый регулятор с инверсией"
 msgstr ""
 
-#, fuzzy
 msgid "Метро"
 msgstr ""
 
-#, fuzzy
 msgid "Мультимедиа кнопки.."
 msgstr ""
 
-#, fuzzy
 msgid "Настраеваямая"
 msgstr ""
 
-#, fuzzy
 msgid "Настройка темы"
 msgstr ""
 
-#, fuzzy
 msgid "Неназначенный"
 msgstr ""
 
-#, fuzzy
 msgid "Новая запись"
 msgstr ""
 
-#, fuzzy
 msgid "Пиковый &измеритель громкости"
 msgstr ""
 
-#, fuzzy
 msgid "Полосковый регулятор"
 msgstr ""
 
-#, fuzzy
 msgid "Полосковый регулятор с инверсией"
 msgstr ""
 
-#, fuzzy
 msgid "Предыдущий"
 msgstr ""
 
-#, fuzzy
 msgid "Привязка &MIDI контролов"
 msgstr ""
 
-#, fuzzy
 msgid "Расположение.."
 msgstr ""
 
-#, fuzzy
 msgid "Регуляторы в системе «Умный дом».."
 msgstr ""
 
-#, fuzzy
 msgid "Регуляторы.."
 msgstr ""
 
-#, fuzzy
 msgid "Рэтро"
 msgstr ""
 
-#, fuzzy
 msgid "Светлая"
 msgstr ""
 
-#, fuzzy
 msgid "Скрабирование"
 msgstr ""
 
-#, fuzzy
 msgid "Следующий"
 msgstr ""
 
-#, fuzzy
 msgid "Современный"
 msgstr ""
 
-#, fuzzy
 msgid "Соло (мастер)"
 msgstr ""
 
-#, fuzzy
 msgid "Соло.."
 msgstr ""
 
-#, fuzzy
 msgid "Ст&арт"
 msgstr ""
 
-#, fuzzy
 msgid "Ст&оп"
 msgstr ""
 
-#, fuzzy
 msgid "Стоп"
 msgstr ""
 
-#, fuzzy
 msgid "Тема.."
 msgstr ""
 
-#, fuzzy
 msgid "Тёмная"
 msgstr ""
 
-#, fuzzy
 msgid "Увеличение масштаба"
 msgstr ""
 
-#, fuzzy
 msgid "Удалить"
 msgstr ""
 
-#, fuzzy
 msgid "Управление звуком.."
 msgstr ""
 
-#, fuzzy
 msgid "Установить как.."
 msgstr ""
 
-#, fuzzy
 msgid "Функции «Premiere Pro».."
 msgstr ""
 
-#, fuzzy
 msgid "Функции кнопки «в одно касание».."
 msgstr ""
 
-#, fuzzy
 msgid "Функции стандартной кнопки.."
 msgstr ""
 
-#, fuzzy
 msgid "Функция 1"
 msgstr ""
 
-#, fuzzy
 msgid "Функция 2"
 msgstr ""
 
-#, fuzzy
 msgid "Функция 3"
 msgstr ""
 
-#, fuzzy
 msgid "Функция 4"
 msgstr ""
 
-#, fuzzy
 msgid "Функция 5"
 msgstr ""
 
-#, fuzzy
 msgid "Функция 6"
 msgstr ""
 
-#, fuzzy
 msgid "Функция 7"
 msgstr ""
 
-#, fuzzy
 msgid "Функция 8"
 msgstr ""
 
-#, fuzzy
 msgid "Читать MIDI код.."
 msgstr ""
 
-#, fuzzy
 msgid "Энкодер"
 msgstr ""
 
-#, fuzzy
 msgid "Энкодер (JOG)"
 msgstr ""
 
-#, fuzzy
 msgid "Энкодер (покадровый просмотр)"
 msgstr ""
 
-#, fuzzy
 msgid "Энкодер с инверсией"
 msgstr ""
 
-#, fuzzy
 msgid "авто"
 msgstr ""
 
-#, fuzzy
 msgid "в конец"
 msgstr ""
 
-#, fuzzy
 msgid "в начало"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 1"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 10"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 11"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 12"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 13"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 14"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 15"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 16"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 17"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 18"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 19"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 2"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 20"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 21"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 22"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 23"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 24"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 25"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 26"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 27"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 3"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 4"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 5"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 6"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 7"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 8"
 msgstr ""
 
-#, fuzzy
 msgid "вкл/выкл 9"
 msgstr ""
 
-#, fuzzy
 msgid "выход"
 msgstr ""
 
-#, fuzzy
 msgid "канал 1"
 msgstr ""
 
-#, fuzzy
 msgid "канал 10"
 msgstr ""
 
-#, fuzzy
 msgid "канал 11"
 msgstr ""
 
-#, fuzzy
 msgid "канал 12"
 msgstr ""
 
-#, fuzzy
 msgid "канал 13"
 msgstr ""
 
-#, fuzzy
 msgid "канал 14"
 msgstr ""
 
-#, fuzzy
 msgid "канал 15"
 msgstr ""
 
-#, fuzzy
 msgid "канал 16"
 msgstr ""
 
-#, fuzzy
 msgid "канал 17"
 msgstr ""
 
-#, fuzzy
 msgid "канал 18"
 msgstr ""
 
-#, fuzzy
 msgid "канал 2"
 msgstr ""
 
-#, fuzzy
 msgid "канал 3"
 msgstr ""
 
-#, fuzzy
 msgid "канал 4"
 msgstr ""
 
-#, fuzzy
 msgid "канал 5"
 msgstr ""
 
-#, fuzzy
 msgid "канал 6"
 msgstr ""
 
-#, fuzzy
 msgid "канал 7"
 msgstr ""
 
-#, fuzzy
 msgid "канал 8"
 msgstr ""
 
-#, fuzzy
 msgid "канал 9"
 msgstr ""
 
-#, fuzzy
 msgid "конфигурация"
 msgstr ""
 
-#, fuzzy
 msgid "крупнее"
 msgstr ""
 
-#, fuzzy
 msgid "лог"
 msgstr ""
 
-#, fuzzy
 msgid "мельче"
 msgstr ""
 
-#, fuzzy
 msgid "очистить"
 msgstr ""
 
-#, fuzzy
 msgid "показать ArtNet конфигурацию"
 msgstr ""
 
-#, fuzzy
 msgid "показать DMX512 конфигурацию"
 msgstr ""
 
-#, fuzzy
 msgid "показать LIGTS конфигурацию"
 msgstr ""
 
-#, fuzzy
 msgid "показать MIDI конфигурацию"
 msgstr ""
 
-#, fuzzy
 msgid "показать MMKEYS конфигурацию"
 msgstr ""
 
-#, fuzzy
 msgid "показать MQTT конфигурацию"
 msgstr ""
 
-#, fuzzy
 msgid "показать всю конфигурацию"
 msgstr ""
 
-#, fuzzy
 msgid "помощь"
 msgstr ""
 
-#, fuzzy
 msgid "сохранить натройки"
 msgstr ""
 
-#, fuzzy
 msgid "старт"
 msgstr ""
 
-#, fuzzy
 msgid "стоп"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 1"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 10"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 11"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 12"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 13"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 14"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 15"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 16"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 17"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 18"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 2"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 3"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 4"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 5"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 6"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 7"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 8"
 msgstr ""
 
-#, fuzzy
 msgid "уровень 9"
 msgstr ""
 
-#, fuzzy
 msgid "язык"
 msgstr ""

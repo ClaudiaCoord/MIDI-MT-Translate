@@ -1,9 +1,9 @@
-#. extracted from RibbonDialogEditxRU.rc
+#. extracted from x.rc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: 9169\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-12 10:10+0000\n"
+"POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,21 +11,326 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate Toolkit 3.11.1\n"
+"X-Generator: Translate RC2POT 1.0.0\n"
 "X-Merge-On: location\n"
 
-#: STRINGTABLE.IDS_RB_DIALOG_LAST_OPENL
-msgid "Последние файлы:"
+msgid "&Закрыть"
 msgstr ""
 
-#: STRINGTABLE.IDS_RB_TABHOMEL
-msgid "Редактирование"
+msgid "&О программе.."
 msgstr ""
 
-#: STRINGTABLE.IDS_RB_TABFILTERL
-msgid "Фильтры"
+msgid "&Перезагрузить модули"
 msgstr ""
 
-#: STRINGTABLE.IDS_RB_PANEL_EDITMAINL
-msgid "редактировать MIDI ключ"
+msgid "&Программа настройки MIDI панели"
+msgstr ""
+
+msgid "&Сохранить настройки"
+msgstr ""
+
+msgid "&Старт"
+msgstr ""
+
+msgid "&Установить Virtual MIDI драйвер"
+msgstr ""
+
+msgid "ArtNet сеть:"
+msgstr ""
+
+msgid "CA сертификат"
+msgstr ""
+
+msgid "COM порт:"
+msgstr ""
+
+msgid "IN/OUT Бридж"
+msgstr ""
+
+msgid "IP адрес:"
+msgstr ""
+
+msgid "JOG фильтр сцены"
+msgstr ""
+
+msgid "MIDI Прокси"
+msgstr ""
+
+msgid "MIDI драйвер"
+msgstr ""
+
+msgid "MIDI контролы"
+msgstr ""
+
+msgid "MIDI устройства"
+msgstr ""
+
+msgid "MQTT сервер"
+msgstr ""
+
+msgid "MQTT топик префикс: (необязательно)"
+msgstr ""
+
+msgid "SSL/TLS включено"
+msgstr ""
+
+msgid "Авто старт при запуске"
+msgstr ""
+
+msgid "Авто старт этой конфигурации"
+msgstr ""
+
+msgid "Адрес:"
+msgstr ""
+
+msgid "Базовая тема"
+msgstr ""
+
+msgid "Безопасность"
+msgstr ""
+
+msgid "Бит-рейт:"
+msgstr ""
+
+msgid "Броадкаст:"
+msgstr ""
+
+msgid "Включено"
+msgstr ""
+
+msgid "Включить DMX пул (стандартное поведение)"
+msgstr ""
+
+msgid "Все"
+msgstr ""
+
+msgid "Входные"
+msgstr ""
+
+msgid "Выходной порт не создается"
+msgstr ""
+
+msgid "Выходные"
+msgstr ""
+
+msgid "Драйвер:"
+msgstr ""
+
+msgid "Замена значений громкости без проверки"
+msgstr ""
+
+msgid "Записывать лог"
+msgstr ""
+
+msgid "Запуск"
+msgstr ""
+
+msgid "Запуск MIDI-MT"
+msgstr ""
+
+msgid "Запущен"
+msgstr ""
+
+msgid "Интервал как долгое нажатие"
+msgstr ""
+
+msgid "Интервал между нажатиями"
+msgstr ""
+
+msgid "Информация"
+msgstr ""
+
+msgid "Использовать правую кнопку мыши для вызова микшера"
+msgstr ""
+
+msgid "Кнопки"
+msgstr ""
+
+msgid "Контрол:"
+msgstr ""
+
+msgid "Конфигурация"
+msgstr ""
+
+msgid "Маска:"
+msgstr ""
+
+msgid "Метро"
+msgstr ""
+
+msgid "Модуль"
+msgstr ""
+
+msgid "Монитор MIDI команд"
+msgstr ""
+
+msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
+msgstr ""
+
+msgid "Монитор команд"
+msgstr ""
+
+msgid "Мультимедиа"
+msgstr ""
+
+msgid "Мультимедиа клавиатура"
+msgstr ""
+
+msgid "Назначение (долгий клик):"
+msgstr ""
+
+msgid "Назначение:"
+msgstr ""
+
+msgid "Настройка MIDI контролов"
+msgstr ""
+
+msgid "Настройка модулей"
+msgstr ""
+
+msgid "Настройка пользовательской темы"
+msgstr ""
+
+msgid "Настройка управления MIDI"
+msgstr ""
+
+msgid "Настройки MIDI"
+msgstr ""
+
+msgid "Настройки Микшера Звука"
+msgstr ""
+
+msgid "Номер вселенной:"
+msgstr ""
+
+msgid "Обновления"
+msgstr ""
+
+msgid "Объединять приложения по названию, раздельная регулировка невозможна"
+msgstr ""
+
+msgid "Описание модуля"
+msgstr ""
+
+msgid "Опции"
+msgstr ""
+
+msgid "Освещение"
+msgstr ""
+
+msgid "Остановлен"
+msgstr ""
+
+msgid "Открыть файл конфигурации"
+msgstr ""
+
+msgid "Очи&стить"
+msgstr ""
+
+msgid "Подсказки"
+msgstr ""
+
+msgid "Помощь"
+msgstr ""
+
+msgid "Порт:"
+msgstr ""
+
+msgid "Предпочитаемый язык:"
+msgstr ""
+
+msgid "Просмотр лог-файла"
+msgstr ""
+
+msgid "Регулируемые микшером приложения:"
+msgstr ""
+
+msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
+msgstr ""
+
+msgid "Рэтро"
+msgstr ""
+
+msgid "Светлая"
+msgstr ""
+
+msgid "Слайдеры"
+msgstr ""
+
+msgid "Служба ArtNet"
+msgstr ""
+
+msgid "Служба DMX"
+msgstr ""
+
+msgid "Современный"
+msgstr ""
+
+msgid "Сохранить &настройки"
+msgstr ""
+
+msgid "Ст&арт"
+msgstr ""
+
+msgid "Ст&оп"
+msgstr ""
+
+msgid "Старт при загрузке системы"
+msgstr ""
+
+msgid "Стоп-бит:"
+msgstr ""
+
+msgid "Сцена:"
+msgstr ""
+
+msgid "Тайм-аут:"
+msgstr ""
+
+msgid "Тип контрола:"
+msgstr ""
+
+msgid "Трансляция входных MIDI-команд в команды мультимедиа клавиатуры. Управление воспроизведением сторонних мультимедиа программ."
+msgstr ""
+
+msgid "Тёмная"
+msgstr ""
+
+msgid "Умный Дом"
+msgstr ""
+
+msgid "Устанавливать сохранённые уровни громкости при старте"
+msgstr ""
+
+msgid "Цвет рамки"
+msgstr ""
+
+msgid "Цвет текста"
+msgstr ""
+
+msgid "Цвет фона"
+msgstr ""
+
+msgid "Цвета вашей темы"
+msgstr ""
+
+msgid "ключ PSK:"
+msgstr ""
+
+msgid "количество портов"
+msgstr ""
+
+msgid "логин:"
+msgstr ""
+
+msgid "пароль:"
+msgstr ""
+
+msgid "порт:"
+msgstr ""
+
+msgid "самоподписанный"
+msgstr ""
+
+msgid "уровень логирования MQTT сессий:"
 msgstr ""

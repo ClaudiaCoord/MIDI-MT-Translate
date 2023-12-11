@@ -1,9 +1,9 @@
-#, fuzzy
+#. extracted from x.rc
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: 9169\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-12 10:10+0000\n"
+"POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,461 +11,347 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate Toolkit 3.11.1\n"
+"X-Generator: Translate RC2POT 1.0.0\n"
 "X-Merge-On: location\n"
 
-#, fuzzy
 msgid "&Быстрый доступ"
 msgstr ""
 
-#, fuzzy
 msgid "&Вставить"
 msgstr ""
 
-#, fuzzy
 msgid "&Выход"
 msgstr ""
 
-#, fuzzy
 msgid "&Импорт"
 msgstr ""
 
-#, fuzzy
 msgid "&Копировать"
 msgstr ""
 
-#, fuzzy
 msgid "&Меню"
 msgstr ""
 
-#, fuzzy
 msgid "&Новый MIDI ключ"
 msgstr ""
 
-#, fuzzy
 msgid "&Сохранить"
 msgstr ""
 
-#, fuzzy
 msgid "&Удалить"
 msgstr ""
 
-#, fuzzy
 msgid "&Экспорт"
 msgstr ""
 
-#, fuzzy
 msgid "MIDI панель управления"
 msgstr ""
 
-#, fuzzy
 msgid "Авто отправка вводимых значений в фильтре"
 msgstr ""
 
-#, fuzzy
 msgid "Авто отправка данных в фильтре"
 msgstr ""
 
-#, fuzzy
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
 msgstr ""
 
-#, fuzzy
 msgid "Аудио микшер"
 msgstr ""
 
-#, fuzzy
 msgid "Вставить ключ"
 msgstr ""
 
-#, fuzzy
 msgid "Вставить скопированный MIDI ключ."
 msgstr ""
 
-#, fuzzy
 msgid "Встроенные фильтры"
 msgstr ""
 
-#, fuzzy
 msgid "Выбор типа фильтрации"
 msgstr ""
 
-#, fuzzy
 msgid "Выход из редактора"
 msgstr ""
 
-#, fuzzy
 msgid "Выход из редактора конфигурации MIDI ключей, если изменения не сохранены, они будут утеряны."
 msgstr ""
 
-#, fuzzy
 msgid "Импорт из файла"
 msgstr ""
 
-#, fuzzy
 msgid "Импортировать конфигурацию из файла."
 msgstr ""
 
-#, fuzzy
 msgid "Использовать только цифровой ввод"
 msgstr ""
 
-#, fuzzy
 msgid "Ключ"
 msgstr ""
 
-#, fuzzy
 msgid "Копировать MIDI ключ"
 msgstr ""
 
-#, fuzzy
 msgid "Меню приложения"
 msgstr ""
 
-#, fuzzy
 msgid "Мультимедиа кнопки"
 msgstr ""
 
-#, fuzzy
 msgid "Назначение 1"
 msgstr ""
 
-#, fuzzy
 msgid "Назначение 2"
 msgstr ""
 
-#, fuzzy
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
 msgstr ""
 
-#, fuzzy
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
 msgstr ""
 
-#, fuzzy
 msgid "Назначить выбранный MIDI ключ к группе «Умный дом»."
 msgstr ""
 
-#, fuzzy
 msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
 msgstr ""
 
-#, fuzzy
 msgid "Новый MIDI ключ"
 msgstr ""
 
-#, fuzzy
 msgid "Отмена фильтра"
 msgstr ""
 
-#, fuzzy
 msgid "Отмена фильтра покажет все элементы."
 msgstr ""
 
-#, fuzzy
 msgid "Отменить фильтр"
 msgstr ""
 
-#, fuzzy
 msgid "Очистить фильтры"
 msgstr ""
 
-#, fuzzy
 msgid "Очистка фильтров"
 msgstr ""
 
-#, fuzzy
 msgid "Панель быстрого доступа"
 msgstr ""
 
-#, fuzzy
 msgid "Показать «Аудио микшер»"
 msgstr ""
 
-#, fuzzy
 msgid "Показать «Мультимедиа кнопки»"
 msgstr ""
 
-#, fuzzy
 msgid "Показать «Умный дом»"
 msgstr ""
 
-#, fuzzy
 msgid "Показать сортировку"
 msgstr ""
 
-#, fuzzy
 msgid "Показывать записи с любым совпадением"
 msgstr ""
 
-#, fuzzy
 msgid "Показывать записи только с полным совпадением"
 msgstr ""
 
-#, fuzzy
 msgid "Показывать любые совпадения"
 msgstr ""
 
-#, fuzzy
 msgid "Показывать только полные совпадения"
 msgstr ""
 
-#, fuzzy
 msgid "Показывать только совпадения в группе MIDI ключей."
 msgstr ""
 
-#, fuzzy
 msgid "Показывать только совпадения в группе MIDI сцены."
 msgstr ""
 
-#, fuzzy
 msgid "Показывать только совпадения в группе по целевому назначению 1."
 msgstr ""
 
-#, fuzzy
 msgid "Показывать только совпадения в группе по целевому назначению 2."
 msgstr ""
 
-#, fuzzy
 msgid "Полная очистка фильтров, будут показаны все записи."
 msgstr ""
 
-#, fuzzy
 msgid "Последние файлы:"
 msgstr ""
 
-#, fuzzy
 msgid "Применение фильтра"
 msgstr ""
 
-#, fuzzy
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
 msgstr ""
 
-#, fuzzy
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
 msgstr ""
 
-#, fuzzy
 msgid "Применение фильтра покажет членов группы «Умный дом»."
 msgstr ""
 
-#, fuzzy
 msgid "Применение фильтра показывает выбранные элементы."
 msgstr ""
 
-#, fuzzy
 msgid "Применить фильтр"
 msgstr ""
 
-#, fuzzy
 msgid "Прочесть MIDI код контрола"
 msgstr ""
 
-#, fuzzy
 msgid "Редактирование"
 msgstr ""
 
-#, fuzzy
 msgid "Рекомендуемые настройки"
 msgstr ""
 
-#, fuzzy
 msgid "Рекомендуемые настройки панели управления MIDI, совместимые с элементами управления Adobe Premiere Pro."
 msgstr ""
 
-#, fuzzy
 msgid "Скопировать выбранную запись MIDI ключа."
 msgstr ""
 
-#, fuzzy
 msgid "Создание нового MIDI ключа."
 msgstr ""
 
-#, fuzzy
 msgid "Сортировка по возрастанию и MIDI ключу."
 msgstr ""
 
-#, fuzzy
 msgid "Сортировка по возрастанию и MIDI назначению 1."
 msgstr ""
 
-#, fuzzy
 msgid "Сортировка по возрастанию и MIDI назначению 2."
 msgstr ""
 
-#, fuzzy
 msgid "Сортировка по возрастанию и MIDI сцене."
 msgstr ""
 
-#, fuzzy
 msgid "Сортировка по убыванию и MIDI ключу."
 msgstr ""
 
-#, fuzzy
 msgid "Сортировка по убыванию и MIDI назначению 1."
 msgstr ""
 
-#, fuzzy
 msgid "Сортировка по убыванию и MIDI назначению 2."
 msgstr ""
 
-#, fuzzy
 msgid "Сортировка по убыванию и MIDI сцене."
 msgstr ""
 
-#, fuzzy
 msgid "Сохранить в загруженный ранее файл и обновить текущую конфигурацию."
 msgstr ""
 
-#, fuzzy
 msgid "Сохранить и применить"
 msgstr ""
 
-#, fuzzy
 msgid "Сцена"
 msgstr ""
 
-#, fuzzy
 msgid "Тип фильтра"
 msgstr ""
 
-#, fuzzy
 msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
 msgstr ""
 
-#, fuzzy
 msgid "Только цифровой ввод"
 msgstr ""
 
-#, fuzzy
 msgid "Удалить выбранную запись MIDI ключа."
 msgstr ""
 
-#, fuzzy
 msgid "Удалить ключ"
 msgstr ""
 
-#, fuzzy
 msgid "Умный дом"
 msgstr ""
 
-#, fuzzy
 msgid "Установить группу как «Аудио микшер»"
 msgstr ""
 
-#, fuzzy
 msgid "Установить группу как «Мультимедиа кнопки»"
 msgstr ""
 
-#, fuzzy
 msgid "Установить группу как «Умный дом»."
 msgstr ""
 
-#, fuzzy
 msgid "Установить фильтр"
 msgstr ""
 
-#, fuzzy
 msgid "Установка типа применяемых фильтров"
 msgstr ""
 
-#, fuzzy
 msgid "Установка фильтра"
 msgstr ""
 
-#, fuzzy
 msgid "Установка фильтра показывает все недействительные элементы."
 msgstr ""
 
-#, fuzzy
 msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
 msgstr ""
 
-#, fuzzy
 msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
 msgstr ""
 
-#, fuzzy
 msgid "Фильтровать по MIDI ключу"
 msgstr ""
 
-#, fuzzy
 msgid "Фильтровать по MIDI сцене"
 msgstr ""
 
-#, fuzzy
 msgid "Фильтровать по группе «Аудио микшер»"
 msgstr ""
 
-#, fuzzy
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
 msgstr ""
 
-#, fuzzy
 msgid "Фильтровать по группе «Умный дом»"
 msgstr ""
 
-#, fuzzy
 msgid "Фильтровать по назначению 1"
 msgstr ""
 
-#, fuzzy
 msgid "Фильтровать по назначению 2"
 msgstr ""
 
-#, fuzzy
 msgid "Фильтры"
 msgstr ""
 
-#, fuzzy
 msgid "Читать MIDI код"
 msgstr ""
 
-#, fuzzy
 msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
 msgstr ""
 
-#, fuzzy
 msgid "Экспорт в новый файл"
 msgstr ""
 
-#, fuzzy
 msgid "Экспортировать отредактированную конфигурацию в новый файл."
 msgstr ""
 
-#, fuzzy
 msgid "выбор фильтров просмотра"
 msgstr ""
 
-#, fuzzy
 msgid "параметры редактора"
 msgstr ""
 
-#, fuzzy
 msgid "по ключу"
 msgstr ""
 
-#, fuzzy
 msgid "по назначению 1"
 msgstr ""
 
-#, fuzzy
 msgid "по назначению 2"
 msgstr ""
 
-#, fuzzy
 msgid "по сцене"
 msgstr ""
 
-#, fuzzy
 msgid "редактировать MIDI ключ"
 msgstr ""
 
-#, fuzzy
 msgid "сортировка"
 msgstr ""
 
-#, fuzzy
 msgid "установить MIDI ключ как.."
 msgstr ""
