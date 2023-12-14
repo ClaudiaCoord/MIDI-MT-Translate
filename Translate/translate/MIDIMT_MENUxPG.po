@@ -1,0 +1,528 @@
+#. extracted from gitlocalize-2023-12-12-midimt_menuxpg.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: 1212\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-12 12:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.0\n"
+"X-Merge-On: location\n"
+
+msgid "&Анимация"
+msgstr "&Animação"
+
+msgid "&Аудио микшер"
+msgstr "&Misturador de áudio"
+
+msgid "&Закрыть"
+msgstr "&Fechar"
+
+msgid "&Информация"
+msgstr "&Informação"
+
+msgid "&Монитор"
+msgstr "&Monitor"
+
+msgid "&Мониторинг"
+msgstr "&Monitoramento"
+
+msgid "&Настройка"
+msgstr "&Configurações"
+
+msgid "&Просмотр лог-файла"
+msgstr "&Ver arquivo de registro"
+
+msgid "&Путь приложений"
+msgstr "&Caminho do aplicativo"
+
+msgid "Баланс (мастер)"
+msgstr "Equilíbrio (mestre)"
+
+msgid "Баланс.."
+msgstr "Equilíbrio.."
+
+msgid "Без звука (мастер)"
+msgstr "Silencioso (mestre)"
+
+msgid "Без звука.."
+msgstr "Sem som.."
+
+msgid "Вверх (джойстик)"
+msgstr "Para cima (joystick)"
+
+msgid "Вертикально слева"
+msgstr "Esquerda vertical"
+
+msgid "Вертикально справа"
+msgstr "Vertical direita"
+
+msgid "Влево (джойстик)"
+msgstr "Esquerda (joystick)"
+
+msgid "Вниз (джойстик)"
+msgstr "Para baixo (joystick)"
+
+msgid "Вправо (джойстик)"
+msgstr "Direita (joystick)"
+
+msgid "Вставить"
+msgstr "Inserir"
+
+msgid "Вы&ход"
+msgstr "Saída"
+
+msgid "Горизонтально вверху"
+msgstr "Horizontalmente no topo"
+
+msgid "Горизонтально внизу"
+msgstr "Horizontalmente abaixo"
+
+msgid "Громкость (мастер)"
+msgstr "Volume (mestre)"
+
+msgid "Громкость.."
+msgstr "Volume.."
+
+msgid "З&апомнить позицию"
+msgstr "Lembre-se da posição"
+
+msgid "Запись"
+msgstr "Registro"
+
+msgid "Играть/Пауза"
+msgstr "A pausa"
+
+msgid "Канал 16 бит (расширенный)"
+msgstr "Canal 16 bits (estendido)"
+
+msgid "Канал 8 бит (стандарт)"
+msgstr "Canal 8 bits (padrão)"
+
+msgid "Кнопка"
+msgstr "Botão"
+
+msgid "Кнопка переключать, с индикацией"
+msgstr "Botão interruptor, com indicação"
+
+msgid "Кнопки в системе «Умный дом».."
+msgstr "Botões no sistema Smart Home.."
+
+msgid "Кнопки.."
+msgstr "Botões.."
+
+msgid "Контроль относиться к аудио микшеру"
+msgstr "Controle refere-se ao mixer de áudio"
+
+msgid "Контроль относиться к мультимедиа кнопкам"
+msgstr "Os controles se aplicam aos botões multimídia"
+
+msgid "Контроль относиться к умному дому"
+msgstr "Controle refere-se a uma casa inteligente"
+
+msgid "Контроль относиться к управлению светом"
+msgstr "Controle refere-se ao controle de luz"
+
+msgid "Копировать"
+msgstr "cópia de"
+
+msgid "Круговый регулятор"
+msgstr "Regulador circular"
+
+msgid "Круговый регулятор с инверсией"
+msgstr "Regulador circular com inversão"
+
+msgid "Метро"
+msgstr "Metrô"
+
+msgid "Мультимедиа кнопки.."
+msgstr "Botões multimídia.."
+
+msgid "Настраеваямая"
+msgstr "Configurando"
+
+msgid "Настройка темы"
+msgstr "Configurando um tema"
+
+msgid "Неназначенный"
+msgstr "Não atribuído"
+
+msgid "Новая запись"
+msgstr "Nova entrada"
+
+msgid "Пиковый &измеритель громкости"
+msgstr "Medidor de pico e volume"
+
+msgid "Полосковый регулятор"
+msgstr "Regulador de tira"
+
+msgid "Полосковый регулятор с инверсией"
+msgstr "Regulador de Tira com Inversão"
+
+msgid "Предыдущий"
+msgstr "Anterior"
+
+msgid "Привязка &MIDI контролов"
+msgstr "Controles de ligação e MIDI"
+
+msgid "Расположение.."
+msgstr "Localização.."
+
+msgid "Регуляторы в системе «Умный дом».."
+msgstr "Reguladores no sistema “Smart Home”."
+
+msgid "Регуляторы.."
+msgstr "Reguladores..."
+
+msgid "Рэтро"
+msgstr "Retrô"
+
+msgid "Светлая"
+msgstr "Luz"
+
+msgid "Скрабирование"
+msgstr "Esfregar"
+
+msgid "Следующий"
+msgstr "Próximo"
+
+msgid "Современный"
+msgstr "Moderno"
+
+msgid "Соло (мастер)"
+msgstr "Solo (mestre)"
+
+msgid "Соло.."
+msgstr "Só.."
+
+msgid "Ст&арт"
+msgstr "Começar"
+
+msgid "Ст&оп"
+msgstr "Parar"
+
+msgid "Стоп"
+msgstr "Parar"
+
+msgid "Тема.."
+msgstr "Assunto.."
+
+msgid "Тёмная"
+msgstr "Escuro"
+
+msgid "Увеличение масштаба"
+msgstr "Mais Zoom"
+
+msgid "Удалить"
+msgstr "Excluir"
+
+msgid "Управление звуком.."
+msgstr "Controle de som..."
+
+msgid "Установить как.."
+msgstr "Instale como.."
+
+msgid "Функции «Premiere Pro».."
+msgstr "Recursos do Premiere Pro..."
+
+msgid "Функции кнопки «в одно касание».."
+msgstr "Funções do botão de um toque..."
+
+msgid "Функции стандартной кнопки.."
+msgstr "Funções do botão padrão..."
+
+msgid "Функция 1"
+msgstr "Função 1"
+
+msgid "Функция 2"
+msgstr "Função 2"
+
+msgid "Функция 3"
+msgstr "Função 3"
+
+msgid "Функция 4"
+msgstr "Função 4"
+
+msgid "Функция 5"
+msgstr "Função 5"
+
+msgid "Функция 6"
+msgstr "Função 6"
+
+msgid "Функция 7"
+msgstr "Função 7"
+
+msgid "Функция 8"
+msgstr "Função 8"
+
+msgid "Читать MIDI код.."
+msgstr "Leia o código MIDI."
+
+msgid "Энкодер"
+msgstr "Codificador"
+
+msgid "Энкодер (JOG)"
+msgstr "Codificador (JOG)"
+
+msgid "Энкодер (покадровый просмотр)"
+msgstr "Codificador (visualização quadro a quadro)"
+
+msgid "Энкодер с инверсией"
+msgstr "Codificador com inversão"
+
+msgid "авто"
+msgstr "auto"
+
+msgid "в конец"
+msgstr "No fim"
+
+msgid "в начало"
+msgstr "para o começo"
+
+msgid "вкл/выкл 1"
+msgstr "ligar/desligar 1"
+
+msgid "вкл/выкл 10"
+msgstr "ligar/desligar 10"
+
+msgid "вкл/выкл 11"
+msgstr "ligar/desligar 11"
+
+msgid "вкл/выкл 12"
+msgstr "ligar/desligar 12"
+
+msgid "вкл/выкл 13"
+msgstr "ligar/desligar 13"
+
+msgid "вкл/выкл 14"
+msgstr "ligar/desligar 14"
+
+msgid "вкл/выкл 15"
+msgstr "ligar/desligar 15"
+
+msgid "вкл/выкл 16"
+msgstr "ligar/desligar 16"
+
+msgid "вкл/выкл 17"
+msgstr "ligar/desligar 17"
+
+msgid "вкл/выкл 18"
+msgstr "ligar/desligar 18"
+
+msgid "вкл/выкл 19"
+msgstr "ligar/desligar 19"
+
+msgid "вкл/выкл 2"
+msgstr "ligar/desligar 2"
+
+msgid "вкл/выкл 20"
+msgstr "ligar/desligar 20"
+
+msgid "вкл/выкл 21"
+msgstr "ligar/desligar 21"
+
+msgid "вкл/выкл 22"
+msgstr "ligar/desligar 22"
+
+msgid "вкл/выкл 23"
+msgstr "ligar/desligar 23"
+
+msgid "вкл/выкл 24"
+msgstr "ligar/desligar 24"
+
+msgid "вкл/выкл 25"
+msgstr "ligar/desligar 25"
+
+msgid "вкл/выкл 26"
+msgstr "ligar/desligar 26"
+
+msgid "вкл/выкл 27"
+msgstr "ligar/desligar 27"
+
+msgid "вкл/выкл 3"
+msgstr "ligar/desligar 3"
+
+msgid "вкл/выкл 4"
+msgstr "ligar/desligar 4"
+
+msgid "вкл/выкл 5"
+msgstr "ligar/desligar 5"
+
+msgid "вкл/выкл 6"
+msgstr "ligar/desligar 6"
+
+msgid "вкл/выкл 7"
+msgstr "ligar/desligar 7"
+
+msgid "вкл/выкл 8"
+msgstr "ligar/desligar 8"
+
+msgid "вкл/выкл 9"
+msgstr "ligar/desligar 9"
+
+msgid "выход"
+msgstr "saída"
+
+msgid "канал 1"
+msgstr "canal 1"
+
+msgid "канал 10"
+msgstr "canal 10"
+
+msgid "канал 11"
+msgstr "canal 11"
+
+msgid "канал 12"
+msgstr "canal 12"
+
+msgid "канал 13"
+msgstr "canal 13"
+
+msgid "канал 14"
+msgstr "canal 14"
+
+msgid "канал 15"
+msgstr "canal 15"
+
+msgid "канал 16"
+msgstr "canal 16"
+
+msgid "канал 17"
+msgstr "canal 17"
+
+msgid "канал 18"
+msgstr "canal 18"
+
+msgid "канал 2"
+msgstr "canal 2"
+
+msgid "канал 3"
+msgstr "canal 3"
+
+msgid "канал 4"
+msgstr "canal 4"
+
+msgid "канал 5"
+msgstr "canal 5"
+
+msgid "канал 6"
+msgstr "canal 6"
+
+msgid "канал 7"
+msgstr "canal 7"
+
+msgid "канал 8"
+msgstr "canal 8"
+
+msgid "канал 9"
+msgstr "canal 9"
+
+msgid "конфигурация"
+msgstr "configuração"
+
+msgid "крупнее"
+msgstr "maior"
+
+msgid "лог"
+msgstr "registro"
+
+msgid "мельче"
+msgstr "menor"
+
+msgid "очистить"
+msgstr "claro"
+
+msgid "показать ArtNet конфигурацию"
+msgstr "mostrar configuração ArtNet"
+
+msgid "показать DMX512 конфигурацию"
+msgstr "mostrar configuração DMX512"
+
+msgid "показать LIGTS конфигурацию"
+msgstr "mostrar configuração LIGTS"
+
+msgid "показать MIDI конфигурацию"
+msgstr "mostrar configuração MIDI"
+
+msgid "показать MMKEYS конфигурацию"
+msgstr "mostrar configuração MMKEYS"
+
+msgid "показать MQTT конфигурацию"
+msgstr "mostrar configuração MQTT"
+
+msgid "показать всю конфигурацию"
+msgstr "mostrar todas as configurações"
+
+msgid "помощь"
+msgstr "ajuda"
+
+msgid "сохранить натройки"
+msgstr "salvar configurações"
+
+msgid "старт"
+msgstr "começar"
+
+msgid "стоп"
+msgstr "parar"
+
+msgid "уровень 1"
+msgstr "nível 1"
+
+msgid "уровень 10"
+msgstr "nível 10"
+
+msgid "уровень 11"
+msgstr "nível 11"
+
+msgid "уровень 12"
+msgstr "nível 12"
+
+msgid "уровень 13"
+msgstr "nível 13"
+
+msgid "уровень 14"
+msgstr "nível 14"
+
+msgid "уровень 15"
+msgstr "nível 15"
+
+msgid "уровень 16"
+msgstr "nível 16"
+
+msgid "уровень 17"
+msgstr "nível 17"
+
+msgid "уровень 18"
+msgstr "nível 18"
+
+msgid "уровень 2"
+msgstr "nível 2"
+
+msgid "уровень 3"
+msgstr "nível 3"
+
+msgid "уровень 4"
+msgstr "nível 4"
+
+msgid "уровень 5"
+msgstr "nível 5"
+
+msgid "уровень 6"
+msgstr "nível 6"
+
+msgid "уровень 7"
+msgstr "nível 7"
+
+msgid "уровень 8"
+msgstr "nível 8"
+
+msgid "уровень 9"
+msgstr "nível 9"
+
+msgid "язык"
+msgstr "linguagem"

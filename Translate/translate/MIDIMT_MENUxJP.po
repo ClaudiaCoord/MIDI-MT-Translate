@@ -1,0 +1,528 @@
+#. extracted from gitlocalize-2023-12-12-midimt_menuxjp.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: 1212\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-12 12:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.0\n"
+"X-Merge-On: location\n"
+
+msgid "&Анимация"
+msgstr "＆アニメーション"
+
+msgid "&Аудио микшер"
+msgstr "オーディオミキサー(&A)"
+
+msgid "&Закрыть"
+msgstr "＆近い"
+
+msgid "&Информация"
+msgstr "＆情報"
+
+msgid "&Монитор"
+msgstr "＆モニター"
+
+msgid "&Мониторинг"
+msgstr "＆監視"
+
+msgid "&Настройка"
+msgstr "＆設定"
+
+msgid "&Просмотр лог-файла"
+msgstr "ログファイルを表示(&V)"
+
+msgid "&Путь приложений"
+msgstr "アプリケーションパス(&A)"
+
+msgid "Баланс (мастер)"
+msgstr "バランス（マスター）"
+
+msgid "Баланс.."
+msgstr "バランス.."
+
+msgid "Без звука (мастер)"
+msgstr "サイレント（マスター）"
+
+msgid "Без звука.."
+msgstr "無音.."
+
+msgid "Вверх (джойстик)"
+msgstr "上（ジョイスティック）"
+
+msgid "Вертикально слева"
+msgstr "縦左"
+
+msgid "Вертикально справа"
+msgstr "縦右"
+
+msgid "Влево (джойстик)"
+msgstr "左 (ジョイスティック)"
+
+msgid "Вниз (джойстик)"
+msgstr "下（ジョイスティック）"
+
+msgid "Вправо (джойстик)"
+msgstr "右（ジョイスティック）"
+
+msgid "Вставить"
+msgstr "入れる"
+
+msgid "Вы&ход"
+msgstr "出口"
+
+msgid "Горизонтально вверху"
+msgstr "上部に水平に"
+
+msgid "Горизонтально внизу"
+msgstr "水平下"
+
+msgid "Громкость (мастер)"
+msgstr "ボリューム（マスター）"
+
+msgid "Громкость.."
+msgstr "音量.."
+
+msgid "З&апомнить позицию"
+msgstr "位置を記憶"
+
+msgid "Запись"
+msgstr "記録"
+
+msgid "Играть/Пауза"
+msgstr "再生/一時停止"
+
+msgid "Канал 16 бит (расширенный)"
+msgstr "チャンネル16ビット(拡張)"
+
+msgid "Канал 8 бит (стандарт)"
+msgstr "チャンネル8ビット（標準）"
+
+msgid "Кнопка"
+msgstr "ボタン"
+
+msgid "Кнопка переключать, с индикацией"
+msgstr "切替ボタン、表示付"
+
+msgid "Кнопки в системе «Умный дом».."
+msgstr "スマート ホーム システムのボタン。"
+
+msgid "Кнопки.."
+msgstr "ボタン.."
+
+msgid "Контроль относиться к аудио микшеру"
+msgstr "コントロールとはオーディオミキサーを指します"
+
+msgid "Контроль относиться к мультимедиа кнопкам"
+msgstr "コントロールはマルチメディア ボタンに適用されます"
+
+msgid "Контроль относиться к умному дому"
+msgstr "コントロールとはスマートホームを指します"
+
+msgid "Контроль относиться к управлению светом"
+msgstr "コントロールとは光のコントロールのこと"
+
+msgid "Копировать"
+msgstr "コピー"
+
+msgid "Круговый регулятор"
+msgstr "サーキュラーレギュレーター"
+
+msgid "Круговый регулятор с инверсией"
+msgstr "反転機能付きサーキュラーレギュレーター"
+
+msgid "Метро"
+msgstr "メトロ"
+
+msgid "Мультимедиа кнопки.."
+msgstr "マルチメディア ボタン。"
+
+msgid "Настраеваямая"
+msgstr "セットアップ中"
+
+msgid "Настройка темы"
+msgstr "テーマの設定"
+
+msgid "Неназначенный"
+msgstr "未割り当て"
+
+msgid "Новая запись"
+msgstr "新規エントリー"
+
+msgid "Пиковый &измеритель громкости"
+msgstr "ピーク&ボリュームメーター"
+
+msgid "Полосковый регулятор"
+msgstr "ストリップレギュレータ"
+
+msgid "Полосковый регулятор с инверсией"
+msgstr "反転機能付きストリップレギュレータ"
+
+msgid "Предыдущий"
+msgstr "前の"
+
+msgid "Привязка &MIDI контролов"
+msgstr "MIDI コントロールをバインドする(&M)"
+
+msgid "Расположение.."
+msgstr "位置.."
+
+msgid "Регуляторы в системе «Умный дом».."
+msgstr "「スマートホーム」システムのレギュレーター.."
+
+msgid "Регуляторы.."
+msgstr "レギュレーター.."
+
+msgid "Рэтро"
+msgstr "レトロ"
+
+msgid "Светлая"
+msgstr "ライト"
+
+msgid "Скрабирование"
+msgstr "スクラブ"
+
+msgid "Следующий"
+msgstr "次"
+
+msgid "Современный"
+msgstr "モダンな"
+
+msgid "Соло (мастер)"
+msgstr "ソロ（マスター）"
+
+msgid "Соло.."
+msgstr "ソロ.."
+
+msgid "Ст&арт"
+msgstr "始める"
+
+msgid "Ст&оп"
+msgstr "停止"
+
+msgid "Стоп"
+msgstr "停止"
+
+msgid "Тема.."
+msgstr "主題.."
+
+msgid "Тёмная"
+msgstr "暗い"
+
+msgid "Увеличение масштаба"
+msgstr "ズームイン"
+
+msgid "Удалить"
+msgstr "消去"
+
+msgid "Управление звуком.."
+msgstr "サウンドコントロール..."
+
+msgid "Установить как.."
+msgstr "としてインストールします。"
+
+msgid "Функции «Premiere Pro».."
+msgstr "プレミアプロの機能..."
+
+msgid "Функции кнопки «в одно касание».."
+msgstr "ワンタッチボタンの機能..."
+
+msgid "Функции стандартной кнопки.."
+msgstr "標準ボタンの機能..."
+
+msgid "Функция 1"
+msgstr "機能1"
+
+msgid "Функция 2"
+msgstr "機能2"
+
+msgid "Функция 3"
+msgstr "機能3"
+
+msgid "Функция 4"
+msgstr "機能4"
+
+msgid "Функция 5"
+msgstr "機能5"
+
+msgid "Функция 6"
+msgstr "機能6"
+
+msgid "Функция 7"
+msgstr "機能7"
+
+msgid "Функция 8"
+msgstr "機能8"
+
+msgid "Читать MIDI код.."
+msgstr "MIDIコードを読み取ってください。"
+
+msgid "Энкодер"
+msgstr "エンコーダ"
+
+msgid "Энкодер (JOG)"
+msgstr "エンコーダ(JOG)"
+
+msgid "Энкодер (покадровый просмотр)"
+msgstr "エンコーダ (フレームごとの表示)"
+
+msgid "Энкодер с инверсией"
+msgstr "反転機能付きエンコーダ"
+
+msgid "авто"
+msgstr "自動"
+
+msgid "в конец"
+msgstr "最後に"
+
+msgid "в начало"
+msgstr "最初へ"
+
+msgid "вкл/выкл 1"
+msgstr "オン/オフ1"
+
+msgid "вкл/выкл 10"
+msgstr "オン/オフ10"
+
+msgid "вкл/выкл 11"
+msgstr "オン/オフ 11"
+
+msgid "вкл/выкл 12"
+msgstr "オン/オフ 12"
+
+msgid "вкл/выкл 13"
+msgstr "オン/オフ 13"
+
+msgid "вкл/выкл 14"
+msgstr "オン/オフ 14"
+
+msgid "вкл/выкл 15"
+msgstr "オン/オフ 15"
+
+msgid "вкл/выкл 16"
+msgstr "オン/オフ 16"
+
+msgid "вкл/выкл 17"
+msgstr "オン/オフ 17"
+
+msgid "вкл/выкл 18"
+msgstr "オン/オフ 18"
+
+msgid "вкл/выкл 19"
+msgstr "オン/オフ 19"
+
+msgid "вкл/выкл 2"
+msgstr "オン/オフ2"
+
+msgid "вкл/выкл 20"
+msgstr "オン/オフ 20"
+
+msgid "вкл/выкл 21"
+msgstr "オン/オフ 21"
+
+msgid "вкл/выкл 22"
+msgstr "オン/オフ 22"
+
+msgid "вкл/выкл 23"
+msgstr "オン/オフ 23"
+
+msgid "вкл/выкл 24"
+msgstr "オン/オフ 24"
+
+msgid "вкл/выкл 25"
+msgstr "オン/オフ 25"
+
+msgid "вкл/выкл 26"
+msgstr "オン/オフ 26"
+
+msgid "вкл/выкл 27"
+msgstr "オン/オフ 27"
+
+msgid "вкл/выкл 3"
+msgstr "オン/オフ 3"
+
+msgid "вкл/выкл 4"
+msgstr "オン/オフ 4"
+
+msgid "вкл/выкл 5"
+msgstr "オン/オフ5"
+
+msgid "вкл/выкл 6"
+msgstr "オン/オフ6"
+
+msgid "вкл/выкл 7"
+msgstr "オン/オフ 7"
+
+msgid "вкл/выкл 8"
+msgstr "オン/オフ 8"
+
+msgid "вкл/выкл 9"
+msgstr "オン/オフ9"
+
+msgid "выход"
+msgstr "出口"
+
+msgid "канал 1"
+msgstr "チャンネル1"
+
+msgid "канал 10"
+msgstr "チャンネル10"
+
+msgid "канал 11"
+msgstr "チャンネル11"
+
+msgid "канал 12"
+msgstr "チャンネル12"
+
+msgid "канал 13"
+msgstr "チャンネル13"
+
+msgid "канал 14"
+msgstr "チャンネル14"
+
+msgid "канал 15"
+msgstr "チャンネル15"
+
+msgid "канал 16"
+msgstr "チャンネル16"
+
+msgid "канал 17"
+msgstr "チャンネル17"
+
+msgid "канал 18"
+msgstr "チャンネル18"
+
+msgid "канал 2"
+msgstr "チャンネル2"
+
+msgid "канал 3"
+msgstr "チャンネル3"
+
+msgid "канал 4"
+msgstr "チャンネル4"
+
+msgid "канал 5"
+msgstr "チャンネル5"
+
+msgid "канал 6"
+msgstr "チャンネル6"
+
+msgid "канал 7"
+msgstr "チャンネル7"
+
+msgid "канал 8"
+msgstr "チャンネル8"
+
+msgid "канал 9"
+msgstr "チャンネル9"
+
+msgid "конфигурация"
+msgstr "構成"
+
+msgid "крупнее"
+msgstr "より大きな"
+
+msgid "лог"
+msgstr "ログ"
+
+msgid "мельче"
+msgstr "小さい"
+
+msgid "очистить"
+msgstr "クリア"
+
+msgid "показать ArtNet конфигурацию"
+msgstr "ArtNet 構成を表示"
+
+msgid "показать DMX512 конфигурацию"
+msgstr "DMX512 構成を表示"
+
+msgid "показать LIGTS конфигурацию"
+msgstr "LIGTS 構成を表示"
+
+msgid "показать MIDI конфигурацию"
+msgstr "MIDI設定を表示"
+
+msgid "показать MMKEYS конфигурацию"
+msgstr "MMKEYS 設定を表示"
+
+msgid "показать MQTT конфигурацию"
+msgstr "MQTT 構成を表示"
+
+msgid "показать всю конфигурацию"
+msgstr "すべての設定を表示"
+
+msgid "помощь"
+msgstr "ヘルプ"
+
+msgid "сохранить натройки"
+msgstr "設定を保存する"
+
+msgid "старт"
+msgstr "始める"
+
+msgid "стоп"
+msgstr "停止"
+
+msgid "уровень 1"
+msgstr "レベル1"
+
+msgid "уровень 10"
+msgstr "レベル10"
+
+msgid "уровень 11"
+msgstr "レベル11"
+
+msgid "уровень 12"
+msgstr "レベル12"
+
+msgid "уровень 13"
+msgstr "レベル13"
+
+msgid "уровень 14"
+msgstr "レベル14"
+
+msgid "уровень 15"
+msgstr "レベル15"
+
+msgid "уровень 16"
+msgstr "レベル16"
+
+msgid "уровень 17"
+msgstr "レベル17"
+
+msgid "уровень 18"
+msgstr "レベル18"
+
+msgid "уровень 2"
+msgstr "レベル2"
+
+msgid "уровень 3"
+msgstr "レベル3"
+
+msgid "уровень 4"
+msgstr "レベル4"
+
+msgid "уровень 5"
+msgstr "レベル5"
+
+msgid "уровень 6"
+msgstr "レベル6"
+
+msgid "уровень 7"
+msgstr "レベル7"
+
+msgid "уровень 8"
+msgstr "レベル8"
+
+msgid "уровень 9"
+msgstr "レベル9"
+
+msgid "язык"
+msgstr "言語"

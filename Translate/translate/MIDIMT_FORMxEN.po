@@ -1,0 +1,336 @@
+#. extracted from gitlocalize-2023-12-12-midimt_formxen.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: 1212\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-12 12:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.0\n"
+"X-Merge-On: location\n"
+
+msgid "&Закрыть"
+msgstr "&Close"
+
+msgid "&О программе.."
+msgstr "&About the program.."
+
+msgid "&Перезагрузить модули"
+msgstr "&Reload modules"
+
+msgid "&Программа настройки MIDI панели"
+msgstr "& MIDI panel setup program"
+
+msgid "&Сохранить настройки"
+msgstr "&Save settings"
+
+msgid "&Старт"
+msgstr "&Start"
+
+msgid "&Установить Virtual MIDI драйвер"
+msgstr "&Install Virtual MIDI driver"
+
+msgid "ArtNet сеть:"
+msgstr "ArtNet network:"
+
+msgid "CA сертификат"
+msgstr "CA certificate"
+
+msgid "COM порт:"
+msgstr "COM port:"
+
+msgid "IN/OUT Бридж"
+msgstr "IN/OUT Bridge"
+
+msgid "IP адрес:"
+msgstr "IP address:"
+
+msgid "JOG фильтр сцены"
+msgstr "JOG scene filter"
+
+msgid "MIDI Прокси"
+msgstr "MIDI Proxy"
+
+msgid "MIDI драйвер"
+msgstr "MIDI driver"
+
+msgid "MIDI контролы"
+msgstr "MIDI controls"
+
+msgid "MIDI устройства"
+msgstr "MIDI devices"
+
+msgid "MQTT сервер"
+msgstr "MQTT server"
+
+msgid "MQTT топик префикс: (необязательно)"
+msgstr "MQTT topic prefix: (optional)"
+
+msgid "SSL/TLS включено"
+msgstr "SSL/TLS enabled"
+
+msgid "Авто старт при запуске"
+msgstr "Auto start at startup"
+
+msgid "Авто старт этой конфигурации"
+msgstr "Auto start of this configuration"
+
+msgid "Адрес:"
+msgstr "Address:"
+
+msgid "Базовая тема"
+msgstr "Basic theme"
+
+msgid "Безопасность"
+msgstr "Safety"
+
+msgid "Бит-рейт:"
+msgstr "Bit rate:"
+
+msgid "Броадкаст:"
+msgstr "Broadcast:"
+
+msgid "Включено"
+msgstr "Included"
+
+msgid "Включить DMX пул (стандартное поведение)"
+msgstr "Enable DMX pool (standard behavior)"
+
+msgid "Все"
+msgstr "All"
+
+msgid "Входные"
+msgstr "Input"
+
+msgid "Выходной порт не создается"
+msgstr "No output port is created"
+
+msgid "Выходные"
+msgstr "Weekend"
+
+msgid "Драйвер:"
+msgstr "Driver:"
+
+msgid "Замена значений громкости без проверки"
+msgstr "Replacing volume values ​​without checking"
+
+msgid "Записывать лог"
+msgstr "Write log"
+
+msgid "Запуск"
+msgstr "Launch"
+
+msgid "Запуск MIDI-MT"
+msgstr "Launching MIDI-MT"
+
+msgid "Запущен"
+msgstr "Launched"
+
+msgid "Интервал как долгое нажатие"
+msgstr "Interval like long press"
+
+msgid "Интервал между нажатиями"
+msgstr "Interval between clicks"
+
+msgid "Информация"
+msgstr "Information"
+
+msgid "Использовать правую кнопку мыши для вызова микшера"
+msgstr "Use right mouse button to bring up mixer"
+
+msgid "Кнопки"
+msgstr "Buttons"
+
+msgid "Контрол:"
+msgstr "Control:"
+
+msgid "Конфигурация"
+msgstr "Configuration"
+
+msgid "Маска:"
+msgstr "Mask:"
+
+msgid "Метро"
+msgstr "Metro"
+
+msgid "Модуль"
+msgstr "Module"
+
+msgid "Монитор MIDI команд"
+msgstr "MIDI command monitor"
+
+msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
+msgstr "The MIDI Command Monitor will help you determine how the controller is configured. To start testing, click the 'Start' button. Using the various controls on your controller, you will receive messages about the scene, number, and current value."
+
+msgid "Монитор команд"
+msgstr "Command Monitor"
+
+msgid "Мультимедиа"
+msgstr "Multimedia"
+
+msgid "Мультимедиа клавиатура"
+msgstr "Multimedia keyboard"
+
+msgid "Назначение (долгий клик):"
+msgstr "Purpose (long click):"
+
+msgid "Назначение:"
+msgstr "Purpose:"
+
+msgid "Настройка MIDI контролов"
+msgstr "Setting up MIDI controls"
+
+msgid "Настройка модулей"
+msgstr "Setting up modules"
+
+msgid "Настройка пользовательской темы"
+msgstr "Setting up a custom theme"
+
+msgid "Настройка управления MIDI"
+msgstr "Setting up MIDI control"
+
+msgid "Настройки MIDI"
+msgstr "MIDI Settings"
+
+msgid "Настройки Микшера Звука"
+msgstr "Audio Mixer Settings"
+
+msgid "Номер вселенной:"
+msgstr "Universe number:"
+
+msgid "Обновления"
+msgstr "Updates"
+
+msgid "Объединять приложения по названию, раздельная регулировка невозможна"
+msgstr "Combine applications by name; separate adjustments are not possible"
+
+msgid "Описание модуля"
+msgstr "Module description"
+
+msgid "Опции"
+msgstr "Options"
+
+msgid "Освещение"
+msgstr "Lighting"
+
+msgid "Остановлен"
+msgstr "Stopped"
+
+msgid "Открыть файл конфигурации"
+msgstr "Open configuration file"
+
+msgid "Очи&стить"
+msgstr "Cleanse"
+
+msgid "Подсказки"
+msgstr "Hints"
+
+msgid "Помощь"
+msgstr "Help"
+
+msgid "Порт:"
+msgstr "Port:"
+
+msgid "Предпочитаемый язык:"
+msgstr "Preferred language:"
+
+msgid "Просмотр лог-файла"
+msgstr "View the log file"
+
+msgid "Регулируемые микшером приложения:"
+msgstr "Applications controlled by the mixer:"
+
+msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
+msgstr "Recommended MIDI control panel layout. The file with the settings for this layout is located in the 'docs/MIDIMT.Ctrl_data' folder"
+
+msgid "Рэтро"
+msgstr "Retro"
+
+msgid "Светлая"
+msgstr "Light"
+
+msgid "Слайдеры"
+msgstr "Sliders"
+
+msgid "Служба ArtNet"
+msgstr "ArtNet Service"
+
+msgid "Служба DMX"
+msgstr "DMX service"
+
+msgid "Современный"
+msgstr "Modern"
+
+msgid "Сохранить &настройки"
+msgstr "Save &settings"
+
+msgid "Ст&арт"
+msgstr "Start"
+
+msgid "Ст&оп"
+msgstr "Stop"
+
+msgid "Старт при загрузке системы"
+msgstr "Start at system boot"
+
+msgid "Стоп-бит:"
+msgstr "Stop bit:"
+
+msgid "Сцена:"
+msgstr "Scene:"
+
+msgid "Тайм-аут:"
+msgstr "Time-out:"
+
+msgid "Тип контрола:"
+msgstr "Control type:"
+
+msgid "Трансляция входных MIDI-команд в команды мультимедиа клавиатуры. Управление воспроизведением сторонних мультимедиа программ."
+msgstr "Translation of MIDI input commands into multimedia keyboard commands. Control playback of third-party multimedia programs."
+
+msgid "Тёмная"
+msgstr "Dark"
+
+msgid "Умный Дом"
+msgstr "Smart House"
+
+msgid "Устанавливать сохранённые уровни громкости при старте"
+msgstr "Set saved volume levels at startup"
+
+msgid "Цвет рамки"
+msgstr "Frame color"
+
+msgid "Цвет текста"
+msgstr "Text color"
+
+msgid "Цвет фона"
+msgstr "Background color"
+
+msgid "Цвета вашей темы"
+msgstr "Your Theme Colors"
+
+msgid "ключ PSK:"
+msgstr "PSK key:"
+
+msgid "количество портов"
+msgstr "number of ports"
+
+msgid "логин:"
+msgstr "login:"
+
+msgid "пароль:"
+msgstr "password:"
+
+msgid "порт:"
+msgstr "port:"
+
+msgid "самоподписанный"
+msgstr "self-signed"
+
+msgid "уровень логирования MQTT сессий:"
+msgstr "MQTT session logging level:"

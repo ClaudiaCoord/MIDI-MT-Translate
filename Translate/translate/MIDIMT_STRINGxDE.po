@@ -1,0 +1,831 @@
+#. extracted from gitlocalize-2023-12-12-midimt_stringxde.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: 1212\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-12 12:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.0\n"
+"X-Merge-On: location\n"
+
+msgid "&Микшер"
+msgstr "&Rührgerät"
+
+msgid "&Настройки"
+msgstr "&Einstellungen"
+
+msgid "CA сертификат"
+msgstr "CA-Zertifikat"
+
+msgid "Co*Create - не удалось создать экземпляр."
+msgstr "Co*Create – es konnte keine Instanz erstellt werden."
+
+msgid "Co*Initialize инициализация не удалась."
+msgstr "Die Co*Initialize-Initialisierung ist fehlgeschlagen."
+
+msgid "JOG (перемотка видеокадра)"
+msgstr "JOG (Videobild zurückspulen)"
+
+msgid "MIDI-MT Конфигурация"
+msgstr "MIDI-MT-Konfiguration"
+
+msgid "MIDI-MT транслятор"
+msgstr "MIDI-MT-Übersetzer"
+
+msgid "MIDIMT - Аудио микшер не запущен:"
+msgstr "MIDIMT – Audiomixer läuft nicht:"
+
+msgid "MIDIMT - Невозможно закончить операцию:"
+msgstr "MIDIMT – Vorgang konnte nicht abgeschlossen werden:"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "[Конфигурация пуста..]"
+msgstr "[Konfiguration ist leer..]"
+
+msgid "Автозапуск запрещен в общей конфигурации."
+msgstr "Autorun ist in der allgemeinen Konfiguration deaktiviert."
+
+msgid "Аудио пиковый измеритель не доступен."
+msgstr "Audio-Peak-Meter ist nicht verfügbar."
+
+msgid "Аудиомикшер не запущен, проверьте настройки, должен быть включен запуск аудиопанели."
+msgstr "Der Audiomixer läuft nicht, überprüfen Sie die Einstellungen, der Start des Audiopanels muss aktiviert sein."
+
+msgid "Аудиосеанс '{0}' – неправильное состояние регистрации '{1}': {2}/{3}"
+msgstr "Audiositzung „{0}“ – Ungültiger Registrierungsstatus „{1}“: {2}/{3}"
+
+msgid "Бридж уже запущен."
+msgstr "Die Brücke wurde bereits gestartet."
+
+msgid "Бридж уже остановлен."
+msgstr "Die Brücke ist bereits stehen geblieben."
+
+msgid "Бридж успешно запущен, инициализировано {0}, загружено {1}, запущено {2} плагинов."
+msgstr "Bridge erfolgreich gestartet, {0} initialisiert, {1} geladen, {2} Plugins ausgeführt."
+
+msgid "Бридж успешно остановлен, инициализировано {0}, загружено {1}, запущено {2}, остановлено {3} плагинов."
+msgstr "Bridge erfolgreich gestoppt, {0} initialisiert, {1} geladen, {2} gestartet, {3} Plugins gestoppt."
+
+msgid "В этой конфигурации не настроены MIDI-клавиши."
+msgstr "In dieser Konfiguration sind keine MIDI-Tasten konfiguriert."
+
+msgid "Вверх (джойстик)"
+msgstr "Oben (Joystick)"
+
+msgid "Версия драйвера [{0}]"
+msgstr "Treiberversion [{0}]"
+
+msgid "Версия установленного Virtual MIDI драйвера: {0}"
+msgstr "Installierte Virtual MIDI-Treiberversion: {0}"
+
+msgid "Виртуальный MIDI драйвер не установлен. Необходимо установить пакет loopMidi, или скачать полную весию установщика и переустановить MIDI-MT. Подробнее: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
+msgstr "Der virtuelle MIDI-Treiber ist nicht installiert. Sie müssen das LoopMidi-Paket installieren oder das vollständige Installationsprogramm herunterladen und MIDI-MT neu installieren. Weitere Details: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
+
+msgid "Включен={0},настройки={1},запущен={2}"
+msgstr "Aktiviert={0}, Einstellungen={1}, läuft={2}"
+
+msgid "Влево (джойстик)"
+msgstr "Links (Joystick)"
+
+msgid "Вниз (джойстик)"
+msgstr "Unten (Joystick)"
+
+msgid "Внимание, в этой конфигурации не настроены MIDI-клавиши! записанная конфигурацию будет не работоспособной."
+msgstr "Achtung, bei dieser Konfiguration sind keine MIDI-Tasten konfiguriert! Die aufgezeichnete Konfiguration funktioniert nicht."
+
+msgid "Внимание, несоответствие количества устройств в итоговом списке, система/список = {0}/{1}"
+msgstr "Achtung, die Anzahl der Geräte in der endgültigen Liste stimmt nicht überein, system/list = {0}/{1}"
+
+msgid "Вправо (джойстик)"
+msgstr "Rechts (Joystick)"
+
+msgid "Все настройки '{0}', версия конфигурационного файла: {1}"
+msgstr "Alle Einstellungen „{0}“, Konfigurationsdateiversion: {1}"
+
+msgid "Вы&ход"
+msgstr "Ausfahrt"
+
+msgid "Выберите ARTNET интерфейс"
+msgstr "Wählen Sie ARTNET-Schnittstelle"
+
+msgid "Выберите DMX устройство"
+msgstr "DMX-Gerät auswählen"
+
+msgid "Выбранная конфигурация не поддерживает авто старт."
+msgstr "Die ausgewählte Konfiguration unterstützt keinen automatischen Start."
+
+msgid "Выбранный {0} язык будет активным после перезапуска окна."
+msgstr "Die ausgewählte {0}-Sprache ist nach dem Neustart des Fensters aktiv."
+
+msgid "Выходные MIDI порты отключены."
+msgstr "MIDI-Ausgangsports sind deaktiviert."
+
+msgid "Доступ на запись к файлу конфигурации запрещен, '{0}'"
+msgstr "Der Schreibzugriff auf die Konfigurationsdatei wurde verweigert, „{0}“"
+
+msgid "Запись (проигрыватель)"
+msgstr "Aufnahme (Player)"
+
+msgid "Играть (проигрыватель)"
+msgstr "Spielen (Spieler)"
+
+msgid "Имя MIDI-устройства не задано в конфигурации."
+msgstr "Der MIDI-Gerätename ist nicht konfiguriert."
+
+msgid "Имя конфигурации не указано, продолжение невозможно."
+msgstr "Der Konfigurationsname ist nicht angegeben und kann nicht fortgesetzt werden."
+
+msgid "Инициализируйте, прежде чем вызывать это.."
+msgstr "Initialisieren Sie, bevor Sie dies aufrufen."
+
+msgid "Клиент MMQTT успешно создан, продолжаем.."
+msgstr "Der MMQTT-Client wurde erfolgreich erstellt, fahren Sie fort..."
+
+msgid "Конфигурация MQTT не заполнена, продолжение невозможно."
+msgstr "Die MQTT-Konfiguration ist leer und kann nicht fortgesetzt werden."
+
+msgid "Конфигурация для модуля {0} пуста.."
+msgstr "Die Konfiguration für Modul {0} ist leer."
+
+msgid "Конфигурация загружена из драйвера"
+msgstr "Konfiguration vom Treiber geladen"
+
+msgid "Конфигурация загружена из файла"
+msgstr "Konfiguration aus Datei geladen"
+
+msgid "Конфигурация загружена из файла: {0}"
+msgstr "Konfiguration aus Datei geladen: {0}"
+
+msgid "Конфигурация загружена.."
+msgstr "Konfiguration geladen.."
+
+msgid "Конфигурация обновлена: {0} = {1}{2}"
+msgstr "Konfiguration aktualisiert: {0} = {1}{2}"
+
+msgid "Конфигурация пустая.."
+msgstr "Die Konfiguration ist leer."
+
+msgid "Конфигурация создана заново и требует заполнения"
+msgstr "Die Konfiguration wurde neu erstellt und muss ausgefüllt werden"
+
+msgid "Конфигурация уже загружена.."
+msgstr "Die Konfiguration wurde bereits geladen."
+
+msgid "Микшер аудиосеансов запущен, на момент старта имеется {0} запущенных программ, доступных для регулирования."
+msgstr "Der Audio-Session-Mixer läuft, zum Zeitpunkt des Starts stehen {0} laufende Programme zur Regelung zur Verfügung."
+
+msgid "Микшер аудиосессий не был правильно остановлен, сведения об ошибке должны быть в файле журнала."
+msgstr "Der Audio-Session-Mixer wurde nicht ordnungsgemäß gestoppt. Fehlerdetails sollten in der Protokolldatei enthalten sein."
+
+msgid "Микшер аудиосессий остановлен."
+msgstr "Der Audio-Session-Mixer wurde gestoppt."
+
+msgid "Модули не найдены, запуск невозможен."
+msgstr "Keine Module gefunden, Start nicht möglich."
+
+msgid "Модуль не является плагином MIDI-MT, отсутствуют необходимые точки входа."
+msgstr "Das Modul ist kein MIDI-MT-Plugin und die erforderlichen Einstiegspunkte fehlen."
+
+msgid "Мультимедийные клавиши"
+msgstr "Multimedia-Tasten"
+
+msgid "Настройки MIDI"
+msgstr "MIDI-Einstellungen"
+
+msgid "Настройки Умного Дома (MQTT)"
+msgstr "Smart Home-Einstellungen (MQTT)"
+
+msgid "Настройки мультимедиа клавиатуры (MMKEYS)"
+msgstr "Multimedia-Tastatureinstellungen (MMKEYS)"
+
+msgid "Настройки управления освещением ({0})"
+msgstr "Beleuchtungssteuerungseinstellungen ({0})"
+
+msgid "Не задано имя для активного устройства, продолжение невозможно, id = {0}/{1}"
+msgstr "Der Name für das aktive Gerät ist nicht angegeben, Fortsetzung ist nicht möglich, ID = {0}/{1}"
+
+msgid "Не заданы прокси-порты в конфигурации, MIDI-прокси отключено."
+msgstr "Proxy-Ports sind in der Konfiguration nicht angegeben, MIDI-Proxy ist deaktiviert."
+
+msgid "Не назначено"
+msgstr "Nicht zugeordnet"
+
+msgid "Не удается запустить MIDI-устройство, продолжение невозможно, id = {0}/{1}"
+msgstr "MIDI-Gerät kann nicht gestartet werden, kann nicht fortfahren, ID = {0}/{1}"
+
+msgid "Не удается открыть MIDI-устройство, продолжение невозможно, id = {0}/{1}"
+msgstr "MIDI-Gerät kann nicht geöffnet werden, kann nicht fortfahren, ID = {0}/{1}"
+
+msgid "Не удалось загрузить плагины, предварительно инициализировано {0}, загружено 0 плагинов."
+msgstr "Plugins konnten nicht geladen werden, vorinitialisiert {0}, 0 Plugins geladen."
+
+msgid "Не удалось запустить бридж, ошибка при старте плагинов, инициализировано {0}, загружено {1} плагинов."
+msgstr "Fehler beim Starten der Bridge, Fehler beim Starten der Plugins, {0} initialisiert, {1} Plugins geladen."
+
+msgid "Не удалось запустить микшер аудиосессий, сведения об ошибке должны быть в файле журнала."
+msgstr "Der Audio-Session-Mixer konnte nicht gestartet werden, Fehlerdetails sollten in der Protokolldatei enthalten sein."
+
+msgid "Не удалось инициализировать плагины, совместимые плагины не обнаружены."
+msgstr "Plugins konnten nicht initialisiert werden, es wurden keine kompatiblen Plugins gefunden."
+
+msgid "Не удалось остановить бридж, ошибка при остановке плагинов, инициализировано {0}, загружено {1}, запущено {2} плагинов."
+msgstr "Bridge konnte nicht gestoppt werden, Fehler beim Stoppen der Plugins, {0} initialisiert, {1} geladen, {2} Plugins werden ausgeführt."
+
+msgid "Не удалось открыть модуль плагина. Модуль отсутствует или поврежден, DLL небыл загружен и вернул значение null."
+msgstr "Plugin-Modul konnte nicht geöffnet werden. Das Modul fehlt oder ist beschädigt, die DLL wurde nicht geladen und hat null zurückgegeben."
+
+msgid "Не удалось переключается на поток пользовательского интерфейса, запуск аудиопанели прерван."
+msgstr "Der Wechsel zum UI-Thread ist fehlgeschlagen, der Start des Audio-Panels wurde abgebrochen."
+
+msgid "Не удалось подключиться к серверу MQTT:"
+msgstr "Verbindung zum MQTT-Server konnte nicht hergestellt werden:"
+
+msgid "Не удалось получить аудио устройство по умолчанию."
+msgstr "Das Standard-Audiogerät konnte nicht abgerufen werden."
+
+msgid "Не удалось получить список аудиосеансов."
+msgstr "Die Liste der Audiositzungen konnte nicht abgerufen werden."
+
+msgid "Неверный идентификатор события. Пожалуйста, перезапустите это приложение."
+msgstr "Ungültige Ereignis-ID. Bitte starten Sie diese Anwendung neu."
+
+msgid "Неоходимо установить Virtual MIDI драйвер!"
+msgstr "Sie müssen den Virtual MIDI-Treiber installieren!"
+
+msgid "Неподдерживаемая реализация в коде, метод не переопределен: {0}"
+msgstr "Nicht unterstützte Implementierung im Code, Methode nicht überschrieben: {0}"
+
+msgid "Номер DMX канала"
+msgstr "DMX-Kanalnummer"
+
+msgid "Обнаружена новая версия конфигурации.."
+msgstr "Neue Konfigurationsversion erkannt."
+
+msgid "Окно панели аудиомикшера не соответствует статусу, невозможно продолжить следующую операцию."
+msgstr "Das Fenster des Audio-Mixer-Panels hat nicht den richtigen Status und der nächste Vorgang kann nicht fortgesetzt werden."
+
+msgid "Отключение аудиосессии, причина='{0}'"
+msgstr "Audiositzung wird deaktiviert, Grund = „{0}“"
+
+msgid "Отключено от сервера MQTT:"
+msgstr "Vom MQTT-Server getrennt:"
+
+msgid "Ошибка инициализации плагина, невозможно преобразовать CLSID/GUID из указанной строки."
+msgstr "Plugin-Initialisierungsfehler, CLSID/GUID konnte nicht aus der angegebenen Zeichenfolge konvertiert werden."
+
+msgid "Ошибка инициализации приложения, продолжение невзможно."
+msgstr "Anwendungsinitialisierungsfehler, Fortsetzung ist nicht möglich."
+
+msgid "Ошибка создания клиента MQTT, отмена."
+msgstr "Fehler beim Erstellen des MQTT-Clients, Abbruch."
+
+msgid "Панель аудио микшера - продолжение невозможно, ошибка инициализации."
+msgstr "Audiomixer-Bedienfeld – kann nicht fortfahren, Initialisierungsfehler."
+
+msgid "Панель аудиомикшера - продолжение невозможно, элементы индекса неверны."
+msgstr "Audiomixer-Bedienfeld – Fortsetzung nicht möglich, Indexelemente sind falsch."
+
+msgid "Панель аудиомикшера вызвана не в потоке пользовательского интерфейса, изменения невозможны."
+msgstr "Das Audiomixer-Bedienfeld wird nicht in einem UI-Thread aufgerufen und es können keine Änderungen vorgenommen werden."
+
+msgid "Панель аудиомикшера обнаружила неверный элемент, прервано создание окна панели."
+msgstr "Das Audiomixer-Panel hat ein ungültiges Element erkannt und die Erstellung des Panel-Fensters wurde abgebrochen."
+
+msgid "Перемотка вперед (проигрыватель)"
+msgstr "Schneller Vorlauf (Spieler)"
+
+msgid "Перемотка назад (проигрыватель)"
+msgstr "Zurückspulen (Spieler)"
+
+msgid "Плагины инициализированы успешно, предварительная инициализация {0}, загружено {1} плагинов."
+msgstr "Plugins erfolgreich initialisiert, Vorinitialisierung {0}, {1} Plugins geladen."
+
+msgid "Плагины уже загружены, перед перезагрузкой выполните сброс."
+msgstr "Die Plugins sind bereits geladen, bitte vor dem Neustart zurücksetzen."
+
+msgid "Подключено к серверу MQTT:"
+msgstr "Mit MQTT-Server verbunden:"
+
+msgid "Подходящие интерфейсы отсутствуют"
+msgstr "Keine passenden Schnittstellen verfügbar"
+
+msgid "Подходящие устройства отсутствуют"
+msgstr "Keine passenden Geräte verfügbar"
+
+msgid "Пожалуйста, отредактируйте конфигурацию перед запуском."
+msgstr "Bitte bearbeiten Sie die Konfiguration, bevor Sie beginnen."
+
+msgid "Пожалуйста, перед запуском монитора, запустите транслятор из меню, выбрав пункт 'Старт'."
+msgstr "Bevor Sie den Monitor starten, starten Sie bitte den Übersetzer über das Menü, indem Sie „Start“ auswählen."
+
+msgid "При запуске будут созданы {0} выходных MIDI портов."
+msgstr "Beim Start werden {0} MIDI-Ausgangsports erstellt."
+
+msgid "При запуске будут созданы {0} прокси MIDI портов."
+msgstr "Beim Start werden {0} Proxy-MIDI-Ports erstellt."
+
+msgid "При запуске был указан файл конфигурации: '{0}'. Установить его как конфигурацию для последующих запусков?"
+msgstr "Beim Start wurde die Konfigurationsdatei angegeben: „{0}“. Als Konfiguration für nachfolgende Läufe festlegen?"
+
+msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
+msgstr "Beim Öffnen des Editors wurde die Konfigurationsdatei angegeben: „{0}“. Unter demselben Namen speichern?"
+
+msgid "Проблема с версией драйвера [{0}]"
+msgstr "Problem mit der Treiberversion [{0}]"
+
+msgid "Проверьте права пользователя на запись файлов в каталоге приложения. Если ошибка повториться, попробуйте отключить ведение лог-файла."
+msgstr "Überprüfen Sie die Berechtigungen des Benutzers zum Schreiben von Dateien im Anwendungsverzeichnis. Wenn der Fehler weiterhin besteht, versuchen Sie, die Protokollierung zu deaktivieren."
+
+msgid "Прокси MIDI порты отключены."
+msgstr "Proxy-MIDI-Ports sind deaktiviert."
+
+msgid "Сбой диспетчера аудиосеансов."
+msgstr "Der Audio Session Manager ist abgestürzt."
+
+msgid "Сбой загрузки конфигурации, файл не найден, запуск невозможен.."
+msgstr "Das Laden der Konfiguration ist fehlgeschlagen, die Datei wurde nicht gefunden, der Start ist nicht möglich."
+
+msgid "Скраб"
+msgstr "Schrubben"
+
+msgid "Служба управления Умным домом запущена."
+msgstr "Der Smart Home-Steuerungsdienst wurde gestartet."
+
+msgid "Служба управления Умным домом остановлена."
+msgstr "Der Smart Home-Steuerungsdienst wurde gestoppt."
+
+msgid "Служба управления мультимедийными ключами запущена."
+msgstr "Der Media Key Management-Dienst wird ausgeführt."
+
+msgid "Служба управления мультимедийными ключами остановлена."
+msgstr "Der Medienschlüsselverwaltungsdienst wurde gestoppt."
+
+msgid "Служба управления освещением ArtNet запущена с использованием широковещательного адреса {0}:{1} в сети {2}."
+msgstr "Der ArtNet Lighting Control Service wird unter Verwendung der Broadcast-Adresse {0}:{1} im Netzwerk {2} ausgeführt."
+
+msgid "Служба управления освещением ArtNet не запущена, конфигурация службы не заполнена."
+msgstr "Der ArtNet-Lichtsteuerungsdienst läuft nicht, die Dienstkonfiguration ist nicht ausgefüllt."
+
+msgid "Служба управления освещением ArtNet не запущена, сеть {0} не найдена.."
+msgstr "ArtNet-Beleuchtungssteuerungsdienst läuft nicht, Netzwerk {0} nicht gefunden."
+
+msgid "Служба управления освещением ArtNet остановлена."
+msgstr "Der ArtNet-Lichtsteuerungsdienst wurde gestoppt."
+
+msgid "Служба управления освещением DMX запущена с использованием COM{0} – {1}."
+msgstr "Der DMX-Lichtsteuerungsdienst wird über COM{0} - {1} gestartet."
+
+msgid "Служба управления освещением DMX не запущена, конфигурация службы не заполнена."
+msgstr "Der DMX-Lichtsteuerungsdienst läuft nicht und die Dienstkonfiguration ist nicht ausgefüllt."
+
+msgid "Служба управления освещением DMX не запущена, устройство COM{0} не подключено.."
+msgstr "Der DMX-Lichtsteuerungsdienst läuft nicht, das COM{0}-Gerät ist nicht verbunden."
+
+msgid "Служба управления освещением DMX остановлена."
+msgstr "Der DMX-Lichtsteuerungsdienst wurde gestoppt."
+
+msgid "Создана аудиосессия, имя='{0}'"
+msgstr "Audiositzung erstellt, Name='{0}'"
+
+msgid "Список аудиосессий пуст!"
+msgstr "Die Liste der Audiositzungen ist leer!"
+
+msgid "Ст&арт"
+msgstr "Start"
+
+msgid "Ст&оп"
+msgstr "Stoppen"
+
+msgid "Стоп (проигрыватель)"
+msgstr "Stopp (Spieler)"
+
+msgid "Увеличение"
+msgstr "Zunahme"
+
+msgid "Управление «Микшером»"
+msgstr "Mixersteuerung"
+
+msgid "Управление «Умным домом»"
+msgstr "Smart Home-Management"
+
+msgid "Управление освещением (16 бит)"
+msgstr "Lichtsteuerung (16 Bit)"
+
+msgid "Управление освещением (8 бит)"
+msgstr "Lichtsteuerung (8 Bit)"
+
+msgid "Устанавливаемое значение из обратного вызова - неверный селектор."
+msgstr "Der vom Rückruf festgelegte Wert ist ein ungültiger Selektor."
+
+msgid "Установка обратного вызова возможна только после успешного запуска MIDI-моста."
+msgstr "Das Setzen eines Rückrufs ist erst möglich, nachdem die MIDI-Bridge erfolgreich gestartet wurde."
+
+msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора."
+msgstr "Der installierte Virtual MIDI-Treiber wurde nicht gefunden! Sie müssen das Virtual Loop MIDI-Paket installieren, um den MIDI-MT-Übersetzer auszuführen."
+
+msgid "Устройства не подключены, продолжение невозможно."
+msgstr "Die Geräte sind nicht verbunden und können nicht fortfahren."
+
+msgid "Устройство {0} готово (система)"
+msgstr "Gerät {0} bereit (System)"
+
+msgid "Устройство {0} закрыто (система)"
+msgstr "Gerät {0} geschlossen (System)"
+
+msgid "Устройство {0} найдено, {1}"
+msgstr "Gerät {0} gefunden, {1}"
+
+msgid "Устройство {0} открыто, {1}"
+msgstr "Gerät {0} geöffnet, {1}"
+
+msgid "Устройство {0} отправило неверное значение = {1}"
+msgstr "Gerät {0} hat einen ungültigen Wert gesendet = {1}"
+
+msgid "Устройство не подключено, abort, id = {0}/{1}"
+msgstr "Gerät nicht verbunden, Abbruch, ID = {0}/{1}"
+
+msgid "Файл конфигурации"
+msgstr "Die Konfigurationsdatei"
+
+msgid "Файл конфигурации отсутствует или доступ запрещен, '{0}'"
+msgstr "Konfigurationsdatei fehlt oder Zugriff verweigert, „{0}“"
+
+msgid "Файл конфигурации пуст, '{0}'"
+msgstr "Die Konfigurationsdatei ist leer, „{0}“."
+
+msgid "Файл сертификата CA не существует, путь = '{0}'"
+msgstr "CA-Zertifikatdatei existiert nicht, Pfad = „{0}“"
+
+msgid "Эта ошибка не определена"
+msgstr "Dieser Fehler ist undefiniert"
+
+msgid "аудио соло (канал 1)"
+msgstr "Audio Solo (Kanal 1)"
+
+msgid "аудио соло (канал 2)"
+msgstr "Audio Solo (Kanal 2)"
+
+msgid "аудио соло (канал 3)"
+msgstr "Audio Solo (Kanal 3)"
+
+msgid "аудио соло (канал 4)"
+msgstr "Audio Solo (Kanal 4)"
+
+msgid "аудио соло (канал 5)"
+msgstr "Audio Solo (Kanal 5)"
+
+msgid "аудио соло (канал 6)"
+msgstr "Audio Solo (Kanal 6)"
+
+msgid "аудио соло (канал 7)"
+msgstr "Audio Solo (Kanal 7)"
+
+msgid "аудио соло (канал 8)"
+msgstr "Audio Solo (Kanal 8)"
+
+msgid "аудио соло (канал 9)"
+msgstr "Audio Solo (Kanal 9)"
+
+msgid "аудио соло (основной)"
+msgstr "Audio Solo (Haupt)"
+
+msgid "вкл/выкл 1"
+msgstr "Ein/Aus 1"
+
+msgid "вкл/выкл 10"
+msgstr "ein/aus 10"
+
+msgid "вкл/выкл 11"
+msgstr "ein/aus 11"
+
+msgid "вкл/выкл 12"
+msgstr "ein/aus 12"
+
+msgid "вкл/выкл 13"
+msgstr "ein/aus 13"
+
+msgid "вкл/выкл 14"
+msgstr "ein/aus 14"
+
+msgid "вкл/выкл 15"
+msgstr "ein/aus 15"
+
+msgid "вкл/выкл 16"
+msgstr "ein/aus 16"
+
+msgid "вкл/выкл 17"
+msgstr "ein/aus 17"
+
+msgid "вкл/выкл 18"
+msgstr "ein/aus 18"
+
+msgid "вкл/выкл 19"
+msgstr "ein/aus 19"
+
+msgid "вкл/выкл 2"
+msgstr "ein/aus 2"
+
+msgid "вкл/выкл 20"
+msgstr "ein/aus 20"
+
+msgid "вкл/выкл 21"
+msgstr "ein/aus 21"
+
+msgid "вкл/выкл 22"
+msgstr "ein/aus 22"
+
+msgid "вкл/выкл 23"
+msgstr "ein/aus 23"
+
+msgid "вкл/выкл 24"
+msgstr "ein/aus 24"
+
+msgid "вкл/выкл 25"
+msgstr "ein/aus 25"
+
+msgid "вкл/выкл 26"
+msgstr "ein/aus 26"
+
+msgid "вкл/выкл 27"
+msgstr "ein/aus 27"
+
+msgid "вкл/выкл 3"
+msgstr "ein/aus 3"
+
+msgid "вкл/выкл 4"
+msgstr "ein/aus 4"
+
+msgid "вкл/выкл 5"
+msgstr "ein/aus 5"
+
+msgid "вкл/выкл 6"
+msgstr "ein/aus 6"
+
+msgid "вкл/выкл 7"
+msgstr "ein/aus 7"
+
+msgid "вкл/выкл 8"
+msgstr "ein/aus 8"
+
+msgid "вкл/выкл 9"
+msgstr "ein/aus 9"
+
+msgid "все сообщения"
+msgstr "alle Nachrichten"
+
+msgid "выбор звука (канал 1)"
+msgstr "Tonauswahl (Kanal 1)"
+
+msgid "выбор звука (канал 2)"
+msgstr "Tonauswahl (Kanal 2)"
+
+msgid "выбор звука (канал 3)"
+msgstr "Tonauswahl (Kanal 3)"
+
+msgid "выбор звука (канал 4)"
+msgstr "Tonauswahl (Kanal 4)"
+
+msgid "выбор звука (канал 5)"
+msgstr "Tonauswahl (Kanal 5)"
+
+msgid "выбор звука (канал 6)"
+msgstr "Tonauswahl (Kanal 6)"
+
+msgid "выбор звука (канал 7)"
+msgstr "Tonauswahl (Kanal 7)"
+
+msgid "выбор звука (канал 8)"
+msgstr "Tonauswahl (Kanal 8)"
+
+msgid "выбор звука (канал 9)"
+msgstr "Tonauswahl (Kanal 9)"
+
+msgid "громкость звука (канал 1)"
+msgstr "Lautstärke (Kanal 1)"
+
+msgid "громкость звука (канал 2)"
+msgstr "Lautstärke (Kanal 2)"
+
+msgid "громкость звука (канал 3)"
+msgstr "Lautstärke (Kanal 3)"
+
+msgid "громкость звука (канал 4)"
+msgstr "Lautstärke (Kanal 4)"
+
+msgid "громкость звука (канал 5)"
+msgstr "Lautstärke (Kanal 5)"
+
+msgid "громкость звука (канал 6)"
+msgstr "Lautstärke (Kanal 6)"
+
+msgid "громкость звука (канал 7)"
+msgstr "Lautstärke (Kanal 7)"
+
+msgid "громкость звука (канал 8)"
+msgstr "Lautstärke (Kanal 8)"
+
+msgid "громкость звука (канал 9)"
+msgstr "Lautstärke (Kanal 9)"
+
+msgid "громкость звука (основной)"
+msgstr "Lautstärke (Hauptton)"
+
+msgid "да"
+msgstr "Ja"
+
+msgid "действие не определено"
+msgstr "Aktion nicht definiert"
+
+msgid "звуковой баланс (канал 1)"
+msgstr "Klangbalance (Kanal 1)"
+
+msgid "звуковой баланс (канал 2)"
+msgstr "Klangbalance (Kanal 2)"
+
+msgid "звуковой баланс (канал 3)"
+msgstr "Klangbalance (Kanal 3)"
+
+msgid "звуковой баланс (канал 4)"
+msgstr "Klangbalance (Kanal 4)"
+
+msgid "звуковой баланс (канал 5)"
+msgstr "Klangbalance (Kanal 5)"
+
+msgid "звуковой баланс (канал 6)"
+msgstr "Klangbalance (Kanal 6)"
+
+msgid "звуковой баланс (канал 7)"
+msgstr "Klangbalance (Kanal 7)"
+
+msgid "звуковой баланс (канал 8)"
+msgstr "Klangbalance (Kanal 8)"
+
+msgid "звуковой баланс (канал 9)"
+msgstr "Klangbalance (Kanal 9)"
+
+msgid "звуковой баланс (основной)"
+msgstr "Klangbalance (Grundkenntnisse)"
+
+msgid "информация"
+msgstr "Information"
+
+msgid "лог не ведется"
+msgstr "Es wird kein Protokoll geführt"
+
+msgid "нет"
+msgstr "Nein"
+
+msgid "отключение звука (канал 1)"
+msgstr "stumm (Kanal 1)"
+
+msgid "отключение звука (канал 2)"
+msgstr "stumm (Kanal 2)"
+
+msgid "отключение звука (канал 3)"
+msgstr "stumm (Kanal 3)"
+
+msgid "отключение звука (канал 4)"
+msgstr "stumm (Kanal 4)"
+
+msgid "отключение звука (канал 5)"
+msgstr "stumm (Kanal 5)"
+
+msgid "отключение звука (канал 6)"
+msgstr "stumm (Kanal 6)"
+
+msgid "отключение звука (канал 7)"
+msgstr "stumm (Kanal 7)"
+
+msgid "отключение звука (канал 8)"
+msgstr "stumm (Kanal 8)"
+
+msgid "отключение звука (канал 9)"
+msgstr "stumm (Kanal 9)"
+
+msgid "отключение звука (основной)"
+msgstr "stumm (Haupt)"
+
+msgid "предупреждения"
+msgstr "Warnungen"
+
+msgid "только ошибки"
+msgstr "nur Fehler"
+
+msgid "транслятор остановлен:"
+msgstr "Der Übersetzer wird gestoppt:"
+
+msgid "транслятор работает:"
+msgstr "Der Übersetzer arbeitet:"
+
+msgid "уведомления"
+msgstr "Benachrichtigungen"
+
+msgid "уровень 1"
+msgstr "Level 1"
+
+msgid "уровень 10"
+msgstr "Stufe 10"
+
+msgid "уровень 11"
+msgstr "Stufe 11"
+
+msgid "уровень 12"
+msgstr "Stufe 12"
+
+msgid "уровень 13"
+msgstr "Stufe 13"
+
+msgid "уровень 14"
+msgstr "Stufe 14"
+
+msgid "уровень 15"
+msgstr "Stufe 15"
+
+msgid "уровень 16"
+msgstr "Stufe 16"
+
+msgid "уровень 17"
+msgstr "Stufe 17"
+
+msgid "уровень 18"
+msgstr "Stufe 18"
+
+msgid "уровень 2"
+msgstr "Level 2"
+
+msgid "уровень 3"
+msgstr "Stufe 3"
+
+msgid "уровень 4"
+msgstr "Level 4"
+
+msgid "уровень 5"
+msgstr "Level 5"
+
+msgid "уровень 6"
+msgstr "Stufe 6"
+
+msgid "уровень 7"
+msgstr "Stufe 7"
+
+msgid "уровень 8"
+msgstr "Stufe 8"
+
+msgid "уровень 9"
+msgstr "Stufe 9"
+
+msgid "функция F1 (стандартный режим)"
+msgstr "Funktion F1 (Standardmodus)"
+
+msgid "функция F1 (удерживаемый режим)"
+msgstr "Funktion F1 (Haltemodus)"
+
+msgid "функция F2 (стандартный режим)"
+msgstr "Funktion F2 (Standardmodus)"
+
+msgid "функция F2 (удерживаемый режим)"
+msgstr "Funktion F2 (Held-Modus)"
+
+msgid "функция F3 (стандартный режим)"
+msgstr "Funktion F3 (Standardmodus)"
+
+msgid "функция F3 (удерживаемый режим)"
+msgstr "Funktion F3 (Haltemodus)"
+
+msgid "функция F4 (стандартный режим)"
+msgstr "Funktion F4 (Standardmodus)"
+
+msgid "функция F4 (удерживаемый режим)"
+msgstr "Funktion F4 (Haltemodus)"
+
+msgid "функция F5 (стандартный режим)"
+msgstr "Funktion F5 (Standardmodus)"
+
+msgid "функция F5 (удерживаемый режим)"
+msgstr "Funktion F5 (Haltemodus)"
+
+msgid "функция F6 (стандартный режим)"
+msgstr "Funktion F6 (Standardmodus)"
+
+msgid "функция F6 (удерживаемый режим)"
+msgstr "Funktion F6 (Haltemodus)"
+
+msgid "функция F7 (стандартный режим)"
+msgstr "Funktion F7 (Standardmodus)"
+
+msgid "функция F7 (удерживаемый режим)"
+msgstr "Funktion F7 (Haltemodus)"
+
+msgid "функция F8 (стандартный режим)"
+msgstr "Funktion F8 (Standardmodus)"
+
+msgid "функция F8 (удерживаемый режим)"
+msgstr "Funktion F8 (Haltemodus)"

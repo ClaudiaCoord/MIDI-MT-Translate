@@ -1,0 +1,336 @@
+#. extracted from gitlocalize-2023-12-12-midimt_formxjp.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: 1212\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-12 12:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.0\n"
+"X-Merge-On: location\n"
+
+msgid "&Закрыть"
+msgstr "＆近い"
+
+msgid "&О программе.."
+msgstr "&番組について.."
+
+msgid "&Перезагрузить модули"
+msgstr "モジュールを再ロード(&R)"
+
+msgid "&Программа настройки MIDI панели"
+msgstr "&MIDIパネルセットアッププログラム"
+
+msgid "&Сохранить настройки"
+msgstr "＆設定を保存する"
+
+msgid "&Старт"
+msgstr "＆始める"
+
+msgid "&Установить Virtual MIDI драйвер"
+msgstr "仮想 MIDI ドライバーをインストール(&I)"
+
+msgid "ArtNet сеть:"
+msgstr "アートネットネットワーク:"
+
+msgid "CA сертификат"
+msgstr "CA証明書"
+
+msgid "COM порт:"
+msgstr "COMポート:"
+
+msgid "IN/OUT Бридж"
+msgstr "IN/OUTブリッジ"
+
+msgid "IP адрес:"
+msgstr "IPアドレス："
+
+msgid "JOG фильтр сцены"
+msgstr "JOGシーンフィルター"
+
+msgid "MIDI Прокси"
+msgstr "MIDIプロキシ"
+
+msgid "MIDI драйвер"
+msgstr "MIDIドライバー"
+
+msgid "MIDI контролы"
+msgstr "MIDIコントロール"
+
+msgid "MIDI устройства"
+msgstr "MIDIデバイス"
+
+msgid "MQTT сервер"
+msgstr "MQTTサーバー"
+
+msgid "MQTT топик префикс: (необязательно)"
+msgstr "MQTT トピックのプレフィックス: (オプション)"
+
+msgid "SSL/TLS включено"
+msgstr "SSL/TLSが有効になっています"
+
+msgid "Авто старт при запуске"
+msgstr "起動時に自動起動"
+
+msgid "Авто старт этой конфигурации"
+msgstr "この構成の自動開始"
+
+msgid "Адрес:"
+msgstr "住所："
+
+msgid "Базовая тема"
+msgstr "基本テーマ"
+
+msgid "Безопасность"
+msgstr "安全性"
+
+msgid "Бит-рейт:"
+msgstr "ビットレート:"
+
+msgid "Броадкаст:"
+msgstr "放送："
+
+msgid "Включено"
+msgstr "付属"
+
+msgid "Включить DMX пул (стандартное поведение)"
+msgstr "DMX プールを有効にする (標準の動作)"
+
+msgid "Все"
+msgstr "全て"
+
+msgid "Входные"
+msgstr "入力"
+
+msgid "Выходной порт не создается"
+msgstr "出力ポートは作成されません"
+
+msgid "Выходные"
+msgstr "週末"
+
+msgid "Драйвер:"
+msgstr "運転者："
+
+msgid "Замена значений громкости без проверки"
+msgstr "ボリューム値をチェックせずに置き換える"
+
+msgid "Записывать лог"
+msgstr "ログの書き込み"
+
+msgid "Запуск"
+msgstr "打ち上げ"
+
+msgid "Запуск MIDI-MT"
+msgstr "MIDI-MTを起動する"
+
+msgid "Запущен"
+msgstr "発売開始"
+
+msgid "Интервал как долгое нажатие"
+msgstr "長押しなどの間隔"
+
+msgid "Интервал между нажатиями"
+msgstr "クリック間の間隔"
+
+msgid "Информация"
+msgstr "情報"
+
+msgid "Использовать правую кнопку мыши для вызова микшера"
+msgstr "マウスの右ボタンを使用してミキサーを呼び出します"
+
+msgid "Кнопки"
+msgstr "ボタン"
+
+msgid "Контрол:"
+msgstr "コントロール："
+
+msgid "Конфигурация"
+msgstr "構成"
+
+msgid "Маска:"
+msgstr "マスク："
+
+msgid "Метро"
+msgstr "メトロ"
+
+msgid "Модуль"
+msgstr "モジュール"
+
+msgid "Монитор MIDI команд"
+msgstr "MIDIコマンドモニター"
+
+msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
+msgstr "MIDI コマンド モニターは、コントローラーがどのように設定されているかを確認するのに役立ちます。テストを開始するには、「開始」ボタンをクリックします。コントローラーのさまざまなコントロールを使用すると、シーン、番号、および現在の値に関するメッセージを受け取ります。"
+
+msgid "Монитор команд"
+msgstr "コマンドモニター"
+
+msgid "Мультимедиа"
+msgstr "マルチメディア"
+
+msgid "Мультимедиа клавиатура"
+msgstr "マルチメディアキーボード"
+
+msgid "Назначение (долгий клик):"
+msgstr "目的 (長押し):"
+
+msgid "Назначение:"
+msgstr "目的："
+
+msgid "Настройка MIDI контролов"
+msgstr "MIDIコントロールのセットアップ"
+
+msgid "Настройка модулей"
+msgstr "モジュールのセットアップ"
+
+msgid "Настройка пользовательской темы"
+msgstr "カスタムテーマの設定"
+
+msgid "Настройка управления MIDI"
+msgstr "MIDIコントロールの設定"
+
+msgid "Настройки MIDI"
+msgstr "MIDI設定"
+
+msgid "Настройки Микшера Звука"
+msgstr "オーディオミキサーの設定"
+
+msgid "Номер вселенной:"
+msgstr "宇宙番号:"
+
+msgid "Обновления"
+msgstr "アップデート"
+
+msgid "Объединять приложения по названию, раздельная регулировка невозможна"
+msgstr "アプリケーションを名前で結合します。個別に調整することはできません"
+
+msgid "Описание модуля"
+msgstr "モジュールの説明"
+
+msgid "Опции"
+msgstr "オプション"
+
+msgid "Освещение"
+msgstr "点灯"
+
+msgid "Остановлен"
+msgstr "停止"
+
+msgid "Открыть файл конфигурации"
+msgstr "設定ファイルを開く"
+
+msgid "Очи&стить"
+msgstr "清める"
+
+msgid "Подсказки"
+msgstr "ヒント"
+
+msgid "Помощь"
+msgstr "ヘルプ"
+
+msgid "Порт:"
+msgstr "ポート："
+
+msgid "Предпочитаемый язык:"
+msgstr "優先言語:"
+
+msgid "Просмотр лог-файла"
+msgstr "ログファイルを表示する"
+
+msgid "Регулируемые микшером приложения:"
+msgstr "ミキサーによって制御されるアプリケーション:"
+
+msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
+msgstr "推奨される MIDI コントロール パネルのレイアウト。このレイアウトの設定を含むファイルは「docs/MIDIMT.Ctrl_data」フォルダーにあります。"
+
+msgid "Рэтро"
+msgstr "レトロ"
+
+msgid "Светлая"
+msgstr "ライト"
+
+msgid "Слайдеры"
+msgstr "スライダー"
+
+msgid "Служба ArtNet"
+msgstr "アートネットサービス"
+
+msgid "Служба DMX"
+msgstr "DMXサービス"
+
+msgid "Современный"
+msgstr "モダンな"
+
+msgid "Сохранить &настройки"
+msgstr "設定を保存する"
+
+msgid "Ст&арт"
+msgstr "始める"
+
+msgid "Ст&оп"
+msgstr "停止"
+
+msgid "Старт при загрузке системы"
+msgstr "システム起動時に開始"
+
+msgid "Стоп-бит:"
+msgstr "ストップビット:"
+
+msgid "Сцена:"
+msgstr "シーン："
+
+msgid "Тайм-аут:"
+msgstr "タイムアウト："
+
+msgid "Тип контрола:"
+msgstr "コントロールの種類:"
+
+msgid "Трансляция входных MIDI-команд в команды мультимедиа клавиатуры. Управление воспроизведением сторонних мультимедиа программ."
+msgstr "MIDI 入力コマンドをマルチメディア キーボード コマンドに変換します。サードパーティのマルチメディア プログラムの再生を制御します。"
+
+msgid "Тёмная"
+msgstr "暗い"
+
+msgid "Умный Дом"
+msgstr "スマートハウス"
+
+msgid "Устанавливать сохранённые уровни громкости при старте"
+msgstr "起動時に保存された音量レベルを設定する"
+
+msgid "Цвет рамки"
+msgstr "フレームカラー"
+
+msgid "Цвет текста"
+msgstr "テキストの色"
+
+msgid "Цвет фона"
+msgstr "背景色"
+
+msgid "Цвета вашей темы"
+msgstr "あなたのテーマカラー"
+
+msgid "ключ PSK:"
+msgstr "PSKキー:"
+
+msgid "количество портов"
+msgstr "ポート数"
+
+msgid "логин:"
+msgstr "ログイン："
+
+msgid "пароль:"
+msgstr "パスワード："
+
+msgid "порт:"
+msgstr "ポート："
+
+msgid "самоподписанный"
+msgstr "自己署名"
+
+msgid "уровень логирования MQTT сессий:"
+msgstr "MQTT セッションのログ レベル:"

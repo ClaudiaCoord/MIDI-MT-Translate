@@ -1,0 +1,336 @@
+#. extracted from gitlocalize-2023-12-12-midimt_formxnl.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: 1212\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-12 12:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.0\n"
+"X-Merge-On: location\n"
+
+msgid "&Закрыть"
+msgstr "&Dichtbij"
+
+msgid "&О программе.."
+msgstr "&Over het programma.."
+
+msgid "&Перезагрузить модули"
+msgstr "&Modules opnieuw laden"
+
+msgid "&Программа настройки MIDI панели"
+msgstr "& MIDI-paneelinstallatieprogramma"
+
+msgid "&Сохранить настройки"
+msgstr "&Instellingen opslaan"
+
+msgid "&Старт"
+msgstr "&Begin"
+
+msgid "&Установить Virtual MIDI драйвер"
+msgstr "&Installeer het virtuele MIDI-stuurprogramma"
+
+msgid "ArtNet сеть:"
+msgstr "ArtNet-netwerk:"
+
+msgid "CA сертификат"
+msgstr "CA-certificaat"
+
+msgid "COM порт:"
+msgstr "COM-poort:"
+
+msgid "IN/OUT Бридж"
+msgstr "IN/OUT-brug"
+
+msgid "IP адрес:"
+msgstr "IP adres:"
+
+msgid "JOG фильтр сцены"
+msgstr "JOG-scènefilter"
+
+msgid "MIDI Прокси"
+msgstr "MIDI-proxy"
+
+msgid "MIDI драйвер"
+msgstr "MIDI-stuurprogramma"
+
+msgid "MIDI контролы"
+msgstr "MIDI-bedieningselementen"
+
+msgid "MIDI устройства"
+msgstr "MIDI-apparaten"
+
+msgid "MQTT сервер"
+msgstr "MQTT-server"
+
+msgid "MQTT топик префикс: (необязательно)"
+msgstr "MQTT-onderwerpvoorvoegsel: (optioneel)"
+
+msgid "SSL/TLS включено"
+msgstr "SSL/TLS ingeschakeld"
+
+msgid "Авто старт при запуске"
+msgstr "Automatische start bij opstarten"
+
+msgid "Авто старт этой конфигурации"
+msgstr "Automatische start van deze configuratie"
+
+msgid "Адрес:"
+msgstr "Adres:"
+
+msgid "Базовая тема"
+msgstr "Basis thema"
+
+msgid "Безопасность"
+msgstr "Veiligheid"
+
+msgid "Бит-рейт:"
+msgstr "Bitsnelheid:"
+
+msgid "Броадкаст:"
+msgstr "Uitzending:"
+
+msgid "Включено"
+msgstr "Inbegrepen"
+
+msgid "Включить DMX пул (стандартное поведение)"
+msgstr "DMX-pool inschakelen (standaardgedrag)"
+
+msgid "Все"
+msgstr "Alle"
+
+msgid "Входные"
+msgstr "Invoer"
+
+msgid "Выходной порт не создается"
+msgstr "Er is geen uitvoerpoort gemaakt"
+
+msgid "Выходные"
+msgstr "Weekend"
+
+msgid "Драйвер:"
+msgstr "Bestuurder:"
+
+msgid "Замена значений громкости без проверки"
+msgstr "Volumewaarden vervangen zonder te controleren"
+
+msgid "Записывать лог"
+msgstr "Logboek schrijven"
+
+msgid "Запуск"
+msgstr "Launch"
+
+msgid "Запуск MIDI-MT"
+msgstr "Lancering van MIDI-MT"
+
+msgid "Запущен"
+msgstr "Gelanceerd"
+
+msgid "Интервал как долгое нажатие"
+msgstr "Interval zoals lang indrukken"
+
+msgid "Интервал между нажатиями"
+msgstr "Interval tussen klikken"
+
+msgid "Информация"
+msgstr "Informatie"
+
+msgid "Использовать правую кнопку мыши для вызова микшера"
+msgstr "Gebruik de rechtermuisknop om de mixer te openen"
+
+msgid "Кнопки"
+msgstr "Toetsen"
+
+msgid "Контрол:"
+msgstr "Controle:"
+
+msgid "Конфигурация"
+msgstr "Configuratie"
+
+msgid "Маска:"
+msgstr "Masker:"
+
+msgid "Метро"
+msgstr "Metro"
+
+msgid "Модуль"
+msgstr "Module"
+
+msgid "Монитор MIDI команд"
+msgstr "MIDI-opdrachtmonitor"
+
+msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
+msgstr "De MIDI Command Monitor helpt u bepalen hoe de controller is geconfigureerd. Om te beginnen met testen, klikt u op de knop 'Start'. Met behulp van de verschillende bedieningselementen op uw controller ontvangt u berichten over de scène, het nummer en de huidige waarde."
+
+msgid "Монитор команд"
+msgstr "Commandomonitor"
+
+msgid "Мультимедиа"
+msgstr "Multimediaal"
+
+msgid "Мультимедиа клавиатура"
+msgstr "Multimediatoetsenbord"
+
+msgid "Назначение (долгий клик):"
+msgstr "Doel (lange klik):"
+
+msgid "Назначение:"
+msgstr "Doel:"
+
+msgid "Настройка MIDI контролов"
+msgstr "MIDI-bedieningselementen instellen"
+
+msgid "Настройка модулей"
+msgstr "Modules opzetten"
+
+msgid "Настройка пользовательской темы"
+msgstr "Een aangepast thema instellen"
+
+msgid "Настройка управления MIDI"
+msgstr "MIDI-besturing instellen"
+
+msgid "Настройки MIDI"
+msgstr "MIDI-instellingen"
+
+msgid "Настройки Микшера Звука"
+msgstr "Audiomixer-instellingen"
+
+msgid "Номер вселенной:"
+msgstr "Universumnummer:"
+
+msgid "Обновления"
+msgstr "Updates"
+
+msgid "Объединять приложения по названию, раздельная регулировка невозможна"
+msgstr "Combineer aanvragen op naam; aparte aanpassingen zijn niet mogelijk"
+
+msgid "Описание модуля"
+msgstr "Modulebeschrijving"
+
+msgid "Опции"
+msgstr "Opties"
+
+msgid "Освещение"
+msgstr "Verlichting"
+
+msgid "Остановлен"
+msgstr "Gestopt"
+
+msgid "Открыть файл конфигурации"
+msgstr "Configuratiebestand openen"
+
+msgid "Очи&стить"
+msgstr "Reinigen"
+
+msgid "Подсказки"
+msgstr "Tips"
+
+msgid "Помощь"
+msgstr "Hulp"
+
+msgid "Порт:"
+msgstr "Haven:"
+
+msgid "Предпочитаемый язык:"
+msgstr "Voorkeurstaal:"
+
+msgid "Просмотр лог-файла"
+msgstr "Bekijk het logbestand"
+
+msgid "Регулируемые микшером приложения:"
+msgstr "Door de mixer bestuurde toepassingen:"
+
+msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
+msgstr "Aanbevolen indeling van het MIDI-bedieningspaneel. Het bestand met de instellingen voor deze lay-out bevindt zich in de map 'docs/MIDIMT.Ctrl_data'"
+
+msgid "Рэтро"
+msgstr "Retro"
+
+msgid "Светлая"
+msgstr "Licht"
+
+msgid "Слайдеры"
+msgstr "Schuifregelaars"
+
+msgid "Служба ArtNet"
+msgstr "ArtNet-service"
+
+msgid "Служба DMX"
+msgstr "DMX-service"
+
+msgid "Современный"
+msgstr "Modern"
+
+msgid "Сохранить &настройки"
+msgstr "Instellingen opslaan"
+
+msgid "Ст&арт"
+msgstr "Begin"
+
+msgid "Ст&оп"
+msgstr "Stop"
+
+msgid "Старт при загрузке системы"
+msgstr "Begin bij het opstarten van het systeem"
+
+msgid "Стоп-бит:"
+msgstr "Stopbit:"
+
+msgid "Сцена:"
+msgstr "Tafereel:"
+
+msgid "Тайм-аут:"
+msgstr "Time-out:"
+
+msgid "Тип контрола:"
+msgstr "Controlerende type:"
+
+msgid "Трансляция входных MIDI-команд в команды мультимедиа клавиатуры. Управление воспроизведением сторонних мультимедиа программ."
+msgstr "Vertaling van MIDI-invoeropdrachten naar multimediatoetsenbordopdrachten. Regel het afspelen van multimediaprogramma's van derden."
+
+msgid "Тёмная"
+msgstr "Donker"
+
+msgid "Умный Дом"
+msgstr "Slim huis"
+
+msgid "Устанавливать сохранённые уровни громкости при старте"
+msgstr "Stel opgeslagen volumeniveaus in bij het opstarten"
+
+msgid "Цвет рамки"
+msgstr "Framekleur"
+
+msgid "Цвет текста"
+msgstr "Tekst kleur"
+
+msgid "Цвет фона"
+msgstr "Achtergrond kleur"
+
+msgid "Цвета вашей темы"
+msgstr "Uw themakleuren"
+
+msgid "ключ PSK:"
+msgstr "PSK-sleutel:"
+
+msgid "количество портов"
+msgstr "aantal havens"
+
+msgid "логин:"
+msgstr "Log in:"
+
+msgid "пароль:"
+msgstr "wachtwoord:"
+
+msgid "порт:"
+msgstr "haven:"
+
+msgid "самоподписанный"
+msgstr "zelf ondertekend"
+
+msgid "уровень логирования MQTT сессий:"
+msgstr "MQTT-sessieregistratieniveau:"

@@ -1,0 +1,528 @@
+#. extracted from gitlocalize-2023-12-12-midimt_menuxzu.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: 1212\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-12 12:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.0\n"
+"X-Merge-On: location\n"
+
+msgid "&Анимация"
+msgstr "&Opopayi"
+
+msgid "&Аудио микшер"
+msgstr "&Isihlanganisi somsindo"
+
+msgid "&Закрыть"
+msgstr "&Vala"
+
+msgid "&Информация"
+msgstr "&Ulwazi"
+
+msgid "&Монитор"
+msgstr "&Qapha"
+
+msgid "&Мониторинг"
+msgstr "&Ukuqapha"
+
+msgid "&Настройка"
+msgstr "&Izilungiselelo"
+
+msgid "&Просмотр лог-файла"
+msgstr "&Buka ifayela lokungena"
+
+msgid "&Путь приложений"
+msgstr "&Indlela yohlelo lokusebenza"
+
+msgid "Баланс (мастер)"
+msgstr "Ibhalansi (master)"
+
+msgid "Баланс.."
+msgstr "Ibhalansi.."
+
+msgid "Без звука (мастер)"
+msgstr "Thula (master)"
+
+msgid "Без звука.."
+msgstr "Ayinamsindo.."
+
+msgid "Вверх (джойстик)"
+msgstr "Phezulu (induku yokudlala)"
+
+msgid "Вертикально слева"
+msgstr "Iqonde kwesokunxele"
+
+msgid "Вертикально справа"
+msgstr "Iqonde kwesokudla"
+
+msgid "Влево (джойстик)"
+msgstr "Kwesokunxele (induku yokudlala)"
+
+msgid "Вниз (джойстик)"
+msgstr "Phansi (induku yokudlala)"
+
+msgid "Вправо (джойстик)"
+msgstr "Kwesokudla (induku yokudlala)"
+
+msgid "Вставить"
+msgstr "Faka"
+
+msgid "Вы&ход"
+msgstr "Phuma"
+
+msgid "Горизонтально вверху"
+msgstr "Ngokuvundlile phezulu"
+
+msgid "Горизонтально внизу"
+msgstr "Ngokuvundlile ngezansi"
+
+msgid "Громкость (мастер)"
+msgstr "Ivolumu (master)"
+
+msgid "Громкость.."
+msgstr "Ivolumu.."
+
+msgid "З&апомнить позицию"
+msgstr "Khumbula isikhundla"
+
+msgid "Запись"
+msgstr "Qopha"
+
+msgid "Играть/Пауза"
+msgstr "Dlala/Misa kancane"
+
+msgid "Канал 16 бит (расширенный)"
+msgstr "Isiteshi esingu-16 bit (inwetshiwe)"
+
+msgid "Канал 8 бит (стандарт)"
+msgstr "Isiteshi esingu-8 bit (okujwayelekile)"
+
+msgid "Кнопка"
+msgstr "Inkinobho"
+
+msgid "Кнопка переключать, с индикацией"
+msgstr "Inkinobho yokushintsha, enenkomba"
+
+msgid "Кнопки в системе «Умный дом».."
+msgstr "Izinkinobho kusistimu ye-Smart Home."
+
+msgid "Кнопки.."
+msgstr "Izinkinobho.."
+
+msgid "Контроль относиться к аудио микшеру"
+msgstr "Ukulawula kubhekisela kusihlanganisi somsindo"
+
+msgid "Контроль относиться к мультимедиа кнопкам"
+msgstr "Izilawuli zisebenza ezinkinobho ze-multimedia"
+
+msgid "Контроль относиться к умному дому"
+msgstr "Ukulawula kusho ikhaya elihlakaniphile"
+
+msgid "Контроль относиться к управлению светом"
+msgstr "Ukulawula kubhekisela ekulawuleni ukukhanya"
+
+msgid "Копировать"
+msgstr "Kopisha"
+
+msgid "Круговый регулятор"
+msgstr "Isilawuli esiyindilinga"
+
+msgid "Круговый регулятор с инверсией"
+msgstr "Isilawuli esiyindilinga esinokuguqulwa"
+
+msgid "Метро"
+msgstr "IMetro"
+
+msgid "Мультимедиа кнопки.."
+msgstr "Izinkinobho zemultimedia.."
+
+msgid "Настраеваямая"
+msgstr "Siyalungiselela"
+
+msgid "Настройка темы"
+msgstr "Ukusetha itimu"
+
+msgid "Неназначенный"
+msgstr "Akunikeziwe"
+
+msgid "Новая запись"
+msgstr "Ukufakwa okusha"
+
+msgid "Пиковый &измеритель громкости"
+msgstr "I-Peak &Volume Meter"
+
+msgid "Полосковый регулятор"
+msgstr "I-Strip Regulator"
+
+msgid "Полосковый регулятор с инверсией"
+msgstr "I-Strip Regulator ene-Inversion"
+
+msgid "Предыдущий"
+msgstr "Ngaphambilini"
+
+msgid "Привязка &MIDI контролов"
+msgstr "Izilawuli ezibophezelayo ze-&MIDI"
+
+msgid "Расположение.."
+msgstr "Indawo.."
+
+msgid "Регуляторы в системе «Умный дом».."
+msgstr "Izilawuli ohlelweni lwe-"Smart Home".."
+
+msgid "Регуляторы.."
+msgstr "Izilawuli..."
+
+msgid "Рэтро"
+msgstr "I-Retro"
+
+msgid "Светлая"
+msgstr "Ukukhanya"
+
+msgid "Скрабирование"
+msgstr "Ukukhuhla"
+
+msgid "Следующий"
+msgstr "Olandelayo"
+
+msgid "Современный"
+msgstr "Okwesimanje"
+
+msgid "Соло (мастер)"
+msgstr "Uyedwa (master)"
+
+msgid "Соло.."
+msgstr "Solo.."
+
+msgid "Ст&арт"
+msgstr "Qala"
+
+msgid "Ст&оп"
+msgstr "Ima"
+
+msgid "Стоп"
+msgstr "Ima"
+
+msgid "Тема.."
+msgstr "Isihloko.."
+
+msgid "Тёмная"
+msgstr "Kumnyama"
+
+msgid "Увеличение масштаба"
+msgstr "Sondeza isithombe"
+
+msgid "Удалить"
+msgstr "Susa"
+
+msgid "Управление звуком.."
+msgstr "Ukulawula umsindo..."
+
+msgid "Установить как.."
+msgstr "Faka njenge.."
+
+msgid "Функции «Premiere Pro».."
+msgstr "Izici zePremiere Pro..."
+
+msgid "Функции кнопки «в одно касание».."
+msgstr "Imisebenzi yenkinobho yokuthinta okukodwa..."
+
+msgid "Функции стандартной кнопки.."
+msgstr "Imisebenzi yenkinobho ejwayelekile..."
+
+msgid "Функция 1"
+msgstr "Umsebenzi 1"
+
+msgid "Функция 2"
+msgstr "Umsebenzi 2"
+
+msgid "Функция 3"
+msgstr "Umsebenzi 3"
+
+msgid "Функция 4"
+msgstr "Umsebenzi 4"
+
+msgid "Функция 5"
+msgstr "Umsebenzi 5"
+
+msgid "Функция 6"
+msgstr "Umsebenzi 6"
+
+msgid "Функция 7"
+msgstr "Umsebenzi 7"
+
+msgid "Функция 8"
+msgstr "Umsebenzi 8"
+
+msgid "Читать MIDI код.."
+msgstr "Funda ikhodi ye-MIDI.."
+
+msgid "Энкодер"
+msgstr "Isifaki khodi"
+
+msgid "Энкодер (JOG)"
+msgstr "Isifaki khodi (JOG)"
+
+msgid "Энкодер (покадровый просмотр)"
+msgstr "Isifaki khodi (ukubuka kozimele ngozimele)"
+
+msgid "Энкодер с инверсией"
+msgstr "Isifaki khodi esinokuguqulwa"
+
+msgid "авто"
+msgstr "okuzenzakalelayo"
+
+msgid "в конец"
+msgstr "Ekupheleni"
+
+msgid "в начало"
+msgstr "ekuqaleni"
+
+msgid "вкл/выкл 1"
+msgstr "vula/cisha 1"
+
+msgid "вкл/выкл 10"
+msgstr "vula/cisha 10"
+
+msgid "вкл/выкл 11"
+msgstr "vula/cisha 11"
+
+msgid "вкл/выкл 12"
+msgstr "vula/cisha 12"
+
+msgid "вкл/выкл 13"
+msgstr "vula/cisha 13"
+
+msgid "вкл/выкл 14"
+msgstr "kuvuliwe/kuvaliwe 14"
+
+msgid "вкл/выкл 15"
+msgstr "kuvuliwe/kuvaliwe 15"
+
+msgid "вкл/выкл 16"
+msgstr "kuvuliwe/kuvaliwe 16"
+
+msgid "вкл/выкл 17"
+msgstr "kuvuliwe/kuvaliwe 17"
+
+msgid "вкл/выкл 18"
+msgstr "kuvuliwe/kuvaliwe 18"
+
+msgid "вкл/выкл 19"
+msgstr "kuvuliwe/kuvaliwe 19"
+
+msgid "вкл/выкл 2"
+msgstr "vula/cisha 2"
+
+msgid "вкл/выкл 20"
+msgstr "kuvuliwe/kuvaliwe 20"
+
+msgid "вкл/выкл 21"
+msgstr "kuvuliwe/kuvaliwe 21"
+
+msgid "вкл/выкл 22"
+msgstr "vula/vala 22"
+
+msgid "вкл/выкл 23"
+msgstr "kuvuliwe/kuvaliwe 23"
+
+msgid "вкл/выкл 24"
+msgstr "kuvuliwe/kuvaliwe 24"
+
+msgid "вкл/выкл 25"
+msgstr "kuvuliwe/kuvaliwe 25"
+
+msgid "вкл/выкл 26"
+msgstr "vula/vala 26"
+
+msgid "вкл/выкл 27"
+msgstr "kuvuliwe/kuvaliwe 27"
+
+msgid "вкл/выкл 3"
+msgstr "vula/cisha 3"
+
+msgid "вкл/выкл 4"
+msgstr "vula/vala 4"
+
+msgid "вкл/выкл 5"
+msgstr "vula/vala 5"
+
+msgid "вкл/выкл 6"
+msgstr "vula/cisha 6"
+
+msgid "вкл/выкл 7"
+msgstr "vula/cisha 7"
+
+msgid "вкл/выкл 8"
+msgstr "vula/cisha 8"
+
+msgid "вкл/выкл 9"
+msgstr "vula/cisha 9"
+
+msgid "выход"
+msgstr "Phuma"
+
+msgid "канал 1"
+msgstr "isiteshi 1"
+
+msgid "канал 10"
+msgstr "isiteshi 10"
+
+msgid "канал 11"
+msgstr "isiteshi 11"
+
+msgid "канал 12"
+msgstr "isiteshi 12"
+
+msgid "канал 13"
+msgstr "isiteshi 13"
+
+msgid "канал 14"
+msgstr "isiteshi 14"
+
+msgid "канал 15"
+msgstr "isiteshi 15"
+
+msgid "канал 16"
+msgstr "isiteshi 16"
+
+msgid "канал 17"
+msgstr "isiteshi 17"
+
+msgid "канал 18"
+msgstr "isiteshi 18"
+
+msgid "канал 2"
+msgstr "isiteshi 2"
+
+msgid "канал 3"
+msgstr "isiteshi 3"
+
+msgid "канал 4"
+msgstr "isiteshi 4"
+
+msgid "канал 5"
+msgstr "isiteshi 5"
+
+msgid "канал 6"
+msgstr "isiteshi 6"
+
+msgid "канал 7"
+msgstr "isiteshi 7"
+
+msgid "канал 8"
+msgstr "isiteshi 8"
+
+msgid "канал 9"
+msgstr "isiteshi 9"
+
+msgid "конфигурация"
+msgstr "ukumisa"
+
+msgid "крупнее"
+msgstr "ezinkulu"
+
+msgid "лог"
+msgstr "log"
+
+msgid "мельче"
+msgstr "ezincane"
+
+msgid "очистить"
+msgstr "cacile"
+
+msgid "показать ArtNet конфигурацию"
+msgstr "bonisa ukucushwa kwe-ArtNet"
+
+msgid "показать DMX512 конфигурацию"
+msgstr "bonisa ukucushwa kwe-DMX512"
+
+msgid "показать LIGTS конфигурацию"
+msgstr "bonisa ukucushwa kwe-LIGTS"
+
+msgid "показать MIDI конфигурацию"
+msgstr "bonisa ukucushwa kwe-MIDI"
+
+msgid "показать MMKEYS конфигурацию"
+msgstr "bonisa ukucushwa kwe-MMKEYS"
+
+msgid "показать MQTT конфигурацию"
+msgstr "bonisa ukucushwa kwe-MQTT"
+
+msgid "показать всю конфигурацию"
+msgstr "khombisa konke ukucushwa"
+
+msgid "помощь"
+msgstr "Usizo"
+
+msgid "сохранить натройки"
+msgstr "gcina izilungiselelo"
+
+msgid "старт"
+msgstr "qala"
+
+msgid "стоп"
+msgstr "Ima"
+
+msgid "уровень 1"
+msgstr "izinga 1"
+
+msgid "уровень 10"
+msgstr "izinga 10"
+
+msgid "уровень 11"
+msgstr "izinga 11"
+
+msgid "уровень 12"
+msgstr "izinga 12"
+
+msgid "уровень 13"
+msgstr "izinga 13"
+
+msgid "уровень 14"
+msgstr "izinga 14"
+
+msgid "уровень 15"
+msgstr "izinga 15"
+
+msgid "уровень 16"
+msgstr "izinga 16"
+
+msgid "уровень 17"
+msgstr "izinga 17"
+
+msgid "уровень 18"
+msgstr "izinga 18"
+
+msgid "уровень 2"
+msgstr "izinga 2"
+
+msgid "уровень 3"
+msgstr "izinga 3"
+
+msgid "уровень 4"
+msgstr "izinga 4"
+
+msgid "уровень 5"
+msgstr "izinga 5"
+
+msgid "уровень 6"
+msgstr "ileveli 6"
+
+msgid "уровень 7"
+msgstr "izinga 7"
+
+msgid "уровень 8"
+msgstr "ileveli 8"
+
+msgid "уровень 9"
+msgstr "ileveli 9"
+
+msgid "язык"
+msgstr "ulimi"

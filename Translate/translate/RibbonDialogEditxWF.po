@@ -1,0 +1,357 @@
+#. extracted from gitlocalize-2023-12-12-ribbondialogeditxwf.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: 1212\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-12 12:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.0\n"
+"X-Merge-On: location\n"
+
+msgid "&Быстрый доступ"
+msgstr "&Snelle tagong"
+
+msgid "&Вставить"
+msgstr "&Ynfoegje"
+
+msgid "&Выход"
+msgstr "&Útgong"
+
+msgid "&Импорт"
+msgstr "&Ymport"
+
+msgid "&Копировать"
+msgstr "&Kopy"
+
+msgid "&Меню"
+msgstr "&Menu"
+
+msgid "&Новый MIDI ключ"
+msgstr "&Nije MIDI-kaai"
+
+msgid "&Сохранить"
+msgstr "&Rêde"
+
+msgid "&Удалить"
+msgstr "&Wiskje"
+
+msgid "&Экспорт"
+msgstr "&Eksportearje"
+
+msgid "MIDI панель управления"
+msgstr "MIDI kontrôle paniel"
+
+msgid "Авто отправка вводимых значений в фильтре"
+msgstr "Automatysk ferstjoeren fan ynfierde wearden yn it filter"
+
+msgid "Авто отправка данных в фильтре"
+msgstr "Automatysk ferstjoeren fan gegevens yn it filter"
+
+msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
+msgstr "Stelt automatysk ynfierwearden yn yn in ynboude filter."
+
+msgid "Аудио микшер"
+msgstr "Audio mixer"
+
+msgid "Вставить ключ"
+msgstr "Ynfoegje kaai"
+
+msgid "Вставить скопированный MIDI ключ."
+msgstr "Plak de kopiearre MIDI-kaai."
+
+msgid "Встроенные фильтры"
+msgstr "Ynboude filters"
+
+msgid "Выбор типа фильтрации"
+msgstr "Selektearje in filtertype"
+
+msgid "Выход из редактора"
+msgstr "Bewurker ôfslute"
+
+msgid "Выход из редактора конфигурации MIDI ключей, если изменения не сохранены, они будут утеряны."
+msgstr "Ferlaat de MIDI Key Configuration Editor; as feroarings net bewarre wurde, sille se ferlern gean."
+
+msgid "Импорт из файла"
+msgstr "Ymportearje fan triem"
+
+msgid "Импортировать конфигурацию из файла."
+msgstr "Ymportearje konfiguraasje út triem."
+
+msgid "Использовать только цифровой ввод"
+msgstr "Brûk allinich digitale ynfier"
+
+msgid "Ключ"
+msgstr "Kaai"
+
+msgid "Копировать MIDI ключ"
+msgstr "Kopiearje MIDI-kaai"
+
+msgid "Меню приложения"
+msgstr "Applikaasje menu"
+
+msgid "Мультимедиа кнопки"
+msgstr "Multimedia knoppen"
+
+msgid "Назначение 1"
+msgstr "Doel 1"
+
+msgid "Назначение 2"
+msgstr "Doel 2"
+
+msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
+msgstr "Tawize de selekteare MIDI-kaai oan 'e groep "Audio Mixer"."
+
+msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
+msgstr "Tawize de selekteare MIDI-kaai oan 'e groep "Multimediaknoppen"."
+
+msgid "Назначить выбранный MIDI ключ к группе «Умный дом»."
+msgstr "Tawize de selekteare MIDI-kaai oan 'e groep "Smart Home"."
+
+msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
+msgstr "Brûk it wearde seleksjemenu net, brûk allinich digitale ynfier."
+
+msgid "Новый MIDI ключ"
+msgstr "Nije MIDI-kaai"
+
+msgid "Отмена фильтра"
+msgstr "Filter ôfbrekke"
+
+msgid "Отмена фильтра покажет все элементы."
+msgstr "It annulearjen fan it filter sil alle items sjen litte."
+
+msgid "Отменить фильтр"
+msgstr "Filter ôfbrekke"
+
+msgid "Очистить фильтры"
+msgstr "Filters wiskje"
+
+msgid "Очистка фильтров"
+msgstr "Cleaning filters"
+
+msgid "Панель быстрого доступа"
+msgstr "Fluch tagong arkbalke"
+
+msgid "Показать «Аудио микшер»"
+msgstr "Toan "Audio Mixer""
+
+msgid "Показать «Мультимедиа кнопки»"
+msgstr ""Multimediaknoppen" sjen litte"
+
+msgid "Показать «Умный дом»"
+msgstr "Toan "Smart Home""
+
+msgid "Показать сортировку"
+msgstr "Sortearje sjen litte"
+
+msgid "Показывать записи с любым совпадением"
+msgstr "Lit ynstjoerings sjen mei elke wedstriid"
+
+msgid "Показывать записи только с полным совпадением"
+msgstr "Lit records sjen mei allinich krekte oerienkomsten"
+
+msgid "Показывать любые совпадения"
+msgstr "Lit alle wedstriden sjen"
+
+msgid "Показывать только полные совпадения"
+msgstr "Lit allinich folsleine wedstriden sjen"
+
+msgid "Показывать только совпадения в группе MIDI ключей."
+msgstr "Lit allinich wedstriden sjen binnen in MIDI-kaaigroep."
+
+msgid "Показывать только совпадения в группе MIDI сцены."
+msgstr "Lit allinich wedstriden sjen yn 'e MIDI-sênegroep."
+
+msgid "Показывать только совпадения в группе по целевому назначению 1."
+msgstr "Lit allinich wedstriden sjen yn 'e doelgroep 1."
+
+msgid "Показывать только совпадения в группе по целевому назначению 2."
+msgstr "Lit allinich wedstriden sjen yn 'e doelgroep 2."
+
+msgid "Полная очистка фильтров, будут показаны все записи."
+msgstr "Folslein dúdlike filters, alle yngongen wurde toand."
+
+msgid "Последние файлы:"
+msgstr "Lêste triemmen:"
+
+msgid "Применение фильтра"
+msgstr "It tapassen fan in filter"
+
+msgid "Применение фильтра покажет членов группы «Аудио микшер»."
+msgstr "It tapassen fan in filter sil de leden fan 'e Audio Mixer-groep sjen litte."
+
+msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
+msgstr "It tapassen fan in filter sil de leden fan 'e groep Multimediaknoppen sjen litte."
+
+msgid "Применение фильтра покажет членов группы «Умный дом»."
+msgstr "It tapassen fan in filter sil de leden fan 'e Smart Home-groep sjen litte."
+
+msgid "Применение фильтра показывает выбранные элементы."
+msgstr "It tapassen fan in filter lit de selektearre items sjen."
+
+msgid "Применить фильтр"
+msgstr "Filter tapasse"
+
+msgid "Прочесть MIDI код контрола"
+msgstr "Lês MIDI kontrôle koade"
+
+msgid "Редактирование"
+msgstr "Bewurkje"
+
+msgid "Рекомендуемые настройки"
+msgstr "Oanrikkemandearre ynstellings"
+
+msgid "Рекомендуемые настройки панели управления MIDI, совместимые с элементами управления Adobe Premiere Pro."
+msgstr "Oanrikkemandearre MIDI-kontrôlepaniel-ynstellingen kompatibel mei Adobe Premiere Pro-kontrôles."
+
+msgid "Скопировать выбранную запись MIDI ключа."
+msgstr "Kopiearje de selektearre MIDI-kaaiynfier."
+
+msgid "Создание нового MIDI ключа."
+msgstr "It meitsjen fan in nije MIDI-kaai."
+
+msgid "Сортировка по возрастанию и MIDI ключу."
+msgstr "Sortearje op opkommende en MIDI-kaai."
+
+msgid "Сортировка по возрастанию и MIDI назначению 1."
+msgstr "Sortearje op oprinnend en MIDI-bestimming 1."
+
+msgid "Сортировка по возрастанию и MIDI назначению 2."
+msgstr "Sortearje op opkommende en MIDI-bestimming 2."
+
+msgid "Сортировка по возрастанию и MIDI сцене."
+msgstr "Sortearje op opkommende en MIDI-sêne."
+
+msgid "Сортировка по убыванию и MIDI ключу."
+msgstr "Sortearje op ôfnimmend en MIDI-kaai."
+
+msgid "Сортировка по убыванию и MIDI назначению 1."
+msgstr "Sortearje op ôfnimmende folchoarder en MIDI-bestimming 1."
+
+msgid "Сортировка по убыванию и MIDI назначению 2."
+msgstr "Sortearje op ôfnimmende folchoarder en MIDI-bestimming 2."
+
+msgid "Сортировка по убыванию и MIDI сцене."
+msgstr "Sortearje op ôfnimmende folchoarder en MIDI-sêne."
+
+msgid "Сохранить в загруженный ранее файл и обновить текущую конфигурацию."
+msgstr "Bewarje yn it earder ynladen bestân en bywurkje de aktuele konfiguraasje."
+
+msgid "Сохранить и применить"
+msgstr "Bewarje en tapasse"
+
+msgid "Сцена"
+msgstr "Scene"
+
+msgid "Тип фильтра"
+msgstr "Filtertype"
+
+msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
+msgstr "De brûkte filters hawwe twa logyske steaten: "EN", "OF"."
+
+msgid "Только цифровой ввод"
+msgstr "Allinnich digitale ynfier"
+
+msgid "Удалить выбранную запись MIDI ключа."
+msgstr "Wiskje de selektearre MIDI-kaaiyngong."
+
+msgid "Удалить ключ"
+msgstr "Wiskje kaai"
+
+msgid "Умный дом"
+msgstr "Smart Hûs"
+
+msgid "Установить группу как «Аудио микшер»"
+msgstr "Stel groep yn as "Audio Mixer""
+
+msgid "Установить группу как «Мультимедиа кнопки»"
+msgstr "Stel de groep yn as "Multimediaknoppen""
+
+msgid "Установить группу как «Умный дом»."
+msgstr "Stel de groep yn as "Smart Home"."
+
+msgid "Установить фильтр"
+msgstr "Filter ynstelle"
+
+msgid "Установка типа применяемых фильтров"
+msgstr "It ynstellen fan it type filters om oan te passen"
+
+msgid "Установка фильтра"
+msgstr "Filter ynstallaasje"
+
+msgid "Установка фильтра показывает все недействительные элементы."
+msgstr "It ynstellen fan it filter lit alle ûnjildige items sjen."
+
+msgid "Фильтр имеет состояние логического «И» и показывает любые совпадения."
+msgstr "It filter hat in logyske EN steat en toant alle wedstriden."
+
+msgid "Фильтр имеет состояние логического «ИЛИ» и показывает только полные совпадения."
+msgstr "It filter hat in logyske OR-status en lit allinich folsleine wedstriden sjen."
+
+msgid "Фильтровать по MIDI ключу"
+msgstr "Filter troch MIDI-kaai"
+
+msgid "Фильтровать по MIDI сцене"
+msgstr "Filter op MIDI-sêne"
+
+msgid "Фильтровать по группе «Аудио микшер»"
+msgstr "Filter op groep "Audio Mixer"."
+
+msgid "Фильтровать по группе «Мультимедиа кнопки»"
+msgstr "Filterje op groep "Multimediaknoppen"."
+
+msgid "Фильтровать по группе «Умный дом»"
+msgstr "Filterje op groep "Smart Home"."
+
+msgid "Фильтровать по назначению 1"
+msgstr "Filter op bestimming 1"
+
+msgid "Фильтровать по назначению 2"
+msgstr "Filterje op bestimming 2"
+
+msgid "Фильтры"
+msgstr "Filters"
+
+msgid "Читать MIDI код"
+msgstr "Lês MIDI-koade"
+
+msgid "Чтение MIDI кода из поверхности контроля или MIDI клавиатуры."
+msgstr "Lês MIDI-koade fan in kontrôleflak as MIDI-toetseboerd."
+
+msgid "Экспорт в новый файл"
+msgstr "Eksportearje nei in nij bestân"
+
+msgid "Экспортировать отредактированную конфигурацию в новый файл."
+msgstr "Eksportearje de bewurke konfiguraasje nei in nij bestân."
+
+msgid "выбор фильтров просмотра"
+msgstr "seleksje fan besjen filters"
+
+msgid "параметры редактора"
+msgstr "bewurker opsjes"
+
+msgid "по ключу"
+msgstr "by kaai"
+
+msgid "по назначению 1"
+msgstr "op ôfspraak 1"
+
+msgid "по назначению 2"
+msgstr "op ôfspraak 2"
+
+msgid "по сцене"
+msgstr "om it poadium hinne"
+
+msgid "редактировать MIDI ключ"
+msgstr "MIDI kaai bewurkje"
+
+msgid "сортировка"
+msgstr "sortearjen"
+
+msgid "установить MIDI ключ как.."
+msgstr "set MIDI-kaai as ..."
