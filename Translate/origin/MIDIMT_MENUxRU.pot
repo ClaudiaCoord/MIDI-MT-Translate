@@ -527,5 +527,5 @@ msgstr ""
 msgid "язык"
 msgstr ""
 
-msgid "плагины"
+msgid "статистика плагинов"
 msgstr ""
