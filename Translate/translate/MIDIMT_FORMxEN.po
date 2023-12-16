@@ -24,7 +24,7 @@ msgid "&Перезагрузить модули"
 msgstr "&Reload modules"
 
 msgid "&Программа настройки MIDI панели"
-msgstr "& MIDI panel setup program"
+msgstr "&MIDI panel setup program"
 
 msgid "&Сохранить настройки"
 msgstr "&Save settings"
@@ -225,7 +225,7 @@ msgid "Открыть файл конфигурации"
 msgstr "Open configuration file"
 
 msgid "Очи&стить"
-msgstr "Cleanse"
+msgstr "Cle&an"
 
 msgid "Подсказки"
 msgstr "Hints"

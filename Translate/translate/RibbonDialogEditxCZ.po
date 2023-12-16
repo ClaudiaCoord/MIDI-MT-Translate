@@ -138,10 +138,10 @@ msgid "Панель быстрого доступа"
 msgstr "Panel nástrojů Rychlý přístup"
 
 msgid "Показать «Аудио микшер»"
-msgstr "Zobrazit "Audio Mixer""
+msgstr "Zobrazit “Audio Mixer“"
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Zobrazit "Multimediální tlačítka""
+msgstr "Zobrazit “Multimediální tlačítka“"
 
 msgid "Показать «Умный дом»"
 msgstr "Zobrazit „Inteligentní domácnost“"

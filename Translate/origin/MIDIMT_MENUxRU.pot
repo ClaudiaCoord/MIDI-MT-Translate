@@ -526,3 +526,6 @@ msgstr ""
 
 msgid "язык"
 msgstr ""
+
+msgid "плагины"
+msgstr ""

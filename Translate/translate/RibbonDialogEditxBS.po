@@ -138,13 +138,13 @@ msgid "Панель быстрого доступа"
 msgstr "Traka sa alatkama za brzi pristup"
 
 msgid "Показать «Аудио микшер»"
-msgstr "Emisija "Audio mikser""
+msgstr "Emisija “Audio mikser“"
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Prikaži "Multimedijalna dugmad""
+msgstr "Prikaži “Multimedijalna dugmad“"
 
 msgid "Показать «Умный дом»"
-msgstr "Emisija "Pametna kuća""
+msgstr "Emisija “Pametna kuća“"
 
 msgid "Показать сортировку"
 msgstr "Prikaži sortiranje"
@@ -183,13 +183,13 @@ msgid "Применение фильтра"
 msgstr "Primjena filtera"
 
 msgid "Применение фильтра покажет членов группы «Аудио микшер»."
-msgstr "Primjena filtera će prikazati članove grupe Audio Mixer."
+msgstr "Primjena filtera će prikazati članove grupe “Audio Mixer“."
 
 msgid "Применение фильтра покажет членов группы «Мультимедиа кнопки»."
-msgstr "Primjena filtera će prikazati članove grupe Multimedijalna dugmad."
+msgstr "Primjena filtera će prikazati članove grupe “Multimedijalna dugmad“."
 
 msgid "Применение фильтра покажет членов группы «Умный дом»."
-msgstr "Primjena filtera će prikazati članove grupe Smart Home."
+msgstr "Primjena filtera će prikazati članove grupe “Smart Home“."
 
 msgid "Применение фильтра показывает выбранные элементы."
 msgstr "Primjena filtera prikazuje odabrane stavke."

@@ -279,10 +279,10 @@ msgid "авто"
 msgstr "auto"
 
 msgid "в конец"
-msgstr "In the end"
+msgstr "the end"
 
 msgid "в начало"
-msgstr "to the begining"
+msgstr "begining"
 
 msgid "вкл/выкл 1"
 msgstr "on/off 1"
