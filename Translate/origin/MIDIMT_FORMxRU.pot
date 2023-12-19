@@ -1,4 +1,4 @@
-#. extracted from MIDIMT_FORMxRU.rc
+﻿#. extracted from MIDIMT_FORMxRU.rc
 msgid ""
 msgstr ""
 "Project-Id-Version: 9169\n"
