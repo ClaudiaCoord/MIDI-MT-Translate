@@ -131,10 +131,10 @@ msgstr ""
 msgid "Копировать"
 msgstr ""
 
-msgid "Круговый регулятор"
+msgid "Круговой регулятор"
 msgstr ""
 
-msgid "Круговый регулятор с инверсией"
+msgid "Круговой регулятор с инверсией"
 msgstr ""
 
 msgid "Метро"
@@ -143,13 +143,13 @@ msgstr ""
 msgid "Мультимедиа кнопки.."
 msgstr ""
 
-msgid "Настраеваямая"
+msgid "Настраиваемая"
 msgstr ""
 
 msgid "Настройка темы"
 msgstr ""
 
-msgid "Неназначенный"
+msgid "Не назначенный"
 msgstr ""
 
 msgid "Новая запись"
@@ -179,7 +179,7 @@ msgstr ""
 msgid "Регуляторы.."
 msgstr ""
 
-msgid "Рэтро"
+msgid "Ретро"
 msgstr ""
 
 msgid "Светлая"
@@ -461,7 +461,7 @@ msgstr ""
 msgid "помощь"
 msgstr ""
 
-msgid "сохранить натройки"
+msgid "сохранить настройки"
 msgstr ""
 
 msgid "старт"
