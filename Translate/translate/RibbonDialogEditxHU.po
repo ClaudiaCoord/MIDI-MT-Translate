@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-ribbondialogeditxhu.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -138,10 +138,10 @@ msgid "Панель быстрого доступа"
 msgstr "Gyorsmenü"
 
 msgid "Показать «Аудио микшер»"
-msgstr "Az "Audio Mixer" műsora"
+msgstr "Az “Audio Mixer” műsora"
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr ""Multimédiás gombok" megjelenítése"
+msgstr "“Multimédiás gombok” megjelenítése"
 
 msgid "Показать «Умный дом»"
 msgstr "„Okos otthon” műsor"
@@ -270,7 +270,7 @@ msgid "Установить группу как «Аудио микшер»"
 msgstr "Csoport beállítása „Audio Mixer”-ként"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Állítsa be a csoportot "Multimédia gombokként""
+msgstr "Állítsa be a csoportot “Multimédia gombokként”"
 
 msgid "Установить группу как «Умный дом»."
 msgstr "Állítsa be a csoportot „Okos otthon”-ként."

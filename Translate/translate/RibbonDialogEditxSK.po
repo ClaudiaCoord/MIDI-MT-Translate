@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-ribbondialogeditxsk.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -141,7 +141,7 @@ msgid "Показать «Аудио микшер»"
 msgstr "Zobraziť „Zmiešavač zvuku“"
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Zobraziť "Multimediálne tlačidlá""
+msgstr "Zobraziť “Multimediálne tlačidlá”"
 
 msgid "Показать «Умный дом»"
 msgstr "Zobraziť „Inteligentný dom“"
@@ -270,7 +270,7 @@ msgid "Установить группу как «Аудио микшер»"
 msgstr "Nastaviť skupinu ako „Zmiešavač zvuku“"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Nastavte skupinu ako "Multimediálne tlačidlá""
+msgstr "Nastavte skupinu ako “Multimediálne tlačidlá”"
 
 msgid "Установить группу как «Умный дом»."
 msgstr "Nastavte skupinu ako „Smart Home“."

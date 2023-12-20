@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-ribbondialogeditxsl.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -138,13 +138,13 @@ msgid "Панель быстрого доступа"
 msgstr "Orodna vrstica za hitri dostop"
 
 msgid "Показать «Аудио микшер»"
-msgstr "Prikaži "Audio Mixer""
+msgstr "Prikaži “Audio Mixer”"
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Pokaži "Večpredstavnostne gumbe""
+msgstr "Pokaži “Večpredstavnostne gumbe”"
 
 msgid "Показать «Умный дом»"
-msgstr "Prikaži "Pametni dom""
+msgstr "Prikaži “Pametni dom”"
 
 msgid "Показать сортировку"
 msgstr "Prikaži razvrščanje"
@@ -267,10 +267,10 @@ msgid "Умный дом"
 msgstr "Pametna hiša"
 
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Nastavi skupino kot "Audio Mixer""
+msgstr "Nastavi skupino kot “Audio Mixer”"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Nastavite skupino kot "Večpredstavnostni gumbi""
+msgstr "Nastavite skupino kot “Večpredstavnostni gumbi”"
 
 msgid "Установить группу как «Умный дом»."
 msgstr "Skupino nastavite kot »Pametni dom«."

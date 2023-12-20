@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-midimt_stringxnr.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -324,7 +324,7 @@ msgid "Пожалуйста, отредактируйте конфигураци
 msgstr "Rediger konfigurasjonen før du starter."
 
 msgid "Пожалуйста, перед запуском монитора, запустите транслятор из меню, выбрав пункт 'Старт'."
-msgstr "Før du starter monitoren, start oversetteren fra menyen ved å velge "Start"."
+msgstr "Før du starter monitoren, start oversetteren fra menyen ved å velge “Start”."
 
 msgid "При запуске будут созданы {0} выходных MIDI портов."
 msgstr "Ved oppstart opprettes {0} MIDI-utgangsporter."

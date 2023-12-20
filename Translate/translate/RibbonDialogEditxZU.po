@@ -1,7 +1,7 @@
-#. extracted from gitlocalize-2023-12-12-ribbondialogeditxzu.po.xlf
+#. extracted from gitlocalize-2023-12-14-ribbondialogeditxzu.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -105,7 +105,7 @@ msgid "Назначение 2"
 msgstr "Inhloso 2"
 
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
-msgstr "Nikeza ukhiye we-MIDI okhethiwe eqenjini "Isihlanganisi somsindo"."
+msgstr "Nikeza ukhiye we-MIDI okhethiwe eqenjini “Isihlanganisi somsindo”."
 
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
 msgstr "Nikeza ukhiye we-MIDI okhethiwe eqenjini elithi “Izinkinobho ze-Multimedia”."
@@ -138,13 +138,13 @@ msgid "Панель быстрого доступа"
 msgstr "Ibha yamathuluzi yokufinyelela Ngokushesha"
 
 msgid "Показать «Аудио микшер»"
-msgstr "Bonisa "Isihlanganisi Somsindo""
+msgstr "Bonisa “Isihlanganisi Somsindo”"
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Bonisa "Izinkinobho ze-Multimedia""
+msgstr "Bonisa “Izinkinobho ze-Multimedia”"
 
 msgid "Показать «Умный дом»"
-msgstr "Bonisa "Ikhaya Elihlakaniphile""
+msgstr "Bonisa “Ikhaya Elihlakaniphile”"
 
 msgid "Показать сортировку"
 msgstr "Bonisa ukuhlunga"
@@ -267,10 +267,10 @@ msgid "Умный дом"
 msgstr "I-Smart House"
 
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Setha iqembu "njenge-Audio Mixer""
+msgstr "Setha iqembu “njenge-Audio Mixer”"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Setha iqembu ngokuthi "Izinkinobho ze-Multimedia""
+msgstr "Setha iqembu ngokuthi “Izinkinobho ze-Multimedia”"
 
 msgid "Установить группу как «Умный дом»."
 msgstr "Setha iqembu njenge “Smart Home”."
@@ -303,10 +303,10 @@ msgid "Фильтровать по группе «Аудио микшер»"
 msgstr "Hlunga ngeqembu le-“Audio Mixer”"
 
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr "Hlunga ngeqembu "lezinkinobho ze-Multimedia"."
+msgstr "Hlunga ngeqembu “lezinkinobho ze-Multimedia”."
 
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "Hlunga ngeqembu "Ikhaya Elihlakaniphile"."
+msgstr "Hlunga ngeqembu “Ikhaya Elihlakaniphile”."
 
 msgid "Фильтровать по назначению 1"
 msgstr "Hlunga ngendawo 1"

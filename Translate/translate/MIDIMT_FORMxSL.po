@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-midimt_formxsl.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -24,7 +24,7 @@ msgid "&Перезагрузить модули"
 msgstr "&Znova naloži module"
 
 msgid "&Программа настройки MIDI панели"
-msgstr "& program za nastavitev plošče MIDI"
+msgstr "&program za nastavitev plošče MIDI"
 
 msgid "&Сохранить настройки"
 msgstr "&Shrani nastavitve"

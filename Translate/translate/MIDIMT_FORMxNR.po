@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-midimt_formxnr.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -24,7 +24,7 @@ msgid "&Перезагрузить модули"
 msgstr "&Last inn moduler på nytt"
 
 msgid "&Программа настройки MIDI панели"
-msgstr "& MIDI-paneloppsettprogram"
+msgstr "&MIDI-paneloppsettprogram"
 
 msgid "&Сохранить настройки"
 msgstr "&Lagre innstillinger"
@@ -165,7 +165,7 @@ msgid "Монитор MIDI команд"
 msgstr "MIDI-kommandomonitor"
 
 msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем кортроллере, вы будете получать сообщения о сцене, номере и текущем значении."
-msgstr "MIDI Command Monitor vil hjelpe deg med å finne ut hvordan kontrolleren er konfigurert. For å starte testingen, klikk på "Start"-knappen. Ved å bruke de ulike kontrollene på kontrolleren vil du motta meldinger om scenen, nummeret og gjeldende verdi."
+msgstr "MIDI Command Monitor vil hjelpe deg med å finne ut hvordan kontrolleren er konfigurert. For å starte testingen, klikk på “Start”-knappen. Ved å bruke de ulike kontrollene på kontrolleren vil du motta meldinger om scenen, nummeret og gjeldende verdi."
 
 msgid "Монитор команд"
 msgstr "Kommandomonitor"

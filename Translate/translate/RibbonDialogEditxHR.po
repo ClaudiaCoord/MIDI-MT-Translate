@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-ribbondialogeditxhr.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -111,7 +111,7 @@ msgid "Назначить выбранный MIDI ключ к группе «М�
 msgstr "Dodijelite odabranu MIDI tipku grupi “Multimedia Buttons”."
 
 msgid "Назначить выбранный MIDI ключ к группе «Умный дом»."
-msgstr "Dodijelite odabranu MIDI tipku grupi "Smart Home"."
+msgstr "Dodijelite odabranu MIDI tipku grupi “Smart Home”."
 
 msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
 msgstr "Nemojte koristiti izbornik za odabir vrijednosti, koristite samo digitalni ulaz."
@@ -138,13 +138,13 @@ msgid "Панель быстрого доступа"
 msgstr "Alatna traka za brzi pristup"
 
 msgid "Показать «Аудио микшер»"
-msgstr "Prikaži "Audio mikser""
+msgstr "Prikaži “Audio mikser”"
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Prikaži "Multimedijske gumbe""
+msgstr "Prikaži “Multimedijske gumbe”"
 
 msgid "Показать «Умный дом»"
-msgstr "Prikaži "Pametni dom""
+msgstr "Prikaži “Pametni dom”"
 
 msgid "Показать сортировку"
 msgstr "Prikaži sortiranje"
@@ -252,7 +252,7 @@ msgid "Тип фильтра"
 msgstr "Vrsta filtra"
 
 msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
-msgstr "Tipovi filtara koji se koriste imaju dva logička stanja: "I", "ILI"."
+msgstr "Tipovi filtara koji se koriste imaju dva logička stanja: “I”, “ILI”."
 
 msgid "Только цифровой ввод"
 msgstr "Samo digitalni ulaz"
@@ -267,13 +267,13 @@ msgid "Умный дом"
 msgstr "Pametna kuća"
 
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Postavi grupu kao "Audio mikser""
+msgstr "Postavi grupu kao “Audio mikser”"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Postavite grupu kao "Multimedijske tipke""
+msgstr "Postavite grupu kao “Multimedijske tipke”"
 
 msgid "Установить группу как «Умный дом»."
-msgstr "Postavite grupu kao "Smart Home"."
+msgstr "Postavite grupu kao “Smart Home”."
 
 msgid "Установить фильтр"
 msgstr "Postavite filter"
@@ -300,13 +300,13 @@ msgid "Фильтровать по MIDI сцене"
 msgstr "Filtriraj prema MIDI sceni"
 
 msgid "Фильтровать по группе «Аудио микшер»"
-msgstr "Filtrirajte prema grupi "Audio mikser"."
+msgstr "Filtrirajte prema grupi “Audio mikser”."
 
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr "Filtrirajte prema grupi "Multimedijski gumbi"."
+msgstr "Filtrirajte prema grupi “Multimedijski gumbi”."
 
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "Filtrirajte prema grupi "Pametni dom"."
+msgstr "Filtrirajte prema grupi “Pametni dom”."
 
 msgid "Фильтровать по назначению 1"
 msgstr "Filtriraj prema odredištu 1"

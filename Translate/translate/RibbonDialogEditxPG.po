@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-ribbondialogeditxpg.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -138,13 +138,13 @@ msgid "Панель быстрого доступа"
 msgstr "Barra de acesso rápido"
 
 msgid "Показать «Аудио микшер»"
-msgstr "Mostrar "Misturador de Áudio""
+msgstr "Mostrar “Misturador de Áudio”"
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Mostrar "Botões Multimídia""
+msgstr "Mostrar “Botões Multimídia”"
 
 msgid "Показать «Умный дом»"
-msgstr "Mostrar "Casa Inteligente""
+msgstr "Mostrar “Casa Inteligente”"
 
 msgid "Показать сортировку"
 msgstr "Mostrar classificação"
@@ -267,10 +267,10 @@ msgid "Умный дом"
 msgstr "Casa inteligente"
 
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Definir grupo como "Misturador de Áudio""
+msgstr "Definir grupo como “Misturador de Áudio”"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Defina o grupo como "Botões Multimídia""
+msgstr "Defina o grupo como “Botões Multimídia”"
 
 msgid "Установить группу как «Умный дом»."
 msgstr "Defina o grupo como “Smart Home”."

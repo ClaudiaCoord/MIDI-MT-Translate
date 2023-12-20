@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-ribbondialogeditxnr.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -105,13 +105,13 @@ msgid "Назначение 2"
 msgstr "Formål 2"
 
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
-msgstr "Tilordne den valgte MIDI-tasten til "Audio Mixer"-gruppen."
+msgstr "Tilordne den valgte MIDI-tasten til “Audio Mixer”-gruppen."
 
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
-msgstr "Tilordne den valgte MIDI-tasten til "Multimedia Buttons"-gruppen."
+msgstr "Tilordne den valgte MIDI-tasten til “Multimedia Buttons”-gruppen."
 
 msgid "Назначить выбранный MIDI ключ к группе «Умный дом»."
-msgstr "Tilordne den valgte MIDI-nøkkelen til "Smart Home"-gruppen."
+msgstr "Tilordne den valgte MIDI-nøkkelen til “Smart Home”-gruppen."
 
 msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
 msgstr "Ikke bruk verdivalgmenyen, bruk kun digital inngang."
@@ -138,13 +138,13 @@ msgid "Панель быстрого доступа"
 msgstr "Rask tilgangsverktøylinje"
 
 msgid "Показать «Аудио микшер»"
-msgstr "Vis "Audio Mixer""
+msgstr "Vis “Audio Mixer”"
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Vis "Multimedieknapper""
+msgstr "Vis “Multimedieknapper”"
 
 msgid "Показать «Умный дом»"
-msgstr "Vis "Smart Home""
+msgstr "Vis “Smart Home”"
 
 msgid "Показать сортировку"
 msgstr "Vis sortering"
@@ -252,7 +252,7 @@ msgid "Тип фильтра"
 msgstr "Filtertype"
 
 msgid "Типы применяемых фильтров имеют два логических состояния: «И», «ИЛИ»."
-msgstr "Filtertypene som brukes har to logiske tilstander: "OG", "ELLER"."
+msgstr "Filtertypene som brukes har to logiske tilstander: “OG”, “ELLER”."
 
 msgid "Только цифровой ввод"
 msgstr "Kun digital inngang"
@@ -267,13 +267,13 @@ msgid "Умный дом"
 msgstr "Smart hus"
 
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Sett gruppe som "Audio Mixer""
+msgstr "Sett gruppe som “Audio Mixer”"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Sett gruppen som "Multimedia Buttons""
+msgstr "Sett gruppen som “Multimedia Buttons”"
 
 msgid "Установить группу как «Умный дом»."
-msgstr "Sett gruppen som "Smart Home"."
+msgstr "Sett gruppen som “Smart Home”."
 
 msgid "Установить фильтр"
 msgstr "Sett filter"
@@ -300,13 +300,13 @@ msgid "Фильтровать по MIDI сцене"
 msgstr "Filtrer etter MIDI-scene"
 
 msgid "Фильтровать по группе «Аудио микшер»"
-msgstr "Filtrer etter "Audio Mixer"-gruppe"
+msgstr "Filtrer etter “Audio Mixer”-gruppe"
 
 msgid "Фильтровать по группе «Мультимедиа кнопки»"
-msgstr "Filtrer etter "Multimedieknapper"-gruppe"
+msgstr "Filtrer etter “Multimedieknapper”-gruppe"
 
 msgid "Фильтровать по группе «Умный дом»"
-msgstr "Filtrer etter "Smart Home"-gruppe"
+msgstr "Filtrer etter “Smart Home”-gruppe"
 
 msgid "Фильтровать по назначению 1"
 msgstr "Filtrer etter destinasjon 1"

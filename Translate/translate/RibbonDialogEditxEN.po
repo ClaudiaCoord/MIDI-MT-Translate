@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-ribbondialogeditxen.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -48,13 +48,13 @@ msgid "MIDI панель управления"
 msgstr "MIDI control panel"
 
 msgid "Авто отправка вводимых значений в фильтре"
-msgstr "Automatic sending of entered values ​​in the filter"
+msgstr "Automatic sending of entered values​in the filter"
 
 msgid "Авто отправка данных в фильтре"
 msgstr "Automatic sending of data in the filter"
 
 msgid "Автоматически отправляет вводимые значения во встроенном фильтре."
-msgstr "Automatically submits input values ​​in a built-in filter."
+msgstr "Automatically submits input values​in a built-in filter."
 
 msgid "Аудио микшер"
 msgstr "Audio mixer"
@@ -138,13 +138,13 @@ msgid "Панель быстрого доступа"
 msgstr "Quick Access Toolbar"
 
 msgid "Показать «Аудио микшер»"
-msgstr "Show "Audio Mixer""
+msgstr "Show “Audio Mixer”"
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Show "Multimedia Buttons""
+msgstr "Show “Multimedia Buttons”"
 
 msgid "Показать «Умный дом»"
-msgstr "Show "Smart Home""
+msgstr "Show “Smart Home”"
 
 msgid "Показать сортировку"
 msgstr "Show sorting"
@@ -267,10 +267,10 @@ msgid "Умный дом"
 msgstr "Smart House"
 
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Set group as "Audio Mixer""
+msgstr "Set group as “Audio Mixer”"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Set the group as "Multimedia Buttons""
+msgstr "Set the group as “Multimedia Buttons”"
 
 msgid "Установить группу как «Умный дом»."
 msgstr "Set the group as “Smart Home”."

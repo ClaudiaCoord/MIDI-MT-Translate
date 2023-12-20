@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-ribbondialogeditxsp.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -105,13 +105,13 @@ msgid "Назначение 2"
 msgstr "Propósito 2"
 
 msgid "Назначить выбранный MIDI ключ к группе «Аудио микшер»."
-msgstr "Asigne la tecla MIDI seleccionada al grupo "Mezclador de audio"."
+msgstr "Asigne la tecla MIDI seleccionada al grupo “Mezclador de audio”."
 
 msgid "Назначить выбранный MIDI ключ к группе «Мультимедиа кнопки»."
-msgstr "Asigne la tecla MIDI seleccionada al grupo "Botones multimedia"."
+msgstr "Asigne la tecla MIDI seleccionada al grupo “Botones multimedia”."
 
 msgid "Назначить выбранный MIDI ключ к группе «Умный дом»."
-msgstr "Asigne la tecla MIDI seleccionada al grupo "Smart Home"."
+msgstr "Asigne la tecla MIDI seleccionada al grupo “Smart Home”."
 
 msgid "Не использовать меню выбора значений, использовать только цифровой ввод."
 msgstr "No utilice el menú de selección de valores, utilice únicamente la entrada digital."
@@ -138,13 +138,13 @@ msgid "Панель быстрого доступа"
 msgstr "Acceso rapido a la barra de herramientas"
 
 msgid "Показать «Аудио микшер»"
-msgstr "Mostrar "Mezclador de audio""
+msgstr "Mostrar “Mezclador de audio”"
 
 msgid "Показать «Мультимедиа кнопки»"
-msgstr "Mostrar "Botones multimedia""
+msgstr "Mostrar “Botones multimedia”"
 
 msgid "Показать «Умный дом»"
-msgstr "Mostrar "Hogar inteligente""
+msgstr "Mostrar “Hogar inteligente”"
 
 msgid "Показать сортировку"
 msgstr "Mostrar clasificación"
@@ -267,13 +267,13 @@ msgid "Умный дом"
 msgstr "Casa inteligente"
 
 msgid "Установить группу как «Аудио микшер»"
-msgstr "Establecer grupo como "Mezclador de audio""
+msgstr "Establecer grupo como “Mezclador de audio”"
 
 msgid "Установить группу как «Мультимедиа кнопки»"
-msgstr "Establecer el grupo como "Botones multimedia""
+msgstr "Establecer el grupo como “Botones multimedia”"
 
 msgid "Установить группу как «Умный дом»."
-msgstr "Configure el grupo como "Hogar inteligente"."
+msgstr "Configure el grupo como “Hogar inteligente”."
 
 msgid "Установить фильтр"
 msgstr "Establecer filtro"

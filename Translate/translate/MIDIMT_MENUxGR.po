@@ -1,7 +1,7 @@
 #. extracted from gitlocalize-2023-12-12-midimt_menuxgr.po.xlf
 msgid ""
 msgstr ""
-"Project-Id-Version: 1212\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-12 12:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -18,7 +18,7 @@ msgid "&Анимация"
 msgstr "&ანიმაცია"
 
 msgid "&Аудио микшер"
-msgstr "& აუდიო მიქსერი"
+msgstr "&აუდიო მიქსერი"
 
 msgid "&Закрыть"
 msgstr "&დახურვა"
@@ -174,7 +174,7 @@ msgid "Расположение.."
 msgstr "მდებარეობა.."
 
 msgid "Регуляторы в системе «Умный дом».."
-msgstr "რეგულატორები "ჭკვიანი სახლის" სისტემაში.."
+msgstr "რეგულატორები “ჭკვიანი სახლის” სისტემაში.."
 
 msgid "Регуляторы.."
 msgstr "რეგულატორები.."
