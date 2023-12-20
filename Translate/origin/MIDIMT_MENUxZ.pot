@@ -1,4 +1,4 @@
-﻿#. extracted from MIDIMT_MENUxRU.rc
+#. extracted from MIDIMT_MENUxRU
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
