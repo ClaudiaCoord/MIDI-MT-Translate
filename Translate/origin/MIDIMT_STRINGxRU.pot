@@ -1,4 +1,4 @@
-#. extracted from MIDIMT_STRINGxRU
+#. extracted from MIDIMT_STRINGxRU.rc
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate RC2POT 1.0.0\n"
+"X-Generator: Translate rc2pot.exe 1.0.0\n"
 "X-Merge-On: location\n"
 
 msgid "&Микшер"
@@ -38,6 +38,9 @@ msgstr ""
 msgid "MIDI-MT транслятор"
 msgstr ""
 
+msgid "MIDIMT"
+msgstr ""
+
 msgid "MIDIMT - Аудио микшер не запущен:"
 msgstr ""
 
@@ -56,10 +59,10 @@ msgstr ""
 msgid "Аудио пиковый измеритель не доступен."
 msgstr ""
 
-msgid "Аудиомикшер не запущен, проверьте настройки, должен быть включен запуск аудио панели."
+msgid "Аудио сеанс '{0}' – неправильное состояние регистрации '{1}': {2}/{3}"
 msgstr ""
 
-msgid "Аудио сеанс '{0}' – неправильное состояние регистрации '{1}': {2}/{3}"
+msgid "Аудиомикшер не запущен, проверьте настройки, должен быть включен запуск аудио панели."
 msgstr ""
 
 msgid "Бридж уже запущен."
@@ -260,7 +263,7 @@ msgstr ""
 msgid "Необходимо установить Virtual MIDI драйвер!"
 msgstr ""
 
-msgid "Не поддерживаемая реализация в коде, метод не переопределен: {0}"
+msgid "Неподдерживаемая реализация в коде, метод не переопределен: {0}"
 msgstr ""
 
 msgid "Номер DMX канала"
@@ -683,9 +686,6 @@ msgstr ""
 msgid "нет"
 msgstr ""
 
-msgid "статус:"
-msgstr ""
-
 msgid "отключение звука (канал 1)"
 msgstr ""
 
@@ -717,6 +717,9 @@ msgid "отключение звука (основной)"
 msgstr ""
 
 msgid "предупреждения"
+msgstr ""
+
+msgid "статус:"
 msgstr ""
 
 msgid "только ошибки"

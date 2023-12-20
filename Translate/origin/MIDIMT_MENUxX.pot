@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate RC2POT 1.0.0\n"
+"X-Generator: Translate rc2pot.exe 1.0.0\n"
 "X-Merge-On: location\n"
 
 msgid "&Анимация"
@@ -437,6 +437,9 @@ msgstr ""
 msgid "очистить"
 msgstr ""
 
+msgid "плагины"
+msgstr ""
+
 msgid "показать ArtNet конфигурацию"
 msgstr ""
 
@@ -465,6 +468,9 @@ msgid "сохранить настройки"
 msgstr ""
 
 msgid "старт"
+msgstr ""
+
+msgid "статистика плагинов"
 msgstr ""
 
 msgid "стоп"
@@ -525,7 +531,4 @@ msgid "уровень 9"
 msgstr ""
 
 msgid "язык"
-msgstr ""
-
-msgid "статистика плагинов"
 msgstr ""
