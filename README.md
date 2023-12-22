@@ -1,11 +1,11 @@
-[![gitlocalized ](https://gitlocalize.com/repo/9000/whole_project/badge.svg)](https://gitlocalize.com/repo/8873)
+[![gitlocalized ](https://gitlocalize.com/repo/9000/whole_project/badge.svg)](https://gitlocalize.com/repo/9175)
 
 # MIDI-MT-Translate
 
 Do you want to contribute to support various languages for the MIDI-MT project, or add your native language to the project?
 This is not difficult to do, further instructions will help you with this.
 
-Go to the site [gitlocalize.com](https://gitlocalize.com/repo/8873), there you will see a list of active languages for translating the project.
+Go to the site [gitlocalize.com](https://gitlocalize.com/repo/9175), there you will see a list of active languages for translating the project.
 
 - If your language is not listed, add it using the `Add language` button.
 - Once you have selected the target language, navigate to the file you wish to translate.
