@@ -1,4 +1,4 @@
-#. extracted from 12-21-midimt_menuxsp.po.xlf
+#. extracted from MIDIMT_MENUxRU.rc
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -11,524 +11,527 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate xlf2po.exe 1.0.1\n"
+"X-Generator: Translate rc2pot.exe 1.0.1\n"
 "X-Merge-On: location\n"
 
 msgid "&Анимация"
-msgstr "&Animación"
+msgstr ""
 
 msgid "&Аудио микшер"
-msgstr "&Mezclador de audio"
+msgstr ""
 
 msgid "&Закрыть"
-msgstr "&Cerca"
+msgstr ""
 
 msgid "&Информация"
-msgstr "&Información"
+msgstr ""
 
 msgid "&Монитор"
-msgstr "&Monitor"
+msgstr ""
 
 msgid "&Мониторинг"
-msgstr "&Supervisión"
+msgstr ""
 
 msgid "&Настройка"
-msgstr "&Ajustes"
+msgstr ""
 
 msgid "&Просмотр лог-файла"
-msgstr "&Ver archivo de registro"
+msgstr ""
 
 msgid "&Путь приложений"
-msgstr "&Ruta de la aplicación"
+msgstr ""
 
 msgid "Баланс (мастер)"
-msgstr "Equilibrio (maestro)"
+msgstr ""
 
 msgid "Баланс.."
-msgstr "Balance.."
+msgstr ""
 
 msgid "Без звука (мастер)"
-msgstr "Silencioso (maestro)"
+msgstr ""
 
 msgid "Без звука.."
-msgstr "Silencioso.."
+msgstr ""
 
 msgid "Вверх (джойстик)"
-msgstr "Arriba (joystick)"
+msgstr ""
 
 msgid "Вертикально слева"
-msgstr "vertical izquierda"
+msgstr ""
 
 msgid "Вертикально справа"
-msgstr "derecha vertical"
+msgstr ""
 
 msgid "Влево (джойстик)"
-msgstr "Izquierda (joystick)"
+msgstr ""
 
 msgid "Вниз (джойстик)"
-msgstr "Abajo (joystick)"
+msgstr ""
 
 msgid "Вправо (джойстик)"
-msgstr "Derecha (joystick)"
+msgstr ""
 
 msgid "Вставить"
-msgstr "Insertar"
+msgstr ""
 
 msgid "Вы&ход"
-msgstr "Salida"
+msgstr ""
 
 msgid "Горизонтально вверху"
-msgstr "Horizontalmente en la parte superior"
+msgstr ""
 
 msgid "Горизонтально внизу"
-msgstr "Horizontalmente debajo"
+msgstr ""
 
 msgid "Громкость (мастер)"
-msgstr "Volumen (maestro)"
+msgstr ""
 
 msgid "Громкость.."
-msgstr "Volumen.."
+msgstr ""
 
 msgid "З&апомнить позицию"
-msgstr "Recordar posición"
+msgstr ""
 
 msgid "Запись"
-msgstr "Registro"
+msgstr ""
 
 msgid "Играть/Пауза"
-msgstr "Reproducir pausar"
+msgstr ""
 
 msgid "Канал 16 бит (расширенный)"
-msgstr "Canal 16 bits (extendido)"
+msgstr ""
 
 msgid "Канал 8 бит (стандарт)"
-msgstr "Canal de 8 bits (estándar)"
+msgstr ""
 
 msgid "Кнопка"
-msgstr "Botón"
+msgstr ""
 
 msgid "Кнопка переключать, с индикацией"
-msgstr "Botón de interruptor, con indicación."
+msgstr ""
 
 msgid "Кнопки в системе «Умный дом».."
-msgstr "Botones del sistema Smart Home."
+msgstr ""
 
 msgid "Кнопки.."
-msgstr "Botones.."
+msgstr ""
 
 msgid "Контроль относиться к аудио микшеру"
-msgstr "El control se refiere al mezclador de audio."
+msgstr ""
 
 msgid "Контроль относиться к мультимедиа кнопкам"
-msgstr "Los controles se aplican a los botones multimedia."
+msgstr ""
 
 msgid "Контроль относиться к умному дому"
-msgstr "El control se refiere a una casa inteligente"
+msgstr ""
 
 msgid "Контроль относиться к управлению светом"
-msgstr "El control se refiere al control de la luz."
+msgstr ""
 
 msgid "Копировать"
-msgstr "Copiar"
+msgstr ""
 
 msgid "Круговой регулятор"
-msgstr "Regulador circular"
+msgstr ""
 
 msgid "Круговой регулятор с инверсией"
-msgstr "Regulador circular con inversión."
+msgstr ""
 
 msgid "Метро"
-msgstr "Metro"
+msgstr ""
 
 msgid "Мультимедиа кнопки.."
-msgstr "Botones multimedia.."
+msgstr ""
 
 msgid "Настраиваемая"
-msgstr "Personalizable"
+msgstr ""
 
 msgid "Настройка темы"
-msgstr "Configurando un tema"
+msgstr ""
 
 msgid "Не назначенный"
-msgstr "No asignado"
+msgstr ""
 
 msgid "Новая запись"
-msgstr "Nueva entrada"
+msgstr ""
 
 msgid "Пиковый &измеритель громкости"
-msgstr "Medidor de pico y volumen"
+msgstr ""
 
 msgid "Полосковый регулятор"
-msgstr "Regulador de tira"
+msgstr ""
 
 msgid "Полосковый регулятор с инверсией"
-msgstr "Regulador de tira con inversión"
+msgstr ""
 
 msgid "Предыдущий"
-msgstr "Anterior"
+msgstr ""
 
 msgid "Привязка &MIDI контролов"
-msgstr "Controles vinculantes y MIDI"
+msgstr ""
 
 msgid "Расположение.."
-msgstr "Ubicación.."
+msgstr ""
 
 msgid "Регуляторы в системе «Умный дом».."
-msgstr "Reguladores en el sistema “Smart Home”."
+msgstr ""
 
 msgid "Регуляторы.."
-msgstr "Reguladores..."
+msgstr ""
 
 msgid "Ретро"
-msgstr "Retro"
+msgstr ""
 
 msgid "Светлая"
-msgstr "Luz"
+msgstr ""
 
 msgid "Скрабирование"
-msgstr "Depuración"
+msgstr ""
 
 msgid "Следующий"
-msgstr "Próximo"
+msgstr ""
 
 msgid "Современный"
-msgstr "Moderno"
+msgstr ""
 
 msgid "Соло (мастер)"
-msgstr "Solitario (maestro)"
+msgstr ""
 
 msgid "Соло.."
-msgstr "Solo.."
+msgstr ""
 
 msgid "Ст&арт"
-msgstr "Comenzar"
+msgstr ""
 
 msgid "Ст&оп"
-msgstr "Detener"
+msgstr ""
 
 msgid "Стоп"
-msgstr "Detener"
+msgstr ""
 
 msgid "Тема.."
-msgstr "Sujeto.."
+msgstr ""
 
 msgid "Тёмная"
-msgstr "Oscuro"
+msgstr ""
 
 msgid "Увеличение масштаба"
-msgstr "Acercarse"
+msgstr ""
 
 msgid "Удалить"
-msgstr "Borrar"
+msgstr ""
 
 msgid "Управление звуком.."
-msgstr "Control de sonido..."
+msgstr ""
 
 msgid "Установить как.."
-msgstr "Instalar como..."
+msgstr ""
 
 msgid "Функции «Premiere Pro».."
-msgstr "Funciones de Premiere Pro..."
+msgstr ""
 
 msgid "Функции кнопки «в одно касание».."
-msgstr "Funciones de botones de un toque..."
+msgstr ""
 
 msgid "Функции стандартной кнопки.."
-msgstr "Funciones de un botón estándar..."
+msgstr ""
 
 msgid "Функция 1"
-msgstr "Función 1"
+msgstr ""
 
 msgid "Функция 2"
-msgstr "Función 2"
+msgstr ""
 
 msgid "Функция 3"
-msgstr "Función 3"
+msgstr ""
 
 msgid "Функция 4"
-msgstr "Función 4"
+msgstr ""
 
 msgid "Функция 5"
-msgstr "Función 5"
+msgstr ""
 
 msgid "Функция 6"
-msgstr "Función 6"
+msgstr ""
 
 msgid "Функция 7"
-msgstr "Función 7"
+msgstr ""
 
 msgid "Функция 8"
-msgstr "Función 8"
+msgstr ""
 
 msgid "Читать MIDI код.."
-msgstr "Leer código MIDI.."
+msgstr ""
 
 msgid "Энкодер"
-msgstr "Codificador"
+msgstr ""
 
 msgid "Энкодер (JOG)"
-msgstr "Codificador (JOG)"
+msgstr ""
 
 msgid "Энкодер (покадровый просмотр)"
-msgstr "Codificador (visualización cuadro por cuadro)"
+msgstr ""
 
 msgid "Энкодер с инверсией"
-msgstr "Codificador con inversión"
+msgstr ""
 
 msgid "авто"
-msgstr "auto"
+msgstr ""
 
 msgid "в конец"
-msgstr "Al final"
+msgstr ""
 
 msgid "в начало"
-msgstr "al principio"
+msgstr ""
 
 msgid "вкл/выкл 1"
-msgstr "encendido/apagado 1"
+msgstr ""
 
 msgid "вкл/выкл 10"
-msgstr "encendido/apagado 10"
+msgstr ""
 
 msgid "вкл/выкл 11"
-msgstr "encendido/apagado 11"
+msgstr ""
 
 msgid "вкл/выкл 12"
-msgstr "encendido/apagado 12"
+msgstr ""
 
 msgid "вкл/выкл 13"
-msgstr "encendido/apagado 13"
+msgstr ""
 
 msgid "вкл/выкл 14"
-msgstr "encendido/apagado 14"
+msgstr ""
 
 msgid "вкл/выкл 15"
-msgstr "encendido/apagado 15"
+msgstr ""
 
 msgid "вкл/выкл 16"
-msgstr "encendido/apagado 16"
+msgstr ""
 
 msgid "вкл/выкл 17"
-msgstr "encendido/apagado 17"
+msgstr ""
 
 msgid "вкл/выкл 18"
-msgstr "encendido/apagado 18"
+msgstr ""
 
 msgid "вкл/выкл 19"
-msgstr "encendido/apagado 19"
+msgstr ""
 
 msgid "вкл/выкл 2"
-msgstr "encendido/apagado 2"
+msgstr ""
 
 msgid "вкл/выкл 20"
-msgstr "encendido/apagado 20"
+msgstr ""
 
 msgid "вкл/выкл 21"
-msgstr "encendido/apagado 21"
+msgstr ""
 
 msgid "вкл/выкл 22"
-msgstr "encendido/apagado 22"
+msgstr ""
 
 msgid "вкл/выкл 23"
-msgstr "encendido/apagado 23"
+msgstr ""
 
 msgid "вкл/выкл 24"
-msgstr "encendido/apagado 24"
+msgstr ""
 
 msgid "вкл/выкл 25"
-msgstr "encendido/apagado 25"
+msgstr ""
 
 msgid "вкл/выкл 26"
-msgstr "encendido/apagado 26"
+msgstr ""
 
 msgid "вкл/выкл 27"
-msgstr "encendido/apagado 27"
+msgstr ""
 
 msgid "вкл/выкл 3"
-msgstr "encendido/apagado 3"
+msgstr ""
 
 msgid "вкл/выкл 4"
-msgstr "encendido/apagado 4"
+msgstr ""
 
 msgid "вкл/выкл 5"
-msgstr "encendido/apagado 5"
+msgstr ""
 
 msgid "вкл/выкл 6"
-msgstr "encendido/apagado 6"
+msgstr ""
 
 msgid "вкл/выкл 7"
-msgstr "encendido/apagado 7"
+msgstr ""
 
 msgid "вкл/выкл 8"
-msgstr "encendido/apagado 8"
+msgstr ""
 
 msgid "вкл/выкл 9"
-msgstr "encendido/apagado 9"
+msgstr ""
 
 msgid "выход"
-msgstr "salida"
+msgstr ""
 
 msgid "канал 1"
-msgstr "canal 1"
+msgstr ""
 
 msgid "канал 10"
-msgstr "canal 10"
+msgstr ""
 
 msgid "канал 11"
-msgstr "canal 11"
+msgstr ""
 
 msgid "канал 12"
-msgstr "canal 12"
+msgstr ""
 
 msgid "канал 13"
-msgstr "canal 13"
+msgstr ""
 
 msgid "канал 14"
-msgstr "canal 14"
+msgstr ""
 
 msgid "канал 15"
-msgstr "canal 15"
+msgstr ""
 
 msgid "канал 16"
-msgstr "canal 16"
+msgstr ""
 
 msgid "канал 17"
-msgstr "canal 17"
+msgstr ""
 
 msgid "канал 18"
-msgstr "canal 18"
+msgstr ""
 
 msgid "канал 2"
-msgstr "canal 2"
+msgstr ""
 
 msgid "канал 3"
-msgstr "canal 3"
+msgstr ""
 
 msgid "канал 4"
-msgstr "canal 4"
+msgstr ""
 
 msgid "канал 5"
-msgstr "canal 5"
+msgstr ""
 
 msgid "канал 6"
-msgstr "canal 6"
+msgstr ""
 
 msgid "канал 7"
-msgstr "canal 7"
+msgstr ""
 
 msgid "канал 8"
-msgstr "canal 8"
+msgstr ""
 
 msgid "канал 9"
-msgstr "canal 9"
+msgstr ""
 
 msgid "конфигурация"
-msgstr "configuración"
+msgstr ""
 
 msgid "крупнее"
-msgstr "más grande"
+msgstr ""
 
 msgid "лог"
-msgstr "registro"
+msgstr ""
 
 msgid "мельче"
-msgstr "menor"
+msgstr ""
 
 msgid "очистить"
-msgstr "claro"
+msgstr ""
 
 msgid "плагины"
-msgstr "complementos"
+msgstr ""
 
 msgid "показать ArtNet конфигурацию"
-msgstr "mostrar la configuración de ArtNet"
+msgstr ""
 
 msgid "показать DMX512 конфигурацию"
-msgstr "mostrar configuración DMX512"
+msgstr ""
 
 msgid "показать LIGTS конфигурацию"
-msgstr "mostrar configuración de LIGTS"
+msgstr ""
 
 msgid "показать MIDI конфигурацию"
-msgstr "mostrar configuración MIDI"
+msgstr ""
 
 msgid "показать MMKEYS конфигурацию"
-msgstr "mostrar configuración MMKEYS"
+msgstr ""
 
 msgid "показать MQTT конфигурацию"
-msgstr "mostrar la configuración MQTT"
+msgstr ""
+
+msgid "показать REMOTE конфигурацию"
+msgstr ""
 
 msgid "показать всю конфигурацию"
-msgstr "mostrar toda la configuración"
+msgstr ""
 
 msgid "помощь"
-msgstr "ayuda"
+msgstr ""
 
 msgid "сохранить настройки"
-msgstr "guardar ajustes"
+msgstr ""
 
 msgid "старт"
-msgstr "comenzar"
+msgstr ""
 
 msgid "статистика плагинов"
-msgstr "estadísticas del complemento"
+msgstr ""
 
 msgid "стоп"
-msgstr "detener"
+msgstr ""
 
 msgid "уровень 1"
-msgstr "nivel 1"
+msgstr ""
 
 msgid "уровень 10"
-msgstr "nivel 10"
+msgstr ""
 
 msgid "уровень 11"
-msgstr "nivel 11"
+msgstr ""
 
 msgid "уровень 12"
-msgstr "nivel 12"
+msgstr ""
 
 msgid "уровень 13"
-msgstr "nivel 13"
+msgstr ""
 
 msgid "уровень 14"
-msgstr "nivel 14"
+msgstr ""
 
 msgid "уровень 15"
-msgstr "nivel 15"
+msgstr ""
 
 msgid "уровень 16"
-msgstr "nivel 16"
+msgstr ""
 
 msgid "уровень 17"
-msgstr "nivel 17"
+msgstr ""
 
 msgid "уровень 18"
-msgstr "nivel 18"
+msgstr ""
 
 msgid "уровень 2"
-msgstr "nivel 2"
+msgstr ""
 
 msgid "уровень 3"
-msgstr "nivel 3"
+msgstr ""
 
 msgid "уровень 4"
-msgstr "nivel 4"
+msgstr ""
 
 msgid "уровень 5"
-msgstr "nivel 5"
+msgstr ""
 
 msgid "уровень 6"
-msgstr "nivel 6"
+msgstr ""
 
 msgid "уровень 7"
-msgstr "nivel 7"
+msgstr ""
 
 msgid "уровень 8"
-msgstr "nivel 8"
+msgstr ""
 
 msgid "уровень 9"
-msgstr "nivel 9"
+msgstr ""
 
 msgid "язык"
-msgstr "idioma"
+msgstr ""

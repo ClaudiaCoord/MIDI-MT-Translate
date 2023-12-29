@@ -1,4 +1,4 @@
-#. extracted from 12-21-midimt_stringxzu.po.xlf
+#. extracted from MIDIMT_STRINGxRU.rc
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
@@ -11,827 +11,854 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate xlf2po.exe 1.0.1\n"
+"X-Generator: Translate rc2pot.exe 1.0.1\n"
 "X-Merge-On: location\n"
 
 msgid "&Микшер"
-msgstr "&Isididiyeli"
+msgstr ""
 
 msgid "&Настройки"
-msgstr "&Izilungiselelo"
+msgstr ""
 
 msgid "CA сертификат"
-msgstr "Isitifiketi se-CA"
+msgstr ""
 
 msgid "Co*Create - не удалось создать экземпляр."
-msgstr "Co*Dala - yehlulekile ukudala isenzakalo."
+msgstr ""
 
 msgid "Co*Initialize инициализация не удалась."
-msgstr "I-Co*Ukuqalisa ukuqalisa kwehlulekile."
+msgstr ""
 
 msgid "JOG (перемотка видеокадра)"
-msgstr "I-JOG (buyisela emuva uhlaka lwevidiyo)"
+msgstr ""
 
 msgid "MIDI-MT Конфигурация"
-msgstr "Ukucushwa kwe-MIDI-MT"
+msgstr ""
 
 msgid "MIDI-MT транслятор"
-msgstr "Umhumushi we-MIDI-MT"
+msgstr ""
 
 msgid "MIDIMT"
-msgstr "I-MIDIMT"
+msgstr ""
 
 msgid "MIDIMT - Аудио микшер не запущен:"
-msgstr "I-MIDIMT - Isihlanganisi somsindo asisebenzi:"
+msgstr ""
 
 msgid "MIDIMT - Невозможно закончить операцию:"
-msgstr "I-MIDIMT - Ayikwazi ukuqedela umsebenzi:"
+msgstr ""
 
 msgid "OK"
-msgstr "KULUNGILE"
+msgstr ""
 
 msgid "[Конфигурация пуста..]"
-msgstr "[Ukucushwa akunalutho..]"
+msgstr ""
 
 msgid "Автозапуск запрещен в общей конфигурации."
-msgstr "I-Autorun ivaliwe ekucushweni okuvamile."
+msgstr ""
 
 msgid "Аудио пиковый измеритель не доступен."
-msgstr "Imitha yomsindo ephezulu yomsindo ayitholakali."
+msgstr ""
 
 msgid "Аудио сеанс '{0}' – неправильное состояние регистрации '{1}': {2}/{3}"
-msgstr "Isikhathi somsindo '{0}' - Isimo sokubhalisa esingavumelekile '{1}': {2}/{3}"
+msgstr ""
 
 msgid "Аудиомикшер не запущен, проверьте настройки, должен быть включен запуск аудио панели."
-msgstr "Isihlanganisi somsindo asisebenzi, hlola izilungiselelo, ukuqaliswa kwephaneli yomsindo kufanele kuvulwe."
+msgstr ""
 
 msgid "Бридж уже запущен."
-msgstr "Ibhuloho seliqalisiwe."
+msgstr ""
 
 msgid "Бридж уже остановлен."
-msgstr "Ibhuloho selivele limile."
+msgstr ""
 
 msgid "Бридж успешно запущен, инициализировано {0}, загружено {1}, запущено {2} плагинов."
-msgstr "Ibhuloho liqaliswe ngempumelelo, {0} liqalisiwe, {1} lalayishwa, {2} ama-plugin ayasebenza."
+msgstr ""
 
 msgid "Бридж успешно остановлен, инициализировано {0}, загружено {1}, запущено {2}, остановлено {3} плагинов."
-msgstr "Ibhuloho limiswe ngempumelelo, {0} liqalisiwe, {1} lalayishwa, {2} liqalisiwe, {3} ama-plugin amisiwe."
+msgstr ""
 
 msgid "В этой конфигурации не настроены MIDI-клавиши."
-msgstr "Abekho okhiye be-MIDI abamisiwe kulokhu kulungiselelwa."
+msgstr ""
 
 msgid "Вверх (джойстик)"
-msgstr "Phezulu (induku yokudlala)"
+msgstr ""
 
 msgid "Версия драйвера [{0}]"
-msgstr "Inguqulo yomshayeli [{0}]"
+msgstr ""
 
 msgid "Версия установленного Virtual MIDI драйвера: {0}"
-msgstr "Kufakwe inguqulo yomshayeli we-Virtual MIDI: {0}"
+msgstr ""
 
 msgid "Виртуальный MIDI драйвер не установлен. Необходимо установить пакет loopMidi, или скачать полную версию установщика и переустановить MIDI-MT. Подробнее: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
-msgstr "I-virtual MIDI driver ayifakiwe. Udinga ukufaka iphakheji ye-loopMidi, noma ulande isifaki esigcwele bese ufaka kabusha i-MIDI-MT. Imininingwane eyengeziwe: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
+msgstr ""
 
 msgid "Включен={0},настройки={1},запущен={2}"
-msgstr "Inikwe amandla={0}, izilungiselelo={1}, running={2}"
+msgstr ""
 
 msgid "Влево (джойстик)"
-msgstr "Kwesokunxele (induku yokudlala)"
+msgstr ""
 
 msgid "Вниз (джойстик)"
-msgstr "Phansi (induku yokudlala)"
+msgstr ""
 
 msgid "Внимание, в этой конфигурации не настроены MIDI-клавиши! записанная конфигурацию будет не работоспособной."
-msgstr "Qaphela, lokhu kulungiselelwa akunabo okhiye be-MIDI abamisiwe! ukucushwa okurekhodiwe ngeke kusebenze."
+msgstr ""
 
 msgid "Внимание, несоответствие количества устройств в итоговом списке, система/список = {0}/{1}"
-msgstr "Ukunakwa, ukungafani enanini lamadivayisi akuhlu lokugcina, isistimu/uhlu = {0}/{1}"
+msgstr ""
 
 msgid "Вправо (джойстик)"
-msgstr "Kwesokudla (induku yokudlala)"
+msgstr ""
 
 msgid "Все настройки '{0}', версия конфигурационного файла: {1}"
-msgstr "Zonke izilungiselelo '{0}', inguqulo yefayela lokumisa: {1}"
+msgstr ""
 
 msgid "Вы&ход"
-msgstr "Phuma"
+msgstr ""
 
 msgid "Выберите ARTNET интерфейс"
-msgstr "Khetha isixhumi esibonakalayo se-ARTNET"
+msgstr ""
 
 msgid "Выберите DMX устройство"
-msgstr "Khetha idivayisi ye-DMX"
+msgstr ""
+
+msgid "Выберите сетевой интерфейс"
+msgstr ""
 
 msgid "Выбранная конфигурация не поддерживает авто старт."
-msgstr "Ukucushwa okukhethiwe akusekeli ukuqala okuzenzakalelayo."
+msgstr ""
 
 msgid "Выбранный {0} язык будет активным после перезапуска окна."
-msgstr "Ulimi {0} olukhethiwe luzosebenza ngemva kokuthi iwindi liqalwe kabusha."
+msgstr ""
 
 msgid "Выходные MIDI порты отключены."
-msgstr "Izimbobo zokukhiphayo ze-MIDI zivaliwe."
+msgstr ""
 
 msgid "Доступ на запись к файлу конфигурации запрещен, '{0}'"
-msgstr "Ukufinyelela kokubhala kufayela lokumisa kwenqatshiwe, '{0}'"
+msgstr ""
 
 msgid "Запись (проигрыватель)"
-msgstr "Ukuqopha (umdlali)"
+msgstr ""
 
 msgid "Играть (проигрыватель)"
-msgstr "Dlala (umdlali)"
+msgstr ""
 
 msgid "Имя MIDI-устройства не задано в конфигурации."
-msgstr "Igama ledivayisi ye-MIDI alilungiselelwe."
+msgstr ""
 
 msgid "Имя конфигурации не указано, продолжение невозможно."
-msgstr "Igama lokumisa alicacisiwe futhi alikwazi ukuqhubeka."
+msgstr ""
 
 msgid "Инициализируйте, прежде чем вызывать это.."
-msgstr "Qala ngaphambi kokuthi ushayele lokhu.."
+msgstr ""
 
 msgid "Клиент MMQTT успешно создан, продолжаем.."
-msgstr "Iklayenti le-MMQTT lakhiwe ngempumelelo, qhubeka..."
+msgstr ""
+
+msgid "Клиент {0}/{1} отключился, статус: {2} – {3}."
+msgstr ""
 
 msgid "Конфигурация MQTT не заполнена, продолжение невозможно."
-msgstr "Ukucushwa kwe-MQTT akunalutho futhi akukwazi ukuqhubeka."
+msgstr ""
 
 msgid "Конфигурация для модуля {0} пуста.."
-msgstr "Ukucushwa kwemojuli {0} akunalutho.."
+msgstr ""
 
 msgid "Конфигурация загружена из драйвера"
-msgstr "Ukucushwa kulayishwe kumshayeli"
+msgstr ""
 
 msgid "Конфигурация загружена из файла"
-msgstr "Ukucushwa kulayishwe kufayela"
+msgstr ""
 
 msgid "Конфигурация загружена из файла: {0}"
-msgstr "Ukucushwa kulayishwe kufayela: {0}"
+msgstr ""
 
 msgid "Конфигурация загружена.."
-msgstr "Ukucushwa kulayishiwe.."
+msgstr ""
 
 msgid "Конфигурация обновлена: {0} = {1}{2}"
-msgstr "Ukucushwa kubuyekeziwe: {0} = {1}{2}"
+msgstr ""
 
 msgid "Конфигурация пустая.."
-msgstr "Ukucushwa akunalutho.."
+msgstr ""
 
 msgid "Конфигурация создана заново и требует заполнения"
-msgstr "Ukucushwa kudalwe kabusha futhi kudinga ukugcwalisa"
+msgstr ""
 
 msgid "Конфигурация уже загружена.."
-msgstr "Ukucushwa sekuvele kulayishiwe.."
+msgstr ""
 
 msgid "Микшер аудио сеансов запущен, на момент старта имеется {0} запущенных программ, доступных для регулирования."
-msgstr "Isihlanganisi sesikhathi somsindo siyasebenza, ngesikhathi sokuqala kukhona {0} izinhlelo ezisebenzayo ezitholakalayo ukuze ziqondiswe."
+msgstr ""
 
 msgid "Микшер аудио сессий не был правильно остановлен, сведения об ошибке должны быть в файле журнала."
-msgstr "Isihlanganisi sesikhathi somsindo asimiswanga ngendlela efanele, imininingwane yephutha kufanele ibe kufayela lokungena."
+msgstr ""
 
 msgid "Микшер аудио сессий остановлен."
-msgstr "Isihlanganisi sesikhathi somsindo simisiwe."
+msgstr ""
 
 msgid "Модули не найдены, запуск невозможен."
-msgstr "Awekho amamojula atholiwe, ukuqalisa akunakwenzeka."
+msgstr ""
 
 msgid "Модуль не является плагином MIDI-MT, отсутствуют необходимые точки входа."
-msgstr "Imojula ayiyona i-plugin ye-MIDI-MT futhi izindawo zokungena ezidingekayo azikho."
+msgstr ""
 
 msgid "Мультимедийные клавиши"
-msgstr "Okhiye be-Multimedia"
+msgstr ""
 
 msgid "Настройки MIDI"
-msgstr "Izilungiselelo ze-MIDI"
+msgstr ""
 
 msgid "Настройки Умного Дома (MQTT)"
-msgstr "Izilungiselelo Zekhaya Elihlakaniphile (MQTT)"
+msgstr ""
 
 msgid "Настройки мультимедиа клавиатуры (MMKEYS)"
-msgstr "Izilungiselelo zekhibhodi ye-Multimedia (MMKEYS)"
+msgstr ""
+
+msgid "Настройки панели дистанционного управления (REMOTE)"
+msgstr ""
 
 msgid "Настройки управления освещением ({0})"
-msgstr "Izilungiselelo zokulawula ukukhanya ({0})"
+msgstr ""
 
 msgid "Не задано имя для активного устройства, продолжение невозможно, id = {0}/{1}"
-msgstr "Igama ledivayisi esebenzayo alicacisiwe, ukuqhubeka akunakwenzeka, i-id = {0}/{1}"
+msgstr ""
 
 msgid "Не заданы прокси-порты в конфигурации, MIDI-прокси отключено."
-msgstr "Izimbobo zommeleli azicaciswanga ekucushweni, ummeleli we-MIDI ukhutshaziwe."
+msgstr ""
 
 msgid "Не назначено"
-msgstr "Akunikezwanga"
+msgstr ""
 
 msgid "Не удается запустить MIDI-устройство, продолжение невозможно, id = {0}/{1}"
-msgstr "Ayikwazi ukuqalisa idivayisi ye-MIDI, ayikwazi ukuqhubeka, i-id = {0}/{1}"
+msgstr ""
 
 msgid "Не удается открыть MIDI-устройство, продолжение невозможно, id = {0}/{1}"
-msgstr "Ayikwazi ukuvula idivayisi ye-MIDI, ayikwazi ukuqhubeka, i-id = {0}/{1}"
+msgstr ""
 
 msgid "Не удалось загрузить плагины, предварительно инициализировано {0}, загружено 0 плагинов."
-msgstr "Yehlulekile ukulayisha ama-plugin, aqaliswe ngaphambilini {0}, ama-plugin angu-0 alayishiwe."
+msgstr ""
 
 msgid "Не удалось запустить бридж, ошибка при старте плагинов, инициализировано {0}, загружено {1} плагинов."
-msgstr "Yehlulekile ukuqalisa ibhuloho, kube nephutha ngenkathi iqalisa ama-plugin, {0} aqalisiwe, {1} ama-plugin alayishiwe."
+msgstr ""
 
 msgid "Не удалось запустить микшер аудио сессий, сведения об ошибке должны быть в файле журнала."
-msgstr "Isihlanganisi sesikhathi somsindo asikwazanga ukuqalwa, imininingwane yephutha kufanele ibe kufayela lokungena."
+msgstr ""
 
 msgid "Не удалось инициализировать плагины, совместимые плагины не обнаружены."
-msgstr "Yehlulekile ukuqalisa ama-plugin, awekho ama-plugin ahambisanayo atholiwe."
+msgstr ""
 
 msgid "Не удалось остановить бридж, ошибка при остановке плагинов, инициализировано {0}, загружено {1}, запущено {2} плагинов."
-msgstr "Yehlulekile ukumisa ibhuloho, iphutha lokumisa ama-plugin, {0} aqalisiwe, {1} alayishiwe, {2} ama-plugin ayasebenza."
+msgstr ""
 
 msgid "Не удалось открыть модуль плагина. Модуль отсутствует или поврежден, DLL не был загружен и вернул значение null."
-msgstr "Yehlulekile ukuvula imojuli ye-plugin. Imojula ayikho noma yonakele, i-DLL ayizange ilayishwe futhi ibuyiselwe ingenalutho."
+msgstr ""
 
 msgid "Не удалось переключается на поток пользовательского интерфейса, запуск аудио панели прерван."
-msgstr "Yehlulekile ukushintshela kuchungechunge lwe-UI, ukuqaliswa kwephaneli yomsindo kunqanyuliwe."
+msgstr ""
 
 msgid "Не удалось подключиться к серверу MQTT:"
-msgstr "Yehlulekile ukuxhuma kuseva ye-MQTT:"
+msgstr ""
 
 msgid "Не удалось получить аудио устройство по умолчанию."
-msgstr "Yehlulekile ukuthola idivayisi yomsindo ezenzakalelayo."
+msgstr ""
 
 msgid "Не удалось получить список аудио сеансов."
-msgstr "Yehlulekile ukuthola uhlu lwamaseshini omsindo."
+msgstr ""
 
 msgid "Неверный идентификатор события. Пожалуйста, перезапустите это приложение."
-msgstr "I-ID yomcimbi engavumelekile. Sicela uqale kabusha lolu hlelo lokusebenza."
+msgstr ""
 
 msgid "Необходимо установить Virtual MIDI драйвер!"
-msgstr "Udinga ukufaka umshayeli we-Virtual MIDI!"
+msgstr ""
 
 msgid "Неподдерживаемая реализация в коде, метод не переопределен: {0}"
-msgstr "Ukuqaliswa okungasekelwe kukhodi, indlela ayibhalwanga phansi: {0}"
+msgstr ""
 
 msgid "Номер DMX канала"
-msgstr "Inombolo yesiteshi se-DMX"
+msgstr ""
 
 msgid "Обнаружена новая версия конфигурации.."
-msgstr "Kutholwe inguqulo entsha yokumisa.."
+msgstr ""
 
 msgid "Окно панели аудиомикшера не соответствует статусу, невозможно продолжить следующую операцию."
-msgstr "Iwindi lephaneli yesihlanganisi somsindo alinaso isimo esilungile futhi umsebenzi olandelayo awukwazi ukuqhubeka."
+msgstr ""
 
 msgid "Отключение аудио сессии, причина='{0}'"
-msgstr "Ikhubaza iseshini yomsindo, isizathu='{0}'"
+msgstr ""
 
 msgid "Отключено от сервера MQTT:"
-msgstr "Inqanyuliwe kuseva ye-MQTT:"
+msgstr ""
 
 msgid "Ошибка инициализации плагина, невозможно преобразовать CLSID/GUID из указанной строки."
-msgstr "Iphutha lokuqalisa i-plugin, ayikwazi ukuguqula i-CLSID/GUID isuka kuyunithi yezinhlamvu ecacisiwe."
+msgstr ""
 
 msgid "Ошибка инициализации приложения, продолжение невозможно."
-msgstr "Iphutha lokuqalisa uhlelo lokusebenza, ukuqhubeka akwenzeki."
+msgstr ""
+
+msgid "Ошибка клиента {0}/{1}, {2}."
+msgstr ""
 
 msgid "Ошибка создания клиента MQTT, отмена."
-msgstr "Iphutha lokudala iklayenti le-MQTT, ukukhansela."
+msgstr ""
 
 msgid "Панель аудио микшера - продолжение невозможно, ошибка инициализации."
-msgstr "Iphaneli yokuhlanganisa umsindo - ayikwazi ukuqhubeka, iphutha lokuqalisa."
+msgstr ""
 
 msgid "Панель аудиомикшера - продолжение невозможно, элементы индекса неверны."
-msgstr "Iphaneli Yokuhlanganisa Umsindo - Ayikwazi ukuqhubeka, izinto zenkomba azilungile."
+msgstr ""
 
 msgid "Панель аудиомикшера вызвана не в потоке пользовательского интерфейса, изменения невозможны."
-msgstr "Iphaneli ye-audio mixer ayisetshenziswa kuchungechunge lwe-UI futhi izinguquko azinakwenziwa."
+msgstr ""
 
 msgid "Панель аудиомикшера обнаружила неверный элемент, прервано создание окна панели."
-msgstr "Iphaneli yokuhlanganisa umsindo ithole into engavumelekile futhi ukudalwa kwewindi lephaneli kwachithwa."
+msgstr ""
 
 msgid "Перемотка вперед (проигрыватель)"
-msgstr "Iya phambili ngokushesha (umdlali)"
+msgstr ""
 
 msgid "Перемотка назад (проигрыватель)"
-msgstr "Hlehlisa (umdlali)"
+msgstr ""
 
 msgid "Плагины инициализированы успешно, предварительная инициализация {0}, загружено {1} плагинов."
-msgstr "Ama-plugin aqaliswe ngempumelelo, aqalwa ngaphambilini {0}, {1} ama-plugin alayishiwe."
+msgstr ""
 
 msgid "Плагины уже загружены, перед перезагрузкой выполните сброс."
-msgstr "Ama-plugin asevele alayishiwe, sicela usethe kabusha ngaphambi kokuqalisa kabusha."
+msgstr ""
+
+msgid "Подключен новый клиент {0}/{1}."
+msgstr ""
 
 msgid "Подключено к серверу MQTT:"
-msgstr "Ixhumeke kuseva ye-MQTT:"
+msgstr ""
 
 msgid "Подходящие интерфейсы отсутствуют"
-msgstr "Azikho izixhumi ezibonakalayo ezifanele ezitholakalayo"
+msgstr ""
 
 msgid "Подходящие устройства отсутствуют"
-msgstr "Awekho amadivayisi afanelekile atholakalayo"
+msgstr ""
 
 msgid "Пожалуйста, отредактируйте конфигурацию перед запуском."
-msgstr "Sicela uhlele ukucushwa ngaphambi kokuqala."
+msgstr ""
 
 msgid "Пожалуйста, перед запуском монитора, запустите транслятор из меню, выбрав пункт 'Старт'."
-msgstr "Sicela, ngaphambi kokuqala ukuqapha, qala umhumushi kumenyu ngokukhetha u-'Qala'."
+msgstr ""
 
 msgid "При запуске будут созданы {0} выходных MIDI портов."
-msgstr "Lapho kuqala, {0} izimbobo zokuphuma ze-MIDI zizodalwa."
+msgstr ""
 
 msgid "При запуске будут созданы {0} прокси MIDI портов."
-msgstr "Lapho kuqala, {0} izimbobo zommeleli we-MIDI zizodalwa."
+msgstr ""
 
 msgid "При запуске был указан файл конфигурации: '{0}'. Установить его как конфигурацию для последующих запусков?"
-msgstr "Ekuqaleni, ifayela lokumisa lashiwo: '{0}'. Isethe njengokucushwa kokugijima okulandelayo?"
+msgstr ""
 
 msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
-msgstr "Lapho uvula umhleli, ifayela lokumisa lashiwo: '{0}'. Ilondoloze ngegama elifanayo?"
+msgstr ""
 
 msgid "Проблема с версией драйвера [{0}]"
-msgstr "Inkinga ngenguqulo yomshayeli [{0}]"
+msgstr ""
 
 msgid "Проверьте права пользователя на запись файлов в каталоге приложения. Если ошибка повториться, попробуйте отключить ведение лог-файла."
-msgstr "Hlola izimvume zomsebenzisi zokubhala amafayela kuhla lwemibhalo lohlelo lokusebenza. Uma iphutha liqhubeka, zama ukukhubaza ukungena."
+msgstr ""
 
 msgid "Прокси MIDI порты отключены."
-msgstr "Izimbobo ze-MIDI zommeleli zivaliwe."
+msgstr ""
 
 msgid "Сбой диспетчера аудио сеансов."
-msgstr "Isiphathi Sesikhathi Somsindo siphahlazekile."
+msgstr ""
 
 msgid "Сбой загрузки конфигурации, файл не найден, запуск невозможен.."
-msgstr "Ukulayisha ukumisa kwehlulekile, ifayela alitholakali, ukuqaliswa akunakwenzeka."
+msgstr ""
+
+msgid "Сетевые интерфейсы отсутствуют"
+msgstr ""
 
 msgid "Скраб"
-msgstr "Khuhla"
+msgstr ""
+
+msgid "Служба удаленного управления запущена."
+msgstr ""
+
+msgid "Служба удаленного управления остановлена."
+msgstr ""
 
 msgid "Служба управления Умным домом запущена."
-msgstr "Isevisi yokulawula i-Smart Home yethuliwe."
+msgstr ""
 
 msgid "Служба управления Умным домом остановлена."
-msgstr "Isevisi yokulawula i-Smart Home imisiwe."
+msgstr ""
 
 msgid "Служба управления мультимедийными ключами запущена."
-msgstr "Isevisi ye-Media Key Management iyasebenza."
+msgstr ""
 
 msgid "Служба управления мультимедийными ключами остановлена."
-msgstr "Isevisi ye-Media Key Management imile."
+msgstr ""
 
 msgid "Служба управления освещением ArtNet запущена с использованием широковещательного адреса {0}:{1} в сети {2}."
-msgstr "Isevisi yokulawula ukukhanya kwe-ArtNet isebenza kusetshenziswa ikheli lokusakaza elithi {0}:{1} kunethiwekhi {2}."
+msgstr ""
 
 msgid "Служба управления освещением ArtNet не запущена, конфигурация службы не заполнена."
-msgstr "Isevisi yokulawula ukukhanya kwe-ArtNet ayisebenzi, ukucushwa kwesevisi akugcwaliswanga."
+msgstr ""
 
 msgid "Служба управления освещением ArtNet не запущена, сеть {0} не найдена.."
-msgstr "Isevisi yokulawula izibani ye-ArtNet ayisebenzi, inethiwekhi {0} ayitholakali.."
+msgstr ""
 
 msgid "Служба управления освещением ArtNet остановлена."
-msgstr "Isevisi yokulawula izibani ye-ArtNet imile."
+msgstr ""
 
 msgid "Служба управления освещением DMX запущена с использованием COM{0} – {1}."
-msgstr "Isevisi yokulawula ukukhanya kwe-DMX iqalwe kusetshenziswa i-COM{0} - {1}."
+msgstr ""
 
 msgid "Служба управления освещением DMX не запущена, конфигурация службы не заполнена."
-msgstr "Isevisi yokulawula ukukhanya kwe-DMX ayisebenzi futhi ukucushwa kwesevisi akugcwaliswanga."
+msgstr ""
 
 msgid "Служба управления освещением DMX не запущена, устройство COM{0} не подключено.."
-msgstr "Isevisi yokulawula ukukhanya kwe-DMX ayisebenzi, idivayisi ye-COM{0} ayixhunyiwe."
+msgstr ""
 
 msgid "Служба управления освещением DMX остановлена."
-msgstr "Isevisi yokulawula ukukhanya kwe-DMX imile."
+msgstr ""
 
 msgid "Создана аудио сессия, имя='{0}'"
-msgstr "Iseshini yomsindo idaliwe, igama='{0}'"
+msgstr ""
 
 msgid "Список аудио сессий пуст!"
-msgstr "Uhlu lwamaseshini omsindo alunalutho!"
+msgstr ""
+
+msgid "Ссылка скопирована в буфер обмена."
+msgstr ""
 
 msgid "Ст&арт"
-msgstr "Qala"
+msgstr ""
 
 msgid "Ст&оп"
-msgstr "Ima"
+msgstr ""
 
 msgid "Стоп (проигрыватель)"
-msgstr "Misa (umdlali)"
+msgstr ""
 
 msgid "Увеличение"
-msgstr "Khulisa"
+msgstr ""
 
 msgid "Управление «Микшером»"
-msgstr "Ukulawula i-Mixer"
+msgstr ""
 
 msgid "Управление «Умным домом»"
-msgstr "Ukuphathwa Kwekhaya Okuhlakaniphile"
+msgstr ""
 
 msgid "Управление освещением (16 бит)"
-msgstr "Ukulawula ukukhanya (16 bit)"
+msgstr ""
 
 msgid "Управление освещением (8 бит)"
-msgstr "Ukulawula ukukhanyisa (8 bits)"
+msgstr ""
 
 msgid "Устанавливаемое значение из обратного вызова - неверный селектор."
-msgstr "Inani elisethwayo ku-callback liyisikhethi esingavumelekile."
+msgstr ""
 
 msgid "Установка обратного вызова возможна только после успешного запуска MIDI-моста."
-msgstr "Ukusetha ukuphinda ushayele kungenzeka kuphela ngemuva kokuthi ibhuloho le-MIDI lethulwe ngempumelelo."
+msgstr ""
 
 msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора."
-msgstr "Umshayeli we-Virtual MIDI ofakiwe akatholakalanga! Kufanele ufake iphakheji ye-Virtual Loop MIDI ukuze usebenzise umhumushi we-MIDI-MT."
+msgstr ""
 
 msgid "Устройства не подключены, продолжение невозможно."
-msgstr "Amadivayisi awaxhunyiwe futhi awakwazi ukuqhubeka."
+msgstr ""
 
 msgid "Устройство {0} готово (система)"
-msgstr "Idivayisi {0} ilungile (isistimu)"
+msgstr ""
 
 msgid "Устройство {0} закрыто (система)"
-msgstr "Idivayisi {0} ivaliwe (isistimu)"
+msgstr ""
 
 msgid "Устройство {0} найдено, {1}"
-msgstr "Idivayisi {0} itholakele, {1}"
+msgstr ""
 
 msgid "Устройство {0} открыто, {1}"
-msgstr "Idivayisi {0} ivuliwe, {1}"
+msgstr ""
 
 msgid "Устройство {0} отправило неверное значение = {1}"
-msgstr "Idivayisi {0} ithumele inani elingavumelekile = {1}"
+msgstr ""
 
 msgid "Устройство не подключено, abort, id = {0}/{1}"
-msgstr "Idivayisi ayixhunyiwe, yeka, i-id = {0}/{1}"
+msgstr ""
 
 msgid "Файл конфигурации"
-msgstr "Ifayela lokumisa"
+msgstr ""
 
 msgid "Файл конфигурации отсутствует или доступ запрещен, '{0}'"
-msgstr "Ifayela lokumisa alikho noma ukufinyelela kwenqatshiwe, '{0}'"
+msgstr ""
 
 msgid "Файл конфигурации пуст, '{0}'"
-msgstr "Ifayela lokumisa alinalutho, '{0}'"
+msgstr ""
 
 msgid "Файл сертификата CA не существует, путь = '{0}'"
-msgstr "Ifayela lesitifiketi se-CA alikho, indlela = '{0}'"
+msgstr ""
 
 msgid "Эта ошибка не определена"
-msgstr "Leli phutha alichazwanga"
+msgstr ""
 
 msgid "аудио соло (канал 1)"
-msgstr "Umsindo oyedwa (isiteshi 1)"
+msgstr ""
 
 msgid "аудио соло (канал 2)"
-msgstr "okulalelwayo okukodwa (isiteshi 2)"
+msgstr ""
 
 msgid "аудио соло (канал 3)"
-msgstr "Umsindo oyedwa (isiteshi 3)"
+msgstr ""
 
 msgid "аудио соло (канал 4)"
-msgstr "okulalelwayo okukodwa (isiteshi 4)"
+msgstr ""
 
 msgid "аудио соло (канал 5)"
-msgstr "okulalelwayo okukodwa (isiteshi 5)"
+msgstr ""
 
 msgid "аудио соло (канал 6)"
-msgstr "okulalelwayo okukodwa (isiteshi 6)"
+msgstr ""
 
 msgid "аудио соло (канал 7)"
-msgstr "okulalelwayo okukodwa (isiteshi 7)"
+msgstr ""
 
 msgid "аудио соло (канал 8)"
-msgstr "okulalelwayo okukodwa (isiteshi 8)"
+msgstr ""
 
 msgid "аудио соло (канал 9)"
-msgstr "okulalelwayo okukodwa (isiteshi 9)"
+msgstr ""
 
 msgid "аудио соло (основной)"
-msgstr "okulalelwayo okukodwa (okuyinhloko)"
+msgstr ""
 
 msgid "вкл/выкл 1"
-msgstr "vula/cisha 1"
+msgstr ""
 
 msgid "вкл/выкл 10"
-msgstr "vula/cisha 10"
+msgstr ""
 
 msgid "вкл/выкл 11"
-msgstr "vula/cisha 11"
+msgstr ""
 
 msgid "вкл/выкл 12"
-msgstr "vula/cisha 12"
+msgstr ""
 
 msgid "вкл/выкл 13"
-msgstr "vula/cisha 13"
+msgstr ""
 
 msgid "вкл/выкл 14"
-msgstr "kuvuliwe/kuvaliwe 14"
+msgstr ""
 
 msgid "вкл/выкл 15"
-msgstr "kuvuliwe/kuvaliwe 15"
+msgstr ""
 
 msgid "вкл/выкл 16"
-msgstr "kuvuliwe/kuvaliwe 16"
+msgstr ""
 
 msgid "вкл/выкл 17"
-msgstr "kuvuliwe/kuvaliwe 17"
+msgstr ""
 
 msgid "вкл/выкл 18"
-msgstr "kuvuliwe/kuvaliwe 18"
+msgstr ""
 
 msgid "вкл/выкл 19"
-msgstr "kuvuliwe/kuvaliwe 19"
+msgstr ""
 
 msgid "вкл/выкл 2"
-msgstr "vula/cisha 2"
+msgstr ""
 
 msgid "вкл/выкл 20"
-msgstr "kuvuliwe/kuvaliwe 20"
+msgstr ""
 
 msgid "вкл/выкл 21"
-msgstr "kuvuliwe/kuvaliwe 21"
+msgstr ""
 
 msgid "вкл/выкл 22"
-msgstr "vula/vala 22"
+msgstr ""
 
 msgid "вкл/выкл 23"
-msgstr "kuvuliwe/kuvaliwe 23"
+msgstr ""
 
 msgid "вкл/выкл 24"
-msgstr "vula/vala 24"
+msgstr ""
 
 msgid "вкл/выкл 25"
-msgstr "kuvuliwe/kuvaliwe 25"
+msgstr ""
 
 msgid "вкл/выкл 26"
-msgstr "vula/vala 26"
+msgstr ""
 
 msgid "вкл/выкл 27"
-msgstr "kuvuliwe/kuvaliwe 27"
+msgstr ""
 
 msgid "вкл/выкл 3"
-msgstr "vula/cisha 3"
+msgstr ""
 
 msgid "вкл/выкл 4"
-msgstr "vula/vala 4"
+msgstr ""
 
 msgid "вкл/выкл 5"
-msgstr "vula/vala 5"
+msgstr ""
 
 msgid "вкл/выкл 6"
-msgstr "vula/cisha 6"
+msgstr ""
 
 msgid "вкл/выкл 7"
-msgstr "vula/cisha 7"
+msgstr ""
 
 msgid "вкл/выкл 8"
-msgstr "vula/cisha 8"
+msgstr ""
 
 msgid "вкл/выкл 9"
-msgstr "vula/cisha 9"
+msgstr ""
 
 msgid "все сообщения"
-msgstr "yonke imilayezo"
+msgstr ""
 
 msgid "выбор звука (канал 1)"
-msgstr "ukukhetha komsindo (isiteshi 1)"
+msgstr ""
 
 msgid "выбор звука (канал 2)"
-msgstr "ukukhetha komsindo (isiteshi 2)"
+msgstr ""
 
 msgid "выбор звука (канал 3)"
-msgstr "ukukhetha komsindo (isiteshi 3)"
+msgstr ""
 
 msgid "выбор звука (канал 4)"
-msgstr "ukukhetha komsindo (isiteshi 4)"
+msgstr ""
 
 msgid "выбор звука (канал 5)"
-msgstr "ukukhetha komsindo (isiteshi 5)"
+msgstr ""
 
 msgid "выбор звука (канал 6)"
-msgstr "ukukhetha komsindo (isiteshi 6)"
+msgstr ""
 
 msgid "выбор звука (канал 7)"
-msgstr "ukukhetha komsindo (isiteshi 7)"
+msgstr ""
 
 msgid "выбор звука (канал 8)"
-msgstr "ukukhetha komsindo (isiteshi 8)"
+msgstr ""
 
 msgid "выбор звука (канал 9)"
-msgstr "ukukhetha komsindo (isiteshi 9)"
+msgstr ""
 
 msgid "громкость звука (канал 1)"
-msgstr "ivolumu yomsindo (isiteshi 1)"
+msgstr ""
 
 msgid "громкость звука (канал 2)"
-msgstr "ivolumu yomsindo (isiteshi 2)"
+msgstr ""
 
 msgid "громкость звука (канал 3)"
-msgstr "ivolumu yomsindo (isiteshi 3)"
+msgstr ""
 
 msgid "громкость звука (канал 4)"
-msgstr "ivolumu yomsindo (isiteshi 4)"
+msgstr ""
 
 msgid "громкость звука (канал 5)"
-msgstr "ivolumu yomsindo (isiteshi 5)"
+msgstr ""
 
 msgid "громкость звука (канал 6)"
-msgstr "ivolumu yomsindo (isiteshi 6)"
+msgstr ""
 
 msgid "громкость звука (канал 7)"
-msgstr "ivolumu yomsindo (isiteshi 7)"
+msgstr ""
 
 msgid "громкость звука (канал 8)"
-msgstr "ivolumu yomsindo (isiteshi 8)"
+msgstr ""
 
 msgid "громкость звука (канал 9)"
-msgstr "ivolumu yomsindo (isiteshi 9)"
+msgstr ""
 
 msgid "громкость звука (основной)"
-msgstr "ivolumu yomsindo (eyinhloko)"
+msgstr ""
 
 msgid "да"
-msgstr "Yebo"
+msgstr ""
 
 msgid "действие не определено"
-msgstr "isenzo asichazwanga"
+msgstr ""
 
 msgid "звуковой баланс (канал 1)"
-msgstr "ibhalansi yomsindo (isiteshi 1)"
+msgstr ""
 
 msgid "звуковой баланс (канал 2)"
-msgstr "ibhalansi yomsindo (isiteshi 2)"
+msgstr ""
 
 msgid "звуковой баланс (канал 3)"
-msgstr "ibhalansi yomsindo (isiteshi 3)"
+msgstr ""
 
 msgid "звуковой баланс (канал 4)"
-msgstr "ibhalansi yomsindo (isiteshi 4)"
+msgstr ""
 
 msgid "звуковой баланс (канал 5)"
-msgstr "ibhalansi yomsindo (isiteshi 5)"
+msgstr ""
 
 msgid "звуковой баланс (канал 6)"
-msgstr "ibhalansi yomsindo (isiteshi 6)"
+msgstr ""
 
 msgid "звуковой баланс (канал 7)"
-msgstr "ibhalansi yomsindo (isiteshi 7)"
+msgstr ""
 
 msgid "звуковой баланс (канал 8)"
-msgstr "ibhalansi yomsindo (isiteshi 8)"
+msgstr ""
 
 msgid "звуковой баланс (канал 9)"
-msgstr "ibhalansi yomsindo (isiteshi 9)"
+msgstr ""
 
 msgid "звуковой баланс (основной)"
-msgstr "ibhalansi yomsindo (okuyisisekelo)"
+msgstr ""
 
 msgid "информация"
-msgstr "ulwazi"
+msgstr ""
 
 msgid "лог не ведется"
-msgstr "alukho ugodo olugcinwayo"
+msgstr ""
 
 msgid "нет"
-msgstr "Cha"
+msgstr ""
 
 msgid "отключение звука (канал 1)"
-msgstr "yisimungulu (isiteshi 1)"
+msgstr ""
 
 msgid "отключение звука (канал 2)"
-msgstr "yisimungulu (isiteshi 2)"
+msgstr ""
 
 msgid "отключение звука (канал 3)"
-msgstr "yisimungulu (isiteshi 3)"
+msgstr ""
 
 msgid "отключение звука (канал 4)"
-msgstr "yisimungulu (isiteshi 4)"
+msgstr ""
 
 msgid "отключение звука (канал 5)"
-msgstr "yisimungulu (isiteshi 5)"
+msgstr ""
 
 msgid "отключение звука (канал 6)"
-msgstr "yisimungulu (isiteshi 6)"
+msgstr ""
 
 msgid "отключение звука (канал 7)"
-msgstr "yisimungulu (isiteshi 7)"
+msgstr ""
 
 msgid "отключение звука (канал 8)"
-msgstr "yisimungulu (isiteshi 8)"
+msgstr ""
 
 msgid "отключение звука (канал 9)"
-msgstr "yisimungulu (isiteshi 9)"
+msgstr ""
 
 msgid "отключение звука (основной)"
-msgstr "yisimungulu (okuyinhloko)"
+msgstr ""
 
 msgid "предупреждения"
-msgstr "izixwayiso"
+msgstr ""
 
 msgid "статус:"
-msgstr "isimo:"
+msgstr ""
 
 msgid "только ошибки"
-msgstr "amaphutha kuphela"
+msgstr ""
 
 msgid "транслятор остановлен:"
-msgstr "umhumushi umisiwe:"
+msgstr ""
 
 msgid "транслятор работает:"
-msgstr "umhumushi usebenza:"
+msgstr ""
 
 msgid "уведомления"
-msgstr "izaziso"
+msgstr ""
 
 msgid "уровень 1"
-msgstr "izinga 1"
+msgstr ""
 
 msgid "уровень 10"
-msgstr "izinga 10"
+msgstr ""
 
 msgid "уровень 11"
-msgstr "izinga 11"
+msgstr ""
 
 msgid "уровень 12"
-msgstr "izinga 12"
+msgstr ""
 
 msgid "уровень 13"
-msgstr "izinga 13"
+msgstr ""
 
 msgid "уровень 14"
-msgstr "izinga 14"
+msgstr ""
 
 msgid "уровень 15"
-msgstr "izinga 15"
+msgstr ""
 
 msgid "уровень 16"
-msgstr "izinga 16"
+msgstr ""
 
 msgid "уровень 17"
-msgstr "izinga 17"
+msgstr ""
 
 msgid "уровень 18"
-msgstr "izinga 18"
+msgstr ""
 
 msgid "уровень 2"
-msgstr "izinga 2"
+msgstr ""
 
 msgid "уровень 3"
-msgstr "ileveli 3"
+msgstr ""
 
 msgid "уровень 4"
-msgstr "izinga 4"
+msgstr ""
 
 msgid "уровень 5"
-msgstr "izinga 5"
+msgstr ""
 
 msgid "уровень 6"
-msgstr "ileveli 6"
+msgstr ""
 
 msgid "уровень 7"
-msgstr "izinga 7"
+msgstr ""
 
 msgid "уровень 8"
-msgstr "ileveli 8"
+msgstr ""
 
 msgid "уровень 9"
-msgstr "ileveli 9"
+msgstr ""
 
 msgid "функция F1 (стандартный режим)"
-msgstr "umsebenzi F1 (imodi ejwayelekile)"
+msgstr ""
 
 msgid "функция F1 (удерживаемый режим)"
-msgstr "umsebenzi F1 (imodi ebanjwayo)"
+msgstr ""
 
 msgid "функция F2 (стандартный режим)"
-msgstr "umsebenzi F2 (imodi ejwayelekile)"
+msgstr ""
 
 msgid "функция F2 (удерживаемый режим)"
-msgstr "umsebenzi F2 (imodi ebanjwayo)"
+msgstr ""
 
 msgid "функция F3 (стандартный режим)"
-msgstr "umsebenzi F3 (imodi ejwayelekile)"
+msgstr ""
 
 msgid "функция F3 (удерживаемый режим)"
-msgstr "umsebenzi F3 (imodi ebanjwayo)"
+msgstr ""
 
 msgid "функция F4 (стандартный режим)"
-msgstr "umsebenzi F4 (imodi ejwayelekile)"
+msgstr ""
 
 msgid "функция F4 (удерживаемый режим)"
-msgstr "umsebenzi F4 (imodi ebanjwayo)"
+msgstr ""
 
 msgid "функция F5 (стандартный режим)"
-msgstr "umsebenzi F5 (imodi ejwayelekile)"
+msgstr ""
 
 msgid "функция F5 (удерживаемый режим)"
-msgstr "umsebenzi F5 (imodi ebanjwayo)"
+msgstr ""
 
 msgid "функция F6 (стандартный режим)"
-msgstr "umsebenzi F6 (imodi ejwayelekile)"
+msgstr ""
 
 msgid "функция F6 (удерживаемый режим)"
-msgstr "umsebenzi F6 (imodi ebanjwayo)"
+msgstr ""
 
 msgid "функция F7 (стандартный режим)"
-msgstr "umsebenzi F7 (imodi ejwayelekile)"
+msgstr ""
 
 msgid "функция F7 (удерживаемый режим)"
-msgstr "umsebenzi F7 (imodi ebanjwayo)"
+msgstr ""
 
 msgid "функция F8 (стандартный режим)"
-msgstr "umsebenzi F8 (imodi ejwayelekile)"
+msgstr ""
 
 msgid "функция F8 (удерживаемый режим)"
-msgstr "umsebenzi F8 (imodi ebanjwayo)"
+msgstr ""
