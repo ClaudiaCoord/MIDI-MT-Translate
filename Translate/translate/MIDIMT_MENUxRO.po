@@ -1,0 +1,534 @@
+#. extracted from 12-21-midimt_menuxro.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-29 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.1\n"
+"X-Merge-On: location\n"
+
+msgid "&Анимация"
+msgstr "&Animaţie"
+
+msgid "&Аудио микшер"
+msgstr "&Mixer audio"
+
+msgid "&Закрыть"
+msgstr "&Închide"
+
+msgid "&Информация"
+msgstr "&Informație"
+
+msgid "&Монитор"
+msgstr "&Monitor"
+
+msgid "&Мониторинг"
+msgstr "&Monitorizarea"
+
+msgid "&Настройка"
+msgstr "&Setări"
+
+msgid "&Просмотр лог-файла"
+msgstr "&Vizualizați fișierul jurnal"
+
+msgid "&Путь приложений"
+msgstr "&Calea aplicației"
+
+msgid "Баланс (мастер)"
+msgstr "Echilibru (master)"
+
+msgid "Баланс.."
+msgstr "Echilibru.."
+
+msgid "Без звука (мастер)"
+msgstr "Tacut (maestrul)"
+
+msgid "Без звука.."
+msgstr "Fără sunet.."
+
+msgid "Вверх (джойстик)"
+msgstr "Sus (joystick)"
+
+msgid "Вертикально слева"
+msgstr "Vertical stânga"
+
+msgid "Вертикально справа"
+msgstr "Vertical dreapta"
+
+msgid "Влево (джойстик)"
+msgstr "Stânga (joystick)"
+
+msgid "Вниз (джойстик)"
+msgstr "Jos (joystick)"
+
+msgid "Вправо (джойстик)"
+msgstr "dreapta (joystick)"
+
+msgid "Вставить"
+msgstr "Introduce"
+
+msgid "Вы&ход"
+msgstr "Ieșire"
+
+msgid "Горизонтально вверху"
+msgstr "Orizontal în partea de sus"
+
+msgid "Горизонтально внизу"
+msgstr "Pe orizontală dedesubt"
+
+msgid "Громкость (мастер)"
+msgstr "Volum (master)"
+
+msgid "Громкость.."
+msgstr "Volum.."
+
+msgid "З&апомнить позицию"
+msgstr "Amintiți-vă poziția"
+
+msgid "Запись"
+msgstr "Record"
+
+msgid "Играть/Пауза"
+msgstr "Redare/Pauză"
+
+msgid "Канал 16 бит (расширенный)"
+msgstr "Canal pe 16 biți (extins)"
+
+msgid "Канал 8 бит (стандарт)"
+msgstr "Canal 8 biți (standard)"
+
+msgid "Кнопка"
+msgstr "Buton"
+
+msgid "Кнопка переключать, с индикацией"
+msgstr "Buton comutator, cu indicatie"
+
+msgid "Кнопки в системе «Умный дом».."
+msgstr "Butoane din sistemul Smart Home..."
+
+msgid "Кнопки.."
+msgstr "Butoane.."
+
+msgid "Контроль относиться к аудио микшеру"
+msgstr "Controlul se referă la mixerul audio"
+
+msgid "Контроль относиться к мультимедиа кнопкам"
+msgstr "Comenzile se aplică butoanelor multimedia"
+
+msgid "Контроль относиться к умному дому"
+msgstr "Controlul se referă la o casă inteligentă"
+
+msgid "Контроль относиться к управлению светом"
+msgstr "Controlul se referă la controlul luminii"
+
+msgid "Копировать"
+msgstr "Copie"
+
+msgid "Круговой регулятор"
+msgstr "Regulator circular"
+
+msgid "Круговой регулятор с инверсией"
+msgstr "Regulator circular cu inversare"
+
+msgid "Метро"
+msgstr "Metroul"
+
+msgid "Мультимедиа кнопки.."
+msgstr "butoane multimedia.."
+
+msgid "Настраиваемая"
+msgstr "Personalizat"
+
+msgid "Настройка темы"
+msgstr "Configurarea unei teme"
+
+msgid "Не назначенный"
+msgstr "Nealocat"
+
+msgid "Новая запись"
+msgstr "Intrare nouă"
+
+msgid "Пиковый &измеритель громкости"
+msgstr "Contor de vârf și volum"
+
+msgid "Полосковый регулятор"
+msgstr "Regulator de bandă"
+
+msgid "Полосковый регулятор с инверсией"
+msgstr "Regulator de bandă cu inversare"
+
+msgid "Предыдущий"
+msgstr "Anterior"
+
+msgid "Привязка &MIDI контролов"
+msgstr "Legare & controale MIDI"
+
+msgid "Расположение.."
+msgstr "Locație.."
+
+msgid "Регуляторы в системе «Умный дом».."
+msgstr "Regulatoare în sistemul „Smart Home”..."
+
+msgid "Регуляторы.."
+msgstr "Regulatori..."
+
+msgid "Ретро"
+msgstr "Retro"
+
+msgid "Светлая"
+msgstr "Ușoară"
+
+msgid "Скрабирование"
+msgstr "Spălare"
+
+msgid "Следующий"
+msgstr "Următorul"
+
+msgid "Современный"
+msgstr "Modern"
+
+msgid "Соло (мастер)"
+msgstr "Solo (master)"
+
+msgid "Соло.."
+msgstr "Solo.."
+
+msgid "Ст&арт"
+msgstr "start"
+
+msgid "Ст&оп"
+msgstr "Stop"
+
+msgid "Стоп"
+msgstr "Stop"
+
+msgid "Тема.."
+msgstr "Subiect.."
+
+msgid "Тёмная"
+msgstr "Întuneric"
+
+msgid "Увеличение масштаба"
+msgstr "A mari"
+
+msgid "Удалить"
+msgstr "Șterge"
+
+msgid "Управление звуком.."
+msgstr "Controlul sunetului..."
+
+msgid "Установить как.."
+msgstr "Instalați ca.."
+
+msgid "Функции «Premiere Pro».."
+msgstr "Caracteristicile Premiere Pro..."
+
+msgid "Функции кнопки «в одно касание».."
+msgstr "Funcții de buton cu o singură atingere..."
+
+msgid "Функции стандартной кнопки.."
+msgstr "Funcțiile unui buton standard..."
+
+msgid "Функция 1"
+msgstr "Funcția 1"
+
+msgid "Функция 2"
+msgstr "Funcția 2"
+
+msgid "Функция 3"
+msgstr "Funcția 3"
+
+msgid "Функция 4"
+msgstr "Funcția 4"
+
+msgid "Функция 5"
+msgstr "Funcția 5"
+
+msgid "Функция 6"
+msgstr "Funcția 6"
+
+msgid "Функция 7"
+msgstr "Funcția 7"
+
+msgid "Функция 8"
+msgstr "Funcția 8"
+
+msgid "Читать MIDI код.."
+msgstr "Citiți codul MIDI..."
+
+msgid "Энкодер"
+msgstr "Codificator"
+
+msgid "Энкодер (JOG)"
+msgstr "Encoder (JOG)"
+
+msgid "Энкодер (покадровый просмотр)"
+msgstr "Encoder (vizionare cadru cu cadru)"
+
+msgid "Энкодер с инверсией"
+msgstr "Encoder cu inversare"
+
+msgid "авто"
+msgstr "auto"
+
+msgid "в конец"
+msgstr "În cele din urmă"
+
+msgid "в начало"
+msgstr "pana la inceput"
+
+msgid "вкл/выкл 1"
+msgstr "pornit/oprit 1"
+
+msgid "вкл/выкл 10"
+msgstr "pornit/oprit 10"
+
+msgid "вкл/выкл 11"
+msgstr "pornit/oprit 11"
+
+msgid "вкл/выкл 12"
+msgstr "pornit/oprit 12"
+
+msgid "вкл/выкл 13"
+msgstr "pornit/oprit 13"
+
+msgid "вкл/выкл 14"
+msgstr "pornit/oprit 14"
+
+msgid "вкл/выкл 15"
+msgstr "pornit/oprit 15"
+
+msgid "вкл/выкл 16"
+msgstr "pornit/oprit 16"
+
+msgid "вкл/выкл 17"
+msgstr "pornit/oprit 17"
+
+msgid "вкл/выкл 18"
+msgstr "pornit/oprit 18"
+
+msgid "вкл/выкл 19"
+msgstr "pornit/oprit 19"
+
+msgid "вкл/выкл 2"
+msgstr "pornit/oprit 2"
+
+msgid "вкл/выкл 20"
+msgstr "pornit/oprit 20"
+
+msgid "вкл/выкл 21"
+msgstr "pornit/oprit 21"
+
+msgid "вкл/выкл 22"
+msgstr "pornit/oprit 22"
+
+msgid "вкл/выкл 23"
+msgstr "pornit/oprit 23"
+
+msgid "вкл/выкл 24"
+msgstr "pornit/oprit 24"
+
+msgid "вкл/выкл 25"
+msgstr "pornit/oprit 25"
+
+msgid "вкл/выкл 26"
+msgstr "pornit/oprit 26"
+
+msgid "вкл/выкл 27"
+msgstr "pornit/oprit 27"
+
+msgid "вкл/выкл 3"
+msgstr "pornit/oprit 3"
+
+msgid "вкл/выкл 4"
+msgstr "pornit/oprit 4"
+
+msgid "вкл/выкл 5"
+msgstr "pornit/oprit 5"
+
+msgid "вкл/выкл 6"
+msgstr "pornit/oprit 6"
+
+msgid "вкл/выкл 7"
+msgstr "pornit/oprit 7"
+
+msgid "вкл/выкл 8"
+msgstr "pornit/oprit 8"
+
+msgid "вкл/выкл 9"
+msgstr "pornit/oprit 9"
+
+msgid "выход"
+msgstr "Ieșire"
+
+msgid "канал 1"
+msgstr "canalul 1"
+
+msgid "канал 10"
+msgstr "canalul 10"
+
+msgid "канал 11"
+msgstr "canalul 11"
+
+msgid "канал 12"
+msgstr "canalul 12"
+
+msgid "канал 13"
+msgstr "canalul 13"
+
+msgid "канал 14"
+msgstr "canalul 14"
+
+msgid "канал 15"
+msgstr "canalul 15"
+
+msgid "канал 16"
+msgstr "canalul 16"
+
+msgid "канал 17"
+msgstr "canalul 17"
+
+msgid "канал 18"
+msgstr "canalul 18"
+
+msgid "канал 2"
+msgstr "canalul 2"
+
+msgid "канал 3"
+msgstr "canalul 3"
+
+msgid "канал 4"
+msgstr "canalul 4"
+
+msgid "канал 5"
+msgstr "canalul 5"
+
+msgid "канал 6"
+msgstr "canalul 6"
+
+msgid "канал 7"
+msgstr "canalul 7"
+
+msgid "канал 8"
+msgstr "canalul 8"
+
+msgid "канал 9"
+msgstr "canalul 9"
+
+msgid "конфигурация"
+msgstr "configurație"
+
+msgid "крупнее"
+msgstr "mai mare"
+
+msgid "лог"
+msgstr "Buturuga"
+
+msgid "мельче"
+msgstr "mai mic"
+
+msgid "очистить"
+msgstr "clar"
+
+msgid "плагины"
+msgstr "pluginuri"
+
+msgid "показать ArtNet конфигурацию"
+msgstr "arată configurația ArtNet"
+
+msgid "показать DMX512 конфигурацию"
+msgstr "arată configurația DMX512"
+
+msgid "показать LIGTS конфигурацию"
+msgstr "arată configurația LIGTS"
+
+msgid "показать MIDI конфигурацию"
+msgstr "arată configurația MIDI"
+
+msgid "показать MMKEYS конфигурацию"
+msgstr "arată configurația MMKEYS"
+
+msgid "показать MQTT конфигурацию"
+msgstr "arată configurația MQTT"
+
+msgid "показать всю конфигурацию"
+msgstr "arată toată configurația"
+
+msgid "помощь"
+msgstr "Ajutor"
+
+msgid "сохранить настройки"
+msgstr "salvează setările"
+
+msgid "старт"
+msgstr "start"
+
+msgid "статистика плагинов"
+msgstr "statistici plugin"
+
+msgid "стоп"
+msgstr "Stop"
+
+msgid "уровень 1"
+msgstr "nivelul 1"
+
+msgid "уровень 10"
+msgstr "nivelul 10"
+
+msgid "уровень 11"
+msgstr "nivelul 11"
+
+msgid "уровень 12"
+msgstr "nivelul 12"
+
+msgid "уровень 13"
+msgstr "nivelul 13"
+
+msgid "уровень 14"
+msgstr "nivelul 14"
+
+msgid "уровень 15"
+msgstr "nivelul 15"
+
+msgid "уровень 16"
+msgstr "nivelul 16"
+
+msgid "уровень 17"
+msgstr "nivelul 17"
+
+msgid "уровень 18"
+msgstr "nivelul 18"
+
+msgid "уровень 2"
+msgstr "nivelul 2"
+
+msgid "уровень 3"
+msgstr "nivelul 3"
+
+msgid "уровень 4"
+msgstr "nivelul 4"
+
+msgid "уровень 5"
+msgstr "nivelul 5"
+
+msgid "уровень 6"
+msgstr "nivelul 6"
+
+msgid "уровень 7"
+msgstr "nivelul 7"
+
+msgid "уровень 8"
+msgstr "nivelul 8"
+
+msgid "уровень 9"
+msgstr "nivelul 9"
+
+msgid "язык"
+msgstr "limba"

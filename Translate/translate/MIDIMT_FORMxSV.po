@@ -1,0 +1,342 @@
+#. extracted from 12-21-midimt_formxsv.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-29 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.1\n"
+"X-Merge-On: location\n"
+
+msgid "&Закрыть"
+msgstr "&Stänga"
+
+msgid "&О программе.."
+msgstr "&Om programmet.."
+
+msgid "&Перезагрузить модули"
+msgstr "&Ladda om moduler"
+
+msgid "&Программа настройки MIDI панели"
+msgstr "&MIDI-panelinställningsprogram"
+
+msgid "&Сохранить настройки"
+msgstr "&Spara inställningar"
+
+msgid "&Старт"
+msgstr "&Start"
+
+msgid "&Установить Virtual MIDI драйвер"
+msgstr "&Installera virtuell MIDI-drivrutin"
+
+msgid "ArtNet сеть:"
+msgstr "ArtNet nätverk:"
+
+msgid "CA сертификат"
+msgstr "CA-certifikat"
+
+msgid "COM порт:"
+msgstr "COM-port:"
+
+msgid "IN/OUT Бридж"
+msgstr "IN/OUT-bro"
+
+msgid "IP адрес:"
+msgstr "IP-adress:"
+
+msgid "JOG фильтр сцены"
+msgstr "JOG-scenfilter"
+
+msgid "MIDI"
+msgstr "MIDI"
+
+msgid "MIDI Mackie"
+msgstr "MIDI Mackie"
+
+msgid "MIDI Прокси"
+msgstr "MIDI proxy"
+
+msgid "MIDI драйвер"
+msgstr "MIDI-drivrutin"
+
+msgid "MIDI контролы"
+msgstr "MIDI-kontroller"
+
+msgid "MIDI устройства"
+msgstr "MIDI-enheter"
+
+msgid "MQTT сервер"
+msgstr "MQTT-server"
+
+msgid "MQTT топик префикс: (необязательно)"
+msgstr "MQTT-ämnesprefix: (valfritt)"
+
+msgid "SSL/TLS включено"
+msgstr "SSL/TLS aktiverat"
+
+msgid "Авто старт при запуске"
+msgstr "Autostart vid start"
+
+msgid "Авто старт этой конфигурации"
+msgstr "Autostart av denna konfiguration"
+
+msgid "Адрес:"
+msgstr "Adress:"
+
+msgid "Базовая тема"
+msgstr "Grundläggande tema"
+
+msgid "Безопасность"
+msgstr "Säkerhet"
+
+msgid "Бит-рейт:"
+msgstr "Bithastighet:"
+
+msgid "Бродкаст:"
+msgstr "Utsända:"
+
+msgid "Включено"
+msgstr "Ingår"
+
+msgid "Включить DMX пул (стандартное поведение)"
+msgstr "Aktivera DMX-pool (standardbeteende)"
+
+msgid "Все"
+msgstr "Allt"
+
+msgid "Входные"
+msgstr "Inmatning"
+
+msgid "Выходной порт не создается"
+msgstr "Ingen utgångsport skapas"
+
+msgid "Выходные"
+msgstr "Helgen"
+
+msgid "Драйвер:"
+msgstr "Förare:"
+
+msgid "Замена значений громкости без проверки"
+msgstr "Ersätter volymvärden utan att kontrollera"
+
+msgid "Записывать лог"
+msgstr "Skriv logg"
+
+msgid "Запуск"
+msgstr "Lansera"
+
+msgid "Запуск MIDI-MT"
+msgstr "Startar MIDI-MT"
+
+msgid "Запущен"
+msgstr "Lanserades"
+
+msgid "Интервал как долгое нажатие"
+msgstr "Intervall som ett långt tryck"
+
+msgid "Интервал между нажатиями"
+msgstr "Intervall mellan klick"
+
+msgid "Информация"
+msgstr "Information"
+
+msgid "Использовать правую кнопку мыши для вызова микшера"
+msgstr "Använd höger musknapp för att ta fram mixer"
+
+msgid "Кнопки"
+msgstr "Knappar"
+
+msgid "Контрол:"
+msgstr "Kontrollera:"
+
+msgid "Конфигурация"
+msgstr "Konfiguration"
+
+msgid "Маска:"
+msgstr "Mask:"
+
+msgid "Метро"
+msgstr "Metro"
+
+msgid "Модуль"
+msgstr "Modul"
+
+msgid "Монитор MIDI команд"
+msgstr "MIDI-kommandomonitor"
+
+msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем контроллере, вы будете получать сообщения о сцене, номере и текущем значении."
+msgstr "MIDI Command Monitor hjälper dig att avgöra hur kontrollern är konfigurerad. För att börja testa, klicka på “Start”-knappen. Genom att använda de olika kontrollerna på din handkontroll får du meddelanden om scenen, nummer och aktuellt värde."
+
+msgid "Монитор команд"
+msgstr "Kommandoövervakning"
+
+msgid "Мультимедиа"
+msgstr "Multimedia"
+
+msgid "Мультимедиа клавиатура"
+msgstr "Multimediatangentbord"
+
+msgid "Назначение (долгий клик):"
+msgstr "Syfte (långt klick):"
+
+msgid "Назначение:"
+msgstr "Syfte:"
+
+msgid "Настройка MIDI контролов"
+msgstr "Ställa in MIDI-kontroller"
+
+msgid "Настройка модулей"
+msgstr "Installation av moduler"
+
+msgid "Настройка пользовательской темы"
+msgstr "Konfigurera ett anpassat tema"
+
+msgid "Настройка управления MIDI"
+msgstr "Ställa in MIDI-kontroll"
+
+msgid "Настройки MIDI"
+msgstr "MIDI-inställningar"
+
+msgid "Настройки Микшера Звука"
+msgstr "Inställningar för ljudmixer"
+
+msgid "Номер вселенной:"
+msgstr "Universums nummer:"
+
+msgid "Обновления"
+msgstr "Uppdateringar"
+
+msgid "Объединять приложения по названию, раздельная регулировка невозможна"
+msgstr "Kombinera applikationer efter namn, separata justeringar är inte möjliga"
+
+msgid "Описание модуля"
+msgstr "Modulbeskrivning"
+
+msgid "Опции"
+msgstr "alternativ"
+
+msgid "Освещение"
+msgstr "Belysning"
+
+msgid "Остановлен"
+msgstr "Slutade"
+
+msgid "Открыть файл конфигурации"
+msgstr "Öppna konfigurationsfilen"
+
+msgid "Очи&стить"
+msgstr "Rengöra"
+
+msgid "Подсказки"
+msgstr "Tips"
+
+msgid "Помощь"
+msgstr "Hjälp"
+
+msgid "Порт:"
+msgstr "Hamn:"
+
+msgid "Предпочитаемый язык:"
+msgstr "Önskat språk:"
+
+msgid "Просмотр лог-файла"
+msgstr "Visa loggfilen"
+
+msgid "Регулируемые микшером приложения:"
+msgstr "Tillämpningar som styrs av mixern:"
+
+msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
+msgstr "Rekommenderad layout för MIDI-kontrollpanelen. Filen med inställningarna för denna layout finns i mappen 'docs/MIDIMT.Ctrl_data'"
+
+msgid "Ретро"
+msgstr "Retro"
+
+msgid "Светлая"
+msgstr "Ljus"
+
+msgid "Слайдеры"
+msgstr "Reglage"
+
+msgid "Служба ArtNet"
+msgstr "ArtNet Service"
+
+msgid "Служба DMX"
+msgstr "DMX-tjänst"
+
+msgid "Современный"
+msgstr "Modern"
+
+msgid "Сохранить &настройки"
+msgstr "Spara inställningar"
+
+msgid "Ст&арт"
+msgstr "Start"
+
+msgid "Ст&оп"
+msgstr "Sluta"
+
+msgid "Старт при загрузке системы"
+msgstr "Börja vid systemstart"
+
+msgid "Стоп-бит:"
+msgstr "Stoppbit:"
+
+msgid "Сцена:"
+msgstr "Scen:"
+
+msgid "Тайм-аут:"
+msgstr "Paus:"
+
+msgid "Тип контрола:"
+msgstr "Kontrolltyp:"
+
+msgid "Трансляция входных MIDI-команд в команды мультимедиа клавиатуры. Управление воспроизведением сторонних мультимедиа программ."
+msgstr "Översättning av MIDI-inmatningskommandon till multimediatangentbordskommandon. Styr uppspelning av multimediaprogram från tredje part."
+
+msgid "Тёмная"
+msgstr "Mörk"
+
+msgid "Умный Дом"
+msgstr "Smart hus"
+
+msgid "Устанавливать сохранённые уровни громкости при старте"
+msgstr "Ställ in sparade volymnivåer vid start"
+
+msgid "Цвет рамки"
+msgstr "Ramfärg"
+
+msgid "Цвет текста"
+msgstr "Text färg"
+
+msgid "Цвет фона"
+msgstr "Bakgrundsfärg"
+
+msgid "Цвета вашей темы"
+msgstr "Dina temafärger"
+
+msgid "ключ PSK:"
+msgstr "PSK-nyckel:"
+
+msgid "количество портов"
+msgstr "antal hamnar"
+
+msgid "логин:"
+msgstr "logga in:"
+
+msgid "пароль:"
+msgstr "Lösenord:"
+
+msgid "порт:"
+msgstr "hamn:"
+
+msgid "само подписанный"
+msgstr "själv undertecknad"
+
+msgid "уровень логирования MQTT сессий:"
+msgstr "MQTT-sessionsloggningsnivå:"

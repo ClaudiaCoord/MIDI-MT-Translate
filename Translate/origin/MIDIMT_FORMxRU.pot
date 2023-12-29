@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-12 12:12+0000\n"
+"POT-Creation-Date: 2023-12-29 10:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Translate rc2pot.exe 1.0.0\n"
+"X-Generator: Translate rc2pot.exe 1.0.1\n"
 "X-Merge-On: location\n"
 
 msgid "&Закрыть"
@@ -119,6 +119,9 @@ msgstr ""
 msgid "Выходные"
 msgstr ""
 
+msgid "Для доступа к панели управления, откройте этот адрес в браузере после запуска."
+msgstr ""
+
 msgid "Драйвер:"
 msgstr ""
 
@@ -137,10 +140,16 @@ msgstr ""
 msgid "Запущен"
 msgstr ""
 
+msgid "Имя и версия сервера:"
+msgstr ""
+
 msgid "Интервал как долгое нажатие"
 msgstr ""
 
 msgid "Интервал между нажатиями"
+msgstr ""
+
+msgid "Интерфейс:"
 msgstr ""
 
 msgid "Информация"
@@ -233,6 +242,9 @@ msgstr ""
 msgid "Очи&стить"
 msgstr ""
 
+msgid "Панель управления"
+msgstr ""
+
 msgid "Подсказки"
 msgstr ""
 
@@ -258,6 +270,12 @@ msgid "Ретро"
 msgstr ""
 
 msgid "Светлая"
+msgstr ""
+
+msgid "Сетевой адрес панели управления"
+msgstr ""
+
+msgid "Сетевые настройки"
 msgstr ""
 
 msgid "Слайдеры"
@@ -320,6 +338,12 @@ msgstr ""
 msgid "Цвета вашей темы"
 msgstr ""
 
+msgid "быстрое открытие сокета"
+msgstr ""
+
+msgid "использовать IPv6"
+msgstr ""
+
 msgid "ключ PSK:"
 msgstr ""
 
@@ -332,11 +356,23 @@ msgstr ""
 msgid "пароль:"
 msgstr ""
 
+msgid "повторное использование адреса"
+msgstr ""
+
 msgid "порт:"
 msgstr ""
 
 msgid "само подписанный"
 msgstr ""
 
+msgid "таймаут ожидания:"
+msgstr ""
+
+msgid "таймаут подключения:"
+msgstr ""
+
 msgid "уровень логирования MQTT сессий:"
+msgstr ""
+
+msgid "уровень логирования сессий клиентов:"
 msgstr ""

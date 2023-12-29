@@ -1,0 +1,534 @@
+#. extracted from 12-21-midimt_menuxsk.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-29 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.1\n"
+"X-Merge-On: location\n"
+
+msgid "&Анимация"
+msgstr "&Animácia"
+
+msgid "&Аудио микшер"
+msgstr "&Zmiešavač zvuku"
+
+msgid "&Закрыть"
+msgstr "&Zavrieť"
+
+msgid "&Информация"
+msgstr "&Informácie"
+
+msgid "&Монитор"
+msgstr "&Monitorovať"
+
+msgid "&Мониторинг"
+msgstr "&Monitorovanie"
+
+msgid "&Настройка"
+msgstr "&Nastavenie"
+
+msgid "&Просмотр лог-файла"
+msgstr "&Zobraziť súbor denníka"
+
+msgid "&Путь приложений"
+msgstr "&Cesta aplikácie"
+
+msgid "Баланс (мастер)"
+msgstr "Zostatok (hlavný)"
+
+msgid "Баланс.."
+msgstr "Zostatok.."
+
+msgid "Без звука (мастер)"
+msgstr "Tichý (majster)"
+
+msgid "Без звука.."
+msgstr "Bez zvuku.."
+
+msgid "Вверх (джойстик)"
+msgstr "Hore (joystick)"
+
+msgid "Вертикально слева"
+msgstr "Vertikálne vľavo"
+
+msgid "Вертикально справа"
+msgstr "Vertikálne vpravo"
+
+msgid "Влево (джойстик)"
+msgstr "Vľavo (joystick)"
+
+msgid "Вниз (джойстик)"
+msgstr "Dole (joystick)"
+
+msgid "Вправо (джойстик)"
+msgstr "Vpravo (joystick)"
+
+msgid "Вставить"
+msgstr "Vložiť"
+
+msgid "Вы&ход"
+msgstr "VÝCHOD"
+
+msgid "Горизонтально вверху"
+msgstr "Vodorovne na vrchu"
+
+msgid "Горизонтально внизу"
+msgstr "Vodorovne dole"
+
+msgid "Громкость (мастер)"
+msgstr "Hlasitosť (hlavná)"
+
+msgid "Громкость.."
+msgstr "Objem.."
+
+msgid "З&апомнить позицию"
+msgstr "Zapamätajte si polohu"
+
+msgid "Запись"
+msgstr "Záznam"
+
+msgid "Играть/Пауза"
+msgstr "Prehrať/Pozastaviť"
+
+msgid "Канал 16 бит (расширенный)"
+msgstr "Kanál 16-bit (rozšírený)"
+
+msgid "Канал 8 бит (стандарт)"
+msgstr "Kanál 8 bit (štandard)"
+
+msgid "Кнопка"
+msgstr "Tlačidlo"
+
+msgid "Кнопка переключать, с индикацией"
+msgstr "Spínacie tlačidlo s indikáciou"
+
+msgid "Кнопки в системе «Умный дом».."
+msgstr "Tlačidlá v systéme Smart Home.."
+
+msgid "Кнопки.."
+msgstr "Tlačidlá.."
+
+msgid "Контроль относиться к аудио микшеру"
+msgstr "Ovládanie sa vzťahuje na zvukový mixér"
+
+msgid "Контроль относиться к мультимедиа кнопкам"
+msgstr "Ovládacie prvky sa vzťahujú na multimediálne tlačidlá"
+
+msgid "Контроль относиться к умному дому"
+msgstr "Ovládanie sa týka inteligentného domu"
+
+msgid "Контроль относиться к управлению светом"
+msgstr "Ovládanie sa týka ovládania svetla"
+
+msgid "Копировать"
+msgstr "Kopírovať"
+
+msgid "Круговой регулятор"
+msgstr "Kruhový regulátor"
+
+msgid "Круговой регулятор с инверсией"
+msgstr "Kruhový regulátor s inverziou"
+
+msgid "Метро"
+msgstr "Metro"
+
+msgid "Мультимедиа кнопки.."
+msgstr "Multimediálne tlačidlá.."
+
+msgid "Настраиваемая"
+msgstr "Prispôsobiteľné"
+
+msgid "Настройка темы"
+msgstr "Nastavenie témy"
+
+msgid "Не назначенный"
+msgstr "Nepriradený"
+
+msgid "Новая запись"
+msgstr "Nový vstup"
+
+msgid "Пиковый &измеритель громкости"
+msgstr "Merač maximálneho a hlasitosti"
+
+msgid "Полосковый регулятор"
+msgstr "Pásový regulátor"
+
+msgid "Полосковый регулятор с инверсией"
+msgstr "Pásový regulátor s inverziou"
+
+msgid "Предыдущий"
+msgstr "Predchádzajúce"
+
+msgid "Привязка &MIDI контролов"
+msgstr "Väzba & MIDI ovládacie prvky"
+
+msgid "Расположение.."
+msgstr "Poloha.."
+
+msgid "Регуляторы в системе «Умный дом».."
+msgstr "Regulátory v systéme „Smart Home“..."
+
+msgid "Регуляторы.."
+msgstr "Regulátory..."
+
+msgid "Ретро"
+msgstr "Retro"
+
+msgid "Светлая"
+msgstr "Svetlo"
+
+msgid "Скрабирование"
+msgstr "Drhnutie"
+
+msgid "Следующий"
+msgstr "Ďalšie"
+
+msgid "Современный"
+msgstr "Moderné"
+
+msgid "Соло (мастер)"
+msgstr "sólo (majster)"
+
+msgid "Соло.."
+msgstr "sólo.."
+
+msgid "Ст&арт"
+msgstr "Štart"
+
+msgid "Ст&оп"
+msgstr "Stop"
+
+msgid "Стоп"
+msgstr "Stop"
+
+msgid "Тема.."
+msgstr "Predmet.."
+
+msgid "Тёмная"
+msgstr "Tmavý"
+
+msgid "Увеличение масштаба"
+msgstr "Priblížiť"
+
+msgid "Удалить"
+msgstr "Odstrániť"
+
+msgid "Управление звуком.."
+msgstr "Ovládanie zvuku..."
+
+msgid "Установить как.."
+msgstr "Inštalovať ako.."
+
+msgid "Функции «Premiere Pro».."
+msgstr "Funkcie Premiere Pro..."
+
+msgid "Функции кнопки «в одно касание».."
+msgstr "Funkcie jedného dotykového tlačidla..."
+
+msgid "Функции стандартной кнопки.."
+msgstr "Funkcie štandardného tlačidla..."
+
+msgid "Функция 1"
+msgstr "Funkcia 1"
+
+msgid "Функция 2"
+msgstr "Funkcia 2"
+
+msgid "Функция 3"
+msgstr "Funkcia 3"
+
+msgid "Функция 4"
+msgstr "Funkcia 4"
+
+msgid "Функция 5"
+msgstr "Funkcia 5"
+
+msgid "Функция 6"
+msgstr "Funkcia 6"
+
+msgid "Функция 7"
+msgstr "Funkcia 7"
+
+msgid "Функция 8"
+msgstr "Funkcia 8"
+
+msgid "Читать MIDI код.."
+msgstr "Prečítajte si MIDI kód.."
+
+msgid "Энкодер"
+msgstr "kódovač"
+
+msgid "Энкодер (JOG)"
+msgstr "Kódovač (JOG)"
+
+msgid "Энкодер (покадровый просмотр)"
+msgstr "Kódovač (prezeranie snímok po snímke)"
+
+msgid "Энкодер с инверсией"
+msgstr "Kodér s inverziou"
+
+msgid "авто"
+msgstr "auto"
+
+msgid "в конец"
+msgstr "Na koniec"
+
+msgid "в начало"
+msgstr "na začiatok"
+
+msgid "вкл/выкл 1"
+msgstr "zapnutie/vypnutie 1"
+
+msgid "вкл/выкл 10"
+msgstr "zapnutie/vypnutie 10"
+
+msgid "вкл/выкл 11"
+msgstr "zapnutie/vypnutie 11"
+
+msgid "вкл/выкл 12"
+msgstr "zapnutie/vypnutie 12"
+
+msgid "вкл/выкл 13"
+msgstr "zapnutie/vypnutie 13"
+
+msgid "вкл/выкл 14"
+msgstr "zapnutie/vypnutie 14"
+
+msgid "вкл/выкл 15"
+msgstr "zapnutie/vypnutie 15"
+
+msgid "вкл/выкл 16"
+msgstr "zapnutie/vypnutie 16"
+
+msgid "вкл/выкл 17"
+msgstr "zapnutie/vypnutie 17"
+
+msgid "вкл/выкл 18"
+msgstr "zapnutie/vypnutie 18"
+
+msgid "вкл/выкл 19"
+msgstr "zapnutie/vypnutie 19"
+
+msgid "вкл/выкл 2"
+msgstr "zapnutie/vypnutie 2"
+
+msgid "вкл/выкл 20"
+msgstr "zapnutie/vypnutie 20"
+
+msgid "вкл/выкл 21"
+msgstr "zapnutie/vypnutie 21"
+
+msgid "вкл/выкл 22"
+msgstr "zapnutie/vypnutie 22"
+
+msgid "вкл/выкл 23"
+msgstr "zapnutie/vypnutie 23"
+
+msgid "вкл/выкл 24"
+msgstr "zapnutie/vypnutie 24"
+
+msgid "вкл/выкл 25"
+msgstr "zapnutie/vypnutie 25"
+
+msgid "вкл/выкл 26"
+msgstr "zapnutie/vypnutie 26"
+
+msgid "вкл/выкл 27"
+msgstr "zapnutie/vypnutie 27"
+
+msgid "вкл/выкл 3"
+msgstr "zapnutie/vypnutie 3"
+
+msgid "вкл/выкл 4"
+msgstr "zapnutie/vypnutie 4"
+
+msgid "вкл/выкл 5"
+msgstr "zapnutie/vypnutie 5"
+
+msgid "вкл/выкл 6"
+msgstr "zapnutie/vypnutie 6"
+
+msgid "вкл/выкл 7"
+msgstr "zapnutie/vypnutie 7"
+
+msgid "вкл/выкл 8"
+msgstr "zapnutie/vypnutie 8"
+
+msgid "вкл/выкл 9"
+msgstr "zapnutie/vypnutie 9"
+
+msgid "выход"
+msgstr "VÝCHOD"
+
+msgid "канал 1"
+msgstr "kanál 1"
+
+msgid "канал 10"
+msgstr "kanál 10"
+
+msgid "канал 11"
+msgstr "kanál 11"
+
+msgid "канал 12"
+msgstr "kanál 12"
+
+msgid "канал 13"
+msgstr "kanál 13"
+
+msgid "канал 14"
+msgstr "kanál 14"
+
+msgid "канал 15"
+msgstr "kanál 15"
+
+msgid "канал 16"
+msgstr "kanál 16"
+
+msgid "канал 17"
+msgstr "kanál 17"
+
+msgid "канал 18"
+msgstr "kanál 18"
+
+msgid "канал 2"
+msgstr "kanál 2"
+
+msgid "канал 3"
+msgstr "kanál 3"
+
+msgid "канал 4"
+msgstr "kanál 4"
+
+msgid "канал 5"
+msgstr "kanál 5"
+
+msgid "канал 6"
+msgstr "kanál 6"
+
+msgid "канал 7"
+msgstr "kanál 7"
+
+msgid "канал 8"
+msgstr "kanál 8"
+
+msgid "канал 9"
+msgstr "kanál 9"
+
+msgid "конфигурация"
+msgstr "konfigurácia"
+
+msgid "крупнее"
+msgstr "väčší"
+
+msgid "лог"
+msgstr "log"
+
+msgid "мельче"
+msgstr "menšie"
+
+msgid "очистить"
+msgstr "jasný"
+
+msgid "плагины"
+msgstr "pluginy"
+
+msgid "показать ArtNet конфигурацию"
+msgstr "zobraziť konfiguráciu ArtNet"
+
+msgid "показать DMX512 конфигурацию"
+msgstr "zobraziť konfiguráciu DMX512"
+
+msgid "показать LIGTS конфигурацию"
+msgstr "zobraziť konfiguráciu LIGTS"
+
+msgid "показать MIDI конфигурацию"
+msgstr "zobraziť konfiguráciu MIDI"
+
+msgid "показать MMKEYS конфигурацию"
+msgstr "zobraziť konfiguráciu MMKEYS"
+
+msgid "показать MQTT конфигурацию"
+msgstr "zobraziť konfiguráciu MQTT"
+
+msgid "показать всю конфигурацию"
+msgstr "zobraziť celú konfiguráciu"
+
+msgid "помощь"
+msgstr "Pomoc"
+
+msgid "сохранить настройки"
+msgstr "uložiť nastavenia"
+
+msgid "старт"
+msgstr "začať"
+
+msgid "статистика плагинов"
+msgstr "štatistiky pluginov"
+
+msgid "стоп"
+msgstr "zastaviť"
+
+msgid "уровень 1"
+msgstr "úroveň 1"
+
+msgid "уровень 10"
+msgstr "úroveň 10"
+
+msgid "уровень 11"
+msgstr "úroveň 11"
+
+msgid "уровень 12"
+msgstr "úroveň 12"
+
+msgid "уровень 13"
+msgstr "úroveň 13"
+
+msgid "уровень 14"
+msgstr "úroveň 14"
+
+msgid "уровень 15"
+msgstr "úroveň 15"
+
+msgid "уровень 16"
+msgstr "úroveň 16"
+
+msgid "уровень 17"
+msgstr "úroveň 17"
+
+msgid "уровень 18"
+msgstr "úroveň 18"
+
+msgid "уровень 2"
+msgstr "úroveň 2"
+
+msgid "уровень 3"
+msgstr "úroveň 3"
+
+msgid "уровень 4"
+msgstr "úroveň 4"
+
+msgid "уровень 5"
+msgstr "úroveň 5"
+
+msgid "уровень 6"
+msgstr "úroveň 6"
+
+msgid "уровень 7"
+msgstr "úroveň 7"
+
+msgid "уровень 8"
+msgstr "úroveň 8"
+
+msgid "уровень 9"
+msgstr "úroveň 9"
+
+msgid "язык"
+msgstr "Jazyk"

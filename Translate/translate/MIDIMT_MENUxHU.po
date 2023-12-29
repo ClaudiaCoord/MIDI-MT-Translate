@@ -1,0 +1,534 @@
+#. extracted from 12-21-midimt_menuxhu.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-29 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.1\n"
+"X-Merge-On: location\n"
+
+msgid "&Анимация"
+msgstr "&Élénkség"
+
+msgid "&Аудио микшер"
+msgstr "&Audiokeverő"
+
+msgid "&Закрыть"
+msgstr "&Bezárás"
+
+msgid "&Информация"
+msgstr "&Információ"
+
+msgid "&Монитор"
+msgstr "&Monitor"
+
+msgid "&Мониторинг"
+msgstr "&Monitoring"
+
+msgid "&Настройка"
+msgstr "&Beállítások"
+
+msgid "&Просмотр лог-файла"
+msgstr "&Naplófájl megtekintése"
+
+msgid "&Путь приложений"
+msgstr "&Alkalmazás elérési útja"
+
+msgid "Баланс (мастер)"
+msgstr "Egyenleg (mester)"
+
+msgid "Баланс.."
+msgstr "Egyensúly.."
+
+msgid "Без звука (мастер)"
+msgstr "Csendes (mester)"
+
+msgid "Без звука.."
+msgstr "Hangtalan.."
+
+msgid "Вверх (джойстик)"
+msgstr "Fel (joystick)"
+
+msgid "Вертикально слева"
+msgstr "Függőleges balra"
+
+msgid "Вертикально справа"
+msgstr "Függőleges jobbra"
+
+msgid "Влево (джойстик)"
+msgstr "Bal (joystick)"
+
+msgid "Вниз (джойстик)"
+msgstr "Le (joystick)"
+
+msgid "Вправо (джойстик)"
+msgstr "Jobbra (joystick)"
+
+msgid "Вставить"
+msgstr "Beszúrás"
+
+msgid "Вы&ход"
+msgstr "Kijárat"
+
+msgid "Горизонтально вверху"
+msgstr "Vízszintesen a tetején"
+
+msgid "Горизонтально внизу"
+msgstr "Vízszintesen lent"
+
+msgid "Громкость (мастер)"
+msgstr "kötet (mester)"
+
+msgid "Громкость.."
+msgstr "Hangerő.."
+
+msgid "З&апомнить позицию"
+msgstr "Emlékezz pozícióra"
+
+msgid "Запись"
+msgstr "Rekord"
+
+msgid "Играть/Пауза"
+msgstr "Lejátszás/Szünet"
+
+msgid "Канал 16 бит (расширенный)"
+msgstr "16 bites csatorna (bővített)"
+
+msgid "Канал 8 бит (стандарт)"
+msgstr "8 bites csatorna (standard)"
+
+msgid "Кнопка"
+msgstr "Gomb"
+
+msgid "Кнопка переключать, с индикацией"
+msgstr "Kapcsoló gomb, jelzéssel"
+
+msgid "Кнопки в системе «Умный дом».."
+msgstr "Gombok a Smart Home rendszerben..."
+
+msgid "Кнопки.."
+msgstr "Gombok.."
+
+msgid "Контроль относиться к аудио микшеру"
+msgstr "A vezérlés az audiokeverőre vonatkozik"
+
+msgid "Контроль относиться к мультимедиа кнопкам"
+msgstr "A vezérlők a multimédiás gombokra vonatkoznak"
+
+msgid "Контроль относиться к умному дому"
+msgstr "Az irányítás az okosotthonra utal"
+
+msgid "Контроль относиться к управлению светом"
+msgstr "A vezérlés a fényvezérlésre vonatkozik"
+
+msgid "Копировать"
+msgstr "Másolat"
+
+msgid "Круговой регулятор"
+msgstr "Kör alakú szabályozó"
+
+msgid "Круговой регулятор с инверсией"
+msgstr "Kör alakú szabályzó inverzióval"
+
+msgid "Метро"
+msgstr "Metró"
+
+msgid "Мультимедиа кнопки.."
+msgstr "Multimédiás gombok.."
+
+msgid "Настраиваемая"
+msgstr "Testreszabható"
+
+msgid "Настройка темы"
+msgstr "Téma beállítása"
+
+msgid "Не назначенный"
+msgstr "Nincs hozzárendelve"
+
+msgid "Новая запись"
+msgstr "Új bejegyzés"
+
+msgid "Пиковый &измеритель громкости"
+msgstr "Csúcs és hangerő mérő"
+
+msgid "Полосковый регулятор"
+msgstr "Szalagszabályzó"
+
+msgid "Полосковый регулятор с инверсией"
+msgstr "Inverziós szalagszabályzó"
+
+msgid "Предыдущий"
+msgstr "Előző"
+
+msgid "Привязка &MIDI контролов"
+msgstr "&MIDI vezérlők kötése"
+
+msgid "Расположение.."
+msgstr "Elhelyezkedés.."
+
+msgid "Регуляторы в системе «Умный дом».."
+msgstr "Szabályozók az „okos otthon” rendszerben..."
+
+msgid "Регуляторы.."
+msgstr "Szabályozók..."
+
+msgid "Ретро"
+msgstr "Retro"
+
+msgid "Светлая"
+msgstr "Fény"
+
+msgid "Скрабирование"
+msgstr "Súrolás"
+
+msgid "Следующий"
+msgstr "Következő"
+
+msgid "Современный"
+msgstr "Modern"
+
+msgid "Соло (мастер)"
+msgstr "Egyedül (mester)"
+
+msgid "Соло.."
+msgstr "Szóló.."
+
+msgid "Ст&арт"
+msgstr "Rajt"
+
+msgid "Ст&оп"
+msgstr "Állj meg"
+
+msgid "Стоп"
+msgstr "Állj meg"
+
+msgid "Тема.."
+msgstr "Tantárgy.."
+
+msgid "Тёмная"
+msgstr "Sötét"
+
+msgid "Увеличение масштаба"
+msgstr "Nagyítás"
+
+msgid "Удалить"
+msgstr "Töröl"
+
+msgid "Управление звуком.."
+msgstr "Hangvezérlés..."
+
+msgid "Установить как.."
+msgstr "Telepítés mint.."
+
+msgid "Функции «Premiere Pro».."
+msgstr "A Premiere Pro szolgáltatásai..."
+
+msgid "Функции кнопки «в одно касание».."
+msgstr "Egyérintéses gomb funkciók..."
+
+msgid "Функции стандартной кнопки.."
+msgstr "A normál gomb funkciói..."
+
+msgid "Функция 1"
+msgstr "1. funkció"
+
+msgid "Функция 2"
+msgstr "2. funkció"
+
+msgid "Функция 3"
+msgstr "3. funkció"
+
+msgid "Функция 4"
+msgstr "4. funkció"
+
+msgid "Функция 5"
+msgstr "5. funkció"
+
+msgid "Функция 6"
+msgstr "6. funkció"
+
+msgid "Функция 7"
+msgstr "7. funkció"
+
+msgid "Функция 8"
+msgstr "8. funkció"
+
+msgid "Читать MIDI код.."
+msgstr "Olvassa el a MIDI kódot."
+
+msgid "Энкодер"
+msgstr "Kódoló"
+
+msgid "Энкодер (JOG)"
+msgstr "Kódoló (JOG)"
+
+msgid "Энкодер (покадровый просмотр)"
+msgstr "Kódoló (képkockánkénti megtekintés)"
+
+msgid "Энкодер с инверсией"
+msgstr "Kódoló inverzióval"
+
+msgid "авто"
+msgstr "auto"
+
+msgid "в конец"
+msgstr "A végén"
+
+msgid "в начало"
+msgstr "az elejére"
+
+msgid "вкл/выкл 1"
+msgstr "be/ki 1"
+
+msgid "вкл/выкл 10"
+msgstr "be/ki 10"
+
+msgid "вкл/выкл 11"
+msgstr "be/ki 11"
+
+msgid "вкл/выкл 12"
+msgstr "be/ki 12"
+
+msgid "вкл/выкл 13"
+msgstr "be/ki 13"
+
+msgid "вкл/выкл 14"
+msgstr "be/ki 14"
+
+msgid "вкл/выкл 15"
+msgstr "be/ki 15"
+
+msgid "вкл/выкл 16"
+msgstr "be/ki 16"
+
+msgid "вкл/выкл 17"
+msgstr "be/ki 17"
+
+msgid "вкл/выкл 18"
+msgstr "be/ki 18"
+
+msgid "вкл/выкл 19"
+msgstr "be/ki 19"
+
+msgid "вкл/выкл 2"
+msgstr "be/ki 2"
+
+msgid "вкл/выкл 20"
+msgstr "be/ki 20"
+
+msgid "вкл/выкл 21"
+msgstr "be/ki 21"
+
+msgid "вкл/выкл 22"
+msgstr "be/ki 22"
+
+msgid "вкл/выкл 23"
+msgstr "be/ki 23"
+
+msgid "вкл/выкл 24"
+msgstr "be/ki 24"
+
+msgid "вкл/выкл 25"
+msgstr "be/ki 25"
+
+msgid "вкл/выкл 26"
+msgstr "be/ki 26"
+
+msgid "вкл/выкл 27"
+msgstr "be/ki 27"
+
+msgid "вкл/выкл 3"
+msgstr "be/ki 3"
+
+msgid "вкл/выкл 4"
+msgstr "be/ki 4"
+
+msgid "вкл/выкл 5"
+msgstr "be/ki 5"
+
+msgid "вкл/выкл 6"
+msgstr "be/ki 6"
+
+msgid "вкл/выкл 7"
+msgstr "be/ki 7"
+
+msgid "вкл/выкл 8"
+msgstr "be/ki 8"
+
+msgid "вкл/выкл 9"
+msgstr "be/ki 9"
+
+msgid "выход"
+msgstr "kijárat"
+
+msgid "канал 1"
+msgstr "csatorna 1"
+
+msgid "канал 10"
+msgstr "10. csatorna"
+
+msgid "канал 11"
+msgstr "11. csatorna"
+
+msgid "канал 12"
+msgstr "12. csatorna"
+
+msgid "канал 13"
+msgstr "csatorna 13"
+
+msgid "канал 14"
+msgstr "csatorna 14"
+
+msgid "канал 15"
+msgstr "15. csatorna"
+
+msgid "канал 16"
+msgstr "16-os csatorna"
+
+msgid "канал 17"
+msgstr "17-es csatorna"
+
+msgid "канал 18"
+msgstr "18-as csatorna"
+
+msgid "канал 2"
+msgstr "2. csatorna"
+
+msgid "канал 3"
+msgstr "3. csatorna"
+
+msgid "канал 4"
+msgstr "4. csatorna"
+
+msgid "канал 5"
+msgstr "5. csatorna"
+
+msgid "канал 6"
+msgstr "6. csatorna"
+
+msgid "канал 7"
+msgstr "7. csatorna"
+
+msgid "канал 8"
+msgstr "8. csatorna"
+
+msgid "канал 9"
+msgstr "9. csatorna"
+
+msgid "конфигурация"
+msgstr "konfigurációt"
+
+msgid "крупнее"
+msgstr "nagyobb"
+
+msgid "лог"
+msgstr "log"
+
+msgid "мельче"
+msgstr "kisebb"
+
+msgid "очистить"
+msgstr "egyértelmű"
+
+msgid "плагины"
+msgstr "bővítmények"
+
+msgid "показать ArtNet конфигурацию"
+msgstr "mutasd meg az ArtNet konfigurációját"
+
+msgid "показать DMX512 конфигурацию"
+msgstr "Mutasd a DMX512 konfigurációt"
+
+msgid "показать LIGTS конфигурацию"
+msgstr "mutasd a LIGTS konfigurációt"
+
+msgid "показать MIDI конфигурацию"
+msgstr "MIDI konfiguráció megjelenítése"
+
+msgid "показать MMKEYS конфигурацию"
+msgstr "MMKEYS konfiguráció megjelenítése"
+
+msgid "показать MQTT конфигурацию"
+msgstr "MQTT konfiguráció megjelenítése"
+
+msgid "показать всю конфигурацию"
+msgstr "az összes konfiguráció megjelenítése"
+
+msgid "помощь"
+msgstr "Segítség"
+
+msgid "сохранить настройки"
+msgstr "beállítások mentése"
+
+msgid "старт"
+msgstr "Rajt"
+
+msgid "статистика плагинов"
+msgstr "plugin statisztikák"
+
+msgid "стоп"
+msgstr "állj meg"
+
+msgid "уровень 1"
+msgstr "1. szint"
+
+msgid "уровень 10"
+msgstr "10. szint"
+
+msgid "уровень 11"
+msgstr "11. szint"
+
+msgid "уровень 12"
+msgstr "12. szint"
+
+msgid "уровень 13"
+msgstr "13. szint"
+
+msgid "уровень 14"
+msgstr "14. szint"
+
+msgid "уровень 15"
+msgstr "15. szint"
+
+msgid "уровень 16"
+msgstr "16. szint"
+
+msgid "уровень 17"
+msgstr "17. szint"
+
+msgid "уровень 18"
+msgstr "18. szint"
+
+msgid "уровень 2"
+msgstr "2. szint"
+
+msgid "уровень 3"
+msgstr "3. szint"
+
+msgid "уровень 4"
+msgstr "4. szint"
+
+msgid "уровень 5"
+msgstr "5. szint"
+
+msgid "уровень 6"
+msgstr "6. szint"
+
+msgid "уровень 7"
+msgstr "7. szint"
+
+msgid "уровень 8"
+msgstr "8. szint"
+
+msgid "уровень 9"
+msgstr "9. szint"
+
+msgid "язык"
+msgstr "nyelv"

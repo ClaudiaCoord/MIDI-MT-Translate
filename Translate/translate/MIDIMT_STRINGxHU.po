@@ -1,0 +1,837 @@
+#. extracted from 12-21-midimt_stringxhu.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-29 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.1\n"
+"X-Merge-On: location\n"
+
+msgid "&Микшер"
+msgstr "&Keverő"
+
+msgid "&Настройки"
+msgstr "&Beállítások"
+
+msgid "CA сертификат"
+msgstr "CA tanúsítvány"
+
+msgid "Co*Create - не удалось создать экземпляр."
+msgstr "Co*Create – nem sikerült példányt létrehozni."
+
+msgid "Co*Initialize инициализация не удалась."
+msgstr "A Co*inicializálás inicializálása nem sikerült."
+
+msgid "JOG (перемотка видеокадра)"
+msgstr "JOG (videokocka visszatekerése)"
+
+msgid "MIDI-MT Конфигурация"
+msgstr "MIDI-MT konfiguráció"
+
+msgid "MIDI-MT транслятор"
+msgstr "MIDI-MT fordító"
+
+msgid "MIDIMT"
+msgstr "MIDIMT"
+
+msgid "MIDIMT - Аудио микшер не запущен:"
+msgstr "MIDIMT - Az audiokeverő nem fut:"
+
+msgid "MIDIMT - Невозможно закончить операцию:"
+msgstr "MIDIMT – A művelet nem hajtható végre:"
+
+msgid "OK"
+msgstr "rendben"
+
+msgid "[Конфигурация пуста..]"
+msgstr "[A konfiguráció üres..]"
+
+msgid "Автозапуск запрещен в общей конфигурации."
+msgstr "Az automatikus indítás az általános konfigurációban le van tiltva."
+
+msgid "Аудио пиковый измеритель не доступен."
+msgstr "Hangcsúcs-mérő nem érhető el."
+
+msgid "Аудио сеанс '{0}' – неправильное состояние регистрации '{1}': {2}/{3}"
+msgstr "Hangmunkamenet „{0}” – rossz regisztrációs állapot „{1}”: {2}/{3}"
+
+msgid "Аудиомикшер не запущен, проверьте настройки, должен быть включен запуск аудио панели."
+msgstr "A hangkeverő nem fut, ellenőrizze a beállításokat, az audio panel indítását engedélyezni kell."
+
+msgid "Бридж уже запущен."
+msgstr "A hidat már elindították."
+
+msgid "Бридж уже остановлен."
+msgstr "A híd már megállt."
+
+msgid "Бридж успешно запущен, инициализировано {0}, загружено {1}, запущено {2} плагинов."
+msgstr "A Bridge sikeresen elindult, {0} inicializálva, {1} betöltve, {2} bővítmény fut."
+
+msgid "Бридж успешно остановлен, инициализировано {0}, загружено {1}, запущено {2}, остановлено {3} плагинов."
+msgstr "A híd sikeresen leállt, {0} inicializálva, {1} betöltve, {2} elindítva, {3} bővítmény leállt."
+
+msgid "В этой конфигурации не настроены MIDI-клавиши."
+msgstr "Ebben a konfigurációban nincsenek MIDI-kulcsok konfigurálva."
+
+msgid "Вверх (джойстик)"
+msgstr "Fel (joystick)"
+
+msgid "Версия драйвера [{0}]"
+msgstr "Illesztőprogram verziója [{0}]"
+
+msgid "Версия установленного Virtual MIDI драйвера: {0}"
+msgstr "Telepített virtuális MIDI illesztőprogram verziója: {0}"
+
+msgid "Виртуальный MIDI драйвер не установлен. Необходимо установить пакет loopMidi, или скачать полную версию установщика и переустановить MIDI-MT. Подробнее: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
+msgstr "A virtuális MIDI illesztőprogram nincs telepítve. Telepítse a loopMidi csomagot, vagy töltse le a teljes telepítőt, és telepítse újra a MIDI-MT-t. További részletek: https://claudiacoord.github.io/MIDI-MT/docs/RU/Dependencies.html"
+
+msgid "Включен={0},настройки={1},запущен={2}"
+msgstr "Enabled={0}, settings={1}, running={2}"
+
+msgid "Влево (джойстик)"
+msgstr "Bal (joystick)"
+
+msgid "Вниз (джойстик)"
+msgstr "Le (joystick)"
+
+msgid "Внимание, в этой конфигурации не настроены MIDI-клавиши! записанная конфигурацию будет не работоспособной."
+msgstr "Figyelem, ebben a konfigurációban nincsenek MIDI-kulcsok konfigurálva! a rögzített konfiguráció nem fog működni."
+
+msgid "Внимание, несоответствие количества устройств в итоговом списке, система/список = {0}/{1}"
+msgstr "Figyelem, nem egyezik az eszközök száma a végső listában, rendszer/lista = {0}/{1}"
+
+msgid "Вправо (джойстик)"
+msgstr "Jobbra (joystick)"
+
+msgid "Все настройки '{0}', версия конфигурационного файла: {1}"
+msgstr "Minden beállítás „{0}”, konfigurációs fájl verziója: {1}"
+
+msgid "Вы&ход"
+msgstr "Kijárat"
+
+msgid "Выберите ARTNET интерфейс"
+msgstr "Válassza az ARTNET felületet"
+
+msgid "Выберите DMX устройство"
+msgstr "Válassza ki a DMX eszközt"
+
+msgid "Выбранная конфигурация не поддерживает авто старт."
+msgstr "A kiválasztott konfiguráció nem támogatja az automatikus indítást."
+
+msgid "Выбранный {0} язык будет активным после перезапуска окна."
+msgstr "A kiválasztott {0} nyelv az ablak újraindítása után lesz aktív."
+
+msgid "Выходные MIDI порты отключены."
+msgstr "A MIDI kimeneti portok le vannak tiltva."
+
+msgid "Доступ на запись к файлу конфигурации запрещен, '{0}'"
+msgstr "A konfigurációs fájlhoz való írási hozzáférés megtagadva, „{0}”"
+
+msgid "Запись (проигрыватель)"
+msgstr "Felvétel (lejátszó)"
+
+msgid "Играть (проигрыватель)"
+msgstr "Játssz (játékos)"
+
+msgid "Имя MIDI-устройства не задано в конфигурации."
+msgstr "A MIDI-eszköz neve nincs konfigurálva."
+
+msgid "Имя конфигурации не указано, продолжение невозможно."
+msgstr "A konfiguráció neve nincs megadva, és nem folytatható."
+
+msgid "Инициализируйте, прежде чем вызывать это.."
+msgstr "Inicializálja, mielőtt felhívná.."
+
+msgid "Клиент MMQTT успешно создан, продолжаем.."
+msgstr "Az MMQTT kliens sikeresen létrejött, folytassa..."
+
+msgid "Конфигурация MQTT не заполнена, продолжение невозможно."
+msgstr "Az MQTT konfiguráció üres, és nem folytatható."
+
+msgid "Конфигурация для модуля {0} пуста.."
+msgstr "A(z) {0} modul konfigurációja üres."
+
+msgid "Конфигурация загружена из драйвера"
+msgstr "A konfiguráció betöltve az illesztőprogramból"
+
+msgid "Конфигурация загружена из файла"
+msgstr "A konfiguráció fájlból betöltve"
+
+msgid "Конфигурация загружена из файла: {0}"
+msgstr "A konfiguráció betöltve a következő fájlból: {0}"
+
+msgid "Конфигурация загружена.."
+msgstr "Konfiguráció betöltve.."
+
+msgid "Конфигурация обновлена: {0} = {1}{2}"
+msgstr "Konfiguráció frissítve: {0} = {1}{2}"
+
+msgid "Конфигурация пустая.."
+msgstr "A konfiguráció üres.."
+
+msgid "Конфигурация создана заново и требует заполнения"
+msgstr "A konfigurációt újra létrehozták, és ki kell tölteni"
+
+msgid "Конфигурация уже загружена.."
+msgstr "A konfiguráció már be lett töltve.."
+
+msgid "Микшер аудио сеансов запущен, на момент старта имеется {0} запущенных программ, доступных для регулирования."
+msgstr "Az audio session mixer fut, az indítás időpontjában {0} futó program áll rendelkezésre a szabályozáshoz."
+
+msgid "Микшер аудио сессий не был правильно остановлен, сведения об ошибке должны быть в файле журнала."
+msgstr "Az audio session keverőt nem állította le megfelelően, a hiba részleteinek a naplófájlban kell szerepelniük."
+
+msgid "Микшер аудио сессий остановлен."
+msgstr "Az audio munkamenet-keverő leállt."
+
+msgid "Модули не найдены, запуск невозможен."
+msgstr "Nem található modul, az indítás lehetetlen."
+
+msgid "Модуль не является плагином MIDI-MT, отсутствуют необходимые точки входа."
+msgstr "A modul nem MIDI-MT plugin és hiányoznak a szükséges belépési pontok."
+
+msgid "Мультимедийные клавиши"
+msgstr "Multimédiás gombok"
+
+msgid "Настройки MIDI"
+msgstr "MIDI beállítások"
+
+msgid "Настройки Умного Дома (MQTT)"
+msgstr "Intelligens otthon beállításai (MQTT)"
+
+msgid "Настройки мультимедиа клавиатуры (MMKEYS)"
+msgstr "Multimédiás billentyűzet beállításai (MMKEYS)"
+
+msgid "Настройки управления освещением ({0})"
+msgstr "Fényvezérlési beállítások ({0})"
+
+msgid "Не задано имя для активного устройства, продолжение невозможно, id = {0}/{1}"
+msgstr "Az aktív eszköz neve nincs megadva, a folytatás nem lehetséges, id = {0}/{1}"
+
+msgid "Не заданы прокси-порты в конфигурации, MIDI-прокси отключено."
+msgstr "A proxy portok nincsenek megadva a konfigurációban, a MIDI proxy le van tiltva."
+
+msgid "Не назначено"
+msgstr "Nem kijelölt"
+
+msgid "Не удается запустить MIDI-устройство, продолжение невозможно, id = {0}/{1}"
+msgstr "A MIDI-eszközt nem lehet elindítani, nem lehet folytatni, id = {0}/{1}"
+
+msgid "Не удается открыть MIDI-устройство, продолжение невозможно, id = {0}/{1}"
+msgstr "A MIDI-eszközt nem lehet megnyitni, nem lehet folytatni, id = {0}/{1}"
+
+msgid "Не удалось загрузить плагины, предварительно инициализировано {0}, загружено 0 плагинов."
+msgstr "Nem sikerült betölteni a beépülő modulokat, előzetesen inicializált {0}, 0 bővítmény betöltve."
+
+msgid "Не удалось запустить бридж, ошибка при старте плагинов, инициализировано {0}, загружено {1} плагинов."
+msgstr "Nem sikerült elindítani a hidat, hiba a bővítmények indításakor, {0} inicializálva, {1} bővítmény betöltve."
+
+msgid "Не удалось запустить микшер аудио сессий, сведения об ошибке должны быть в файле журнала."
+msgstr "Az audio session keverőt nem lehetett elindítani, a hiba részleteinek a naplófájlban kell szerepelniük."
+
+msgid "Не удалось инициализировать плагины, совместимые плагины не обнаружены."
+msgstr "Nem sikerült inicializálni a bővítményeket, nem található kompatibilis beépülő modul."
+
+msgid "Не удалось остановить бридж, ошибка при остановке плагинов, инициализировано {0}, загружено {1}, запущено {2} плагинов."
+msgstr "Nem sikerült leállítani a hidat, hiba leállítja a beépülő modulokat, {0} inicializálva, {1} betöltve, {2} beépülő modul fut."
+
+msgid "Не удалось открыть модуль плагина. Модуль отсутствует или поврежден, DLL не был загружен и вернул значение null."
+msgstr "Nem sikerült megnyitni a beépülő modult. A modul hiányzik vagy sérült, a DLL nem lett betöltve, és nullát adott vissza."
+
+msgid "Не удалось переключается на поток пользовательского интерфейса, запуск аудио панели прерван."
+msgstr "Nem sikerült váltani a felhasználói felületre, az audiopanel indítása megszakadt."
+
+msgid "Не удалось подключиться к серверу MQTT:"
+msgstr "Nem sikerült csatlakozni az MQTT szerverhez:"
+
+msgid "Не удалось получить аудио устройство по умолчанию."
+msgstr "Nem sikerült lekérni az alapértelmezett audioeszközt."
+
+msgid "Не удалось получить список аудио сеансов."
+msgstr "Nem sikerült lekérni az audiomunkamenetek listáját."
+
+msgid "Неверный идентификатор события. Пожалуйста, перезапустите это приложение."
+msgstr "Érvénytelen eseményazonosító. Kérjük, indítsa újra ezt az alkalmazást."
+
+msgid "Необходимо установить Virtual MIDI драйвер!"
+msgstr "Telepíteni kell a Virtual MIDI drivert!"
+
+msgid "Неподдерживаемая реализация в коде, метод не переопределен: {0}"
+msgstr "Nem támogatott implementáció a kódban, a metódus nincs felülírva: {0}"
+
+msgid "Номер DMX канала"
+msgstr "DMX csatorna száma"
+
+msgid "Обнаружена новая версия конфигурации.."
+msgstr "Új konfigurációs verzió észlelve..."
+
+msgid "Окно панели аудиомикшера не соответствует статусу, невозможно продолжить следующую операцию."
+msgstr "Az audiokeverő panel ablakának állapota nem megfelelő, és a következő művelet nem folytatható."
+
+msgid "Отключение аудио сессии, причина='{0}'"
+msgstr "Audiomunkamenet letiltása, oka='{0}'"
+
+msgid "Отключено от сервера MQTT:"
+msgstr "Leválasztva az MQTT szerverről:"
+
+msgid "Ошибка инициализации плагина, невозможно преобразовать CLSID/GUID из указанной строки."
+msgstr "Beépülő modul inicializálási hiba, nem lehet konvertálni a CLSID/GUID azonosítót a megadott karakterláncból."
+
+msgid "Ошибка инициализации приложения, продолжение невозможно."
+msgstr "Alkalmazás inicializálási hiba, a folytatás nem lehetséges."
+
+msgid "Ошибка создания клиента MQTT, отмена."
+msgstr "Hiba az MQTT kliens létrehozásakor, megszakítás."
+
+msgid "Панель аудио микшера - продолжение невозможно, ошибка инициализации."
+msgstr "Hangkeverő panel - nem folytatható, inicializálási hiba."
+
+msgid "Панель аудиомикшера - продолжение невозможно, элементы индекса неверны."
+msgstr "Hangkeverő panel – Nem lehet folytatni, az indexelemek helytelenek."
+
+msgid "Панель аудиомикшера вызвана не в потоке пользовательского интерфейса, изменения невозможны."
+msgstr "A hangkeverő panelt nem hívják meg a felhasználói felületen, és nem hajthatók végre módosítások."
+
+msgid "Панель аудиомикшера обнаружила неверный элемент, прервано создание окна панели."
+msgstr "A hangkeverő panel érvénytelen elemet észlelt, és a panelablak létrehozása megszakadt."
+
+msgid "Перемотка вперед (проигрыватель)"
+msgstr "Gyors előretekerés (játékos)"
+
+msgid "Перемотка назад (проигрыватель)"
+msgstr "Visszatekerés (lejátszó)"
+
+msgid "Плагины инициализированы успешно, предварительная инициализация {0}, загружено {1} плагинов."
+msgstr "A beépülő modulok inicializálása sikeres volt, előzetes inicializálás: {0}, {1} bővítmény betöltve."
+
+msgid "Плагины уже загружены, перед перезагрузкой выполните сброс."
+msgstr "A beépülő modulok már be vannak töltve, kérjük, állítsa vissza az újraindítás előtt."
+
+msgid "Подключено к серверу MQTT:"
+msgstr "Csatlakozva az MQTT szerverhez:"
+
+msgid "Подходящие интерфейсы отсутствуют"
+msgstr "Nem állnak rendelkezésre megfelelő interfészek"
+
+msgid "Подходящие устройства отсутствуют"
+msgstr "Nem állnak rendelkezésre megfelelő eszközök"
+
+msgid "Пожалуйста, отредактируйте конфигурацию перед запуском."
+msgstr "Mielőtt elkezdené, módosítsa a konfigurációt."
+
+msgid "Пожалуйста, перед запуском монитора, запустите транслятор из меню, выбрав пункт 'Старт'."
+msgstr "Kérjük, a monitor elindítása előtt indítsa el a fordítót a menüből a 'Start' kiválasztásával."
+
+msgid "При запуске будут созданы {0} выходных MIDI портов."
+msgstr "Indításkor {0} MIDI kimeneti port jön létre."
+
+msgid "При запуске будут созданы {0} прокси MIDI портов."
+msgstr "Indításkor {0} proxy MIDI port jön létre."
+
+msgid "При запуске был указан файл конфигурации: '{0}'. Установить его как конфигурацию для последующих запусков?"
+msgstr "Indításkor a konfigurációs fájl megadva volt: '{0}'. Beállítja konfigurációként a következő futtatásokhoz?"
+
+msgid "При открытии редактора, был указан файл конфигурации: '{0}'. Сохранить его с тем-же именем?"
+msgstr "A szerkesztő megnyitásakor a konfigurációs fájl megadva: '{0}'. Elmenti ugyanazzal a névvel?"
+
+msgid "Проблема с версией драйвера [{0}]"
+msgstr "Probléma az illesztőprogram-verzióval [{0}]"
+
+msgid "Проверьте права пользователя на запись файлов в каталоге приложения. Если ошибка повториться, попробуйте отключить ведение лог-файла."
+msgstr "Ellenőrizze a felhasználó engedélyeit, hogy fájlokat írhasson az alkalmazáskönyvtárba. Ha a hiba továbbra is fennáll, próbálja meg letiltani a naplózást."
+
+msgid "Прокси MIDI порты отключены."
+msgstr "A proxy MIDI portjai le vannak tiltva."
+
+msgid "Сбой диспетчера аудио сеансов."
+msgstr "Az Audio Session Manager összeomlott."
+
+msgid "Сбой загрузки конфигурации, файл не найден, запуск невозможен.."
+msgstr "A konfiguráció betöltése nem sikerült, a fájl nem található, az indítás lehetetlen."
+
+msgid "Скраб"
+msgstr "Bozót"
+
+msgid "Служба управления Умным домом запущена."
+msgstr "Elindult a Smart Home vezérlő szolgáltatás."
+
+msgid "Служба управления Умным домом остановлена."
+msgstr "Az okosotthon vezérlési szolgáltatás leállt."
+
+msgid "Служба управления мультимедийными ключами запущена."
+msgstr "A Media Key Management szolgáltatás fut."
+
+msgid "Служба управления мультимедийными ключами остановлена."
+msgstr "A Media Key Management szolgáltatás leállt."
+
+msgid "Служба управления освещением ArtNet запущена с использованием широковещательного адреса {0}:{1} в сети {2}."
+msgstr "Az ArtNet Lighting Control Service a(z) {0}:{1} sugárzási cím használatával fut a(z) {2} hálózaton."
+
+msgid "Служба управления освещением ArtNet не запущена, конфигурация службы не заполнена."
+msgstr "Az ArtNet világításvezérlő szolgáltatás nem fut, a szolgáltatás konfigurációja nincs kitöltve."
+
+msgid "Служба управления освещением ArtNet не запущена, сеть {0} не найдена.."
+msgstr "Az ArtNet világításvezérlő szolgáltatás nem fut, a(z) {0} hálózat nem található."
+
+msgid "Служба управления освещением ArtNet остановлена."
+msgstr "Az ArtNet világításvezérlő szolgáltatás leállt."
+
+msgid "Служба управления освещением DMX запущена с использованием COM{0} – {1}."
+msgstr "A DMX világításvezérlő szolgáltatás a COM{0} - {1} használatával indul."
+
+msgid "Служба управления освещением DMX не запущена, конфигурация службы не заполнена."
+msgstr "A DMX világításvezérlő szolgáltatás nem fut, és a szolgáltatás konfigurációja nincs kitöltve."
+
+msgid "Служба управления освещением DMX не запущена, устройство COM{0} не подключено.."
+msgstr "A DMX világításvezérlő szolgáltatás nem fut, a COM{0} eszköz nincs csatlakoztatva."
+
+msgid "Служба управления освещением DMX остановлена."
+msgstr "A DMX világításvezérlő szolgáltatás leállt."
+
+msgid "Создана аудио сессия, имя='{0}'"
+msgstr "Audiomunkamenet létrehozva, name='{0}'"
+
+msgid "Список аудио сессий пуст!"
+msgstr "Az audio munkamenetek listája üres!"
+
+msgid "Ст&арт"
+msgstr "Rajt"
+
+msgid "Ст&оп"
+msgstr "Állj meg"
+
+msgid "Стоп (проигрыватель)"
+msgstr "Stop (lejátszó)"
+
+msgid "Увеличение"
+msgstr "Növekedés"
+
+msgid "Управление «Микшером»"
+msgstr "Keverő vezérlés"
+
+msgid "Управление «Умным домом»"
+msgstr "Intelligens otthonkezelés"
+
+msgid "Управление освещением (16 бит)"
+msgstr "Fényvezérlés (16 bites)"
+
+msgid "Управление освещением (8 бит)"
+msgstr "Fényvezérlés (8 bites)"
+
+msgid "Устанавливаемое значение из обратного вызова - неверный селектор."
+msgstr "A visszahívásból beállított érték érvénytelen választó."
+
+msgid "Установка обратного вызова возможна только после успешного запуска MIDI-моста."
+msgstr "A visszahívás beállítása csak a MIDI-híd sikeres elindítása után lehetséges."
+
+msgid "Установленный Virtual MIDI драйвер не найден! Необходимо установить пакет Virtual Loop MIDI для запуска MIDI-MT транслятора."
+msgstr "A telepített Virtual MIDI illesztőprogram nem található! A MIDI-MT fordító futtatásához telepítenie kell a Virtual Loop MIDI csomagot."
+
+msgid "Устройства не подключены, продолжение невозможно."
+msgstr "Az eszközök nincsenek csatlakoztatva, és nem tudnak folytatni."
+
+msgid "Устройство {0} готово (система)"
+msgstr "A(z) {0} eszköz készen áll (rendszer)"
+
+msgid "Устройство {0} закрыто (система)"
+msgstr "A(z) {0} eszköz zárva (rendszer)"
+
+msgid "Устройство {0} найдено, {1}"
+msgstr "A(z) {0} eszköz megtalálható, {1}"
+
+msgid "Устройство {0} открыто, {1}"
+msgstr "Az eszköz {0} nyitva, {1}"
+
+msgid "Устройство {0} отправило неверное значение = {1}"
+msgstr "A(z) {0} eszköz érvénytelen értéket küldött = {1}"
+
+msgid "Устройство не подключено, abort, id = {0}/{1}"
+msgstr "Az eszköz nincs csatlakoztatva, megszakítás, azonosító = {0}/{1}"
+
+msgid "Файл конфигурации"
+msgstr "A konfigurációs fájl"
+
+msgid "Файл конфигурации отсутствует или доступ запрещен, '{0}'"
+msgstr "A konfigurációs fájl hiányzik, vagy a hozzáférés megtagadva, „{0}”"
+
+msgid "Файл конфигурации пуст, '{0}'"
+msgstr "A konfigurációs fájl üres, „{0}”"
+
+msgid "Файл сертификата CA не существует, путь = '{0}'"
+msgstr "CA tanúsítványfájl nem létezik, elérési út = '{0}'"
+
+msgid "Эта ошибка не определена"
+msgstr "Ez a hiba meghatározatlan"
+
+msgid "аудио соло (канал 1)"
+msgstr "audio szóló (1. csatorna)"
+
+msgid "аудио соло (канал 2)"
+msgstr "audio szóló (2. csatorna)"
+
+msgid "аудио соло (канал 3)"
+msgstr "audio szóló (3. csatorna)"
+
+msgid "аудио соло (канал 4)"
+msgstr "audio szóló (4. csatorna)"
+
+msgid "аудио соло (канал 5)"
+msgstr "audio szóló (5-ös csatorna)"
+
+msgid "аудио соло (канал 6)"
+msgstr "audio szóló (6-os csatorna)"
+
+msgid "аудио соло (канал 7)"
+msgstr "audio szóló (7-es csatorna)"
+
+msgid "аудио соло (канал 8)"
+msgstr "audio szóló (8-as csatorna)"
+
+msgid "аудио соло (канал 9)"
+msgstr "audio szóló (9-es csatorna)"
+
+msgid "аудио соло (основной)"
+msgstr "audio szóló (fő)"
+
+msgid "вкл/выкл 1"
+msgstr "be/ki 1"
+
+msgid "вкл/выкл 10"
+msgstr "be/ki 10"
+
+msgid "вкл/выкл 11"
+msgstr "be/ki 11"
+
+msgid "вкл/выкл 12"
+msgstr "be/ki 12"
+
+msgid "вкл/выкл 13"
+msgstr "be/ki 13"
+
+msgid "вкл/выкл 14"
+msgstr "be/ki 14"
+
+msgid "вкл/выкл 15"
+msgstr "be/ki 15"
+
+msgid "вкл/выкл 16"
+msgstr "be/ki 16"
+
+msgid "вкл/выкл 17"
+msgstr "be/ki 17"
+
+msgid "вкл/выкл 18"
+msgstr "be/ki 18"
+
+msgid "вкл/выкл 19"
+msgstr "be/ki 19"
+
+msgid "вкл/выкл 2"
+msgstr "be/ki 2"
+
+msgid "вкл/выкл 20"
+msgstr "be/ki 20"
+
+msgid "вкл/выкл 21"
+msgstr "be/ki 21"
+
+msgid "вкл/выкл 22"
+msgstr "be/ki 22"
+
+msgid "вкл/выкл 23"
+msgstr "be/ki 23"
+
+msgid "вкл/выкл 24"
+msgstr "be/ki 24"
+
+msgid "вкл/выкл 25"
+msgstr "be/ki 25"
+
+msgid "вкл/выкл 26"
+msgstr "be/ki 26"
+
+msgid "вкл/выкл 27"
+msgstr "be/ki 27"
+
+msgid "вкл/выкл 3"
+msgstr "be/ki 3"
+
+msgid "вкл/выкл 4"
+msgstr "be/ki 4"
+
+msgid "вкл/выкл 5"
+msgstr "be/ki 5"
+
+msgid "вкл/выкл 6"
+msgstr "be/ki 6"
+
+msgid "вкл/выкл 7"
+msgstr "be/ki 7"
+
+msgid "вкл/выкл 8"
+msgstr "be/ki 8"
+
+msgid "вкл/выкл 9"
+msgstr "be/ki 9"
+
+msgid "все сообщения"
+msgstr "minden üzenet"
+
+msgid "выбор звука (канал 1)"
+msgstr "hangválasztás (1. csatorna)"
+
+msgid "выбор звука (канал 2)"
+msgstr "hangválasztás (2. csatorna)"
+
+msgid "выбор звука (канал 3)"
+msgstr "hangválasztás (3. csatorna)"
+
+msgid "выбор звука (канал 4)"
+msgstr "hangválasztás (4-es csatorna)"
+
+msgid "выбор звука (канал 5)"
+msgstr "hangválasztás (5-ös csatorna)"
+
+msgid "выбор звука (канал 6)"
+msgstr "hangválasztás (6-os csatorna)"
+
+msgid "выбор звука (канал 7)"
+msgstr "hangválasztás (7-es csatorna)"
+
+msgid "выбор звука (канал 8)"
+msgstr "hangválasztás (8-as csatorna)"
+
+msgid "выбор звука (канал 9)"
+msgstr "hangválasztás (9-es csatorna)"
+
+msgid "громкость звука (канал 1)"
+msgstr "hangerő (1. csatorna)"
+
+msgid "громкость звука (канал 2)"
+msgstr "hangerő (2. csatorna)"
+
+msgid "громкость звука (канал 3)"
+msgstr "hangerő (3-as csatorna)"
+
+msgid "громкость звука (канал 4)"
+msgstr "hangerő (4-es csatorna)"
+
+msgid "громкость звука (канал 5)"
+msgstr "hangerő (5-ös csatorna)"
+
+msgid "громкость звука (канал 6)"
+msgstr "hangerő (6-os csatorna)"
+
+msgid "громкость звука (канал 7)"
+msgstr "hangerő (7-es csatorna)"
+
+msgid "громкость звука (канал 8)"
+msgstr "hangerő (8-as csatorna)"
+
+msgid "громкость звука (канал 9)"
+msgstr "hangerő (9-es csatorna)"
+
+msgid "громкость звука (основной)"
+msgstr "hangerő (fő)"
+
+msgid "да"
+msgstr "Igen"
+
+msgid "действие не определено"
+msgstr "művelet nincs meghatározva"
+
+msgid "звуковой баланс (канал 1)"
+msgstr "hangegyensúly (1. csatorna)"
+
+msgid "звуковой баланс (канал 2)"
+msgstr "hangegyensúly (2. csatorna)"
+
+msgid "звуковой баланс (канал 3)"
+msgstr "hangegyensúly (3. csatorna)"
+
+msgid "звуковой баланс (канал 4)"
+msgstr "hangegyensúly (4-es csatorna)"
+
+msgid "звуковой баланс (канал 5)"
+msgstr "hangegyensúly (5-ös csatorna)"
+
+msgid "звуковой баланс (канал 6)"
+msgstr "hangegyensúly (6-os csatorna)"
+
+msgid "звуковой баланс (канал 7)"
+msgstr "hangegyensúly (7-es csatorna)"
+
+msgid "звуковой баланс (канал 8)"
+msgstr "hangegyensúly (8-as csatorna)"
+
+msgid "звуковой баланс (канал 9)"
+msgstr "hangegyensúly (9-es csatorna)"
+
+msgid "звуковой баланс (основной)"
+msgstr "hangegyensúly (alap)"
+
+msgid "информация"
+msgstr "információ"
+
+msgid "лог не ведется"
+msgstr "nem vezetnek naplót"
+
+msgid "нет"
+msgstr "Nem"
+
+msgid "отключение звука (канал 1)"
+msgstr "némítás (1. csatorna)"
+
+msgid "отключение звука (канал 2)"
+msgstr "némítás (2. csatorna)"
+
+msgid "отключение звука (канал 3)"
+msgstr "némítás (3. csatorna)"
+
+msgid "отключение звука (канал 4)"
+msgstr "némítás (4. csatorna)"
+
+msgid "отключение звука (канал 5)"
+msgstr "némítás (5-ös csatorna)"
+
+msgid "отключение звука (канал 6)"
+msgstr "némítás (6-os csatorna)"
+
+msgid "отключение звука (канал 7)"
+msgstr "némítás (7-es csatorna)"
+
+msgid "отключение звука (канал 8)"
+msgstr "némítás (8-as csatorna)"
+
+msgid "отключение звука (канал 9)"
+msgstr "némítás (9-es csatorna)"
+
+msgid "отключение звука (основной)"
+msgstr "némítás (fő)"
+
+msgid "предупреждения"
+msgstr "figyelmeztetések"
+
+msgid "статус:"
+msgstr "állapot:"
+
+msgid "только ошибки"
+msgstr "csak hibák"
+
+msgid "транслятор остановлен:"
+msgstr "a fordító leáll:"
+
+msgid "транслятор работает:"
+msgstr "a fordító dolgozik:"
+
+msgid "уведомления"
+msgstr "értesítéseket"
+
+msgid "уровень 1"
+msgstr "1. szint"
+
+msgid "уровень 10"
+msgstr "10. szint"
+
+msgid "уровень 11"
+msgstr "11. szint"
+
+msgid "уровень 12"
+msgstr "12. szint"
+
+msgid "уровень 13"
+msgstr "13. szint"
+
+msgid "уровень 14"
+msgstr "14. szint"
+
+msgid "уровень 15"
+msgstr "15. szint"
+
+msgid "уровень 16"
+msgstr "16. szint"
+
+msgid "уровень 17"
+msgstr "17. szint"
+
+msgid "уровень 18"
+msgstr "18. szint"
+
+msgid "уровень 2"
+msgstr "2. szint"
+
+msgid "уровень 3"
+msgstr "3. szint"
+
+msgid "уровень 4"
+msgstr "4. szint"
+
+msgid "уровень 5"
+msgstr "5. szint"
+
+msgid "уровень 6"
+msgstr "6. szint"
+
+msgid "уровень 7"
+msgstr "7. szint"
+
+msgid "уровень 8"
+msgstr "8. szint"
+
+msgid "уровень 9"
+msgstr "9. szint"
+
+msgid "функция F1 (стандартный режим)"
+msgstr "F1 funkció (normál mód)"
+
+msgid "функция F1 (удерживаемый режим)"
+msgstr "F1 funkció (tartott üzemmód)"
+
+msgid "функция F2 (стандартный режим)"
+msgstr "F2 funkció (normál mód)"
+
+msgid "функция F2 (удерживаемый режим)"
+msgstr "F2 funkció (tartott üzemmód)"
+
+msgid "функция F3 (стандартный режим)"
+msgstr "F3 funkció (normál mód)"
+
+msgid "функция F3 (удерживаемый режим)"
+msgstr "F3 funkció (tartott üzemmód)"
+
+msgid "функция F4 (стандартный режим)"
+msgstr "F4 funkció (normál mód)"
+
+msgid "функция F4 (удерживаемый режим)"
+msgstr "F4 funkció (tartott üzemmód)"
+
+msgid "функция F5 (стандартный режим)"
+msgstr "F5 funkció (normál mód)"
+
+msgid "функция F5 (удерживаемый режим)"
+msgstr "F5 funkció (tartott üzemmód)"
+
+msgid "функция F6 (стандартный режим)"
+msgstr "F6 funkció (normál mód)"
+
+msgid "функция F6 (удерживаемый режим)"
+msgstr "F6 funkció (tartott mód)"
+
+msgid "функция F7 (стандартный режим)"
+msgstr "F7 funkció (normál mód)"
+
+msgid "функция F7 (удерживаемый режим)"
+msgstr "F7 funkció (tartott mód)"
+
+msgid "функция F8 (стандартный режим)"
+msgstr "F8 funkció (normál mód)"
+
+msgid "функция F8 (удерживаемый режим)"
+msgstr "F8 funkció (tartott mód)"

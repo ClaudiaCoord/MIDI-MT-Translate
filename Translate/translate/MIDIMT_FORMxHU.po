@@ -1,0 +1,342 @@
+#. extracted from 12-21-midimt_formxhu.po.xlf
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-29 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate xlf2po.exe 1.0.1\n"
+"X-Merge-On: location\n"
+
+msgid "&Закрыть"
+msgstr "&Bezárás"
+
+msgid "&О программе.."
+msgstr "&A programról.."
+
+msgid "&Перезагрузить модули"
+msgstr "&Modulok újratöltése"
+
+msgid "&Программа настройки MIDI панели"
+msgstr "&MIDI panel beállító program"
+
+msgid "&Сохранить настройки"
+msgstr "&Beállítások mentése"
+
+msgid "&Старт"
+msgstr "&Rajt"
+
+msgid "&Установить Virtual MIDI драйвер"
+msgstr "&Telepítse a Virtuális MIDI illesztőprogramot"
+
+msgid "ArtNet сеть:"
+msgstr "ArtNet hálózat:"
+
+msgid "CA сертификат"
+msgstr "CA tanúsítvány"
+
+msgid "COM порт:"
+msgstr "COM port:"
+
+msgid "IN/OUT Бридж"
+msgstr "BE/KI híd"
+
+msgid "IP адрес:"
+msgstr "IP-cím:"
+
+msgid "JOG фильтр сцены"
+msgstr "JOG jelenetszűrő"
+
+msgid "MIDI"
+msgstr "MIDI"
+
+msgid "MIDI Mackie"
+msgstr "MIDI Mackie"
+
+msgid "MIDI Прокси"
+msgstr "MIDI proxy"
+
+msgid "MIDI драйвер"
+msgstr "MIDI driver"
+
+msgid "MIDI контролы"
+msgstr "MIDI vezérlők"
+
+msgid "MIDI устройства"
+msgstr "MIDI eszközök"
+
+msgid "MQTT сервер"
+msgstr "MQTT szerver"
+
+msgid "MQTT топик префикс: (необязательно)"
+msgstr "MQTT téma előtagja: (nem kötelező)"
+
+msgid "SSL/TLS включено"
+msgstr "SSL/TLS engedélyezve"
+
+msgid "Авто старт при запуске"
+msgstr "Automatikus indítás indításkor"
+
+msgid "Авто старт этой конфигурации"
+msgstr "A konfiguráció automatikus indítása"
+
+msgid "Адрес:"
+msgstr "Cím:"
+
+msgid "Базовая тема"
+msgstr "Alap téma"
+
+msgid "Безопасность"
+msgstr "Biztonság"
+
+msgid "Бит-рейт:"
+msgstr "Bitsebesség:"
+
+msgid "Бродкаст:"
+msgstr "Adás:"
+
+msgid "Включено"
+msgstr "Beleértve"
+
+msgid "Включить DMX пул (стандартное поведение)"
+msgstr "DMX pool engedélyezése (normál viselkedés)"
+
+msgid "Все"
+msgstr "Minden"
+
+msgid "Входные"
+msgstr "Bemenet"
+
+msgid "Выходной порт не создается"
+msgstr "Nincs kimeneti port"
+
+msgid "Выходные"
+msgstr "Hétvége"
+
+msgid "Драйвер:"
+msgstr "Sofőr:"
+
+msgid "Замена значений громкости без проверки"
+msgstr "A hangerőértékek cseréje ellenőrzés nélkül"
+
+msgid "Записывать лог"
+msgstr "Napló írása"
+
+msgid "Запуск"
+msgstr "Dob"
+
+msgid "Запуск MIDI-MT"
+msgstr "A MIDI-MT elindítása"
+
+msgid "Запущен"
+msgstr "Elindult"
+
+msgid "Интервал как долгое нажатие"
+msgstr "Intervallum, mint a hosszú lenyomás"
+
+msgid "Интервал между нажатиями"
+msgstr "Kattintások közötti intervallum"
+
+msgid "Информация"
+msgstr "Információ"
+
+msgid "Использовать правую кнопку мыши для вызова микшера"
+msgstr "Használja a jobb egérgombot a keverő előhívásához"
+
+msgid "Кнопки"
+msgstr "Gombok"
+
+msgid "Контрол:"
+msgstr "Ellenőrzés:"
+
+msgid "Конфигурация"
+msgstr "Konfiguráció"
+
+msgid "Маска:"
+msgstr "Maszk:"
+
+msgid "Метро"
+msgstr "Metró"
+
+msgid "Модуль"
+msgstr "Modul"
+
+msgid "Монитор MIDI команд"
+msgstr "MIDI parancs monitor"
+
+msgid "Монитор MIDI команд поможет вам определить как настроен контроллер. Для начала тестирования нажмите кнопку 'Старт'. Используя различные элементы управления на своем контроллере, вы будете получать сообщения о сцене, номере и текущем значении."
+msgstr "A MIDI Command Monitor segít meghatározni a vezérlő konfigurációját. A tesztelés megkezdéséhez kattintson a „Start” gombra. A vezérlő különböző vezérlőivel üzeneteket kap a jelenetről, a számról és az aktuális értékről."
+
+msgid "Монитор команд"
+msgstr "Command Monitor"
+
+msgid "Мультимедиа"
+msgstr "Multimédia"
+
+msgid "Мультимедиа клавиатура"
+msgstr "Multimédiás billentyűzet"
+
+msgid "Назначение (долгий клик):"
+msgstr "Cél (hosszú kattintás):"
+
+msgid "Назначение:"
+msgstr "Célja:"
+
+msgid "Настройка MIDI контролов"
+msgstr "MIDI vezérlők beállítása"
+
+msgid "Настройка модулей"
+msgstr "Modulok beállítása"
+
+msgid "Настройка пользовательской темы"
+msgstr "Egyéni téma beállítása"
+
+msgid "Настройка управления MIDI"
+msgstr "MIDI vezérlés beállítása"
+
+msgid "Настройки MIDI"
+msgstr "MIDI beállítások"
+
+msgid "Настройки Микшера Звука"
+msgstr "Hangkeverő beállításai"
+
+msgid "Номер вселенной:"
+msgstr "Univerzum száma:"
+
+msgid "Обновления"
+msgstr "Frissítések"
+
+msgid "Объединять приложения по названию, раздельная регулировка невозможна"
+msgstr "Kombinálja az alkalmazásokat név szerint; külön beállítás nem lehetséges"
+
+msgid "Описание модуля"
+msgstr "Modul leírása"
+
+msgid "Опции"
+msgstr "Lehetőségek"
+
+msgid "Освещение"
+msgstr "Világítás"
+
+msgid "Остановлен"
+msgstr "Megállt"
+
+msgid "Открыть файл конфигурации"
+msgstr "Nyissa meg a konfigurációs fájlt"
+
+msgid "Очи&стить"
+msgstr "Tisztít"
+
+msgid "Подсказки"
+msgstr "Tippek"
+
+msgid "Помощь"
+msgstr "Segítség"
+
+msgid "Порт:"
+msgstr "Kikötő:"
+
+msgid "Предпочитаемый язык:"
+msgstr "Előnyben részesített nyelv:"
+
+msgid "Просмотр лог-файла"
+msgstr "Tekintse meg a naplófájlt"
+
+msgid "Регулируемые микшером приложения:"
+msgstr "A keverő által vezérelt alkalmazások:"
+
+msgid "Рекомендуемая раскладка MIDI панели управления. Файл с настройками этой раскладки находиться в папке 'docs/MIDIMT.Ctrl_data'"
+msgstr "Javasolt MIDI vezérlőpanel elrendezés. Az elrendezés beállításait tartalmazó fájl a 'docs/MIDIMT.Ctrl_data' mappában található"
+
+msgid "Ретро"
+msgstr "Retro"
+
+msgid "Светлая"
+msgstr "Fény"
+
+msgid "Слайдеры"
+msgstr "Csúszkák"
+
+msgid "Служба ArtNet"
+msgstr "ArtNet szolgáltatás"
+
+msgid "Служба DMX"
+msgstr "DMX szolgáltatás"
+
+msgid "Современный"
+msgstr "Modern"
+
+msgid "Сохранить &настройки"
+msgstr "Beállítások mentése"
+
+msgid "Ст&арт"
+msgstr "Rajt"
+
+msgid "Ст&оп"
+msgstr "Állj meg"
+
+msgid "Старт при загрузке системы"
+msgstr "Indítsa el a rendszerindításkor"
+
+msgid "Стоп-бит:"
+msgstr "Stop bit:"
+
+msgid "Сцена:"
+msgstr "Színhely:"
+
+msgid "Тайм-аут:"
+msgstr "Időtúllépés:"
+
+msgid "Тип контрола:"
+msgstr "Vezérlés típusa:"
+
+msgid "Трансляция входных MIDI-команд в команды мультимедиа клавиатуры. Управление воспроизведением сторонних мультимедиа программ."
+msgstr "MIDI bemeneti parancsok fordítása multimédiás billentyűzet parancsokká. Harmadik féltől származó multimédiás programok lejátszásának vezérlése."
+
+msgid "Тёмная"
+msgstr "Sötét"
+
+msgid "Умный Дом"
+msgstr "Okos Ház"
+
+msgid "Устанавливать сохранённые уровни громкости при старте"
+msgstr "Állítsa be a mentett hangerőszinteket indításkor"
+
+msgid "Цвет рамки"
+msgstr "Keret színe"
+
+msgid "Цвет текста"
+msgstr "Szöveg szín"
+
+msgid "Цвет фона"
+msgstr "Háttérszín"
+
+msgid "Цвета вашей темы"
+msgstr "A téma színei"
+
+msgid "ключ PSK:"
+msgstr "PSK kulcs:"
+
+msgid "количество портов"
+msgstr "portok száma"
+
+msgid "логин:"
+msgstr "Belépés:"
+
+msgid "пароль:"
+msgstr "Jelszó:"
+
+msgid "порт:"
+msgstr "kikötő:"
+
+msgid "само подписанный"
+msgstr "saját aláírásával"
+
+msgid "уровень логирования MQTT сессий:"
+msgstr "MQTT munkamenet naplózási szint:"
