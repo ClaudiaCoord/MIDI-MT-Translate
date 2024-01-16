@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-13 10:10+0000\n"
+"POT-Creation-Date: 2024-01-16 10:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,29 +14,8 @@ msgstr ""
 "X-Generator: Translate po2diff.exe 1.0.1\n"
 "X-Merge-On: location\n"
 
-msgid "Драйвер джойстика или геймпада отсутствует."
+msgid "Геймпадом или джойстиком выбран элемент управления {0}/{1}."
 msgstr ""
 
-msgid "Нажата MIDI клавиша:"
-msgstr ""
-
-msgid "Настройки управления Геймпада/Джойстика (GAMEPAD)"
-msgstr ""
-
-msgid "Не удается записать входные данные джойстика, требуемая служба недоступна."
-msgstr ""
-
-msgid "Номер метки:"
-msgstr ""
-
-msgid "Служба управления Геймпадом/Джойстиком запущена, активно устройств: {0}, онлайн: {1}."
-msgstr ""
-
-msgid "Служба управления Геймпадом/Джойстиком остановлена."
-msgstr ""
-
-msgid "Указанный джойстик не подключен к системе."
-msgstr ""
-
-msgid "Указанный идентификатор джойстика недопустим."
+msgid "Сцена управления изменена геймпадом или джойстиком на {0}."
 msgstr ""
