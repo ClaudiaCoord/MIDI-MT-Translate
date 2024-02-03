@@ -1,6 +1,14 @@
+---
+title: MIDI-MT - Управление аудио сеансами запущенных приложений
+subtitle: MIDI-MT Документация на Русском языке
+author: MIDI-MT &#169; CC
+keywords: usb,midi,control,surface,keyboard,easycontrol,easycontrol9,mqtt,lights,dmx,dmx512,artnet,soundbar,premiere pro,proxy,driver
+description: MIDI-MT - это драйвер приложений высокого уровня, для USB MIDI панелей управлений
+---
+
 ## Управление **аудио сеансами** запущенных приложений
 
-Дополнительно, есть возможность управлять __аудио сеансами__ запущенных приложений. Управление может происходить как с MIDI клавиатуры, так и со встроенной панели управления звуком.
+Дополнительно, есть возможность управлять **аудио сеансами** запущенных приложений. Управление может происходить как с MIDI клавиатуры, так и со встроенной панели управления звуком.
 
 <img src="https://claudiacoord.github.io/MIDI-MT/images/helper/MIDI-MT-AudioMixer-1.png" title="" alt="" data-align="center">
 
