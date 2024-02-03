@@ -36,10 +36,6 @@ MIDI-MT - это драйвер приложений высокого уровн
   
   - [Настройки модуля «MIDI»](Settings-Module-MIDI.html)
   
-  - [Настройки модуля «Панель дистанционного управления»](Settings-Module-Remote.html)  
-
-     - [API дистанционного управления](Settings-Module-Remote-API.html)  
-  
   - [Настройки модуля «Геймпад/Джойстик»](Settings-Module-Gamepad.html)
   
   - [Настройки модуля «Мультимедиа-клавиш»](Settings-Module-Multimedia-keys.html)
@@ -50,6 +46,10 @@ MIDI-MT - это драйвер приложений высокого уровн
     
     - [Репитер-конвертер DMX512/ARTNET/MQTT](Light-Repeaters-DMX512-ARTNET-MQTT.html)
 
+  - [Настройки модуля «Панель дистанционного управления»](Settings-Module-Remote.html)  
+
+     - [API дистанционного управления](Settings-Module-Remote-API.html)  
+  
 #### Аудио Микшер
 
 - [Настройки Аудио Микшера **MIDI-MT**](Audio-Mixer.html)  
