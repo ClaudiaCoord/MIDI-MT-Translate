@@ -1,0 +1,42 @@
+#. extracted from RibbonDialogEditxRU.pot
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-20 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate po2diff.exe 1.0.1\n"
+"X-Merge-On: location\n"
+
+msgid "Показать «Освещение 16 бит»"
+msgstr ""
+
+msgid "Показать «Освещение 8 бит»"
+msgstr ""
+
+msgid "Показать «Скрипты»"
+msgstr ""
+
+msgid "Применение фильтра покажет членов группы «Освещение» с 16 битными каналами."
+msgstr ""
+
+msgid "Применение фильтра покажет членов группы «Освещение» с 8 битными каналами."
+msgstr ""
+
+msgid "Применение фильтра покажет членов группы «Скрипты»."
+msgstr ""
+
+msgid "Фильтровать по группе «Освещение 16 бит»"
+msgstr ""
+
+msgid "Фильтровать по группе «Освещение 8 бит»"
+msgstr ""
+
+msgid "Фильтровать по группе «Скрипты» ChaiScript"
+msgstr ""

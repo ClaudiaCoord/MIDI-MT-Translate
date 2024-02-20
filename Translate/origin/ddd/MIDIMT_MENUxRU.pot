@@ -1,0 +1,108 @@
+#. extracted from MIDIMT_MENUxRU.pot
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-20 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate po2diff.exe 1.0.1\n"
+"X-Merge-On: location\n"
+
+msgid "Контроль не поддерживает управление слайдерами"
+msgstr ""
+
+msgid "Контроль относиться к управлению скриптами"
+msgstr ""
+
+msgid "Управление скриптами.."
+msgstr ""
+
+msgid "показать VMSCRIPT конфигурацию"
+msgstr ""
+
+msgid "скрипт 1"
+msgstr ""
+
+msgid "скрипт 10"
+msgstr ""
+
+msgid "скрипт 11"
+msgstr ""
+
+msgid "скрипт 12"
+msgstr ""
+
+msgid "скрипт 13"
+msgstr ""
+
+msgid "скрипт 14"
+msgstr ""
+
+msgid "скрипт 15"
+msgstr ""
+
+msgid "скрипт 16"
+msgstr ""
+
+msgid "скрипт 17"
+msgstr ""
+
+msgid "скрипт 18"
+msgstr ""
+
+msgid "скрипт 19"
+msgstr ""
+
+msgid "скрипт 2"
+msgstr ""
+
+msgid "скрипт 20"
+msgstr ""
+
+msgid "скрипт 21"
+msgstr ""
+
+msgid "скрипт 22"
+msgstr ""
+
+msgid "скрипт 23"
+msgstr ""
+
+msgid "скрипт 24"
+msgstr ""
+
+msgid "скрипт 25"
+msgstr ""
+
+msgid "скрипт 26"
+msgstr ""
+
+msgid "скрипт 27"
+msgstr ""
+
+msgid "скрипт 3"
+msgstr ""
+
+msgid "скрипт 4"
+msgstr ""
+
+msgid "скрипт 5"
+msgstr ""
+
+msgid "скрипт 6"
+msgstr ""
+
+msgid "скрипт 7"
+msgstr ""
+
+msgid "скрипт 8"
+msgstr ""
+
+msgid "скрипт 9"
+msgstr ""
