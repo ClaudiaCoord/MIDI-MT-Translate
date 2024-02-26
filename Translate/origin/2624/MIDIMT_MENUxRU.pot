@@ -1,9 +1,9 @@
-#. extracted from MIDIMT_FORMxRU.pot
+#. extracted from MIDIMT_MENUxRU.pot
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-20 10:10+0000\n"
+"POT-Creation-Date: 2024-02-26 10:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,14 +14,5 @@ msgstr ""
 "X-Generator: Translate po2diff.exe 1.0.1\n"
 "X-Merge-On: location\n"
 
-msgid "Chai скрипты"
-msgstr ""
-
-msgid "Директория скриптов"
-msgstr ""
-
-msgid "Доступные скрипты"
-msgstr ""
-
-msgid "Следить за изменениями в директории скриптов"
+msgid "Выбранная группа контроля не поддерживает управление слайдерами"
 msgstr ""
