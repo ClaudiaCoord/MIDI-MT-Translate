@@ -1,0 +1,45 @@
+#. extracted from MIDIMT_STRINGxRU.pot
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-03 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate po2diff.exe 1.0.1\n"
+"X-Merge-On: location\n"
+
+msgid "MQTT файлы конфигурации"
+msgstr ""
+
+msgid "Дубликаты MIDI ключей не найдены"
+msgstr ""
+
+msgid "Запуск сценария: {0}"
+msgstr ""
+
+msgid "Конфигурация MQTT успешно экспортирована"
+msgstr ""
+
+msgid "Найдено {0} дубликатов MIDI ключей"
+msgstr ""
+
+msgid "Останавлено выполняемых сценариев: {0}"
+msgstr ""
+
+msgid "Остановить все сценарии"
+msgstr ""
+
+msgid "Ошибка экспорта MQTT конфигурации"
+msgstr ""
+
+msgid "Перечитать каталог сценариев"
+msgstr ""
+
+msgid "Перечитываю каталог сценариев.."
+msgstr ""

@@ -1,0 +1,84 @@
+#. extracted from RibbonDialogEditxRU.pot
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-03 10:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Accelerator-Marker: &\n"
+"X-Generator: Translate po2diff.exe 1.0.1\n"
+"X-Merge-On: location\n"
+
+msgid "Инструменты"
+msgstr ""
+
+msgid "Искать дупликаты MIDI ключей"
+msgstr ""
+
+msgid "Назначить MIDI ключ"
+msgstr ""
+
+msgid "Назначить выбранный MIDI ключ"
+msgstr ""
+
+msgid "Назначить выбранный MIDI ключ к группе «Освещение 16 бит»."
+msgstr ""
+
+msgid "Назначить выбранный MIDI ключ к группе «Освещение 8 бит»."
+msgstr ""
+
+msgid "Назначить выбранный MIDI ключ к группе «Сценарии»."
+msgstr ""
+
+msgid "Определить выбранный MIDI ключ как члена группы."
+msgstr ""
+
+msgid "Освещение 16 бит"
+msgstr ""
+
+msgid "Освещение 8 бит"
+msgstr ""
+
+msgid "Поиск дубликатов MIDI ключей, при их наличии возможно не ожидаемое поведение."
+msgstr ""
+
+msgid "Поиск и удаление дубликатов MIDI ключей, при наличии дубликатов, возможно не ожидаемое поведение."
+msgstr ""
+
+msgid "Показать дупликаты"
+msgstr ""
+
+msgid "Сценарии"
+msgstr ""
+
+msgid "Удалить возможные дупликаты MIDI ключей"
+msgstr ""
+
+msgid "Удалить дупликаты"
+msgstr ""
+
+msgid "Установить группу как «Освещение 16 бит»"
+msgstr ""
+
+msgid "Установить группу как «Освещение 8 бит»"
+msgstr ""
+
+msgid "Установить группу как «Сценарии»"
+msgstr ""
+
+msgid "Экспорт MQTT конфигурации"
+msgstr ""
+
+msgid "Экспорт в MQTT"
+msgstr ""
+
+msgid "Экспортировать DMX512/ARTNET конфигурацию в новый файл."
+msgstr ""
+
+msgid "группа MIDI ключа"
+msgstr ""
